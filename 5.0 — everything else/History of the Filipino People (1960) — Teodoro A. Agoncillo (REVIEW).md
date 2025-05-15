@@ -1,0 +1,8 @@
+status: #baby 
+tags: [[book]] [[review]] [[history]] [[philippines]] 
+
+finally finished this one after, i think, a full month of on- and-off reading. before reading this, i've been researching philippine history and learning more about the culture. reading this lengthy bad boy just further solidified the knowledge that i collected. it's very interesting to see the country in different aspects as it progresses and evolves into its current state as a (hopefully) dignified civilization.
+
+i was looking for the moment where it all went wrong-i couldn't find it. maybe it's always been wrong from the start. the so-called revolution against the spaniards, americans and japanese, or whatever else, didn't liberate the country. in fact, according to this book, we would've been better off if we stayed colonized by the colonizers- we were heavily reliant towards them. the problem is not the foreign countries. it's us, the filipinos, ourselves. we've always been encased in the cage that we unconsciously built. once it's started, the cycle will never end. i mean, look at what happened to antonio luna? assassinated by his own men. to andres bonifacio? faced with a bogus trial and then executed with his brother under aguinaldo's commands. and then look at where we're at now; back to square one. the more i try to make sense of all the suffering, the more meaningless it becomes. is there hope for an actual freedom of this country?
+
+anyways, i got carried away. i just wanna say this book tells us everything significant that's happened from start to finish, but only up until the edsa revolution (which was explained very briefly). even so, it's a very informative, very detailed, not-very-boring-for-a-history-book, read.

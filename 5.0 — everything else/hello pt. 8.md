@@ -1,0 +1,5 @@
+tags: [[letter]] [[chai]] [[love]]
+
+i see the way you love without wishing for anything in return. i see the way you care for other people so selflessly. you love with your whole heart and you would give the people you love the entire universe if you could. and if you think for one second no one out there would do the same for you, i am more than glad i stepped into your existence because i will speak your name even if that's the last word i'll ever remember in the entire world. i love you because you are love itself, too. i will always choose to love you, even if the end credits of this movie rolls into its final line, even if everything else fades into the distances of my memory, even if my voice gives in and our song is the last thing i'll cry out, even if the poets whisper their final prayers—you are everything i'll remember. 
+
+i see you, i hear you, i feel you—i love you, my dearest.
