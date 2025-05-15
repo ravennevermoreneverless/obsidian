@@ -1,0 +1,2 @@
+### prompts
+- [[journal prompts]] 
