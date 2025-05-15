@@ -139,3 +139,8 @@ tags: [[raven]] [[spreadsheet]] [[films]]
 136. ***The Witch*** (2015) dir. Robert Eggers • 5/9/2025 ★ ==3.5==
 137. ***Cube*** (1997) dir. Vincenzo Natali • 5/10/2025 ★ ==5==
 138. ***X-Men Origins: Wolverine*** (2009) dir. Gavin Hood • 5/11/2025 
+139. ***X-Men*** (2000) dir. Bryan Singer • 5/12/2025
+140. ***X2*** (2003) dir. Bryan Singer • 5/12/2025
+141. ***X-Men: The Last Stand*** (2006) dir. Brett Ratner • 5/13/2025 ★ ==2==
+142. ***The Wolverine*** (2013) dir. James Mangold • 5/13/2025 ★ ==1==
+143. ***X-Men: Days of Future Past*** (2014) dir. Bryan Singer • 5/13/2025 ★ ==3==

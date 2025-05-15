@@ -29,4 +29,4 @@ if it meant you get to live your life the way you've always wanted to
 
 but i'm losing myself and i'm afraid you're going to lose me too
 
-what if i'm the only one falling long before the sun said goodbye?
+is it possible to fall for you even more as time goes by? what if i'm the only one falling long before the sun said goodbye?

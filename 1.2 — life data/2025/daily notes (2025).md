@@ -256,3 +256,11 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==10 - 12:31== Chai and I watched ***Cube***, my favorite film. We talked about it briefly afterwards. Chai fell asleep around the afternoon while I transcribed notes from my journal. 
 
 ==11 - 21:26== Chai and I played Pokemon Unite almost the entire day. Then I cried as she teased me because I was about to go home. But we talked about it and I changed my mind, I'll be leaving on the 15th. Then we watch***ed X-Men Origins: Wolverine***. 
+
+==12 - 21:06== Chai and I woke up early because she had to go vote and be a watcher at the elections. I stayed at the house while I chat with her on Messenger. She came home by 10 AM, ate lunch with me, then we just watched ***X-Men*** films while her family stays over until 6 PM after we all ate tuna pasta. I loaned ₱2000 on GCash which Chai didn't like.
+
+==13 - 20:20== We immediately started watching ***X-Men***. Then we ordered shawarma in the afternoon when Chai couldn't sleep. We continued watching ***X-Men***. Chai ordered items on my Tik Tok. We also played *Pokemon Unite*.
+
+==14 - 21:05== Chai and I played *Pokemon Unite* for the entire day. Then I cried to her about how heavy I'm feeling and she told me she's feeling heavy too and just avoiding it so she won't self-destruct.
+
+==15 - 23:10== Chai and I played *Pokemon Unite* almost the entire day—I'm getting the hang of using Umbreon. I got Chai's parcel outside and bought some stuff at the *sari-sari* store. I messed up with my Obsidian committing too large of a file. I had to work my around my previous version history from GitHub and restart everything in my phone bit by bit. 
