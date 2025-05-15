@@ -1,0 +1,10 @@
+status: #adult 
+tags: [[journal]]
+
+I forgot to take my meds last night (the ones that help me sleep) so I decided just to pull an all-nighter to reset my sleep schedule once again. Originally, I was already planning on not sleeping because I feel like I need to do a lot of things, also needed some time to think. I haven’t been feeling well lately.
+
+I watched three movies straight. *Edgar Wright*’s ***Baby Driver***, *Marvel*’s ***Eternals*** and ***The Butterfly Effect***—all were good movies, amazing even. I’m surprised I had the attention span to finish all of those without getting bored. Maybe I was bored but I didn’t show it. Show it to who? I’m not sure.
+
+Anyways, I was supposed to talk about a lot of things today, that’s why I decided to write here. I wanted to start by saying how inadequate and incompetent I feel, with everything. My drawing skills, my social skills, my time management skills, my intelligence, my knowledge—everything. Heck, even my writing and verbal skills feel very lacking. It’s just that I don’t think I’m doing enough. I’m probably being very harsh on myself and sometimes I know I’m being irrational considering it’s just me going my own pace. I guess I just need the pep talk, so I’m writing here.
+
+I want to be able to draw whatever I want. I’m gonna go draw whatever the hell I want, and do whatever the hell it is that’s important to me, and do it as best as I can, because that’s all I can ever do really. I will let the wind take me. I may or may not have a plan but whatever happens, happens. I’m probably not set to be the best, and I don’t want to be the best—I’ve got to remember that. I don’t want fame and fortune. Sure, recognition and money would help a lot but it’s not something I should beat myself up over with. I should stop trying to be the same as other people; I’m not. I am not them and they are not me. I’m gonna be me and do my thing, just like I always do. One day, this might come bite me in the ass but hell, I think I’ve already been through all the worse that can happen, I think I can do it again.

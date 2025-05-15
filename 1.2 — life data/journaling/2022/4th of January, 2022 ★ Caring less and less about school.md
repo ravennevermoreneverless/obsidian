@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]] [[responsibility]] [[school]]
+
+I find myself caring less and less of school for I deem it unimportant. I could’ve used all my time onto dedication for arts but I’m restricted to the confines of this feeble rattling of orders and submissions. Not to mention; me in the student council. I am tempted to neglect all my duties, whatever these may be. Actually, I am already neglecting responsibilities, I didn’t attend the meeting yesterday. I don’t even bother checking messages in the group chat. I simply don’t care anymore; neither what they think of me nor what they expect of me. They should’ve let me quit, and they shouldn’t expect anything from me now—I’m utterly done. 94 more days and I’m off for college, pursuing the degree that I’ve always wanted. I hope I get accepted.

@@ -1,0 +1,8 @@
+status: #adult 
+tags: [[journal]]
+
+Isn’t it a bit stupid how humans need to sleep? Like, we spend half of our small human lives sleeping. This weak ass body require regeneration of cells to be able to function properly for another day. One day of not sleeping can fuck you up big time. I mean, when we sleep, where do we go? It’s just really stupid, I don’t like sleeping. I have so much I want to do rather than spend time being temporarily dead on a bed.
+
+Anyways, I’m studying Japanese right now and I’m kind of a little bit overwhelmed by all the shit I have to learn so I’m taking a break. I’m only at my starting phase (again) and this time I swear I’ll be consistent. My short-term goal is finish *Genki* *I* this summer vacation. Then *Genki II*. Then that Colloquial Japanese book. I’ll also read the material I got from my uncle. Right now, I’m gonna drown myself with so much Japanese but I first have to learn the basics; grammar fundamentals and beginner vocabulary, before I actually start to understand what I consume on my spare time. I’ve been thinking of recording myself speaking in Japanese as a speaking journey and post it on Youtube but I don’t want to show my face. I’m thinking of using a mask…
+
+Well, my long-term goal is to go and live in Japan (first I’ll visit a couple of times and see from there). I gotta say; language learning is a bit addicting. It’s consuming my everyday life—but that’s the good thing. A good part in learning Japanese is I’ll have the opportunity to get to know Japanese people because I think they’re really cool and interesting. For the first time in my life, in a not manic state, I have something I want to achieve, and that I can think long-term now. I’ll go back to studying now, see you in a bit.

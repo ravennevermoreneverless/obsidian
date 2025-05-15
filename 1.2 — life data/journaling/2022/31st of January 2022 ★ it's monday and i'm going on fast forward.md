@@ -1,0 +1,8 @@
+status: #adult 
+tags: [[journal]] [[school]]
+
+Mondays. Oh god, it’s a Monday. The end of the month is a Monday. I’ve grown to despise Mondays and attending classes on a Monday morning. On top of that, I also skipped my workout this morning because I was too sleep-deprived. I wasn’t usually like this but I don’t know what made me go back to my old ways, my old habit of skipping classes. I’m very tempted to skip again but I know I’ll immediately regret it. I’m just trying to avoid responsibilities and people yet again.
+
+I watched this video from *Nathaniel Drew* earlier called “***Why your life is slipping by so quickly***” and he talks about how one of the reasons for that is we rush. We rush, hustle, multitask and do everything at once which makes us feel like we’re going on fast forward. Another reason is we’re not embracing the uncomfortable moments. We’re not accepting our fate and whatever life we have right now. That made me realize my mistake right now. I’ve lost my grounding, my hold on the stability of my mental state.
+
+I skipped my antidepressants yesterday and it has now come to my understanding that I’m becoming depressed yet once more. I can’t think properly, I make poor decisions, I feel sluggish and I want to be isolated. Just one day of skipping may medication and I’m already like this. I’ve become so dependent on my pills but I have no other choice. It’s killing my desired routine and my creativity but I. Have. No. Choice. When can I ever find peace of mind for one more time?
