@@ -1,0 +1,14 @@
+status: #adult 
+tags: [[journal]] [[dream]] 
+
+It's annoying, I woke up around 6 PM again. I couldn't do anything on my to-do list. Anyways, I just want to talk about my dream. I can only remember them in fragments. 
+
+I remember some kind of action/fantasy series which I binged on a TV in our house (which is very unfamiliar by the way). It has gore, *Adventure Time*-like vibes, sex, also *Supernatural*-like vibes, as well as *Guardians of the Galaxy*. I thought it was awesome, that's why I binge-watched it. In some episodes, my friends were there with me or my uncle. But they fell asleep and I kept on watching. The characters were from different planets, there was also an episode with the world ending. Afterwards, I rated it on Letterboxd, probably 4 stars. Then, ranked it high on some list I have. It’s weird that it's from Disney, because the list was a Disney ranking.
+
+I was with my college friends (who I don't know now as I’m not in college right now). We were drawing the characters from the series, then I was drawing one of the weapons. We thought the weapon, which is a pistol, was a bit too boring. So I added features, like a laser, a scope, and made the gun bigger. The sketch was rough, but my college friends were probably thinking it had too many features, but I didn't care. 
+
+I went to a convenience store. Originally, I was just gonna buy food that has strawberries in it but the back of the store, they were selling art supplies. They were also selling anime merch and mangas, I particularly eyed the *Fairy Tail* ones. And they also had original storyboards and sketches from *Hiro Mashima* himself! Of course I grabbed all of them enthusiastically. I also grabbed a huge sketchbook with rough papers. As I was going to the cashier, I realized I didn't really have money so why am I buying? I put everything back.
+
+It was Julia Almaria’s birthday. And for some reason, she’s celebrating inside our house (with many floors). It’s an unfamiliar house, we didn't live in this one in real life. Anyways, my relatives and parents knew Julia. She was the daughter of a family friend. She’s so popular but she's kinda a bitch. There were a lot of people in the house, mostly Julia’s fans. My parents told me to go greet her when she comes back because she saved me and my sibling some cake but I refused to greet her. Other than I had a crush on her and she was pretty, I heard she really ignores people. Just then, they said she arrived at the house (party) wearing a dress. She was so beautiful, they said. I still didn't greet her. I kinda hid inside my room until everything was over.
+
+So that’s that. That’s what I dreamt in all the 17 hours of sleep. I just know there were a lot of other else that I dreamt about but I can't remember them now. I’m just so glad I didn't dream of my internet friends, CJ, and Renson.
