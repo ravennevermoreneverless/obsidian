@@ -1,0 +1,50 @@
+status: #child 
+tags: [[raven]] [[spreadsheet 1]] [[to-do 1]]
+
+- [ ] Ride a horse
+- [ ] Witness a meteor shower
+- [ ] Witness a solar eclipse
+- [ ] Witness a lunar eclipse
+- [ ] Visit Japan
+- [ ] Tattoos
+- [x] Smoke a cigarette
+- [ ] Piercings
+- [ ] Learn how to play the piano
+- [ ] Road trip with friends
+- [ ] Learn morse code
+- [ ] Bake something
+- [x] Visit a beach then build a sand castle
+- [x] Meet an internet friend
+- [ ] Meet a psychic to predict your future
+- [ ] Drive a motorcycle
+- [ ] Attend a concert
+- [ ] Design your own room
+- [ ] Experience snow
+- [x] Dye my hair red
+- [ ] Mini-library
+- [ ] Visit a ghost town/abandoned places
+- [ ] Learn how to swim 
+- [ ] Play paintball
+- [x] Nightwalk
+- [ ] Learn how to play drums
+- [ ] Watch a live theater play
+- [ ] Perform with a band
+- [ ] Have a picnic
+- [ ] Climb a tree
+- [ ] Solve a rubik's cube in under 15 seconds — ==on-going== 
+- [ ] Paint a mural
+- [ ] Learn how to ride a bicycle
+- [ ] Win something in a claw machine
+- [ ] Learn martial arts
+- [ ] Own an electric guitar
+- [ ] Write a book
+- [x] Buy tarot card decks
+- [ ] Collect stones
+- [ ] Own an exotic pet
+- [ ] Own a really old book about occult stuff
+- [ ] Become fluent in Japanese — ==on-going==
+- [ ] Have a vinyl record collection
+- [ ] Have a CD record collection
+- [ ] Own various music players — ==on-going==
+- [ ] Live (and possibly work) in Japan (maybe for a few months)
+- [ ] Stay at a hotel alone

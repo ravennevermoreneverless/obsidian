@@ -1,0 +1,24 @@
+tags: [[self-improvement]] 
+
+- know what a self is
+- make up your mind
+- challenge beliefs
+- lay down values
+- find out what matters
+- acceptance
+- more self-awareness
+- explore individuality
+- pay attention to choices
+- address dark sides
+- overcome them
+- self-esteem
+- honor truth
+- worry less
+- needs & desires
+- forge & follow unique path
+- appreciate small things
+- be grateful
+- stay present
+- empathize & be compassionate 
+- connect
+- embrace the unknown
