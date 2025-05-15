@@ -1,0 +1,6 @@
+status: #adult 
+tags: [[journal]] [[depression]] [[self-loathing]] 
+
+I couldn't do much today. I slept until well into the evening. I couldn't do any of what I planned today except to read and listen to albums. I'm not gonna sleep today. I feel kinda shitty. 
+
+It's only a little over 300 days to figure my shit out yet I feel like I keep going back to square one. I don't like myself right now. It's so easy to just succumb to the darkness, to the endless self-loathing, to not want to get better at all. All I can think about is myself and I hate how much I'm aware of that. And then there's Lou. If I can't even face this issue and resolve things with Lou then how am I sure that I will be able to form meaningful relationships with people in the future? It's so scary how unwilling I am to make things better. Like I want my life to turn into shit willingly, it's just so hard to give a shit about it at all right now. But how long can I keep running away? All I do is yearn for better relationships—or to even have relationships. I'm so fucking pathetic. I have such potential to be a complete degenerate (I should make an art about this).

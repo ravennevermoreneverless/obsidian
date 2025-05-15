@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]] [[loneliness]]
+
+It hurts so bad. I can physically feel the heartbreak on my chest. One more day. One more day and all of it gone. I keep waiting for something or someone to say I should go back, convince me to apologize and fix it. I can't be having doubts now, I've come such a long way from running away. I can't change my mind now. It's probably just the hurt. And I'm not just talking about my former internet friends. I'm also talking about Lou. I don't know how to come back now. I don't think I can go back. I don't know if I want to. It hurts so fucking bad. All of the things are weighing down on me: my loneliness, my guilt, my limerence, my self-loathing, my existential sadness. I don't have anyone to talk to about any of this. I have no one. I have no one.

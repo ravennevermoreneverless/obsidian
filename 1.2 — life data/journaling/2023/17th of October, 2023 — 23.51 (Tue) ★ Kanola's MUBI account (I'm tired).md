@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]]
+
+So, I slept for 17 hours. Of course, since I didn't sleep for more than 24 hours before that. I woke up at 7 in the evening. I found out my dad received his late salary, finally. We ate sisig and drank softdrinks. I watched a film by *Kidlat Tahimik* called ***Mababangong Bangungot*** while studying Japanese. I plan on just studying Japanese for the most part of tomorrow. Actually, I plan on doing whatever it is that I want until the end of this week (which is mostly studying Japanese) before getting back on track next week. I'm still in a bit of a rut, I guess, so I needed that break. I also plan to stop watching films on Kanola's MUBI account, I've kind of grown sick of it, to be honest. They're not the films I want to watch, and it's taking too much of my time. So I think I'll watch just a few more this week, and then leave it at that. I gotta go back to studying.

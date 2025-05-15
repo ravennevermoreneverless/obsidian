@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]] 
+
+I didn't sleep today.. supposedly. I fell asleep around 8 in the morning. I started out at midnight studying Japanese and listening to my playlist. Then I listened to 3 hours of Japanese music. Somewhere in between, I cooked and ate Yakisoba and 3 Chicken & Cheese hotdogs. Afterwards, I did my morning routine at 6 in the morning, then read a book while listening to an album. I fell asleep in the middle of it though and woke up at 3 in the afternoon. I just finished the rest of my coffee and continued reading a book. Nothing much happened today. My sister cried because our dog broke her earphones. I didn't do legs & cardio today because I was feeling lazy. I went out with my mom. She bought me Minute Burger and a strawberry sundae. I'm thankful for that, I was really hungry. I finished one *Junji Itou* short manga while listening to my playlist.
