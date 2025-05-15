@@ -1,0 +1,4 @@
+status: #baby 
+tags: [[book]] [[review]] [[dystopian]] [[fiction]] 
+
+this was actually fucking terrifying. imagine a government which gives you literally no freedom, you can't live without someone judging your every move; from your breath, to your likes and dislikes and ultimately to your thoughts. no one can escape the party. the last few chapters was really something else, it's the best part-with winston smith being held captive in the ministry of love tortured mentally, emotionally and somewhat physically. it makes you question your existence and the credibility of what you've once believed in; all of which may not actually be true. reality is not what it seems to be, it's all just based on perspective. if something happened to you and there's no one around to say that it did actually happen, who's to say what you experienced was real? in 1984, you have only yourself to trust but can you trust yourself? how strong are your beliefs and your conviction?

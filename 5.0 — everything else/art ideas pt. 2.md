@@ -1,0 +1,13 @@
+- at the end of everything, what matters most in the world are the things that matter to you.
+- i think we should stop spending so much time thinking of the million ways it could've happened and instead focus on why it didn't, because that's the line where we currently are—this moment, right here, is what happened.
+- i've spent so much of my days contained in this cage i built for myself, trying to live vicariously, because i was too afraid of judgment  and that i thought i wasn't ready. i've wasted so much of my life whilst i was preparing to live—refusing to be alive—when i know i should've already. 
+- "ground control? i.. don't think i'm coming home." (8-bit space)
+- "when i was a kid, i believed myself to be a magical being. i owned a black cat and believed it to be my very first familiar given by a powerful demon. i created my own spell book, invented a large list of spells and secretly casted them on people. i drew pentagrams on the kitchen floor when my parents aren't around and set it ablaze, trying to summon a deity that might not even exist. i owned a blue pendant and believed it to be a conjuror of everything i ever wanted, appearing with just a snap of my fingers. i collected pretty rocks and feathers and strings and fish bones, believing they possess mystical energy that no one's aware of. looking back to it, i was perfectly content in my own little fantasy world. but as i grew older, the more i think of it, it looked more as if the younger me was just trying to escape the reality we all live in."
+- everybody's got something 
+- what are you so afraid of? 
+- would it be so bad if people see you?
+- i fell in love in a dream
+- what's worse than an artist who hates being perceived?
+- why do i have the urge to destroy anything beautiful?
+- kids like us they don't understand 
+- you haven't heard your favorite songs yet (and you probably never will).
