@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]]
+
+It's freezing cold today, I forgot to bring my jacket and I resent that. Next time though. Today was an odd day, as well. I didn't wake up by my alarm (which I usually do) and when I got to the jeepney terminal, the line wasn't that long. The jeepneys only get the "ROTONDA" people. I saw the zumba dancers at the park as well. And it was like they've memorized the steps and the dance synchronizely. It *was* odd (pun intended). I got here at school today, I didn't go to TLE class because I was already late so I went upstairs to our room. And nobody was there. Weird. Usually people who are late are usually here, yet nobody was here. Something's wrong and I can't tell. I hope it's not bad though. 
