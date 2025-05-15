@@ -1,0 +1,12 @@
+### personal anecdotes
+- [[9th of January, 2024 — 02.31 (Tue) ★ First day of training at Concentrix]]
+- [[10th of February, 2024 — 06.18 (Sat) ★ I won't really last long in this job]]
+- [[10th of January, 2024 — 12.22 (Wed) ★ PEME and a normal day of training at Concentrix]]
+- [[11th of January, 2024 — 12.10 (Thu) ★ Dissociation and training at Concentrix]]
+- [[12th of January, 2024 — 01.33 (Fri) ★ Anne is hitting on me, workmates getting tickets for smoking]]
+- [[13th of January, 2024 — 01.16 (Sat) ★ Anne is hitting on me again]]
+- [[16th of February, 2024 — 05.08 (Fri) ★ Planning to resign and wanting to go back to my old life]]
+- [[17th of February, 2024 — 02.34 (Sat) ★ immediate resignation at Concentrix]]
+- [[20th of January, 2024 — 17.36 (Sat) ★ Infatuated with Camille]]
+- [[28th of January, 2024 — 22.14 (Sun) ★ Workplace drama and Camille in a 6-year relationship flirting with me]]
+- [[31st of January, 2024 — 05.31 (Wed) ★ Endorsed to production and slight goodbyes]] 
