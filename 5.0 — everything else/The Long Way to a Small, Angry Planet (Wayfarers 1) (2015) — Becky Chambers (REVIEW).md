@@ -1,0 +1,4 @@
+status: #child 
+tags: [[book]] [[review]] [[humanity]] [[fiction]]
+
+in the moments in between reading this book, it made me ponder about how strange human beings actually are. the way our culture shapes us, the way our beliefs and morals dictate our actions, the way emotions have built and destroyed our most significant relationships, and how strange that we can even form these kinds of connections at all. at the same time, i felt a kind of contempt and anger about how we turned out, and how vile and terrible we can also be despite everything warm and familiar, i look down at all the flaws we were born with. in these moments, i felt detached-like i was not human before and i was looking at the world as a different species for a brief period. there were so many things going through my mind, and i feel like this book contributed to most of it.

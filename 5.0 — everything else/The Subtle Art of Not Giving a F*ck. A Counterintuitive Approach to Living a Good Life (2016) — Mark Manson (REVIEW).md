@@ -1,0 +1,4 @@
+status: #baby 
+tags: [[review]] [[book]] [[self-improvement]]
+
+this book is very opinionated. the author can have a couple of sensible wise things to say but i'd say take everything with a grain of salt. he speaks in such superlatives and ultimatum that it's almost funny that he kind of like shoves it in your face. he also completely denies this being a self- help book but it actually ends up as a typical generic one if you're depressed enough. some of the concepts or analogies i've already heard from vsauce. i'll admit i got hooked at the opening chapter but everything sorta fell off as he tries to explain the steps to not giving a fuck. but there really were moments in the book that can make you go "hm" which earns it a two-star rating. even so, i'd still prefer reading thick philosophy books that don't make sense to me and make me look like a dumbass rather than spend time with this book again.

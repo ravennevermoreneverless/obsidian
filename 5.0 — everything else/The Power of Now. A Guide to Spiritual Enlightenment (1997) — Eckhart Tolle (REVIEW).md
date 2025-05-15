@@ -1,0 +1,4 @@
+status: #child 
+tags: [[book]] [[review]] 
+
+reading this book is like suddenly knowing the answer to everything but you're not ready to hear it, even if you wanted to-at least, that what it made me feel. being in the present alleviates almost all of my mental-emotional sufferings but i haven't fully accepted the idea yet. i found myself disagreeing with a lot of what the author says and have this strong sense of resistance. i know it's this way because it's trying to disassemble values that i've always known and holding onto. i've identified myself with my ego that it's very difficult to detach myself from it. i may not be in the right state of mind to surrender, but reading this just gave me a nod towards the right direction.
