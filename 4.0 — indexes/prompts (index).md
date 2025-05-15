@@ -1,0 +1,22 @@
+### personal anecdotes
+- [[1st of June, 2023 — 12.39 (Thu) ★ an old friend, wanting to be a god, politics and compassion fatigue, unreliable memory]]
+- [[3rd of August, 2023 — 18.30 (Thu) ★ I dreamt of her again and it hurts a lot, no amount of guides can tell me how to be an adult]]
+- [[3rd of September, 2023 — 23.15 (Sun) ★ The old friend I've lost touch with is myself]]
+- [[8th of June, 2023 — 18.13 (Thu) ★ flowers for algernon, remembered as a passionate person, haunted room with siblings]]
+- [[11th of May, 2023 ★ her pt. 4]]
+- [[12th of September, 2023 — 22.50 (Tue) ★ NCMH on my own, my sister's depression meltdown]]
+- [[13th of September, 2023 — 22.00 (Wed) ★ 'and then we'll be okay' by exurb1a]]
+- [[14th of October, 2023 — 00.16 (Sat) ★ smoking with my turquoise flannel, human brain's storage capacity]]
+- [[18th of September, 2023 — 23.01 (Mon) ★ conversations with myself in English, the relatives I miss the most]]
+- [[19th of September, 2023 — 23.18 (Tue) ★ Khan Academy units, my esoteric tendencies, people just come and go]]
+- [[20th of September, 2023 — 23.06 (Wed) ★ trigonometric ratios are incredibly easy, it's important to be genuine]]
+- [[21st of September, 2023 — 21.33 (Thu) ★ scam job interview from Thailand, 'When Black Birds Fly', CyberBacker]]
+- [[24th of August, 2023 — 22.07 (Thu) ★ An elderly person's hand]]
+- [[25th of August, 2023 — 23.28 (Fri) ★ how to read a book and diseases]]
+- [[27th of May, 2023 — 20.25 (Sat) ★ Anhedonia and daydreams]]
+- [[28th of May, 2023 — 13.40 (Sun) ★ I don't believe in God, maybe]] 
+- [[2018 ★ dear past me, dear future me]]
+- [[2018 ★ 4 things i can't go out without...]]
+
+### essays
+- [[hello pt.10]] 

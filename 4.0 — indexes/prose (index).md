@@ -1,0 +1,10 @@
+### personal works
+- [[dear mom and dad]]
+- [[her pt.3]]
+- [[I like you so much better when you're throwing up]]
+- [[People are fascinating]] 
+- [[we used to.]]
+- [[starry night sky]]
+- [[her pt. 3 (original version) (and more)]]
+- [[her pt. 3 (limerence version)]]
+- [[in a perfect world]]
