@@ -1,0 +1,3 @@
+### general
+- [[study course]]
+
