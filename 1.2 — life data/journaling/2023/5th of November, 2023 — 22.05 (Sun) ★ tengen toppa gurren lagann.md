@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]]
+
+I overslept again. I woke up just about past 11 in the morning to immediately study Japanese. I'm glad I did. I also didn't skip leg calisthenics and cardio, I'm glad I didn't. I started to rewatch ***Still Walking***. I also started watching ***Tengen Toppa Gurren Lagann***, it was great. My sister and I then watched the last episode of ***Shingeki no Kyojin***. I have my favorites but I do think this anime will go down in history as one of the greatest. While watching, all I can think about is how watching this reminds me of Michaela. Right now, it's only me and my sister in the house. Everyone's out. I want to actually wake up early tomorrow.

@@ -1,0 +1,4 @@
+status: #adult 
+tags [[journal]]
+
+My sleeping routine seems to finally come to a conclusion: I stay awake well until 5 in the morning and sleep until afternoon, around 3 or 4. If I'm unlucky, I'd wake up in the evening, like today. I couldn't do much this day, not even clean my room or fold my clothes, because I was asleep. I did my daily Japanese tasks, watched a film and a short film—that's basically it. My days are cut so short because I've been sleeping too much. It's so annoying. I also still haven't thought much about the journal prompt that's been sitting there for days now: How do you feel about using humans in medical research? I still don't have an answer because I didn't have the time to think about it. I'll try to think about it before I sleep.

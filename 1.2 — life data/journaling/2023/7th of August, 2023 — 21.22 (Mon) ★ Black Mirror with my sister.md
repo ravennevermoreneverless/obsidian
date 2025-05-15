@@ -1,0 +1,8 @@
+status: #adult 
+tags: [[journal]]
+
+I slept at 3 AM today and I woke up at 6 AM. I immediately got coffee and listened to 4 hours of music. Then, we started cleaning me and my sister’s room. With the help of our mom, we arranged our things in a way that the room feels more spacious. I got a new desk. It's actually a vanity table but I made it into my study desk. Afterwards, I took a nice shower after a long time of not showering. We bought burgers and ate them while watching *Black Mirror* episodes (with my sister). We’re still watching *Black Mirror* right now. I practiced a bit of Kanji for *Genki* Lesson 20. It really does feel like my life has turned around ever since we cleaned our room. I feel so fresh. I’m more pumped to do stuff now. 
+
+Earlier I kept thinking about spending time with CJ in real life. I imagined she would find me attractive if I took my mask off. And if I smiled. I’m so fucking delusional that I am daydreaming even when interacting with other people. I’ve hit a different kind of low now. I posted on my Instagram stories and I still can’t help but keep checking if CJ (or Jia) has viewed them. I know terribly well I should not fucking care, I am terribly aware of that, and yet I still check obsessively and impulsively. I really can't help it. 
+
+Anyways, I’m really thankful for today (also the fact that my phone’s battery doesn't get drained as quickly as I’m used to). It’s like life can actually be good.
