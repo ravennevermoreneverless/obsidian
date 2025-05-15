@@ -1,0 +1,22 @@
+### to friends
+- [[16th of October, 2022 ★ it's CJ's birthday and I'm wallowing in guilt]]
+- [[24th of May 2022 ★ A short letter to everyone I left]] 
+- [[lou]]
+- [[lou pt. 2]]
+### to the love of my life
+- [[hello]]
+- [[hello pt. 1]]
+- [[hello pt. 2]]
+- [[hello pt. 3]]
+- [[hello pt. 4]]
+- [[hello pt. 5]]
+- [[hello pt. 6]]
+- [[hello pt. 7]]
+- [[hello pt. 8]]
+- [[hello pt. 9]]
+- [[hello pt.10]]
+- [[hello pt. 11]]
+- [[hello pt. 12]]
+- [[hello, this is the end]]
+### a conversation
+- [[hello, the last part]]

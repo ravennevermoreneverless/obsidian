@@ -1,0 +1,16 @@
+### personal anecdotes
+- [[2nd of August, 2023 — 11.13 (Wed) ★ I'll never be good enough for CJ]]
+- [[2nd of November, 2023 — 19.51 (Thu) ★ The limerence is strong today (I'm gonna quit smoking)]]
+- [[3rd of August, 2023 — 18.30 (Thu) ★ I dreamt of her again and it hurts a lot, no amount of guides can tell me how to be an adult]]
+- [[3rd of December, 2023 — 19.51 (Sun) ★ why is everyone getting a girlfriend, literally no one is on my level]]
+- [[12th of June, 2023 — 03.55 (Mon) ★ I don't actually want to reconcile with my former internet friends, not having a sense of self in high school]]
+- [[14th of September, 2023 — 23.06 (Thu) ★ breezing through albums, the thought of her didn't cross my mind, Buddhism]]
+- [[17th of November, 2023 — 21.02 (Fri) ★ pros and cons of deleting my Instagram accounts]]
+- [[22nd of May, 2023 — 23.27 (Mon) ★ What it really feels behind limerence]]
+- [[23rd of February, 2024 — 16.02 (Fri) ★ I should be happy I'm over you, right？]]
+- [[26th of December, 2023 — 23.05 (Tue) ★ Christmas at Marikina, Antipolo with CJ and getting over limerent feelings harshly]]
+- [[Dream Journal — 2nd of June, 2023 — 18.12  (Fri) ★ I was finally happy with her (except I got dumped water on me while I was peeing)]]
+- [[2018 ★ This Girl]]
+### personal works
+- [[her pt.5]] 
+- [[her pt. 3 (limerence version)]]
