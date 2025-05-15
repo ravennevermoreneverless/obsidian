@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]] [[depression]] [[self-destruct]]
+
+I wanna fucking kill myself, I swear to god. I tried to do things today, I don't even remember what they are but dear god how I tried. I cried earlier in the bathroom because I just felt so miserable about myself. I'm about to go insane. I feel like I'm about to snap. The worst part is that I don't have anyone to talk to, because I don't deserve to talk to people anymore. I read hentai mangas and watched ***Boku no Pico*** earlier while my family walks around the room and my sister sleeping beside me. I'm turned on by little boy dicks. I'm so fucked up. It's making me want to die more.

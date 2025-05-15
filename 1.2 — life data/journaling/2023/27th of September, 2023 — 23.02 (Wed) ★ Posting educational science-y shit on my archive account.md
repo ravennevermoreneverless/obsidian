@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]]
+
+I didn't sleep until I did my laundry. I did do my laundry, I didn't have any clean underwears anymore so I really had to. I went to the laundromat without underwear. Well, there's a first for everything. When I got home, I immediately fell asleep, well into the evening. Then I continued studying Japanese. I still haven't done calisthenics again nor cleaned my room, but that's okay. I'll do it on the weekends perhaps. Oh, also, I started posting educational science-y shit on my archive Instagram, too. I don't give a shit if people don't give a shit or don't like it, it's for my own use anyways, they're just spectators. I don't have much to say.

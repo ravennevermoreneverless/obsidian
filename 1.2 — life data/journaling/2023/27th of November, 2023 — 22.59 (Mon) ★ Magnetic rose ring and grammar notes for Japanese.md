@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]]
+
+I woke up late today, around 3 PM—so annoying. My plans were totally ruined. Why do I keep waking up so late even though I sleep early in the night? My alarm also doesn't ring on the loud speaker when I leave my wired earphones connected. It just vibrates. Ughhh. I continued writing grammar notes for Japanese, I finished all of them. I talked to Kanola for most of the day. I also finished a playlist. My stainless steel magnetic nose ring came today. I wear it for the rest of the day so the inside of my nose is sore. I'm not sure if it's a "get used to it it'll hurt less soon enough" type of thing but I'll probably keep it on and see how long I can have it on without the pain being too much. I wanted to say some things that drifted through my mind but I kind of forgot what they are. I'm not gonna sleep today.
