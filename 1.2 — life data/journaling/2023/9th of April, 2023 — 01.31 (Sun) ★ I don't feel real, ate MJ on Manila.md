@@ -1,0 +1,8 @@
+status: #adult 
+tags: [[journal]] [[dissociation]] 
+
+I don't feel real. I don't feel like myself. Something is terribly wrong, I can feel it. I’m thinking it's because I’m very anxious about the possibility of the tooth abscess coming back—and I’m sure it will come back, it's only a matter of when. I gotta tell my mom tomorrow and hopefully I’d be on antibiotics again. I don't want a root canal treatment, I just want them to pluck it off my gums so we can get over it. 
+
+Ate MJ just landed on Manila today. I see her Instagram stories and she seems like she's having fun. It kinda sucks not being able to reply and message her if we can meet-up; the four of us. Maybe she'll set up something with Louise and CJ, without me, I don't know. If that is so, I’m happy for them, but I know I’ll come back to my first stages of grief again. Now that Kanola agreed on a meet-up with me once she returns to the Philippines, I will always remember the missed opportunity of meeting up with my former internet friends. Come to think of it, Marilou also wants “*bahay chika*” to meet-up at her apartment and stay for the night. But I feel so disconnected—from them, from myself, from the people around me. I want to cry. I feel like crying. For what? I can't cry, because I don't know what I’m crying about. It feels wrong, whatever it is I’m feeling. I feel wrong. Something's gotta happen, something's still not right. 
+  
+I can't sleep now, it’s probably the coffee. I think I’ll just play the guitar downstairs, make myself some coffee, and not sleep until later in the evening.

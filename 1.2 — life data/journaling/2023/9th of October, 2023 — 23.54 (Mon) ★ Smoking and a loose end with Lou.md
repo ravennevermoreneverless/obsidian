@@ -1,0 +1,10 @@
+status: #adult 
+tags: [[journal]] [[melancholy]]
+
+I don't even want to talk about how I slept for 16 hours and have done nothing. 
+
+My parents are out to church. It's only me and my siblings in the house. I took the opportunity. I grabbed my stale cigarettes, took the remaining 4 matchsticks, opened the window, and smoked—albeit failing to light it 3 times. I was watching a film when I smoked. *Tsai Ming-liang*'s ***The Skywalk is Gone***. I didn't really watch the whole time I smoked. I was just thinking. And thinking. And kept thinking. I was just filled with complete sadness. I didn't cry though. After smoking, the taste never left my mouth even after drinking half of my coffee. I posted a video of me smoking with a couple of lines as captions, I don't even know if I can call it a poem. It's just a string of words. I want to run away from everyone. 
+
+The conversation I had with Lou last night wasn't continued. Because we both don't remember how I fucked up. But the fact still remains that I did somehow. However, I can't apologize for something I can't remember. I don't know where to go from here. I don't know what to do next. All I can think about is running away. From her, especially. I don't know if I want to deal with this right now. I don't even know if I want to continue this friendship, at this state. Fuck, am I running away again once things turn into shit? Running away now would probably mean like an end to whatever Lou and I have. I'm losing everyone, except for my family. The saddest part is that I'm completely willing to let this go, no matter how much we both value each other. I'm willing to be completely alone for the rest of my life. I'm willing to bear the weight of my loneliness, until it kills me. Well, there's still Kanola. And IC's there, too, I think. 
+
+Today I daydreamed about kissing my ex-girlfriend after we reconciled. It felt nice. However, this is my brain trying to cope with the sadness I'm feeling.
