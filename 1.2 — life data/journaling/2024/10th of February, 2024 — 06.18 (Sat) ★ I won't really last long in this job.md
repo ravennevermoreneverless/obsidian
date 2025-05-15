@@ -1,0 +1,6 @@
+status: #adult 
+tags: [[journal]] [[job]] 
+
+I started drinking my meds again. My antipsychotics make me feel so sleepy and groggy. Usually when I drink those, I would sleep for more than 12 hours. I can't do that now. I sleep for 6 hours and then I have to wake up for work. Waking up in the afternoon sleepy as fuck makes me not want to go to work. But I don't really have a choice. I've been telling everyone I won't really last long in this job because I hate the fact that I don't have time for myself anymore. The job is easy, my colleagues are good to me. But I'm just really starting to get lazy. I told my mom about this but she told me I should last for more than 3 months so that I won't have a smudge on my résumé. I couldn't really care less, to be honest. I can still go on working, maybe for like a month—more than that, I'm not sure. 
+
+Regarding my work, I keep making mistakes. It's because I barely ask for help, so this shit comes back biting me in the ass. My performance has been consistently low, too. I dwell on tickets everytime I solve them because I don't really want to ask for help. I'm kind of annoyed that I don't really have sufficient knowledge to work on my own. This reason is stupid because one of the reasons why I started working in the first place is to be able to communicate with people more—and I don't really do that right now.

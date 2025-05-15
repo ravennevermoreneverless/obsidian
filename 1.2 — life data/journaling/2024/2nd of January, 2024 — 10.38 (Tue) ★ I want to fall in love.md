@@ -1,0 +1,6 @@
+status: #adult 
+tags: [[journal]] [[yearning]] 
+
+I woke up to a phone call at past 3 PM. It was an initial interview from a kitchen crew job at SM Light Mall. I was a bit groggy and disoriented but I managed to answer the questions. A few minutes later, a phone call from Shopee came—it's my moisturizer. Then, I got another job interview offer from somewhere in Ortigas. I went out to print 7 copies of my résumé. I have 3 job interviews tomorrow. I don't know if I'll be able to sleep (but I have to).
+
+I just can't feel the feelings I’ve felt before. I mean, I should be glad this means I’ve already moved on but I just really miss the feeling of looking forward to talking to someone everyday. To have someone I can confidently say I have feelings for. Not like I’ve already experienced that, the only feeling close to that is limerence. But I want to experience falling in love, like really. Not obsession or infatuation. I want to fall in love. But it seems like that's hard to do and difficult to find.
