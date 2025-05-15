@@ -1,0 +1,2 @@
+### guide
+- [[weekly calisthenics & cardio]] 

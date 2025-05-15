@@ -1,0 +1,18 @@
+### personal anecdotes
+- [[1st of June, 2023 — 12.39 (Thu) ★ an old friend, wanting to be a god, politics and compassion fatigue, unreliable memory]]
+- [[1st of May, 2022 ★ leaving everything behind.]]
+- [[2nd of December, 2022 ★ Michaela and barely passing GWA]]
+- [[3rd of February 2022 ★ The world is unforgiving for people like me who has to live with mental illness for the rest of their life]]
+- [[3rd of September, 2023 — 23.15 (Sun) ★ The old friend I've lost touch with is myself]]
+- [[7th of October, 2023 — 00.35 (Sat) ★ I feel distant to my friends, pretending to be enthusiastic, the color of your aura]]
+- [[8th of October, 2023 — 00.00 (Sun) ★ forgetting to breathe, talking about my friends and loneliness, my first girlfriend in 7th grade]]
+- [[9th of October, 2023 — 01.23 (Mon) ★ favorite time of the day, I grew an inch taller, trying to be someone I'm not, Lou thinks I hate her]]
+- [[12th of June, 2023 — 03.55 (Mon) ★ I don't actually want to reconcile with my former internet friends, not having a sense of self in high school]]
+- [[15th of September, 2023 — 23.19 (Fri) ★ Twitter space and the feeling of disconnect]]
+- [[19th of December, 2023 — (Tue) ★ hypomania and friends]]
+- [[19th of September, 2023 — 23.18 (Tue) ★ Khan Academy units, my esoteric tendencies, people just come and go]]
+- [[20th of December, 2023 — 21.17 (Wed) ★ disconnect from friendships]]
+- [[28th of November, 2023 — 21.15 (Tue) ★ Thinking of Lou]] 
+### open letters
+- [[lou]]
+- [[lou pt. 2]]
