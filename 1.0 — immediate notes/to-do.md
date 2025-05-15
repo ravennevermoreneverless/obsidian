@@ -1,0 +1,83 @@
+- [x] monoquin songs
+- [x] other people's playlist、
+- [x] all of my playlists
+- [x] songs to cover or record
+- [x] the ultimate playlist of my life
+- [x] albums i listened to (2025)
+- [x] books i read (2025)
+- [x] films i watched (2025)
+- [x] series i watched (2025)
+- [x] podcasts i listened to (2025)
+- [x] mangas i read (2025)
+- [x] daily notes (2025)
+- [x] annual cash flow (2025)
+- [x] dailies (2025)
+- [x] the demon (2025)
+- [x] albums i listened to (2024)
+- [x] books i read (2024)
+- [x] films i watched (2024)
+- [x] series i watched (2024)
+- [x] podcasts i listened to (2024)
+- [x] mangas i read (2024)
+- [x] daily notes (2024)
+- [x] annual cash flow (2024)
+- [x] albums i listened to (2023)
+- [x] books i read (2023)
+- [x] films i watched (2023)
+- [x] series i watched (2023)
+- [x] podcasts i listened to (2023)
+- [x] mangas i read (2023)
+- [x] daily notes (2023)
+- [x] albums i listened to (2022)
+- [x] books i read (2022)
+- [x] films i watched (2022)
+- [x] series i watched (2022)
+- [x] daily notes (2022)
+- [x] study course
+- [x] ios notes
+- [ ] old journal entries (make album for all creative journal pages - INCLUDE ALL PAGES)
+	- [ ] first journal
+	- [ ] black journal
+	- [ ] pink journal
+	- [ ] thick ass chaos tome journal
+	- [ ] everything everyone everywhere journal
+- [ ] notebooks
+- [ ] old drawings & sketches (to-post on tiktok/X/archive on obsidian)
+- [ ] laptop notes
+- [x] japanese journal entries
+- [x] japanese poems
+- [ ] japanese notes (everything)
+- [ ] gdocs playlist duplicates  
+- [ ] save past tweets (to post on monoquin) (do this on laptop day—entire day)
+- [ ] RYM lists
+- [x] RYM reviews
+- [x] goodreads reviews
+- [ ] letterboxd reviews
+- [x] backloggd reviews
+- [ ] chords plugin
+- [ ] import reading materials
+- [ ] anki plugin
+- [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff
+- [ ] substack written pieces
+- [x] post on tiktok : song covers & literature writings & old artworks
+- [ ] re-download (spring day - bts) to mp3
+- [ ] re-download (girlfriend - bigbang) to mp3
+- [ ] re-download (inkya impulse - futakuchi mana) to mp3
+- [ ] re-download (bank account remix - joyner lucas) to mp3
+- [ ] download (anino - up dharma down) to mp3
+- [ ] re-list RYM list ***the ultimate playlist of my life*** (do this on laptop day)
+- [ ] download (remember you - domunirom) to mp3
+
+## right now???
+- [ ] corpse party
+- [ ] wizard's first rule
+- [ ] aku no hana
+- [ ] "first 30-seconds mini melodic orgasms" playlist
+- [ ] tiktok/X/monoquin edits
+- [ ] tarot book
+- [ ] crescendo
+- [ ] toriaezu imawa - galileo galilei (cover)
+- [ ] write loki season 2 review
+- [ ] loki season 2 scenes
+- [ ] install "AI Gemini"
+- [ ] rock music genre wikipedia / rock albums
