@@ -2,12 +2,12 @@ tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
 ## ₱ 1,138.02
 
-==May 13== Chai's loan to her friend: <span style="color:#A41C1D">-₱70.00</span>
-==May 13== Chai's loan to her friend: <span style="color:#A41C1D">-₱300.00</span>
-==May 13== TikTok expenses for Chai: <span style="color:#A41C1D">-₱118.00</span>
-==May 13== Food from Shawarma Shack <span style="color:#A41C1D">-₱217.00</span>
-==May 12== Loaded Go99+ Unli TikTok <span style="color:#A41C1D">-₱99.00</span>
-==May 12== Loaned money from GCash: <span style="color:#29A833">₱2000.00</span>
+==May 13== Chai's loan to her friend : <span style="color:#A41C1D">-₱70.00</span>
+==May 13== Chai's loan to her friend : <span style="color:#A41C1D">-₱300.00</span>
+==May 13== TikTok expenses for Chai : <span style="color:#A41C1D">-₱118.00</span>
+==May 13== Food from Shawarma Shack : <span style="color:#A41C1D">-₱217.00</span>
+==May 12== Loaded Go99+ Unli TikTok : <span style="color:#A41C1D">-₱99.00</span>
+==May 12== Loaned money from GCash : <span style="color:#29A833">₱2000.00</span>
 ## May
 
 ==Mar 5== Alaska fresh milk + Mi Goreng (x6) : <span style="color:#A41C1D">-₱212.00</span>
