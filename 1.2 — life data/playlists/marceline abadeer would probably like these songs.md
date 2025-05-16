@@ -1,7 +1,7 @@
 status: #child 
 tags: [[playlist]] [[music]] [[adventure time]] 
 
-![[marceline abadeer would probably like these songs.png]]
+![[image — marceline abadeer would probably like these songs.png]]
 *favorite people series ep. 1*
 1. <span style="color:rgb(255, 0, 0)"><b><i>Black Sheep (Brie Larson Vocal Version)</b></i></span> — Metric, Brie Larson ★★★★★
 2. <span style="color:rgb(164, 194, 244)"><b><i>Townie</b></i></span> — Mitski ★★★½

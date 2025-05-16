@@ -1,7 +1,7 @@
 status: #child 
 tags: [[playlist]] [[music]] [[mbti]] [[zodiac]] [[enneagram]] [[scorpio]] [[infj]]
 
-![[scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit.png]]
+![[image — scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit.png]]
 1. <span style="color:#76a5af"><b><i>A Different Age</b></i></span> — Current Joys ★★★★
 2. <span style="color:#134f5c"><b><i>Wooden Floorboards</b></i></span> — Hotel Books ★★★★★
 3. <span style="color:#0b5394"><b><i>No Surprises</i></b></span> — Radiohead ★★★★

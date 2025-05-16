@@ -1,6 +1,6 @@
 status: #child 
 tags: [[playlist]] [[music]] [[coming-of-age]] [[teenage]] 
-![[in a teen coming-of-age film where the main character's finally ready for the next chapter.jpg]]
+![[image — in a teen coming-of-age film where the main character's finally ready for the next chapter.jpg]]
 *she looked back for the last time and took a heavy sigh—she knew it’ll never be the same again.*
 
 1. <b><i><span style="color:#9E2900">Never Coming Home</span></b></i> — Scruffpuppie ★★★★

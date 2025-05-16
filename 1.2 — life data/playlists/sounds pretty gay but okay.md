@@ -1,7 +1,7 @@
 status: #child 
 tags: [[playlist]] [[music]] [[lgbt]] [[gay]] 
 
-![[sounds pretty gay but okay.png]]
+![[image — sounds pretty gay but okay.png]]
 *this one's for the mlm & wlw frens out there*
 
 1. <span style="color:#f1c232"><b><i>Jesus Christ 2005 God Bless America</i></b></span> — The 1975 ★★★½
