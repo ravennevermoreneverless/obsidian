@@ -7,11 +7,11 @@ tags: [[list]]
 - monoquin (YT) 🫱🏻‍🫲🏼
 - artwork from online 🫱🏻‍🫲🏼
 - article from gmail 
-- reddit posts 
-- NASA photos
+- reddit posts 🫱🏻‍🫲🏼
+- NASA photos 🫱🏻‍🫲🏼
 - random word 🫱🏻‍🫲🏼
 - short films
-- tiktok video 
+- tiktok video 🫱🏻‍🫲🏼
 - random fact
 - logic puzzles
 - big book of what?
