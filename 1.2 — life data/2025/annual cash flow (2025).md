@@ -1,7 +1,9 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## ₱ 1,508.02
+## ₱ 1,138.02
 
+==May 13== Chai's loan to her friend: <span style="color:#A41C1D">-₱70.00</span>
+==May 13== Chai's loan to her friend: <span style="color:#A41C1D">-₱300.00</span>
 ==May 13== TikTok expenses for Chai: <span style="color:#A41C1D">-₱118.00</span>
 ==May 13== Food from Shawarma Shack <span style="color:#A41C1D">-₱217.00</span>
 ==May 12== Loaded Go99+ Unli TikTok <span style="color:#A41C1D">-₱99.00</span>
