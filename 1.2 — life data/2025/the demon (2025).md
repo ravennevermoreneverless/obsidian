@@ -82,6 +82,10 @@ restlessness
 ###### 15
 - day: baseline night: baseline
 - day: *fluoxetine and aripiprazole* , night:
+###### 16
+- day: baseline night: baseline
+- day: *fluoxetine and aripiprazole* , night:
+- sadness/despair(x2)
 ## April
 ###### 1
 - day: baseline, night: baseline

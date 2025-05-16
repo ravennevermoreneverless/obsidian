@@ -1,1 +1,0 @@
-gusto ko lng ng mraming kiss and maraming hug and maraming 'i love you' bago ako umalis pero inaasar mu lng ako kanina :((( para umiyak ako. ngayon umiyak na ko wala parin ako lambing 
