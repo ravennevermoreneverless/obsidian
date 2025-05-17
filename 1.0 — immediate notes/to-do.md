@@ -41,7 +41,7 @@
 	- [ ] pink journal
 	- [ ] thick ass chaos tome journal
 	- [ ] everything everyone everywhere journal
-- [ ] notebooks
+- [ ] small notebooks (images)
 - [ ] old drawings & sketches (to-post on tiktok/X/archive on obsidian)
 - [ ] laptop notes
 - [x] japanese journal entries
@@ -57,8 +57,6 @@
 - [ ] chords plugin
 - [ ] import reading materials
 - [ ] anki plugin
-- [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff
-- [ ] substack written pieces
 - [x] post on tiktok : song covers & literature writings & old artworks
 - [ ] re-download (spring day - bts) to mp3
 - [ ] re-download (girlfriend - bigbang) to mp3
@@ -72,7 +70,10 @@
 - [ ] corpse party
 - [ ] wizard's first rule
 - [ ] aku no hana
-- [ ] "first 30-seconds mini melodic orgasms" playlist
+- [ ] "first 30-seconds mini melodic orgasms" playlist RYM
+- [ ] "first 30-seconds mini melodic orgasms" playlist reddit
+- [ ] "first 30-seconds mini melodic orgasms" playlist archive account edit
+- [ ] "first 30-seconds mini melodic orgasms" playlist tiktok edit
 - [ ] tiktok/X/monoquin edits
 - [ ] tarot book
 - [ ] crescendo
@@ -81,3 +82,5 @@
 - [ ] loki season 2 scenes
 - [ ] install "AI Gemini"
 - [ ] rock music genre wikipedia / rock albums
+- [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff
+- [ ] substack written pieces
