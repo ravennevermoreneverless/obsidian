@@ -16,13 +16,11 @@ i watched you cry yourself breathless
 i could only sit there and kiss your shoulders
 tears stream quietly past my cheek
 i'd give up my beautiful life just so you could have one that you rightfully deserve
-how come such an angel clip off its wings every single day? 
-how come such a sweet siren lose its voice every single night?
+how come such an angel clip off its wings every single day?
 
 for a million years, i love you
 for a million lives, i was born to love you
-nothing could ever shake my will to love
-not even the possibility that this could all end someday
+but i'm losing myself and i'm afraid you're going to lose me too
 
 and even if the moon refuses to shine down on me once more
 your light is the only thing i'd hope for

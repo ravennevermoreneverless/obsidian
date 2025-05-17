@@ -1221,8 +1221,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1194. Blissth — Sorority Noise : May 14, 2025
 1195. 5469 — d2s1 : May 15, 2025
 1196. ghost girl — Lil Peep : May 16, 2025
-
-1197 μ May 17, 2025
+1197. (I Love You) For Sentimental Reasons — Nat King Cole : May 17, 2025
 
 1198 μ May 18, 2025
 
