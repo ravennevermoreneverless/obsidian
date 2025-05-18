@@ -9,3 +9,4 @@ tags: [[raven]] [[spreadsheet]] [[series]]
 6. ***WandaVision*** (2021) *started on*: 4/10/2025 *finished on*: 4/10/2025 ★ ==4==
 7. ***Loki*** (2021) started on: 4/11/2025 finished on: 4/11/2025 ★ ==5==
 8. ***Loki*** (2023) started on: 5/5/2025 finished on: 5/7/2025 ★ ==5==
+9. ***Sweet Home S1*** (2020) started on: 5/17/2025 finished on: 5/18/2025 
