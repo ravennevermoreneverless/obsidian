@@ -11,3 +11,5 @@
 - [[0 (2013) — 青葉市子 (Ichiko Aoba) (REVIEW)]]
 ### lists
 - [[気持ち悪い。(all the japanese films i've ever watched)]]
+## playlists
+- [[ここは痛みのない世界だと思ってた?]]
