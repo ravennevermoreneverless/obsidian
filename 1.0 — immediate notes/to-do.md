@@ -70,7 +70,7 @@
 - [ ] corpse party
 - [ ] wizard's first rule
 - [ ] aku no hana
-- [ ] "first 30-seconds mini melodic orgasms" playlist RYM
+- [x] "first 30-seconds mini melodic orgasms" playlist RYM
 - [ ] "first 30-seconds mini melodic orgasms" playlist reddit
 - [ ] "first 30-seconds mini melodic orgasms" playlist archive account edit
 - [ ] "first 30-seconds mini melodic orgasms" playlist tiktok edit
@@ -84,3 +84,4 @@
 - [ ] rock music genre wikipedia / rock albums
 - [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff
 - [ ] substack written pieces
+- [ ] japanese playlist
