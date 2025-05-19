@@ -270,3 +270,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==17 - 20:11== We played *Pokemon Unite*. We talked about the question "Is it necessary to preserve your sense of self when loving someone fully?" and she wrote about it. Then we watched ***Sweet Home*** until episode 4. 
 
 ==18 - 21:59== I became Veteran Class 5 in *Pokemon Unite*. Chai's mom went somewhere away so we were left and Chai became kind of busy. We finished ***Sweet Home*** (2020) though. I drank my meds late. I'm going home tomorrow. 
+
+==19 - 20:31== I was supposed to go home today but ended up didn't. Chai and I played *Pokemon Unite* and watched season 2 of *Sweet Home*. We also took care of her grandma. She was a bit stressed and not feeling well. Her mom came home with lots of food, we ate a lot. It was nice.
