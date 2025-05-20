@@ -85,3 +85,4 @@
 - [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff
 - [ ] substack written pieces
 - [ ] japanese playlist
+- [ ] install carousel
