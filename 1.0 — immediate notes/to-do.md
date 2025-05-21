@@ -86,3 +86,11 @@
 - [ ] substack written pieces
 - [ ] japanese playlist
 - [ ] install carousel
+
+## to-buy
+- [ ] antiperspirant
+- [ ] feminine wash
+- [ ] deodorant
+- [ ] oatmeal soap
+- [ ] mouse (PC)
+- [ ] headphones
