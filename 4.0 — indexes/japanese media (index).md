@@ -12,6 +12,6 @@
 ### lists
 - [[気持ち悪い。(all the japanese films i've ever watched)]]
 ### films
-- [[新世紀エヴァンゲリオン劇場版 Air . まごころを、君に (Neon Genesis Evangelion. The End of Evangelion) (1997)]]
+- [[新世紀エヴァンゲリオン劇場版 Air . まごころを、君に (Neon Genesis Evangelion. The End of Evangelion) (1997) dir. Hideaki Anno, Kazuya Tsurumaki]]
 ## playlists
 - [[ここは痛みのない世界だと思ってた?]]

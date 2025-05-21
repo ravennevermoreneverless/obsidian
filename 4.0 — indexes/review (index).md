@@ -30,4 +30,5 @@
 - [[幸せの谷の死体 (2016) — 死んだ僕の石川 (Shinda Bokuno Ishikawa) (REVIEW)]]
 - [[0 (2013) — 青葉市子 (Ichiko Aoba) (REVIEW)]]
 ### films
-- [[新世紀エヴァンゲリオン劇場版 Air . まごころを、君に (Neon Genesis Evangelion. The End of Evangelion) (1997)]]
+- [[新世紀エヴァンゲリオン劇場版 Air . まごころを、君に (Neon Genesis Evangelion. The End of Evangelion) (1997) dir. Hideaki Anno, Kazuya Tsurumaki]]
+- [[The Tree of Life (2011) dir. Terrence Malick]]
