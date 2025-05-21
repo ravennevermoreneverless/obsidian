@@ -11,5 +11,7 @@
 - [[0 (2013) — 青葉市子 (Ichiko Aoba) (REVIEW)]]
 ### lists
 - [[気持ち悪い。(all the japanese films i've ever watched)]]
+### films
+- [[新世紀エヴァンゲリオン劇場版 Air . まごころを、君に (Neon Genesis Evangelion. The End of Evangelion) (1997)]]
 ## playlists
 - [[ここは痛みのない世界だと思ってた?]]
