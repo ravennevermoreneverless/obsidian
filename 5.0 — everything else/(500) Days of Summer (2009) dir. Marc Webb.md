@@ -18,6 +18,3 @@ it's funny because there were too many connections and coincidences from this fi
 side note: the soundtrack for me is the cherry on top of this whole film. 
 
 side side note: if a girl doesn't listen to a mixtape you made specifically for her, she ain't the one.
-
-
-hello git
