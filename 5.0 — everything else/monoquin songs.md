@@ -1224,14 +1224,11 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1197. (I Love You) For Sentimental Reasons — Nat King Cole : May 17, 202
 1198. Kyusi — Zild : May 18, 2025
 1199. Bokurano Let It Be — HarryP, Hatsune Miku : May 19, 2025
+1200. Let Go — Frou Frou : May 20, 2025
 
-1200 μ May 20, 2025
+## Nu (1201 - 1300) — ν
 
-Nu (1201 - 1300)
-
-day song artist date
-
-1201 ν May 21, 2025
+1201. anything — Adrianne Lenker : May 21, 2025
 
 1202 ν May 22, 2025
 

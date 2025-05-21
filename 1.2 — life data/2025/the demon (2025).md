@@ -96,6 +96,10 @@ restlessness
 ###### 19
 - day: baseline night: baseline
 - day: *fluoxetine and aripiprazole* , night:
+###### 20
+- day: baseline night: baseline
+- day: *fluoxetine and aripiprazole* , night:
+- sadness/despair(x2), anhedonia(x1), low self-esteem(x3), negativity(x2), guilt/self-blame(x2), self-loathing(x2)
 ## April
 ###### 1
 - day: baseline, night: baseline

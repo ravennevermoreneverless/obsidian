@@ -272,3 +272,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==18 - 21:59== I became Veteran Class 5 in *Pokemon Unite*. Chai's mom went somewhere away so we were left and Chai became kind of busy. We finished ***Sweet Home*** (2020) though. I drank my meds late. I'm going home tomorrow. 
 
 ==19 - 20:31== I was supposed to go home today but ended up didn't. Chai and I played *Pokemon Unite* and watched season 2 of *Sweet Home*. We also took care of her grandma. She was a bit stressed and not feeling well. Her mom came home with lots of food, we ate a lot. It was nice.
+
+==20 - --== It's Chai and I's 9th monthsary. I bleached and dyed her hair. I felt terrible because I'm not really doing a good job. She dyed my hair deep purple, too. We contemplated on going home, but I'm the one who has to. In the end, we went home on a JoyRide car, and her mom didn't speak to us going out. It was a quiet ride, I was almost crying because I felt retarded for the entire day. But she held my hand and slept on my shoulder and I felt calm. We got home tired—we ate, brushed our teeth, pet Cheesecake, then slept abruptly. 
