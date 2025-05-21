@@ -87,6 +87,7 @@
 - [ ] substack written pieces
 - [ ] japanese playlist
 - [ ] install carousel
+- [ ] edit gf video
 
 ## to-buy
 - [ ] antiperspirant
