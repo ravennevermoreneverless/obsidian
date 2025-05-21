@@ -1,7 +1,10 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## ₱ 1,100.02
+## ₱ 787 .02
 
+==May 21== Summit 1L, print 2x, ballprn : <span style="color:#A41C1D">-₱40.00</span>
+==May 21== Go59 load : <span style="color:#A41C1D">-₱60.00</span>
+==May 20== JoyRide car 4-seater contribution from QC to Pasig : <span style="color:#A41C1D">-₱213.00</span>
 ==May 18== TikTok promotion smallest package : <span style="color:#A41C1D">-₱25.00</span>
 ==May 18== Whisper long napkins (w/ wings) + Twin-pack Nescafé Original : <span style="color:#A41C1D">-₱63.00</span>
 ==May 15== Chai's loan to her friend : <span style="color:#A41C1D">-₱70.00</span>
