@@ -1,8 +1,12 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## ₱ 787 .02
+## ₱ 367.27
 
-==May 21== Summit 1L, print 2x, ballprn : <span style="color:#A41C1D">-₱40.00</span>
+==May 21== Mi Goreng (4x) + coffee + creamer : <span style="color:#A41C1D">-₱209.00</span>
+==May 21== Van ride home to San Joaquin from Megamall : <span style="color:#A41C1D">-₱50.00</span>
+==May 21== Life Four Cuts : <span style="color:#A41C1D">-₱100.00</span>
+==May 21== Jeepney ride to Crossing from San Joaquin + Tricycle ride from Crossing to NCMH and back : <span style="color:#A41C1D">-₱97.00</span>
+==May 21== Summit 1L, print 2x, ballpen : <span style="color:#A41C1D">-₱40.00</span>
 ==May 21== Go59 load : <span style="color:#A41C1D">-₱60.00</span>
 ==May 20== JoyRide car 4-seater contribution from QC to Pasig : <span style="color:#A41C1D">-₱213.00</span>
 ==May 18== TikTok promotion smallest package : <span style="color:#A41C1D">-₱25.00</span>
