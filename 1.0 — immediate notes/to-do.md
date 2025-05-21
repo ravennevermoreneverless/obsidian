@@ -48,7 +48,7 @@
 - [x] japanese poems
 - [ ] japanese notes (everything)
 - [ ] gdocs playlist duplicates  
-- [ ] save past tweets (to post on monoquin) (do this on laptop day—entire day)
+- [x] save past tweets (to post on monoquin) (do this on laptop day—entire day)
 - [ ] RYM lists
 - [x] RYM reviews
 - [x] goodreads reviews
