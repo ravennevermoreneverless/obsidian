@@ -1,1 +1,28 @@
-{}
+{
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "colored-text:color-text",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:cut",
+    "editor:copy",
+    "editor:paste",
+    "editor:toggle-bullet-list",
+    "editor:toggle-checklist-status",
+    "editor:toggle-strikethrough",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ]
+}
