@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 — creative projects/raven's brain/poems/song on the beach.md",
+                "file": "5.0 — everything else/monoquin songs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "song on the beach"
+              "title": "monoquin songs"
             }
           }
         ],
@@ -168,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62547ea8a12684f0",
+  "active": "6584745a63fa0815",
   "lastOpenFiles": [
-    "4.0 — indexes/love (index).md",
     "2.2 — creative projects/raven's brain/poems/song on the beach.md",
+    "4.0 — indexes/love (index).md",
     "4.0 — indexes/chai (index).md",
     "4.0 — indexes/personal work (index).md",
     "3.0 — tags/writing.md",
