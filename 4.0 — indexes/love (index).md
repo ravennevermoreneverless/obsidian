@@ -6,6 +6,7 @@
 - [[People are fascinating]] 
 - [[hello pt.10]] 
 - [[her pt. 3 (original version) (and more)]]
+- [[song on the beach]]
 ### my girlfriend
 - [[everything about you, chai.]] 
 - [[hello pt. 8]]

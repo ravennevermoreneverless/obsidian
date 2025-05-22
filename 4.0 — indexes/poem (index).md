@@ -1,6 +1,7 @@
 ### personal works
 - [[free.1]]
 - [[her pt.5]] 
+- [[song on the beach]]
 ### japanese
 #### poem
 - [[2024年4月9日(火) — 和歌1]]
