@@ -107,6 +107,9 @@ restlessness
 - day: slightly manic night: baseline
 - day: *fluoxetine and aripiprazole* , night: 
 - hyperactivity(x2), talkative(x2)
+###### 23
+- day: slightly manic night: baseline
+- day: *fluoxetine and aripiprazole* , night:
 ## April
 ###### 1
 - day: baseline, night: baseline
