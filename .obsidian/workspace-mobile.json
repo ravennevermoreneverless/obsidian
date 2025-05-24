@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7265bdecd7370455",
+        "id": "9fee13afb79a1b1d",
         "type": "tabs",
         "children": [
           {
-            "id": "6584745a63fa0815",
+            "id": "3910b171f5f35db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 — everything else/1000 Hands — Fifth Harmony (chords).md",
+                "file": "relationships school of life.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "1000 Hands — Fifth Harmony (chords)"
+              "title": "relationships school of life"
             }
           }
         ]
@@ -49,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#flashcards/deckA",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -139,6 +149,36 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "886bd9c8b348976f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      },
+      {
+        "id": "8cb3d443fbda8695",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5ff3e22186232513",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
       }
     ],
     "currentTab": 0
@@ -147,15 +187,22 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "62547ea8a12684f0",
+  "active": "3910b171f5f35db6",
   "lastOpenFiles": [
+    "1.0 — immediate notes/tam password.md",
+    "relationships school of life.md",
     "1.0 — immediate notes/to-do.md",
+    "1.0 — immediate notes/flashacrds/hndnsndnsns.md",
+    "hdhshshhshshsjshsh.md",
+    "1.0 — immediate notes/flashacrds",
+    "Recording 20250524230551.m4a",
+    "Recording 20250524230540.m4a",
     "5.0 — everything else/1000 Hands — Fifth Harmony (chords).md",
     "4.0 — indexes/song (index).md",
     "4.0 — indexes/songs (index).md",

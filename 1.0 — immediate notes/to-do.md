@@ -58,7 +58,8 @@
 - [x] chords plugin
 - [ ] chords from tabs guitar 
 - [ ] import reading materials
-- [ ] anki plugin
+- [x] anki plugin
+- [ ] add anki flashcards
 - [x] post on tiktok : song covers & literature writings & old artworks
 - [ ] re-download (spring day - bts) to mp3
 - [ ] re-download (girlfriend - bigbang) to mp3
@@ -91,6 +92,7 @@
 - [ ] prepare art portfolio
 - [ ] prepare for job interviews
 - [ ] take photos of journal pages (every journal)
+- [ ] japanese albums rym list
 ## to-buy
 - [ ] antiperspirant deodorant
 - [ ] feminine wash
