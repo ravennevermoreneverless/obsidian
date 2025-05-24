@@ -55,7 +55,8 @@
 - [x] goodreads reviews
 - [ ] letterboxd reviews
 - [x] backloggd reviews
-- [ ] chords plugin
+- [x] chords plugin
+- [ ] chords from tabs guitar 
 - [ ] import reading materials
 - [ ] anki plugin
 - [x] post on tiktok : song covers & literature writings & old artworks
@@ -78,21 +79,18 @@
 - [ ] tiktok/X/monoquin edits
 - [ ] tarot book
 - [ ] crescendo
+- [ ] evelyn hugo
 - [ ] toriaezu imawa - galileo galilei (cover)
 - [ ] write loki season 2 review
 - [ ] loki season 2 scenes
-- [ ] install "AI Gemini"
 - [ ] rock music genre wikipedia / rock albums
 - [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff
-- [ ] substack written pieces
 - [ ] japanese playlist
-- [ ] install carousel
 - [x] edit gf video
 - [ ] set appointment for UMID ID
 - [ ] prepare art portfolio
 - [ ] prepare for job interviews
 - [ ] take photos of journal pages (every journal)
-- [ ] add (nothing) to all app shortcuts
 ## to-buy
 - [ ] antiperspirant deodorant
 - [ ] feminine wash
