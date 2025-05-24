@@ -87,12 +87,15 @@
 - [ ] substack written pieces
 - [ ] japanese playlist
 - [ ] install carousel
-- [ ] edit gf video
-
+- [x] edit gf video
+- [ ] set appointment for UMID ID
+- [ ] prepare art portfolio
+- [ ] prepare for job interviews
+- [ ] take photos of journal pages (every journal)
+- [ ] add (nothing) to all app shortcuts
 ## to-buy
-- [ ] antiperspirant
+- [ ] antiperspirant deodorant
 - [ ] feminine wash
-- [ ] deodorant
 - [ ] oatmeal soap
 - [ ] mouse (PC)
 - [ ] headphones

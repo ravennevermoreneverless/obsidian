@@ -110,6 +110,10 @@ restlessness
 ###### 23
 - day: slightly manic night: baseline
 - day: *fluoxetine and aripiprazole* , night:
+###### 24
+- day: slightly manic night: baseline
+- day: *fluoxetine and aripiprazole* , night:
+- irritability(x2)
 ## April
 ###### 1
 - day: baseline, night: baseline

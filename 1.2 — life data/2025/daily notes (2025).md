@@ -280,3 +280,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==22 - 23:22== I barely slept today, only 3 hours. I drank 3 servings of coffee today. I set up the iSH Obsidian thing, I was kinda hyperactive. I used the laptop until morning. Then Chai and I went to Estancia to get my National ID but there was none there so I just got the digital copy online then we ate and had a good talk at Jollibee. I was really tired and sleepy when we got home but I still didn't wanna sleep because I'm afraid Chai will leave without telling me.
 
 ==23 - 23:43== I cleaned my closet and arranged my things and put everything inside one large box. I also have a new chair. I was so tired but I still had sex with Chai in the shower. Then we played Pokemon. I talked to Tam about the laptop but he said no.
+
+==24 - 21:22== I helped my dad put the polein my closet, then I arranged my things on the corner of the room. Then me and Chai played Pokemon Unite. While cleaning Cheesecake's poop in the bathroom, I wounded myself on a shaving razor. It hurts. Chai treated the wound. 
