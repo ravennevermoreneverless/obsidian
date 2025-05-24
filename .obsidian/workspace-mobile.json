@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relationships school of life.md",
+                "file": "1.0 — immediate notes/to-do.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "relationships school of life"
+              "title": "to-do"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#flashcards/deckA",
+            "query": "tag:#flashcards/english",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.0 — immediate notes/to-do.md",
+            "file": "1.0 — immediate notes/flashcards/english.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,8 +156,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -172,6 +172,26 @@
       },
       {
         "id": "5ff3e22186232513",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4024a523067e9555",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b142b4c120d9edb0",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
@@ -195,15 +215,20 @@
   },
   "active": "3910b171f5f35db6",
   "lastOpenFiles": [
-    "1.0 — immediate notes/tam password.md",
+    "1.0 — immediate notes/flashcards/english.md",
+    "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf",
+    "5.0 — everything else/bridge to lucy dunne.md",
+    "1.0 — immediate notes/flashcards",
+    "1.2 — life data/journaling/2024/19th of February, 2024 — 23.50 (Mon) ★ Escolta and wanting to kill myself afterwards.md",
+    "5.0 — everything else/1000 Hands — Fifth Harmony (chords).md",
     "relationships school of life.md",
+    "1.0 — immediate notes/tam password.md",
     "1.0 — immediate notes/to-do.md",
     "1.0 — immediate notes/flashacrds/hndnsndnsns.md",
     "hdhshshhshshsjshsh.md",
     "1.0 — immediate notes/flashacrds",
     "Recording 20250524230551.m4a",
     "Recording 20250524230540.m4a",
-    "5.0 — everything else/1000 Hands — Fifth Harmony (chords).md",
     "4.0 — indexes/song (index).md",
     "4.0 — indexes/songs (index).md",
     "4.0 — indexes/chords (index).md",
@@ -219,10 +244,6 @@
     "4.0 — indexes/love (index).md",
     "4.0 — indexes/chai (index).md",
     "4.0 — indexes/personal work (index).md",
-    "3.0 — tags/writing.md",
-    "4.0 — indexes/writing (index).md",
-    "4.0 — indexes/poem (index).md",
-    "5.0 — everything else/Portrait de la jeune fille en feu (Portrait of a Lady on Fire) (2019) dir. Céline Sciamma.md",
-    "5.0 — everything else/(500) Days of Summer (2009) dir. Marc Webb.md"
+    "3.0 — tags/writing.md"
   ]
 }

@@ -57,7 +57,6 @@
 - [x] backloggd reviews
 - [x] chords plugin
 - [ ] chords from tabs guitar 
-- [ ] import reading materials
 - [x] anki plugin
 - [ ] add anki flashcards
 - [x] post on tiktok : song covers & literature writings & old artworks
