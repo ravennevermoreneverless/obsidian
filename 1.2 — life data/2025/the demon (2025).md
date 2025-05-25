@@ -104,16 +104,20 @@ restlessness
 - day: baseline night: baseline
 - day: *fluoxetine and aripiprazole* , night: 
 ###### 22
-- day: slightly manic night: baseline
+- day: slightly manic, night: baseline
 - day: *fluoxetine and aripiprazole* , night: 
 - hyperactivity(x2), talkative(x2)
 ###### 23
-- day: slightly manic night: baseline
+- day: baseline, night: baseline
 - day: *fluoxetine and aripiprazole* , night:
 ###### 24
-- day: slightly manic night: baseline
+- day: baseline, night: baseline
 - day: *fluoxetine and aripiprazole* , night:
 - irritability(x2)
+###### 25
+- day: slightly depressed, night: baseline
+- day: *fluoxetine and aripiprazole* , night:
+- irritability(x2), sadness/despair(x2), guilt/self-blame(x2), anhedonia(x1), negativity(x1), low self-esteem(x1)
 ## April
 ###### 1
 - day: baseline, night: baseline

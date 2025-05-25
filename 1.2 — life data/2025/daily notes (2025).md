@@ -282,3 +282,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==23 - 23:43== I cleaned my closet and arranged my things and put everything inside one large box. I also have a new chair. I was so tired but I still had sex with Chai in the shower. Then we played Pokemon. I talked to Tam about the laptop but he said no.
 
 ==24 - 21:22== I helped my dad put the polein my closet, then I arranged my things on the corner of the room. Then me and Chai played Pokemon Unite. While cleaning Cheesecake's poop in the bathroom, I wounded myself on a shaving razor. It hurts. Chai treated the wound. 
+
+==25 - 23:11== Chai and I played Pokemon Unite then I fixed my portfolio and applied to jobs online. Then I pleasured her. We were about to clean our room but I said I was tired. She said she wasn't in the mood anymore. I felt so bad because she snapped at me but I feel like I'm at fault. I cried while washing dishes. I just wanted to say I'm tired and didn't feel like doing anything. But we ended up still cleaning the room, bathing Cheesecake, and buying dinner. Then we watched *Sweet Home* episode 4. 

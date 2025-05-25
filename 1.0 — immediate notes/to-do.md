@@ -73,7 +73,7 @@
 - [ ] wizard's first rule
 - [ ] aku no hana
 - [x] "first 30-seconds mini melodic orgasms" playlist RYM
-- [ ] "first 30-seconds mini melodic orgasms" playlist reddit
+- [x] "first 30-seconds mini melodic orgasms" playlist reddit
 - [ ] "first 30-seconds mini melodic orgasms" playlist archive account edit
 - [ ] "first 30-seconds mini melodic orgasms" playlist tiktok edit
 - [ ] tiktok/X/monoquin edits
