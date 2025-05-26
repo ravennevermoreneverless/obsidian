@@ -11,24 +11,12 @@
             "id": "3910b171f5f35db6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "5.1 — images stockpile/notes/2018/2018 — notes 2.jpg"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "2018 — notes 2"
             }
           }
         ]
@@ -387,19 +375,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "62547ea8a12684f0",
+  "active": "3910b171f5f35db6",
   "lastOpenFiles": [
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 86.jpg",
+    "5.1 — images stockpile/notes/2018/2018 — notes 1.jpg",
+    "5.1 — images stockpile/notes/2018/2018 — notes 2.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 9.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 6.jpg",
     "README.md",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 95.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 94.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 93.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 92.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 91.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 90.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 89.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 88.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 87.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 7.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 96.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 105.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 104.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 103.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 102.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 101.jpg",
     "5.0 — everything else/気持ち悪い。(all the japanese films i've ever watched).md",
     "1.0 — immediate notes/to-do.md",
     "1.2 — life data/2025/media/books i read (2025).md",
