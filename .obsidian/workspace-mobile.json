@@ -11,12 +11,24 @@
             "id": "3910b171f5f35db6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5.1 — images stockpile/notes/2018/2018 — notes 2.jpg"
+                "file": "1.2 — life data/2025/the demon (2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "2018 — notes 2"
+              "icon": "lucide-file",
+              "title": "the demon (2025)"
             }
           }
         ]
@@ -358,6 +370,56 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "159bd8d07b1e22a0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "abf05f98cbb2635f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9c9656ed5646e14a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ed8f58af920d078c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4c9cc370c57c7c32",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -377,8 +439,13 @@
   },
   "active": "3910b171f5f35db6",
   "lastOpenFiles": [
-    "5.1 — images stockpile/notes/2018/2018 — notes 1.jpg",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "1.0 — immediate notes/tweets.md",
+    "1.0 — immediate notes/to-do.md",
+    "1.0 — immediate notes/habit chronological order.md",
+    "5.0 — everything else/monoquin songs.md",
     "5.1 — images stockpile/notes/2018/2018 — notes 2.jpg",
+    "5.1 — images stockpile/notes/2018/2018 — notes 1.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 9.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 6.jpg",
     "README.md",
@@ -388,19 +455,14 @@
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 104.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 103.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 102.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 101.jpg",
     "5.0 — everything else/気持ち悪い。(all the japanese films i've ever watched).md",
-    "1.0 — immediate notes/to-do.md",
     "1.2 — life data/2025/media/books i read (2025).md",
-    "1.0 — immediate notes/tweets.md",
     "5.0 — everything else/all of my playlists.md",
     "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
     "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
     "1.0 — immediate notes/templates/the ultimate playlist of my life IG caption format.md",
     "1.2 — life data/2025/the demon (2025).md",
-    "1.2 — life data/2025/daily notes (2025).md",
     "5.0 — everything else/possible mashups.md",
-    "5.0 — everything else/monoquin songs.md",
     "1.0 — immediate notes/flashcards/english.md",
     "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf",
     "5.0 — everything else/bridge to lucy dunne.md",

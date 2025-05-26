@@ -1233,8 +1233,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1203. terminal paradise — Adrianne Lenker : May 23, 2025
 1204. Fleeting Frozen Heart — Xxtarlit : May 24, 2025
 1205. Are You In? — Incubus : May 25, 2025
-
-1206 ν May 26, 2025
+1206. Find You — Zedd, Matthew Koma, Miriam Bryant : May 26, 2025
 
 1207 ν May 27, 2025
 

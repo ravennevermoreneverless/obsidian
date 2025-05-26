@@ -284,3 +284,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==24 - 21:22== I helped my dad put the polein my closet, then I arranged my things on the corner of the room. Then me and Chai played Pokemon Unite. While cleaning Cheesecake's poop in the bathroom, I wounded myself on a shaving razor. It hurts. Chai treated the wound. 
 
 ==25 - 23:11== Chai and I played Pokemon Unite then I fixed my portfolio and applied to jobs online. Then I pleasured her. We were about to clean our room but I said I was tired. She said she wasn't in the mood anymore. I felt so bad because she snapped at me but I feel like I'm at fault. I cried while washing dishes. I just wanted to say I'm tired and didn't feel like doing anything. But we ended up still cleaning the room, bathing Cheesecake, and buying dinner. Then we watched *Sweet Home* episode 4. 
+
+==26 - 22:40== Chai and I played Pokemon Unite for almost the entire day. I still applied to a bunch of other jobs. We went to Puregold to buy groceries. I finished taking photos of my journal 1 pages. I feel like dying, kinda. 

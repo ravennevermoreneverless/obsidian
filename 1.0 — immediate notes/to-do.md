@@ -49,7 +49,7 @@
 - [ ] japanese notes (everything)
 - [ ] gdocs playlist duplicates  
 - [x] save past tweets (to post on monoquin) (do this on laptop day—entire day)
-- [ ] save draft tweets to their respective obsidian notes
+- [ ] save instagram captions to their respective obsidian notes
 - [ ] RYM lists
 - [x] RYM reviews
 - [x] goodreads reviews

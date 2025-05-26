@@ -434,3 +434,11 @@ as i lay here wide awake at almost three in the morning next to the love of my l
 
 this moment is all i have. 
 --
+good morning good evening good afternoon abandoners, run-away dog lovers, came-back dog killers, mother rapers, father rapers, brother tapers, and 6foot7foot blonde caucasian females with hard cocks and long eyelashes who are subjected to 5 life prison sentences
+--
+the child inside weeps and thrashes about. "the world is unfair," says the unyielding adult. they turned to the kid laying on the floor with his eyes wet and cheeks red. "you're a grownup now. nothing more can be done."
+--
+like a stale birthday cake left in the refrigerator for several days, i became damp with wet coldness. i meant good intentions at my core self, but somehow the ego desperately yelps out in irritation. it's hard to disidentify with this pain body because i yearn for a future where i am comfortable and free of anxiety—except it only amplifies it. it's like a feedback loop that feeds upon itself.
+--
+would it be unrealistic to have your heart open at all times? or perhaps what's more unrealistic is that we're all closed off? we weren't born with walls around ourselves, we built them with every brick as we age. not saying that's a bad thing, we need a sense of individuality or else we'd risk exposing ourselves to harm. but the walls got too high and we forgot that we were all human, after all, one and the same.
+--
