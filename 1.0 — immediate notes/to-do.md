@@ -74,12 +74,11 @@
 - [ ] aku no hana
 - [x] "first 30-seconds mini melodic orgasms" playlist RYM
 - [x] "first 30-seconds mini melodic orgasms" playlist reddit
-- [ ] "first 30-seconds mini melodic orgasms" playlist archive account edit
-- [ ] "first 30-seconds mini melodic orgasms" playlist tiktok edit
+- [x] "first 30-seconds mini melodic orgasms" playlist archive account edit
 - [ ] tiktok/X/monoquin edits
 - [ ] tarot book
 - [ ] crescendo
-- [ ] evelyn hugo
+- [x] evelyn hugo
 - [ ] toriaezu imawa - galileo galilei (cover)
 - [ ] write loki season 2 review
 - [ ] loki season 2 scenes
@@ -88,7 +87,7 @@
 - [ ] japanese playlist
 - [x] edit gf video
 - [ ] set appointment for UMID ID
-- [ ] prepare art portfolio
+- [x] prepare art portfolio
 - [ ] prepare for job interviews
 - [ ] take photos of journal pages (every journal)
 - [ ] japanese albums rym list

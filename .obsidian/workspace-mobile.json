@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the ultimate playlist of my life RYM list format"
+              "title": "README"
             }
           }
         ]
@@ -300,6 +300,76 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c49c4e7a9019277d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "690bce8087f06c3a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b5994e3c2432a9fb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7eb881e640b04a43",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f70c11ece2dede4c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "82abce9267dcfa07",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "dfe20630c0be15dd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -317,15 +387,28 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3910b171f5f35db6",
+  "active": "62547ea8a12684f0",
   "lastOpenFiles": [
+    "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
+    "README.md",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 66.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 63.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 67.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 8.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 7.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 6.jpg",
+    "5.0 — everything else/気持ち悪い。(all the japanese films i've ever watched).md",
+    "1.0 — immediate notes/to-do.md",
+    "1.2 — life data/2025/media/books i read (2025).md",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/all of my playlists.md",
+    "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
+    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
     "1.0 — immediate notes/templates/the ultimate playlist of my life IG caption format.md",
     "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/2025/daily notes (2025).md",
     "5.0 — everything else/possible mashups.md",
     "5.0 — everything else/monoquin songs.md",
-    "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
-    "1.0 — immediate notes/to-do.md",
     "1.0 — immediate notes/flashcards/english.md",
     "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf",
     "5.0 — everything else/bridge to lucy dunne.md",
@@ -342,13 +425,6 @@
     "4.0 — indexes/song (index).md",
     "4.0 — indexes/songs (index).md",
     "4.0 — indexes/chords (index).md",
-    "3.0 — tags/song.md",
-    "3.0 — tags/chords.md",
-    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
-    "1.2 — life data/playlists/scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit.md",
-    "1.2 — life data/2023/daily notes (2023).md",
-    "2.2 — creative projects/raven's brain/poems/song on the beach.md",
-    "4.0 — indexes/love (index).md",
-    "4.0 — indexes/chai (index).md"
+    "3.0 — tags/song.md"
   ]
 }

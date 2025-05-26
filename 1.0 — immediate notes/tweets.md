@@ -426,3 +426,11 @@ mind on Hyperdrive;; i can see the World as it is & it's coming at me all At onc
 --
 your childhood traumas got a certain way of running to you at 4000 km/h, slam at you full-body force with 5 million metric tons, when you're finally peaceful and defenseless, and honestly?
 --
+just because you've felt the purest love with someone, doesn't necessarily mean you'd get to spend the rest of your life with them. 
+
+reading "the seven husbands of evelyn hugo" taught me that possibility. and i think that's one of the biggest tragedies life can ever offer.
+
+as i lay here wide awake at almost three in the morning next to the love of my life, with that thought, i can't help but get choked up with tears about the uncertainty of it all. who knows what's going to happen next? who knows if our love still continues to bloom into tomorrow?
+
+this moment is all i have. 
+--
