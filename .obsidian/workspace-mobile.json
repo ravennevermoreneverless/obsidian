@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2 — life data/2025/the demon (2025).md",
+                "file": "1.0 — immediate notes/tweets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the demon (2025)"
+              "title": "tweets"
             }
           }
         ]
@@ -420,6 +420,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c2b272b03569e284",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -439,6 +449,7 @@
   },
   "active": "3910b171f5f35db6",
   "lastOpenFiles": [
+    "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/2025/daily notes (2025).md",
     "1.0 — immediate notes/tweets.md",
     "1.0 — immediate notes/to-do.md",
@@ -461,7 +472,6 @@
     "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
     "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
     "1.0 — immediate notes/templates/the ultimate playlist of my life IG caption format.md",
-    "1.2 — life data/2025/the demon (2025).md",
     "5.0 — everything else/possible mashups.md",
     "1.0 — immediate notes/flashcards/english.md",
     "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf",

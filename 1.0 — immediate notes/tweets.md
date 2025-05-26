@@ -442,3 +442,34 @@ like a stale birthday cake left in the refrigerator for several days, i became d
 --
 would it be unrealistic to have your heart open at all times? or perhaps what's more unrealistic is that we're all closed off? we weren't born with walls around ourselves, we built them with every brick as we age. not saying that's a bad thing, we need a sense of individuality or else we'd risk exposing ourselves to harm. but the walls got too high and we forgot that we were all human, after all, one and the same.
 --
+i started finally facing the real world. it looks bleak and dry. it's plastic and not available for growth. everyone's running around to places they don't want to be. i'm starting to wonder what i really want, after all. and when i think about it, all the reason i can think of is you. i'm doing all of this for you.
+--
+i'm not aware of a lot of things, but i'm aware that's a bad thing. this tends to hurt others, a detriment to myself too, i have spines growing on my back. they grow in length, and i have to cut them off with scissors every night. but you know, i'd rather make it a habit to snap those things out of my back just so i can love others properly, the way they need to be. i'm willing to go through anything, even keeping my eyes open while it hurts to do so, as it tears me apart, just so i can love. i was born to love, i think. no, i believe so. if there's no love, my life has no purpose anymore. so for the next year, that's what i'll keep in mind. that's what i look forward to. that's the reason i wake up every single day. that's the reason i breathe.
+--
+the path with the least vines and the sunlight peaking through the trees seems to be the most familiar, yet it's getting very distant now. before i knew it, tears were running down my cheeks and i'd still find ways to blame myself even after everything. and perhaps we weren't meant for this, right from the start.
+--
+i stop on my tracks and realized how ephemeral and fleeting everything is. as if blown by the wind gently, it all passes by fairly swiftly. it fills me with inexplicable sadness.  whatever i do or say now, it bears little weight in the grand scheme of things. this anxiety? gone by tomorrow. this self-loathing? gone by the few decades. this fucked up life? gone by the next lifetime. i'm a tiny speck of dust in a gigantic universe shifting and overturning. if nothing matters, does that really fucking matter then?
+--
+the lights are flashing and my eyes zoom past the barriers. i'm feeling fast and my hands are clutching the wheels. it's over—it's completely over but i'm still on hyperdrive. nothing seems to matter but the earth's my oyster. it's inside me because i swallowed it up whole. 35 degrees to the right and i can clutch my handgun; it's all so easy. but i have starry-eyes and i feel fucking fantastic.
+--
+the haunting of the glass globe resonates along the area—it echoes, and it appears as a shitty white spot in the night sky.
+--
+are humans truly capable of god-level understanding and patience? i'm trying to unlock that potential yet this ego shit keeps pulling at my heart and sheds uncontrollable emotions. perhaps the sooner i can accept that the human is limited, the better i can handle slight twinges of the soul.
+--
+is this the life i'm bound to live? 
+will i waste my time hoping for transcendence?
+the surpassing of human limitation? 
+when will i finally accept the fact that i cannot be god?
+--
+i was planning on dying yesterday, that fact was not a lie. but i couldn't find a paper to write my last message on and i didn't want the inconvenience of bringing a large jug of water to wash down all the pills i plan on drinking. and what could i have said? "i'm sorry i'm worthless" or some shit. what good would that do? i felt so terrible for existing because i was capable of hurting others, and i didn't want that. i was probably really really selfish to choose being alive and to hug my girlfriend even if that may be the last, but i did just that anyways. i hugged her and i cried. hard. even though i felt so terrible for even crying, i couldn't stop it. my head hurt for fighting myself from ending it all and i felt scared how much i could've done it actually.
+--
+dear gods, if you take my soul tonight, i just want to let you know that i paved the way for you to come and get it. this is not your will but i willed you. it was inevitable.
+--
+it suddenly got quiet, i could almost hear the crickets in a cricket-less city of fools. the stars were shouting brightly and i couldn't keep my eyes off the bathroom wall. words got caught up in my throat, where the hell was the ketchup bottle?
+--
+heaven said to go away
+heaven said to take a break
+heaven said i want a way
+the kid gazes at the top of the mountain;
+the future seems so far away but it will have thunderstorms and forests filled with snakes
+--
