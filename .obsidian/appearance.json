@@ -1,7 +1,8 @@
 {
-  "accentColor": "#b51a00",
+  "accentColor": "#831100",
   "interfaceFontFamily": "Courier",
   "textFontFamily": "Courier",
   "monospaceFontFamily": "Courier",
-  "baseFontSize": 13
+  "baseFontSize": 11,
+  "cssTheme": "RetroOS 98"
 }

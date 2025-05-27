@@ -1234,8 +1234,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1204. Fleeting Frozen Heart — Xxtarlit : May 24, 2025
 1205. Are You In? — Incubus : May 25, 2025
 1206. Find You — Zedd, Matthew Koma, Miriam Bryant : May 26, 2025
-
-1207 ν May 27, 2025
+1207. 400 Lux — Lorde : May 27, 2025
 
 1208 ν May 28, 2025
 
