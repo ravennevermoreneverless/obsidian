@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/tweets.md",
+                "file": "5.0 — everything else/Aoi Shiori — Galileo Galilei (chords).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tweets"
+              "title": "Aoi Shiori — Galileo Galilei (chords)"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4.0 — indexes/chords (index).md",
+            "file": "5.0 — everything else/Aoi Shiori — Galileo Galilei (chords).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -510,6 +510,66 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "997caf407e5045f5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8c98bf30fed3969d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6b4bc6b7590983a0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e3d65d95c6f78670",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "89aaee4c1ed5ef22",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "12038756abef7028",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -529,10 +589,25 @@
   },
   "active": "292b8be8d4c95039",
   "lastOpenFiles": [
-    "1.2 — life data/2025/daily notes (2025).md",
     "4.0 — indexes/chords (index).md",
-    "5.0 — everything else/All My Heart — Sleeping With Sirens (chords).md",
+    "5.0 — everything else/Bridges — Fifth Harmony (chords).md",
+    "5.0 — everything else/Backseat Serenade — All Time Low (chords).md",
     "4.0 — indexes/song (index).md",
+    "5.0 — everything else/Buloy — Parokya Ni Edgar (chords).md",
+    "5.0 — everything else/Broken — Secondhand Serenade (chords).md",
+    "5.0 — everything else/Breakeven — The Script (chords).md",
+    "1.2 — life data/2025/the demon (2025).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.0 — everything else/Boulevard of Broken Dreams — Green Day (chords).md",
+    "5.0 — everything else/Better Off Dead — Sleeping With Sirens (chords).md",
+    "5.0 — everything else/Bata Dahan-Dahan — IV Of Spades (chords).md",
+    "5.0 — everything else/Baby Blue Eyes — A Rocket to the Moon (chords).md",
+    "5.0 — everything else/Awake and Alive — Skillet (chords).md",
+    "5.0 — everything else/Araw-Araw — Ben&Ben (chords).md",
+    "5.0 — everything else/Aoi Shiori — Galileo Galilei (chords).md",
+    "1.0 — immediate notes/to-do.md",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/All My Heart — Sleeping With Sirens (chords).md",
     "5.0 — everything else/All These Years — Camila Cabello (chords).md",
     "5.0 — everything else/Time Adventure — Adventure Time (chords).md",
     "5.0 — everything else/What Was Missing — Adventure Time (chords).md",
@@ -540,31 +615,16 @@
     "5.0 — everything else/monoquin songs.md",
     "5.0 — everything else/Remember You — Adventure Time (chords).md",
     "4.0 — indexes/songs (index).md",
-    "5.0 — everything else/I'm Just Your Problem — Adventure Time (chords).md",
-    "5.0 — everything else/Everything Stays — Adventure Time (chords).md",
-    "5.0 — everything else/All Gummed Up Inside — Adventure Time (chords).md",
-    "5.0 — everything else/A Twist In My Story — Secondhand Serenade (chords).md",
-    "5.0 — everything else/A Trophy Fathers Trophy Son — Sleeping With Sirens (chords).md",
-    "5.0 — everything else/A Thousand Years — Christina Perri (chords).md",
-    "5.0 — everything else/A Sky Full of Stars — Coldplay (chords).md",
-    "1.0 — immediate notes/to-do.md",
-    "5.0 — everything else/1000 Hands — Fifth Harmony (chords).md",
-    "1.0 — immediate notes/tweets.md",
-    "1.2 — life data/2025/the demon (2025).md",
-    "1.0 — immediate notes/habit chronological order.md",
     "5.1 — images stockpile/notes/2018/2018 — notes 2.jpg",
     "5.1 — images stockpile/notes/2018/2018 — notes 1.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 9.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 6.jpg",
-    "README.md",
     "5.1 — images stockpile/art/2018/2018 — sketch 7.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 96.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 105.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 104.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 103.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 102.jpg",
-    "5.0 — everything else/気持ち悪い。(all the japanese films i've ever watched).md",
-    "1.2 — life data/2025/media/books i read (2025).md",
     "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf",
     "1.0 — immediate notes/flashcards",
     "1.0 — immediate notes/flashacrds",

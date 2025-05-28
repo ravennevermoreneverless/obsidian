@@ -6,7 +6,7 @@
   "showInstrumentControl": true,
   "debug": false,
   "defaultInstrument": "guitar",
-  "diagramWidth": 85,
+  "diagramWidth": 68,
   "autoscrollDefaultSpeed": 10,
   "showAutoscrollButton": "chord-blocks",
   "blockLanguageSpecifier": "chords",

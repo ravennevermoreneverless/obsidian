@@ -286,3 +286,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==25 - 23:11== Chai and I played Pokemon Unite then I fixed my portfolio and applied to jobs online. Then I pleasured her. We were about to clean our room but I said I was tired. She said she wasn't in the mood anymore. I felt so bad because she snapped at me but I feel like I'm at fault. I cried while washing dishes. I just wanted to say I'm tired and didn't feel like doing anything. But we ended up still cleaning the room, bathing Cheesecake, and buying dinner. Then we watched *Sweet Home* episode 4. 
 
 ==26 - 22:40== Chai and I played Pokemon Unite for almost the entire day. I still applied to a bunch of other jobs. We went to Puregold to buy groceries. I finished taking photos of my journal 1 pages. I feel like dying, kinda. 
+
+==27 - --== Chai and I played Pokemon Unite in the morning. I played Corpse Party (finished chapter 2). We took a bath. Then I cried myself to sleep while Chai has her back on me.
