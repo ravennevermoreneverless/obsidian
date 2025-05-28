@@ -288,3 +288,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==26 - 22:40== Chai and I played Pokemon Unite for almost the entire day. I still applied to a bunch of other jobs. We went to Puregold to buy groceries. I finished taking photos of my journal 1 pages. I feel like dying, kinda. 
 
 ==27 - --== Chai and I played Pokemon Unite in the morning. I played Corpse Party (finished chapter 2). We took a bath. Then I cried myself to sleep while Chai has her back on me.
+
+==28 - --== Chai and I played Pokemon Unite while eating breakfast. Then we immediately prepared to go to Ate Jen's pageant, we all took turns shitting in the bathroom. The event was really long and I almost lost my voice but it was fun—Ate Jen got first runner-up. I smelled like beef, though. Then we drank at Ate Jen's until morning. 

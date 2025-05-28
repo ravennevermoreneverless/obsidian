@@ -122,6 +122,9 @@ restlessness
 - day: slightly depressed, night: moderately depressed
 - day: *fluoxetine and aripiprazole* , night:
 - negativity(x2), suicidal thoughts(x1), sadness/despair(x2), self-loathing(x2), loneliness(x1)
+###### 28
+- day: slightly depressed, night: moderately depressed
+- day: *fluoxetine and aripiprazole* , night:
 ## April
 ###### 1
 - day: baseline, night: baseline

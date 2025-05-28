@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 — everything else/Aoi Shiori — Galileo Galilei (chords).md",
+                "file": "5.0 — everything else/Fire — TAEYEON (chords).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Aoi Shiori — Galileo Galilei (chords)"
+              "title": "Fire — TAEYEON (chords)"
             }
           }
         ]
@@ -570,6 +570,46 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2849cfa99832e45d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "005700a0609d4263",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7871fbdae576a882",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "549a39a878648c92",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -589,32 +629,32 @@
   },
   "active": "292b8be8d4c95039",
   "lastOpenFiles": [
+    "4.0 — indexes/song (index).md",
     "4.0 — indexes/chords (index).md",
+    "5.0 — everything else/Fire — TAEYEON (chords).md",
+    "5.0 — everything else/fin the long and untold story of how i know it's meant to be — Origami Angel (chords).md",
+    "5.0 — everything else/Fall For You — Secondhand Serenade (chords).md",
+    "5.0 — everything else/Everything Has Changed — Taylor Swift, Ed Sheeran (chords).md",
+    "5.0 — everything else/Eroplanong Papel — December Avenue (chords).md",
+    "5.0 — everything else/Emergency — Paramore (chords).md",
+    "5.0 — everything else/Drown — Bring Me The Horizon (chords).md",
+    "5.0 — everything else/Di Naging Tayo — Sleep Alley (chords).md",
+    "5.0 — everything else/Decode — Paramore (chords).md",
+    "5.0 — everything else/Dahan — December Avenue (chords).md",
+    "1.0 — immediate notes/to-do.md",
+    "1.2 — life data/2025/the demon (2025).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.0 — everything else/Aoi Shiori — Galileo Galilei (chords).md",
     "5.0 — everything else/Bridges — Fifth Harmony (chords).md",
     "5.0 — everything else/Backseat Serenade — All Time Low (chords).md",
-    "4.0 — indexes/song (index).md",
     "5.0 — everything else/Buloy — Parokya Ni Edgar (chords).md",
     "5.0 — everything else/Broken — Secondhand Serenade (chords).md",
     "5.0 — everything else/Breakeven — The Script (chords).md",
-    "1.2 — life data/2025/the demon (2025).md",
-    "1.2 — life data/2025/daily notes (2025).md",
     "5.0 — everything else/Boulevard of Broken Dreams — Green Day (chords).md",
     "5.0 — everything else/Better Off Dead — Sleeping With Sirens (chords).md",
     "5.0 — everything else/Bata Dahan-Dahan — IV Of Spades (chords).md",
     "5.0 — everything else/Baby Blue Eyes — A Rocket to the Moon (chords).md",
     "5.0 — everything else/Awake and Alive — Skillet (chords).md",
-    "5.0 — everything else/Araw-Araw — Ben&Ben (chords).md",
-    "5.0 — everything else/Aoi Shiori — Galileo Galilei (chords).md",
-    "1.0 — immediate notes/to-do.md",
-    "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/All My Heart — Sleeping With Sirens (chords).md",
-    "5.0 — everything else/All These Years — Camila Cabello (chords).md",
-    "5.0 — everything else/Time Adventure — Adventure Time (chords).md",
-    "5.0 — everything else/What Was Missing — Adventure Time (chords).md",
-    "5.0 — everything else/Slow Dance With You — Adventure Time (chords).md",
-    "5.0 — everything else/monoquin songs.md",
-    "5.0 — everything else/Remember You — Adventure Time (chords).md",
-    "4.0 — indexes/songs (index).md",
     "5.1 — images stockpile/notes/2018/2018 — notes 2.jpg",
     "5.1 — images stockpile/notes/2018/2018 — notes 1.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 9.jpg",
