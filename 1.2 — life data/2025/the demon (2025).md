@@ -125,6 +125,9 @@ restlessness
 ###### 28
 - day: slightly depressed, night: moderately depressed
 - day: *fluoxetine and aripiprazole* , night:
+###### 28
+- day: moderately depressed, night: moderately depressed
+- day: , night:
 ## April
 ###### 1
 - day: baseline, night: baseline

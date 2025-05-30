@@ -1,6 +1,6 @@
 [b][color]Anino[/color #FE9696][/b] [color #D20000]★[/color #D20000] [i]Up Dharma Down[/i] 
 
-[tt][color #FE9696] 2 packs of mac & cheese, street foods under the thunderstorm, shuri, x-men by biyo, elon musk poser "the love of my life", AI gemini in japanese, loki season 2 and the multiverse, waiting for it to blow over and rise with contempt,  resetting obsidian git on iOS, dyeing our hair red and purple, car ride back home with just hand holding and teary eyes, WFH not feasible, applying for jobs and cleaning our room, [/color #FE9696][/tt]
+[tt][color #FE9696] 2 packs of mac & cheese, street foods under the thunderstorm, shuri, x-men by biyo, elon musk poser "the love of my life", AI gemini in japanese, loki season 2 and the multiverse, waiting for it to blow over and rise with contempt,  resetting obsidian git on iOS, dyeing our hair red and purple, car ride back home with just hand holding and teary eyes, WFH not feasible, applying for jobs and cleaning our room, ate jen's pageant is a scam, rainy forest by tosama beats, feeling like shit all the time, lower self-esteem, 40 job applications [/color #FE9696][/tt]
 
 [color #D20000]｡･:*:･ﾟ★,｡･:*:･ﾟ☆[/color #D20000] 
 

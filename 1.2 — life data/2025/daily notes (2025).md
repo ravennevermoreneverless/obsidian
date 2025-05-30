@@ -290,3 +290,7 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==27 - --== Chai and I played Pokemon Unite in the morning. I played Corpse Party (finished chapter 2). We took a bath. Then I cried myself to sleep while Chai has her back on me.
 
 ==28 - --== Chai and I played Pokemon Unite while eating breakfast. Then we immediately prepared to go to Ate Jen's pageant, we all took turns shitting in the bathroom. The event was really long and I almost lost my voice but it was fun—Ate Jen got first runner-up. I smelled like beef, though. Then we drank at Ate Jen's until morning. 
+
+==29 - 21:44== We all woke up when everyone's getting ready. We ate breakfast and went with ate Jen to her solo photoshoot. I stayed outside and I felt useless. Anyway, we went back to their house, played *Roblox*, watched ***Until Dawn***, ate fried chicken, then went to sleep. 
+
+==30 - 23:02== We all woke up talking and laughing. I had a blood stain on my ass because of my period. It was pretty uncomfortable. After eating breakfast, me and Chai went home. I posted art commissions notice on all my social media accounts—so far, I have no commission messages. A graphic design job position company reached out to me. Chai and I watched ***Butterfly Kisses*** (2018) then had a talk about our family.

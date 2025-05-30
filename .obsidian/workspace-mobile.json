@@ -24,7 +24,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
@@ -660,6 +660,96 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "95fb34bad1b90d5a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "64a144655bbd7191",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "02b30f4eeb263b19",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "76dea4c29cbd424e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "59e31278347fc2d1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "06b96fbf32157502",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "122cf78e757c9d04",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f16ec18302f02c9b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "75d3e8282cfb4fe1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -680,41 +770,42 @@
   "active": "62547ea8a12684f0",
   "lastOpenFiles": [
     "4.0 — indexes/song (index).md",
-    "5.0 — everything else/Just Like You — Falling in Reverse (chords).md",
+    "5.0 — everything else/さよならくちびる — ハルレオ (chords).md",
     "4.0 — indexes/chords (index).md",
-    "5.0 — everything else/House of Gold — Twenty One Pilots (chords).md",
-    "5.0 — everything else/High Above The Ground — Daughtry (chords).md",
-    "5.0 — everything else/Hero — Skillet (chords).md",
-    "5.0 — everything else/Mundo — IV of Spades (chords).md",
-    "5.0 — everything else/Masyado Pang Maaga — Ben&Ben (chords).md",
-    "5.0 — everything else/Madness — Sleeping With Sirens (chords).md",
-    "5.0 — everything else/Let Her Go — Passenger (chords).md",
-    "5.0 — everything else/La Vie En Rose — Louis Armstrong (chords).md",
-    "5.0 — everything else/Kung Di Rin Lang Ikaw — December Avenue (chords).md",
-    "4.0 — indexes/songs (index).md",
-    "5.0 — everything else/It's Not Over — Secondhand Serenade (chords).md",
-    "5.0 — everything else/I'm Not A Vampire — Falling in Reverse (chords).md",
-    "5.0 — everything else/Ignorance — Paramore (chords).md",
-    "5.0 — everything else/If You Ever Come Back — The Script (chords).md",
-    "5.0 — everything else/Help — Pink Guy (chords).md",
-    "5.0 — everything else/Half Alive — Secondhand Serenade (chords).md",
-    "5.0 — everything else/Halaga — Parokya Ni Edgar (chords).md",
-    "5.0 — everything else/Go Go Go — Sleeping With Sirens (chords).md",
-    "5.0 — everything else/Girls — The 1975 (chords).md",
-    "5.0 — everything else/For The First Time — The Script (chords).md",
-    "5.0 — everything else/Fly — Sleeping With Sirens (chords).md",
-    "5.0 — everything else/Fix You — Coldplay (chords).md",
-    "5.0 — everything else/Fire — TAEYEON (chords).md",
+    "5.0 — everything else/You'll Be Safe Here — Rivermaya (chords).md",
+    "5.0 — everything else/Yellow — Coldplay (chords).md",
+    "5.0 — everything else/Wonderwall — Oasis (chords).md",
+    "5.1 — images stockpile/others/What Makes You Beautiful — One Direction (strumming).jpg",
+    "5.0 — everything else/What Makes You Beautiful — One Direction (chords).md",
+    "5.0 — everything else/Welcome To My Life — Simple Plan (chords).md",
+    "5.0 — everything else/Weightless — All Time Low (chords).md",
+    "3.0 — tags/songs.md",
+    "5.0 — everything else/Vulnerable — Secondhand Serenad (chords).md",
+    "5.0 — everything else/Time Lapse — TAEYEON (chords).md",
+    "5.0 — everything else/This Guy's In Love With You Pare — Parokya Ni Edgar (chords).md",
+    "5.0 — everything else/The Scientist — Coldplay (chords).md",
+    "5.0 — everything else/The Only Exception — Paramore (chords).md",
+    "5.0 — everything else/The Drug In Me Is You — Falling In Reverse (chords).md",
+    "5.0 — everything else/The Man Who Can't Be Moved — The Script (chords).md",
+    "5.0 — everything else/The Day You Said Goodnight — Hale (chords).md",
+    "5.0 — everything else/That's What You Get — Paramore (chords).md",
+    "5.0 — everything else/Story Of My Life — One Direction (chords).md",
+    "5.0 — everything else/Somewhere in Neverland — All Time Low (chords).md",
+    "5.0 — everything else/Perfect — Simple Plan (chords).md",
+    "5.0 — everything else/One Thing — One Direction (chords).md",
+    "5.1 — images stockpile/others/Somewhere in Neverland — All Time Low (strumming).jpg",
+    "5.0 — everything else/Somebody Else — The 1975 (chords).md",
+    "5.0 — everything else/Scene One - James Dean and Audrey Hepburn (chords).md",
+    "5.0 — everything else/Scene Four - Don't You Ever Forget About Me — Sleeping With Sirens (chords).md",
+    "5.1 — images stockpile/others/Perfect — Simple Plan (strumming).jpg",
+    "5.1 — images stockpile/others/One Thing — One Direction (strumming).jpg",
+    "5.1 — images stockpile/others/No Good In Goodbye — The Script (strumming pattern).jpg",
+    "5.1 — images stockpile/others",
     "5.1 — images stockpile/notes/2018/2018 — notes 2.jpg",
     "5.1 — images stockpile/notes/2018/2018 — notes 1.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 9.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 6.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 7.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 96.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 105.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 104.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 103.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 102.jpg",
     "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf",
     "1.0 — immediate notes/flashcards",
     "1.0 — immediate notes/flashacrds",
