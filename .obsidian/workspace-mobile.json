@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.0 — indexes/chords (index).md",
+                "file": "1.2 — life data/2025/the demon (2025).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "chords (index)"
+              "title": "the demon (2025)"
             }
           }
         ]
@@ -750,6 +750,212 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6d50b1f1952c4be1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "5.0 — everything else/monoquin songs.md",
+            "mode": "source",
+            "source": false,
+            "backlinks": true,
+            "backlinkOpts": {
+              "collapseAll": false,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          },
+          "icon": "lucide-file",
+          "title": "monoquin songs"
+        }
+      },
+      {
+        "id": "176bec229eac4fa4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.0 — immediate notes/tweets.md",
+            "mode": "source",
+            "source": false,
+            "backlinks": true,
+            "backlinkOpts": {
+              "collapseAll": false,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          },
+          "icon": "lucide-file",
+          "title": "tweets"
+        }
+      },
+      {
+        "id": "c3a0f894d7325207",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b9e9e2a48d8be400",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4.0 — indexes/journal (index).md",
+            "mode": "source",
+            "source": false,
+            "backlinks": true,
+            "backlinkOpts": {
+              "collapseAll": false,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          },
+          "icon": "lucide-file",
+          "title": "journal (index)"
+        }
+      },
+      {
+        "id": "4fd713b36c28d5bf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a16ed9b8dfeeae30",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1d23f9bfed759626",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "490ed902dfc0579a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.2 — life data/2025/media/films i watched (2025).md",
+            "mode": "source",
+            "source": false,
+            "backlinks": true,
+            "backlinkOpts": {
+              "collapseAll": false,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          },
+          "icon": "lucide-file",
+          "title": "films i watched (2025)"
+        }
+      },
+      {
+        "id": "f54392aa0243bb53",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "71b140bf8f138bfc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2870b51d97d7a511",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6ad4fc2f31772159",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "16a07583edfb29d9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5454b8cd98520d74",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e0e291d8f5549fc0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -767,11 +973,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "62547ea8a12684f0",
+  "active": "292b8be8d4c95039",
   "lastOpenFiles": [
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.0 — everything else/sensory things that make me wanna rip my scalp and chew my teeth off.md",
+    "1.2 — life data/journaling/2022/7th of January, 2022 ★ presenting a philosophy speech anxiously, how to never be tired.md",
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "1.0 — immediate notes/to-do.md",
+    "1.2 — life data/2025/the demon (2025).md",
+    "1.2 — life data/2025/media/films i watched (2025).md",
+    "4.0 — indexes/journal (index).md",
+    "1.2 — life data/journaling/2018/12th of February, 2018 — 22.39 (Mon) ★ I know I've been a jerk to you but you didn't have to rub it in.md",
+    "1.2 — life data/journaling/2018/2018 ★ Welcome to the 70th page of this SHIT journal.md",
+    "1.2 — life data/journaling/2018/11th of February, 2018 — 21.40 (Sun) ★ festival day at pateros.md",
+    "1.2 — life data/journaling/2018/10th of February, 2018 — 22.03 (Sat) ★ last page of journal part 2.md",
+    "1.2 — life data/journaling/2020/8th of June, 2020 ★ why am i even depressed.md",
+    "8th of June, 2020 ★ why am i even depressed?.md",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/monoquin songs.md",
+    "4.0 — indexes/chords (index).md",
     "4.0 — indexes/song (index).md",
     "5.0 — everything else/さよならくちびる — ハルレオ (chords).md",
-    "4.0 — indexes/chords (index).md",
     "5.0 — everything else/You'll Be Safe Here — Rivermaya (chords).md",
     "5.0 — everything else/Yellow — Coldplay (chords).md",
     "5.0 — everything else/Wonderwall — Oasis (chords).md",
@@ -780,23 +1002,7 @@
     "5.0 — everything else/Welcome To My Life — Simple Plan (chords).md",
     "5.0 — everything else/Weightless — All Time Low (chords).md",
     "3.0 — tags/songs.md",
-    "5.0 — everything else/Vulnerable — Secondhand Serenad (chords).md",
-    "5.0 — everything else/Time Lapse — TAEYEON (chords).md",
-    "5.0 — everything else/This Guy's In Love With You Pare — Parokya Ni Edgar (chords).md",
-    "5.0 — everything else/The Scientist — Coldplay (chords).md",
-    "5.0 — everything else/The Only Exception — Paramore (chords).md",
-    "5.0 — everything else/The Drug In Me Is You — Falling In Reverse (chords).md",
-    "5.0 — everything else/The Man Who Can't Be Moved — The Script (chords).md",
-    "5.0 — everything else/The Day You Said Goodnight — Hale (chords).md",
-    "5.0 — everything else/That's What You Get — Paramore (chords).md",
-    "5.0 — everything else/Story Of My Life — One Direction (chords).md",
-    "5.0 — everything else/Somewhere in Neverland — All Time Low (chords).md",
-    "5.0 — everything else/Perfect — Simple Plan (chords).md",
-    "5.0 — everything else/One Thing — One Direction (chords).md",
     "5.1 — images stockpile/others/Somewhere in Neverland — All Time Low (strumming).jpg",
-    "5.0 — everything else/Somebody Else — The 1975 (chords).md",
-    "5.0 — everything else/Scene One - James Dean and Audrey Hepburn (chords).md",
-    "5.0 — everything else/Scene Four - Don't You Ever Forget About Me — Sleeping With Sirens (chords).md",
     "5.1 — images stockpile/others/Perfect — Simple Plan (strumming).jpg",
     "5.1 — images stockpile/others/One Thing — One Direction (strumming).jpg",
     "5.1 — images stockpile/others/No Good In Goodbye — The Script (strumming pattern).jpg",

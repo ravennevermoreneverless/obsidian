@@ -1,6 +1,11 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## ₱ 367.27
+## ₱ 2,278.34
+
+==June 1== Bought Antiperspirant Deodorant : <span style="color:#A41C1D">-₱181.80</span>
+==June 1== Paid off GLoan debt : <span style="color:#A41C1D">-₱453.16</span>
+==June 1== Loaned money from GCash : <span style="color:#29A833">₱2910.00</span>
+## June
 
 ==May 21== Mi Goreng (4x) + coffee + creamer : <span style="color:#A41C1D">-₱209.00</span>
 ==May 21== Van ride home to San Joaquin from Megamall : <span style="color:#A41C1D">-₱50.00</span>

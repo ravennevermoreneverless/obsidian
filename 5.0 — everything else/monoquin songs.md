@@ -1235,14 +1235,10 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1205. Are You In? — Incubus : May 25, 2025
 1206. Find You — Zedd, Matthew Koma, Miriam Bryant : May 26, 2025
 1207. 400 Lux — Lorde : May 27, 2025
-
-1208 ν May 28, 2025
-
-1209 ν May 29, 2025
-
-1210 ν May 30, 2025
-
-1211 ν May 31, 2025
+1208. 3cheers — 8485 : May 28, 2025
+1209. Backwards — Parannoul : May 29, 2025
+1210. Dreamcatching — Magdalena Bay : May 30, 2025
+1211. Blind to you — Aimer : May 31, 2025
 
 1212 ν June 1, 2025
 

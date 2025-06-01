@@ -33,6 +33,13 @@ aggressive impulses
 psychosis
 depersonalization/derealization
 restlessness
+
+## June
+
+###### 1
+- day: baseline, night: baseline
+- day: *fluoxetine and aripiprazole* , night:
+- sadness/despair(x1), low self-esteem(x2)
 ## May
 ###### 1
 - day: baseline, night: baseline
@@ -125,9 +132,13 @@ restlessness
 ###### 28
 - day: slightly depressed, night: moderately depressed
 - day: *fluoxetine and aripiprazole* , night:
-###### 28
+###### 29
 - day: moderately depressed, night: moderately depressed
 - day: , night:
+###### 31
+- day: slightly manic, night: moderately manic
+- day: *fluoxetine and aripiprazole* , night:
+- talkative(x2), flight of ideas(x1), grandiosity(x1), over-optimism(x3), hyperactivity(x2), anhedonia(x2)
 ## April
 ###### 1
 - day: baseline, night: baseline

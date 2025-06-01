@@ -294,3 +294,9 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==29 - 21:44== We all woke up when everyone's getting ready. We ate breakfast and went with ate Jen to her solo photoshoot. I stayed outside and I felt useless. Anyway, we went back to their house, played *Roblox*, watched ***Until Dawn***, ate fried chicken, then went to sleep. 
 
 ==30 - 23:02== We all woke up talking and laughing. I had a blood stain on my ass because of my period. It was pretty uncomfortable. After eating breakfast, me and Chai went home. I posted art commissions notice on all my social media accounts—so far, I have no commission messages. A graphic design job position company reached out to me. Chai and I watched ***Butterfly Kisses*** (2018) then had a talk about our family.
+
+==31 - 21:34== I didn't sleep. I listened to my playlist and posted on monoquin. I was gonna play chapter 4 of Corpse Party but I decided to just sleep because my back hurt. Chai and I played Pokemon separately in rank in the morning. Then she slept in the afternoon. I thought of loaning a laptop and going for a Work From Home job position. Mom talked to me about it. Chai and I watched ***10 Cloverfield Lane*** (2016). 
+
+## June
+
+==1 - --== I woke up early because Chai was hungry and there were tons of plates on the sink. I washed all of them as she played Pokemon and we ate breakfast (I also cooked rice). I applied to more jobs and tried the Home Credit loan if it works. Chelsea and I talked for 3 hours about everything before we cleaned the room. Chai did almost everything. She also bathed Cheesecake. Then, she washed all of our dirty clothes—by hand—while I go back and forth to the store to buy detergent. We finished around 1 AM, we also showered. I bathed her and she slept first because she was so tired. 

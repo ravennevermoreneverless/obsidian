@@ -28,9 +28,12 @@
 - [[2018 ★ word vomit on why i started this journal]]
 - [[2018 ★ People I'm OBSESSED with]]
 - [[10th of February, 2018 — 22.03 (Sat) ★ last page of journal part 2]]
+- [[11th of February, 2018 — 21.40 (Sun) ★ festival day at pateros]]
+- [[2018 ★ Welcome to the 70th page of this SHIT journal]]
+- [[12th of February, 2018 — 22.39 (Mon) ★ I know I've been a jerk to you but you didn't have to rub it in]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
-- [[8th of June, 2020 ★ why am i even depressed?]]
+- [[8th of June, 2020 ★ why am i even depressed]]
 - [[10th of August, 2020 ★ on being bipolar]]
 #### 2022
 - [[2nd of January, 2022 ★ Mark Ain is probably becoming a better technical artist than me]]

@@ -56,7 +56,7 @@
 - [ ] letterboxd reviews
 - [x] backloggd reviews
 - [x] chords plugin
-- [ ] chords from tabs guitar 
+- [x] chords from tabs guitar 
 - [x] anki plugin
 - [ ] add anki flashcards
 - [x] post on tiktok : song covers & literature writings & old artworks
@@ -96,4 +96,8 @@
 - [ ] feminine wash
 - [ ] oatmeal soap
 - [ ] mouse (PC)
-- [ ] headphones
+- [ ] headphones (personal)
+- [ ] noise-cancelling headphones
+- [ ] icloud
+- [ ] spotify 
+- [ ] neurogum (try)
