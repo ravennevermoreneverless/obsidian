@@ -300,3 +300,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ## June
 
 ==1 - --== I woke up early because Chai was hungry and there were tons of plates on the sink. I washed all of them as she played Pokemon and we ate breakfast (I also cooked rice). I applied to more jobs and tried the Home Credit loan if it works. Chelsea and I talked for 3 hours about everything before we cleaned the room. Chai did almost everything. She also bathed Cheesecake. Then, she washed all of our dirty clothes—by hand—while I go back and forth to the store to buy detergent. We finished around 1 AM, we also showered. I bathed her and she slept first because she was so tired. 
+
+==2 - 22:26== Chai and I woke up early but we still managed to arrive (and got past our destination) by 2 PM—missing my interview. We just ate at Marugame and rode MoveIts back home. Then I had an interview by 7:30 PM for a Graphic Design position, which, I didn't quite pass. So, I applied to more WFH jobs. I feel sleepy but I can't sleep. I feel numb, actually.

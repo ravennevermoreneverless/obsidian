@@ -1239,10 +1239,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1209. Backwards — Parannoul : May 29, 2025
 1210. Dreamcatching — Magdalena Bay : May 30, 2025
 1211. Blind to you — Aimer : May 31, 2025
-
-1212 ν June 1, 2025
-
-1213 ν June 2, 2025
+1212. Fake Happy — Paramore : June 1, 2025
+1213. Midnight City — M83 : June 2, 2025
 
 1214 ν June 3, 2025
 

@@ -76,7 +76,7 @@
 - [x] "first 30-seconds mini melodic orgasms" playlist reddit
 - [x] "first 30-seconds mini melodic orgasms" playlist archive account edit
 - [ ] tiktok/X/monoquin edits
-- [ ] tarot book
+- [ ] relationships
 - [ ] crescendo
 - [x] evelyn hugo
 - [ ] toriaezu imawa - galileo galilei (cover)
@@ -88,7 +88,7 @@
 - [x] edit gf video
 - [ ] set appointment for UMID ID
 - [x] prepare art portfolio
-- [ ] prepare for job interviews
+- [x] prepare for job interviews
 - [ ] take photos of journal pages (every journal)
 - [ ] japanese albums rym list
 ## to-buy

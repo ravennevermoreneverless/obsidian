@@ -956,6 +956,56 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "937d03270f2600d6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e92512483b885ee7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5bc19c2645d2c6c4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "273e832838ab571f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9ae3588c83205df5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -976,11 +1026,13 @@
   "active": "292b8be8d4c95039",
   "lastOpenFiles": [
     "1.2 — life data/2025/daily notes (2025).md",
+    "1.0 — immediate notes/to-do.md",
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/monoquin songs.md",
+    "1.2 — life data/2025/the demon (2025).md",
     "5.0 — everything else/sensory things that make me wanna rip my scalp and chew my teeth off.md",
     "1.2 — life data/journaling/2022/7th of January, 2022 ★ presenting a philosophy speech anxiously, how to never be tired.md",
-    "1.2 — life data/2025/annual cash flow (2025).md",
-    "1.0 — immediate notes/to-do.md",
-    "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/2025/media/films i watched (2025).md",
     "4.0 — indexes/journal (index).md",
     "1.2 — life data/journaling/2018/12th of February, 2018 — 22.39 (Mon) ★ I know I've been a jerk to you but you didn't have to rub it in.md",
@@ -989,8 +1041,6 @@
     "1.2 — life data/journaling/2018/10th of February, 2018 — 22.03 (Sat) ★ last page of journal part 2.md",
     "1.2 — life data/journaling/2020/8th of June, 2020 ★ why am i even depressed.md",
     "8th of June, 2020 ★ why am i even depressed?.md",
-    "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/monoquin songs.md",
     "4.0 — indexes/chords (index).md",
     "4.0 — indexes/song (index).md",
     "5.0 — everything else/さよならくちびる — ハルレオ (chords).md",

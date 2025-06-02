@@ -1,7 +1,12 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## ₱ 2,278.34
+## ₱ 1,007.34
 
+==June 2== MoveIt ride home for Chai and I : <span style="color:#A41C1D">-₱140</span>
+==June 2== Chai and I ate at Marugame : <span style="color:#A41C1D">-₱815</span>
+==June 2== Fare from San Joaquin to Eastwood + bottled water : <span style="color:#A41C1D">-₱123</span>
+==June 2== GCash cashout fee + print 5 copies of resumé : <span style="color:#A41C1D">-₱55</span>
+==June 2== Loaded Chai's number and mine : <span style="color:#A41C1D">-₱112</span>
 ==June 1== Bought Antiperspirant Deodorant : <span style="color:#A41C1D">-₱181.80</span>
 ==June 1== Paid off GLoan debt : <span style="color:#A41C1D">-₱453.16</span>
 ==June 1== Loaned money from GCash : <span style="color:#29A833">₱2910.00</span>
