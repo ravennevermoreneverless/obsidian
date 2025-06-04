@@ -25,5 +25,6 @@
     "editor:redo",
     "editor:configure-toolbar"
   ],
-  "trashOption": "local"
+  "trashOption": "local",
+  "showInlineTitle": true
 }

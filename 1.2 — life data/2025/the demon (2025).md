@@ -44,7 +44,13 @@ restlessness
 - day: baseline, night: baseline
 - day: *fluoxetine and aripiprazole* , night:
 - low self-esteem(x2), anhedonia(x2)
-
+###### 3
+- day: baseline, night: baseline
+- day: *fluoxetine and aripiprazole* , night:
+- low self-esteem(x3), anhedonia(x2), sadness(x3)
+###### 4
+- day: baseline, night: baseline
+- day: *fluoxetine and aripiprazole* , night:
 ## May
 ###### 1
 - day: baseline, night: baseline

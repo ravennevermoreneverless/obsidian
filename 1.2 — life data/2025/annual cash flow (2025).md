@@ -1,7 +1,13 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## ₱ 1,007.34
+## ₱ 15.00
 
+==June 4== Dali grocery haul : <span style="color:#A41C1D">-₱180</span>
+==June 3== Chai's cigarettes + 2 chippy (blue) : <span style="color:#A41C1D">-₱40</span>
+==June 3== 7/11 food : <span style="color:#A41C1D">-₱300</span>
+==June 3== MoveIt ride from Eastwood Cybermall to Security Bank Pasig Mabini : <span style="color:#A41C1D">-₱140</span>
+==June 3== Breads from Mercury Drug Store : <span style="color:#A41C1D">-₱133</span>
+==June 3== GCash cashout fee + MoveIt ride from San Joaquin to Eastwood Cybermall for Chai and I : <span style="color:#A41C1D">-₱218</span>
 ==June 2== MoveIt ride home for Chai and I : <span style="color:#A41C1D">-₱140</span>
 ==June 2== Chai and I ate at Marugame : <span style="color:#A41C1D">-₱815</span>
 ==June 2== Fare from San Joaquin to Eastwood + bottled water : <span style="color:#A41C1D">-₱123</span>

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2 — life data/2025/the demon (2025).md",
+                "file": "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the demon (2025)"
+              "title": "ここは痛みのない世界だと思ってた"
+            }
+          },
+          {
+            "id": "6d8af8b41d5704dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "the ultimate playlist of my life RYM list format"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1006,6 +1031,120 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "adb3782f6c7d6eb7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c9a4cde2379297b8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "058c596790a47a6c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3.0 — tags/chai.md",
+            "mode": "source",
+            "source": false,
+            "backlinks": true,
+            "backlinkOpts": {
+              "collapseAll": false,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          },
+          "icon": "lucide-file",
+          "title": "chai"
+        }
+      },
+      {
+        "id": "ad83cc97b4b3d75b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9059d2fc201126d6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9aae65a8c186321c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "13485b13ef46979f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "907658f2e0a810c4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "25ff8ada846fe7da",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "62166ad4c6448dd0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1023,14 +1162,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "292b8be8d4c95039",
+  "active": "6d8af8b41d5704dd",
   "lastOpenFiles": [
-    "1.2 — life data/2025/daily notes (2025).md",
-    "1.0 — immediate notes/to-do.md",
     "1.2 — life data/2025/annual cash flow (2025).md",
-    "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/monoquin songs.md",
     "1.2 — life data/2025/the demon (2025).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.0 — everything else/monoquin songs.md",
+    "5.0 — everything else/everything about you, chai..md",
+    "3.0 — tags/chai.md",
+    "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
+    "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
+    "1.0 — immediate notes/to-do.md",
+    "1.0 — immediate notes/tweets.md",
     "5.0 — everything else/sensory things that make me wanna rip my scalp and chew my teeth off.md",
     "1.2 — life data/journaling/2022/7th of January, 2022 ★ presenting a philosophy speech anxiously, how to never be tired.md",
     "1.2 — life data/2025/media/films i watched (2025).md",
@@ -1048,10 +1191,6 @@
     "5.0 — everything else/Yellow — Coldplay (chords).md",
     "5.0 — everything else/Wonderwall — Oasis (chords).md",
     "5.1 — images stockpile/others/What Makes You Beautiful — One Direction (strumming).jpg",
-    "5.0 — everything else/What Makes You Beautiful — One Direction (chords).md",
-    "5.0 — everything else/Welcome To My Life — Simple Plan (chords).md",
-    "5.0 — everything else/Weightless — All Time Low (chords).md",
-    "3.0 — tags/songs.md",
     "5.1 — images stockpile/others/Somewhere in Neverland — All Time Low (strumming).jpg",
     "5.1 — images stockpile/others/Perfect — Simple Plan (strumming).jpg",
     "5.1 — images stockpile/others/One Thing — One Direction (strumming).jpg",

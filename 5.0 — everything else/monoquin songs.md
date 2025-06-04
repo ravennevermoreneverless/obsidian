@@ -1241,10 +1241,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1211. Blind to you — Aimer : May 31, 2025
 1212. Fake Happy — Paramore : June 1, 2025
 1213. Midnight City — M83 : June 2, 2025
-
-1214 ν June 3, 2025
-
-1215 ν June 4, 2025
+1214. i like to think you're the leaves — mage tears : June 3, 2025
+1215. B2b — Charli xcx : June 4, 2025
 
 1216 ν June 5, 2025
 

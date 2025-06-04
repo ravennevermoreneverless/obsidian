@@ -421,3 +421,5 @@ tags: [[chai]] [[relationship]] [[love]] [[yea]]
 - chai used to love pan’s labyrinth when she was a kid—she had a CD of it and she used to play it over and over again
 
 - she doesn't like reading analog clocks even though she wears watches often as a kid
+
+- ayaw nya ng chippy, doritos, tostillas, snacku, at mr. chips (mga nachos na chips)
