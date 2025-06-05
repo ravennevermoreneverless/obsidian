@@ -51,6 +51,10 @@ restlessness
 ###### 4
 - day: baseline, night: baseline
 - day: *fluoxetine and aripiprazole* , night:
+###### 5
+- day: moderately mixed, night: slightly depressed
+- day: *fluoxetine and aripiprazole* , night:
+- flight of ideas(x2), sleep problems(x2), racing thoughts(x2), high anxiety(x2), brain fog(x2), understimulated(x2), low self-esteem(x2), loss or increase of appetite(x2), negativity(x1), emptiness(1), agitated(x2), restlessness(x2), depersonalization/derealization(x3)
 ## May
 ###### 1
 - day: baseline, night: baseline

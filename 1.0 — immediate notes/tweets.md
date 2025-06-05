@@ -195,7 +195,7 @@ didn't realize having a choice would be this heavy.
 --
 gunna do this thing where i sleep instead of Staying awwake
 --
-what is that -- like, a cum sandwich? no, yeah, the one u're holding-- yes that! cum in a sandwich??? what, no-- no fucking way... a cum sandwich??? you're kidding?? holy shit sandwich filled with cum???? my god
+==what is that -- like, a cum sandwich? no, yeah, the one u're holding-- yes that! cum in a sandwich??? what, no-- no fucking way... a cum sandwich??? you're kidding?? holy shit sandwich filled with cum???? my god==
 --
 people find it weird that i tend to be close friends with significantly younger people and ask "why couldn't u befriend people ur age?" as if i'm not unemployed and not in college and people my age don't spend most of their time graduating college or having a job
 

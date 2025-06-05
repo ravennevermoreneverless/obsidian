@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
+                "file": "2.0 — source materials/articles/Rock music — Wikipedia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the ultimate playlist of my life RYM list format"
+              "title": "Rock music — Wikipedia"
+            }
+          },
+          {
+            "id": "4b8f77bdf8d1c8c0",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov"
+              },
+              "icon": "lucide-file",
+              "title": "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1145,6 +1157,120 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8129a48d07f6c5c0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2103171964f35f7f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6217822f1587d090",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9c7361880a47ad71",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "99c07dcf129a632e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ce6ff24e46c5cda2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a8d53307ba980cf1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f5a20807b52a1597",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.0 — immediate notes/tweets.md",
+            "mode": "source",
+            "source": false,
+            "backlinks": true,
+            "backlinkOpts": {
+              "collapseAll": false,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          },
+          "icon": "lucide-file",
+          "title": "tweets"
+        }
+      },
+      {
+        "id": "e52e8ece2d983369",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0f356884b827048e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1162,18 +1288,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6d8af8b41d5704dd",
+  "active": "4b8f77bdf8d1c8c0",
   "lastOpenFiles": [
-    "1.2 — life data/2025/annual cash flow (2025).md",
+    "1.0 — immediate notes/tweets.md",
+    "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
     "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/2025/daily notes (2025).md",
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
+    "1.0 — immediate notes/lyrics.md",
+    "1.0 — immediate notes/to-do.md",
+    "kkkkkk.md",
+    "2.0 — source materials/articles/Rock music — Wikipedia.md",
+    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
     "5.0 — everything else/monoquin songs.md",
     "5.0 — everything else/everything about you, chai..md",
     "3.0 — tags/chai.md",
     "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
     "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
-    "1.0 — immediate notes/to-do.md",
-    "1.0 — immediate notes/tweets.md",
     "5.0 — everything else/sensory things that make me wanna rip my scalp and chew my teeth off.md",
     "1.2 — life data/journaling/2022/7th of January, 2022 ★ presenting a philosophy speech anxiously, how to never be tired.md",
     "1.2 — life data/2025/media/films i watched (2025).md",
@@ -1184,12 +1316,6 @@
     "1.2 — life data/journaling/2018/10th of February, 2018 — 22.03 (Sat) ★ last page of journal part 2.md",
     "1.2 — life data/journaling/2020/8th of June, 2020 ★ why am i even depressed.md",
     "8th of June, 2020 ★ why am i even depressed?.md",
-    "4.0 — indexes/chords (index).md",
-    "4.0 — indexes/song (index).md",
-    "5.0 — everything else/さよならくちびる — ハルレオ (chords).md",
-    "5.0 — everything else/You'll Be Safe Here — Rivermaya (chords).md",
-    "5.0 — everything else/Yellow — Coldplay (chords).md",
-    "5.0 — everything else/Wonderwall — Oasis (chords).md",
     "5.1 — images stockpile/others/What Makes You Beautiful — One Direction (strumming).jpg",
     "5.1 — images stockpile/others/Somewhere in Neverland — All Time Low (strumming).jpg",
     "5.1 — images stockpile/others/Perfect — Simple Plan (strumming).jpg",

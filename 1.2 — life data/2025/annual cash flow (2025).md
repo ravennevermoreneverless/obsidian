@@ -1,7 +1,15 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## ₱ 15.00
+## ₱ 0.00
 
+==June 5== FX ride from Megamall to San Joaquin : <span style="color:#A41C1D">-₱60</span>
+==June 5== Pao-tsin (w/ Chai) : <span style="color:#A41C1D">-₱185</span>
+==June 5== EDSA Carousel fare from SM North to Ortigas : <span style="color:#A41C1D">-₱30</span>
+==June 5== Chai's EDSA Carousel ride from SM North to Bagong Barrio : <span style="color:#A41C1D">-₱15</span>
+==June 5== EDSA Carousel from Ortigas to SM North : <span style="color:#A41C1D">-₱50</span>
+==June 5== FX from San Joaquin to Megamall : <span style="color:#A41C1D">-₱70</span>
+==June 5== Mighty Band super glue : <span style="color:#A41C1D">-₱75</span>
+==June 5== Money from dad : <span style="color:#29A833">₱500.00</span>
 ==June 4== Dali grocery haul : <span style="color:#A41C1D">-₱180</span>
 ==June 3== Chai's cigarettes + 2 chippy (blue) : <span style="color:#A41C1D">-₱40</span>
 ==June 3== 7/11 food : <span style="color:#A41C1D">-₱300</span>

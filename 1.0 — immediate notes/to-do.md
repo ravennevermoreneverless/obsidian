@@ -91,7 +91,10 @@
 - [x] prepare for job interviews
 - [ ] take photos of journal pages (every journal)
 - [ ] japanese albums rym list
+- [ ] join art contests
 ## to-buy
+- [ ] pay for gcash loan
+- [ ] pay for home credit loan
 - [ ] antiperspirant deodorant
 - [ ] feminine wash
 - [ ] oatmeal soap
@@ -101,3 +104,6 @@
 - [ ] icloud
 - [ ] spotify 
 - [ ] neurogum (try)
+- [ ] black tea
+- [ ] extension
+- [ ] hoop earrings
