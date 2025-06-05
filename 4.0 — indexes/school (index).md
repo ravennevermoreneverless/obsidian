@@ -7,3 +7,4 @@
 - [[25th of January 2022 ★ crippling anxiety, underperforming, insomnia, and I want to write a book]]
 - [[31st of January 2022 ★ it's monday and i'm going on fast forward]] 
 - [[5th of February, 2018 — 21.59 (Mon) ★ brilliant and beautiful, i ain't got you at the stalls, the beetle at flag ceremony]]
+- [[27th of April, 2017 — 4.17 (Thu) ★  future]]

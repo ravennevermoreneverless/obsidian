@@ -1,4 +1,9 @@
 ### personal anecdotes
+#### 2017
+- [[27th of April, 2017 — 4.17 (Thu) ★  future]]
+- [[18th of October, 2017 — 2.11 (Wed) ★ YOLO]]
+- [[18th of October, 2017 — 2.35 (Wed) ★ problem, spectator, everyone's insane]]
+- [[21st of October, 2017 — 16.24 (Sat) ★ nightmare day]]
 #### 2018
 - [[29th of January, 2018 — 11.25 (Mon) ★ depression symptoms]]
 - [[30th of January, 2018 — 7.04 (Tue)]]
