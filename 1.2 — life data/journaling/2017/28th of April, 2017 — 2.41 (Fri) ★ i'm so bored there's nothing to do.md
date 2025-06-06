@@ -1,4 +1,5 @@
-‎Friday, ‎April ‎28, ‎2017 2:42:01 AM
+status: #adult 
+tags: [[journal]] [[boredom]] 
 
 I WOULD'VE HOLD MY BREATH IF I WAS YOU CUZ I FORGET BUT I'D NEVER FORGIVE YOU. DON'T YOU KNOW DON'T YOU KNOW; TRUE FRIENDS STAB YOU IN THE ~~FROM~~ FRONT.
 

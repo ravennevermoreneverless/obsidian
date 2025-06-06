@@ -26,5 +26,6 @@
     "editor:configure-toolbar"
   ],
   "trashOption": "local",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true
 }

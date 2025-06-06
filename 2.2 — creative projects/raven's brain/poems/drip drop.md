@@ -1,3 +1,6 @@
+status: #adult 
+tags: [[poem]] [[personal work]]
+
 Drip drop, the rain goes
 
 As I watched you walk away from me.

@@ -1,8 +1,9 @@
-February 3, 2020  7:01 AM,  Monday
+status: #adult 
+tags: [[journal]]
 
 So, it's been a while since I last wrote here. My previous entry is a disaster and I can tell how unstable I was back then. And that was, almost 2 years ago? I was in a very unpleasant phase and it was uncontrollable. But now, I'm a bit rational and more.. developed? Let's just say my condition has improved and I'm aware of my actions and emotions. I was never good with words and not very articulate in expressing my emotions, or just plainly writing. I suck at words.
 
-It's kind of difficult typing on my laptop right now, I'm not sure why. Maybe I'm not used to it? Right now, I should be watching Mob Psycho 100 but I felt like writing down what's on my mind right now. I feel like going back to writing my dreams but lately I kept forgetting my dreams the moment I wake up.
+It's kind of difficult typing on my laptop right now, I'm not sure why. Maybe I'm not used to it? Right now, I should be watching ***Mob Psycho 100*** but I felt like writing down what's on my mind right now. I feel like going back to writing my dreams but lately I kept forgetting my dreams the moment I wake up.
 
 Lately, I've been hyper aware of airplanes and helicopters passing by. I've been paranoid of the possibility of those crashing down and hitting the city. I know it's probably one out of a million chance of that happening but my anxiety won't leave me alone. Also, I've been paranoid of the new pathological virus spreading around the world which originated from China; Coronavirus. It's infectious and very lethal but currently, the cure and its origins are unknown. I just hope none of us catch the virus because we are living in a tough and unfair world.
 

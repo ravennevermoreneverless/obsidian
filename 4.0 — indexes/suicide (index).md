@@ -3,3 +3,6 @@
 - [[30th of July, 2023 — 04.19 (Sun) ★ Smoking cigarettes saved my life by not making me kill myself]] 
 ### misc
 - [[untitled(1)]]
+### personal works
+#### poems
+- [[untitled(2)]]

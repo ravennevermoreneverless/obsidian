@@ -1,6 +1,7 @@
-11/14/2017, 8:58 AM, Tuesday
+status: #adult 
+tags: [[journal]] [[dream]] [[horror]]
 
-Pretty weird dream. It's kinda like a mystery game but in real life. With a mix of the anime Parasyte that traumatized me for life.
+Pretty weird dream. It's kinda like a mystery game but in real life. With a mix of the anime ***Parasyte*** that traumatized me for life.
 
 It was kinda a weird day; we were all still awake, half-past 3 in the morning. My cousin, ate Mae, was here. We were all on our phones when suddenly, brother stood up and got dressed. Apparently, he received a message from our tita Vhic, asking to buy a specific 4 boxes of donut and to go there at Makati immediately. Of course, we were shookt at first, but the message seems pretty urgent so we gotta go. We skampered like panicked squirrels on a deforestation activity in a forest. We hurried to find whatever clothes we find and set off. I got meself a set of grey hoodie and shorts along with a pair of old chuck taylor converse and we're going.
 
@@ -8,7 +9,8 @@ We arrived at past 4 in the morning. It was still dark outside, and the morning 
 
 We reached the front door, still holding those boxes of donuts. Our aunt greeted us and let us come inside. It was eerily quiet. Only the 4 of them are there, my aunt, my tito, and my lola. We were confused because we all know my cousin kuya MicMic, my cousin's wife ate Kat, their son and our pamangkin, Janishi, and my other tito tito Erning was there also but they were missing. We figured that they were just away.
 
-So we didn't ask nor speak. Our tita just led us to our respective rooms; ate Mae on a separate room while me, my younger brother Idoy and my kuya Tam in one room. Once we have settled and ate some donuts, my tita handed us some guns. Like wtf, where the fuck did she get these from? Along with some bullets, we keep the gun. And she said creepily, "We will get revenge." And when those words left her mouth, that's when I know a part of her has gone mad.
+So we didn't ask nor speak. Our tita just led us to our respective rooms; ate Mae on a separate room while me, my younger brother Idoy and my kuya Tam in one room. Once we have settled and ate some donuts, my tita handed us some 
+guns. Like wtf, where the fuck did she get these from? Along with some bullets, we keep the gun. And she said creepily, "We will get revenge." And when those words left her mouth, that's when I know a part of her has gone mad.
 
 She explained what happened. Apparently, there was a fucking Parasyte that has gone loose in the city, and it comes every night to that particular house in Makati where we are staying for the moment to kill every living border in the house. Just this night, baby Janishi and our tito Erning just got eaten by the said killer. We were shookt and scared but we couldn't do anything. We have to stay in that house to prolong the time of killing of the Parasyte. For the scientists to capture it and do some tests, also to avenge the deaths of our family members.
 

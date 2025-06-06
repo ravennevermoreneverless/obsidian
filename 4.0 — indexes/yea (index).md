@@ -8,8 +8,9 @@
 - [[Dream Journal — 8th of February, 2022 ★ the flood]]
 - [[Dream Journal — 15th of August, 2022 ★ Zombies and the wobbly tree towers]] 
 - [[8th of June, 2020 ★ i don't know how to love.]]
-- [[8th of June, 2020 ★ why am i even depressed?]]
+- [[8th of June, 2020 ★ why am i even depressed]]
 - [[24th of March, 2024 ★ No matter what I do, there will always be a deep-rooted disconnect from everyone.]]
+- [[14th of November, 2017 — (Tue) ★ family]]
 ### list
 - [[everything about you, chai.]] 
 ### film

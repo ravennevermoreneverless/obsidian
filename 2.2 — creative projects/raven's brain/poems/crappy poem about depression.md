@@ -1,3 +1,6 @@
+status: #child 
+tags: [[poem]] [[personal work]] [[depression]]
+
 you'll never know what it feels like
 
 until you lie down on the bed

@@ -2,6 +2,11 @@
 - [[free.1]]
 - [[her pt.5]] 
 - [[song on the beach]]
+- [[being bored]]
+- [[crappy poem about depression]]
+- [[drip drop]]
+- [[random sucky roses are red violets are blue poem]]
+- [[untitled(2)]]
 ### japanese
 #### poem
 - [[2024年4月9日(火) — 和歌1]]

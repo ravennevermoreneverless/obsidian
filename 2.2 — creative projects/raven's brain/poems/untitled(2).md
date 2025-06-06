@@ -1,3 +1,6 @@
+status: #adult 
+tags: [[suicide]] [[depression]] [[poem]]
+
 Yesterday, I was this close to giving up.
 
 This unexplainable feeling inside of me.

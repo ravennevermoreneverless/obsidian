@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
+                "file": "4.0 — indexes/self-harm (index).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "kdkkskkdkdkdkdk"
+              "title": "self-harm (index)"
             }
           }
         ],
@@ -108,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#flashcards/english",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -1323,6 +1323,36 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "26b9ca211c319ee0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e55362e5b4e7eff7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e49f27bd395b6f86",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1340,34 +1370,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b8f77bdf8d1c8c0",
+  "active": "62547ea8a12684f0",
   "lastOpenFiles": [
-    "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
-    "1.0 — immediate notes/tweets.md",
-    "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
-    "1.2 — life data/2025/the demon (2025).md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "1.2 — life data/2025/annual cash flow (2025).md",
-    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
-    "1.0 — immediate notes/lyrics.md",
-    "1.0 — immediate notes/to-do.md",
-    "kkkkkk.md",
-    "2.0 — source materials/articles/Rock music — Wikipedia.md",
-    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
-    "5.0 — everything else/monoquin songs.md",
-    "5.0 — everything else/everything about you, chai..md",
-    "3.0 — tags/chai.md",
-    "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
-    "5.0 — everything else/sensory things that make me wanna rip my scalp and chew my teeth off.md",
-    "1.2 — life data/journaling/2022/7th of January, 2022 ★ presenting a philosophy speech anxiously, how to never be tired.md",
-    "1.2 — life data/2025/media/films i watched (2025).md",
+    "1.2 — life data/journaling/2024/23rd of June, 2024 — 23.36 (Sun) ★ every day is exactly the same and i want to hurt myself.md",
+    "4.0 — indexes/self-harm (index).md",
+    "3.0 — tags/self-loathing.md",
+    "4.0 — indexes/self-loathing (index).md",
+    "4.0 — indexes/detachment (index).md",
+    "4.0 — indexes/dissociation (index).md",
     "4.0 — indexes/journal (index).md",
-    "1.2 — life data/journaling/2018/12th of February, 2018 — 22.39 (Mon) ★ I know I've been a jerk to you but you didn't have to rub it in.md",
-    "1.2 — life data/journaling/2018/2018 ★ Welcome to the 70th page of this SHIT journal.md",
-    "1.2 — life data/journaling/2018/11th of February, 2018 — 21.40 (Sun) ★ festival day at pateros.md",
-    "1.2 — life data/journaling/2018/10th of February, 2018 — 22.03 (Sat) ★ last page of journal part 2.md",
-    "1.2 — life data/journaling/2020/8th of June, 2020 ★ why am i even depressed.md",
-    "8th of June, 2020 ★ why am i even depressed?.md",
+    "1.2 — life data/journaling/2024/8th of June, 2024 — 00.20 ★ everyone's disgustingly the same.md",
+    "1.2 — life data/journaling/2020/11th of February, 2020 — 10.58 (Tue) ★ self-criticism.md",
+    "2.2 — creative projects/raven's brain/poems/untitled(2).md",
+    "3.0 — tags/hate.md",
+    "4.0 — indexes/hate (index).md",
+    "3.0 — tags/self-criticism.md",
+    "4.0 — indexes/self-criticism (index).md",
+    "2.2 — creative projects/raven's brain/poems/crappy poem about depression.md",
+    "1.2 — life data/journaling/dream journal/Dream Journal — 14th of November, 2017 — 8.58 (Tue) ★ a parasyte has gone loose.md",
+    "4.0 — indexes/poem (index).md",
+    "4.0 — indexes/depression (index).md",
+    "4.0 — indexes/suicide (index).md",
+    "5.0 — everything else/untitled(1).md",
+    "1.2 — life data/journaling/2018/16th of July, 2018 — 5.08 ★ unlucky.md",
+    "4.0 — indexes/unlucky (index).md",
+    "3.0 — tags/unlucky.md",
+    "4.0 — indexes/dream (index).md",
+    "4.0 — indexes/horror (index).md",
+    "1.2 — life data/journaling/2017/29th of October, 2017 — 2.55 (Sun) ★ relationshit.md",
+    "2.2 — creative projects/raven's brain/speech",
+    "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
     "5.1 — images stockpile/others/What Makes You Beautiful — One Direction (strumming).jpg",
     "5.1 — images stockpile/others/Somewhere in Neverland — All Time Low (strumming).jpg",
     "5.1 — images stockpile/others/Perfect — Simple Plan (strumming).jpg",

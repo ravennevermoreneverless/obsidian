@@ -2,6 +2,9 @@
 - [[free.1]]
 - [[her pt.5]]
 - [[song on the beach]]
+- [[being bored]]
+- [[crappy poem about depression]]
+- [[drip drop]]
 ### potential book
 - [[heaven-sent, unwanted 0.00 (test)]]
 ### prose
@@ -14,12 +17,14 @@
 - [[her pt. 3 (original version) (and more)]]
 - [[her pt. 3 (limerence version)]]
 - [[in a perfect world]]
-### short story
+- [[the thing]]
+- ### short story
 - [[An itch]]
 - [[connection postponed until further notice]]
 - [[i heard you were looking like the moon]]
 - [[it's always been you]]
 - [[what matters most]] 
+- [[3981 (finished)]]
 
 ### japanese
 #### poems

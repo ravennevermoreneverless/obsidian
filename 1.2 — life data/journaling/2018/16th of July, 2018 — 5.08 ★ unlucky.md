@@ -1,4 +1,5 @@
-Monday, July 16, 2018, 5:08 AM
+status: #adult 
+tags: [[journal]] [[unlucky]] 
 
 I will mark this day as one of the unluckiest day of my life. Actually, it's been a series of misfortune. I guess it started on Thursday or something? I thought my laptop broke. But I guess it didn't. So I'm thankful for that. But my earphones are broken. So, yeah. Shit. No music. Friday came, we went to my school to order uniform.
 

@@ -1,3 +1,6 @@
+status: #adult 
+tags: [[fanfic]] [[personal work]] [[romance]] [[angst]] [[short story]]
+
 That night, April 20, whatever time was that, was the end of something that wasn't even there and the start to something that will teach me the ways of life.
 
 I admit those words that glared at me through my phone screen was enough for my life to come crashing down at my feet. It was enough to tell me. As if saying, 'it's over.'. I was speechless. Well, actually, speechless was an understatement. I was flabbergasted, couldn't say a word. But I knew. I knew then that eventually it would end up like that. I just accepted what was coming right at me and I let it come at me. I didn't regret anything. I wanted things to continue but it seems like she didn't, and so I let her have her way. I remember perfectly the conversation we had, the words we exchanged.

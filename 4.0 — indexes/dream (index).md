@@ -20,3 +20,4 @@
 - [[Dream Journal — 29th of May, 2023 — 19.58 PM (Mon) ★ I thought we'll be together forever？]]
 - [[Dream Journal — 31st of October, 2023 — 01.00 (Tues) ★ A subtle connection because of him]]
 - [[Dream Journal — 15th of August, 2022 ★ Zombies and the wobbly tree towers]] 
+- [[Dream Journal — 14th of November, 2017 — 8.58 (Tue) ★ a parasyte has gone loose]]

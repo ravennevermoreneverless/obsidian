@@ -4,6 +4,10 @@
 - [[18th of October, 2017 — 2.11 (Wed) ★ YOLO]]
 - [[18th of October, 2017 — 2.35 (Wed) ★ problem, spectator, everyone's insane]]
 - [[21st of October, 2017 — 16.24 (Sat) ★ nightmare day]]
+- [[28th of April, 2017 — 2.41 (Fri) ★ i'm so bored there's nothing to do]]
+- [[14th of November, 2017 — (Tue) ★ family]]
+- [[29th of October, 2017 — 2.55 (Sun) ★ relationshit]]
+- [[Dream Journal — 14th of November, 2017 — 8.58 (Tue) ★ a parasyte has gone loose]]
 #### 2018
 - [[29th of January, 2018 — 11.25 (Mon) ★ depression symptoms]]
 - [[30th of January, 2018 — 7.04 (Tue)]]
@@ -36,10 +40,13 @@
 - [[11th of February, 2018 — 21.40 (Sun) ★ festival day at pateros]]
 - [[2018 ★ Welcome to the 70th page of this SHIT journal]]
 - [[12th of February, 2018 — 22.39 (Mon) ★ I know I've been a jerk to you but you didn't have to rub it in]]
+- [[16th of July, 2018 — 5.08 ★ unlucky]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
 - [[8th of June, 2020 ★ why am i even depressed]]
 - [[10th of August, 2020 ★ on being bipolar]]
+- [[3rd of February, 2020 — 7.01 (Mon) ★ recently diagnosed and stopping school]]
+- [[11th of February, 2020 — 10.58 (Tue) ★ self-criticism]]
 #### 2022
 - [[2nd of January, 2022 ★ Mark Ain is probably becoming a better technical artist than me]]
 - [[4th of January, 2022 ★ Caring less and less about school]]
@@ -252,6 +259,8 @@
 - [[16th of July, 2024 ★ no one taught me how to accept being an adult]]
 - [[29th of August, 2024 (Thu) ★ childhood sexual abuse and not being able to feel anger]]
 - [[6th of December, 2024 ★ it's like that]]
+- [[8th of June, 2024 — 00.20 ★ everyone's disgustingly the same]]
+- [[23rd of June, 2024 — 23.36 (Sun) ★ every day is exactly the same and i want to hurt myself]]
 
 
 #### 2025

@@ -1,3 +1,6 @@
+status: #baby 
+tags: [[poem]] [[personal work]] 
+
 Being bored is actually just;
 
 an absence of occupation,

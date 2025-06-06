@@ -1,4 +1,5 @@
-6/8/2024, saturday, 12:20 AM
+status: #adult 
+tags: [[journal]] [[self-loathing]] [[hate]] 
 
 How should I put this? The only thing ringing in my mind is that "everyone's the same." I don't yet know what it fully means but that's how I feel. It's like nothing matters anymore. Not like nothing _nothing_ matters - I have a lot of things I care about. It's just that, it doesn't matter what anyone will think of me from here on out. It's time I stop pretending. Yeah, no, I'm sick of it. Although I want to keep up an internet persona of a really terrible person, but also quite serious suddenly when it matters. I realize I love fucking with people, I love toying with their perception  of me. I also love breaking down people's defenses and pointing out their deepest darkest flaws, just to say it and bring it out in the open. I would love to use those to my advantages.
 

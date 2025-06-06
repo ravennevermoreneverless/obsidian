@@ -1,3 +1,6 @@
+status: #adult 
+tags: [[speech]] [[motivational]] 
+
 26 years ago, a twelve-year-old's speech silenced the world on behalf of the group of youths trying to make a difference. And 26 years later, what changed? The powerful speech opened hearts, minds, and eyes of the adults, yet what did they do? The children's voices fell deaf in their ears and continued on with their wrong doings.
 
 Ironically, the grown-ups tell us what to do and what not-to-do, what the bad things are in life; but they do the exact same thing. They teach us good morals, good qualities and values; then why is it that they do the exact opposite of those? They twist their words, they dirty their intentions and they drive themselves twards the edge with no control whatsoever. Why is it that the childrens of the earth, with the least experience, have the clearest and purest intentions for the better world? Young people aren't just the leaders of tomorrow - we're making some changes to the world around us, right about now. Whether it's through social media, writing opinions and foresights about the country's issues, taking  partin a protest, there are plenty of ways to contribute for the road of change.

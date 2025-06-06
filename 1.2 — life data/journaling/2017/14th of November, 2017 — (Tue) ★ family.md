@@ -1,3 +1,5 @@
+status: #adult 
+tags: [[journal]] [[family]] [[psychoanalysis]] [[yea]]
 
 Confused. Empty. Blank stares. Cold floor tiles. Lonely Nights.
 

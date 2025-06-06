@@ -1,3 +1,6 @@
+status: #adult 
+tags: [[poem]] [[infatuation]]
+
 roses are red, violets are blue
 
 i love the way you smile; your voice and your adorableness, too
