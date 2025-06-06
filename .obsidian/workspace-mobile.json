@@ -59,12 +59,24 @@
             "id": "4b8f77bdf8d1c8c0",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov"
+                "file": "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07"
+              "title": "kdkkskkdkdkdkdk"
             }
           }
         ],
@@ -1271,6 +1283,46 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c365a361355f76c4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4623bae7eb7ac534",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6792231f72a73644",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7b1e18a65491bb5a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1290,6 +1342,7 @@
   },
   "active": "4b8f77bdf8d1c8c0",
   "lastOpenFiles": [
+    "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
     "1.0 — immediate notes/tweets.md",
     "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
     "1.2 — life data/2025/the demon (2025).md",
@@ -1304,7 +1357,6 @@
     "5.0 — everything else/monoquin songs.md",
     "5.0 — everything else/everything about you, chai..md",
     "3.0 — tags/chai.md",
-    "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
     "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
     "5.0 — everything else/sensory things that make me wanna rip my scalp and chew my teeth off.md",
     "1.2 — life data/journaling/2022/7th of January, 2022 ★ presenting a philosophy speech anxiously, how to never be tired.md",
