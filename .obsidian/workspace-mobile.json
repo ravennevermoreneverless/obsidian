@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6fd66617f9b1fd3",
+        "id": "9df6905e6afb7dac",
         "type": "tabs",
         "children": [
           {
-            "id": "fec3314f00b8626d",
+            "id": "37edf36afd575468",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 — everything else/monoquin songs.md",
+                "file": "4.0 — indexes/school (index).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "monoquin songs"
+              "title": "school (index)"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#adult",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5.0 — everything else/Aoi Shiori — Galileo Galilei (chords).md",
+            "file": "4.0 — indexes/insecurities (index).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -1548,6 +1548,96 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0c7836d49d3a2c28",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7ea7e70fc2fe7c30",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "92eadfd1202c59dd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "31612c09be8d3f37",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8f88beb13a8d8cef",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e624ecfdd73efb04",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ea41edc3f2248ef8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7040b8324d1b5e3e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "d901f05f3504fc86",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1566,47 +1656,47 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fec3314f00b8626d",
+  "active": "d901f05f3504fc86",
   "lastOpenFiles": [
+    "JetBrainsMono-Medium.ttf",
     "4.0 — indexes/journal (index).md",
-    "1.2 — life data/journaling/2018/14th of February, 2018 — 21.41 (Wed) ★ valentine's day and the off-key guitar.md",
-    "1.2 — life data/journaling/2018/14th of February, 2018 — 5.34 (Wed) ★ My forgotten school allowance and being so pissed.md",
-    "1.2 — life data/journaling/2018/2018 ★ the philippine jeepney (types).md",
-    "4.0 — indexes/vent (index).md",
+    "1.2 — life data/journaling/2018/15th of February, 2018 — 20.44 (Thu) ★ long day at school and long talk with my parents.md",
     "1.2 — life data/journaling/2025/6th of June, 2025 — 23.37 (Fri) ★ something's deeply wrong with me and the horror of it all is just so silent that i'm afraid i'd fade along with it..md",
-    "4.0 — indexes/essay (index).md",
-    "4.0 — indexes/philippines (index).md",
-    "4.0 — indexes/confusion (index).md",
-    "4.0 — indexes/memory (index).md",
-    "3.0 — tags/confusion.md",
-    "1.2 — life data/journaling/2023/14th of June, 2023 — 03.00 (Wed) ★ taking care of our dog, I'll meet Kanola soon, wanting to go to Capitol Commons.md",
-    "5.0 — everything else/monoquin songs.md",
-    "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
-    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
-    "1.0 — immediate notes/tweets.md",
-    "4.0 — indexes/habit (index).md",
-    "5.0 — everything else/Man's Search for Meaning (1946) — Viktor E. Frankl (REVIEW).md",
     "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/2025/daily notes (2025).md",
-    "1.2 — life data/2025/media/films i watched (2025).md",
-    "monoquu.md",
-    "1.2 — life data/journaling/2024/8th of June, 2024 — 00.20 ★ everyone's disgustingly the same.md",
-    "1.2 — life data/journaling/2024/23rd of June, 2024 — 23.36 (Sun) ★ every day is exactly the same and i want to hurt myself.md",
-    "1.0 — immediate notes/to-do.md",
-    "1.2 — life data/journaling/2023/6th of August, 2023 — 18.27 (Sun) ★ My phone got fixed, a book about living in the moment, cinephile.md",
+    "1.2 — life data/journaling/2025/8th of June, 2025 — 22.00 (Sun) ★ I cooked adobo and I want to do everything.md",
+    "1.2 — life data/journaling/2018/16th of July, 2018 — 5.08 ★ unlucky.md",
+    "5.0 — everything else/adobo.md",
+    "4.0 — indexes/insecurities (index).md",
+    "4.0 — indexes/iceberg (index).md",
+    "1.0 — immediate notes/tweets.md",
+    "1.5 — japanese/personal works/poems/2024年5日3日(金) — 和歌18.md",
+    "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 58.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 77.jpg",
+    "5.0 — everything else/The 7 Habits of Highly Effective People. Powerful Lessons in Personal Change (1989) — Stephen R. Covey (REVIEW).md",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 88.jpg",
+    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 89.jpg",
+    "1.2 — life data/journaling/2022/12th of February 2022 ★ pandesal pizzas and being scouted to be an artist as a kid.md",
+    "2.2 — creative projects/raven's brain/poems/random sucky roses are red violets are blue poem.md",
+    "1.2 — life data/journaling/2018/29th of January, 2018 — 11.25 (Mon) ★ depression symptoms.md",
+    "4.0 — indexes/depression (index).md",
+    "1.2 — life data/journaling/2025/9th of May, 2025 — 00.25 (Fri) ★ But I can't feel it right now and I'm afraid this will make me feel like going away..md",
+    "4.0 — indexes/philippines (index).md",
+    "3.0 — tags/brain.md",
+    "5.0 — everything else/Time Adventure — Adventure Time (chords).md",
+    "1.2 — life data/journaling/2024/13th of January, 2024 — 01.16 (Sat) ★ Anne is hitting on me again.md",
+    "Untitled.md",
+    "5.0 — everything else/monoquin songs.md",
+    "1.2 — life data/journaling/2018/14th of February, 2018 — 21.41 (Wed) ★ valentine's day and the off-key guitar.md",
     "2.2 — creative projects/raven's brain/speech",
     "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
     "5.1 — images stockpile/others/What Makes You Beautiful — One Direction (strumming).jpg",
     "5.1 — images stockpile/others/Somewhere in Neverland — All Time Low (strumming).jpg",
     "5.1 — images stockpile/others/Perfect — Simple Plan (strumming).jpg",
     "5.1 — images stockpile/others/One Thing — One Direction (strumming).jpg",
-    "5.1 — images stockpile/others/No Good In Goodbye — The Script (strumming pattern).jpg",
     "5.1 — images stockpile/others",
-    "5.1 — images stockpile/notes/2018/2018 — notes 2.jpg",
-    "5.1 — images stockpile/notes/2018/2018 — notes 1.jpg",
-    "5.1 — images stockpile/art/2018/2018 — sketch 9.jpg",
-    "5.1 — images stockpile/art/2018/2018 — sketch 6.jpg",
-    "5.1 — images stockpile/art/2018/2018 — sketch 7.jpg",
     "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf",
     "1.0 — immediate notes/flashcards",
     "1.0 — immediate notes/flashacrds",

@@ -46,6 +46,7 @@
 - [[2018 ★ the philippine jeepney (types)]]
 - [[14th of February, 2018 — 5.34 (Wed) ★ My forgotten school allowance and being so pissed]]
 - [[14th of February, 2018 — 21.41 (Wed) ★ valentine's day and the off-key guitar]]
+- [[15th of February, 2018 — 20.44 (Thu) ★ long day at school and long talk with my parents]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
 - [[8th of June, 2020 ★ why am i even depressed]]
@@ -272,6 +273,7 @@
 - [[3rd of May, 2025 — 22.40 (Sat) ★ sexual childhood trauma and attachment issues]]
 - [[9th of May, 2025 — 00.25 (Fri) ★ But I can't feel it right now and I'm afraid this will make me feel like going away.]]
 - [[6th of June, 2025 — 23.37 (Fri) ★ something's deeply wrong with me and the horror of it all is just so silent that i'm afraid i'd fade along with it.]]
+- [[8th of June, 2025 — 22.00 (Sun) ★ I cooked adobo and I want to do everything]]
 ### documentation
 - [[Tarot Journal]] 
 ### japanese

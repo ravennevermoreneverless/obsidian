@@ -29,6 +29,9 @@
       },
       "smart-random-note": {
         "startupType": "instant"
+      },
+      "custom-font-loader": {
+        "startupType": "instant"
       }
     }
   }
