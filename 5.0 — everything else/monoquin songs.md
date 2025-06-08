@@ -1245,10 +1245,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1215. B2b — Charli xcx : June 4, 2025
 1216. Covet — Basement : June 5, 2025
 1217. Cyclone — Pinegrove : June 6, 2025
-
-1218 ν June 7, 2025
-
-1219 ν June 8, 2025
+1218. Trigger — Yuuki Ozaki : June 7, 2025
+1219. Vacation Bible School — Ayesha Erotica : June 8, 2025
 
 1220 ν June 9, 2025
 

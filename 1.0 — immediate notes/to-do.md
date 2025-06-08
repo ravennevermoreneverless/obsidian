@@ -43,7 +43,7 @@
 	- [ ] everything everyone everywhere journal
 - [ ] small notebooks (images)
 - [ ] old drawings & sketches (to-post on tiktok/X/archive on obsidian)
-- [ ] laptop notes
+- [x] laptop notes
 - [x] japanese journal entries
 - [x] japanese poems
 - [ ] japanese notes (everything)
@@ -70,28 +70,20 @@
 
 ## right now???
 - [ ] corpse party
-- [ ] wizard's first rule
-- [ ] aku no hana
 - [x] "first 30-seconds mini melodic orgasms" playlist RYM
 - [x] "first 30-seconds mini melodic orgasms" playlist reddit
 - [x] "first 30-seconds mini melodic orgasms" playlist archive account edit
 - [ ] tiktok/X/monoquin edits
-- [ ] relationships
 - [ ] crescendo
 - [x] evelyn hugo
-- [ ] toriaezu imawa - galileo galilei (cover)
-- [ ] write loki season 2 review
-- [ ] loki season 2 scenes
 - [ ] rock music genre wikipedia / rock albums
 - [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff
 - [ ] japanese playlist
 - [x] edit gf video
-- [ ] set appointment for UMID ID
 - [x] prepare art portfolio
 - [x] prepare for job interviews
-- [ ] take photos of journal pages (every journal)
 - [ ] japanese albums rym list
-- [ ] join art contests
+- [x] join art contests
 ## to-buy
 - [ ] pay for gcash loan
 - [ ] pay for home credit loan

@@ -18,7 +18,7 @@
 - [[Man's Search for Meaning (1946) — Viktor E. Frankl (REVIEW)]]
 - [[How Never to Be Tired (1945) — Marie Beynon Ray (REVIEW)]]
 - [[The 7 Habits of Highly Effective People. Powerful Lessons in Personal Change (1989) — Stephen R. Covey (REVIEW)]]
-- [[The Subtle Art of Not Giving a F*ck. A Counterintuitive Approach to Living a Good Life (2016) — Mark Manson (REVIEW)]]
+- [[The Subtle Art of Not Giving a F-ck. A Counterintuitive Approach to Living a Good Life (2016) — Mark Manson (REVIEW)]]
 - [[People Power. An Eyewitness History. The Philippine Revolution of 1986 (1987) — Monina Allarey Mercado (Editor) (REVIEW)]]
 - [[Noli Me Tángere (Touch Me Not) (1887) — José Rizal (REVIEW)]]
 - [[1984 (1949) — George Orwell (REVIEW)]]

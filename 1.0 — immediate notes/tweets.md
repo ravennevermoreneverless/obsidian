@@ -330,6 +330,7 @@ my own personal comfort machine telling me "it's gonna be okay"
 grandpa escaped the cellar, what should we do?
 --
 random persom who wan ts to Finger paint:: i want to finger pant Guy named Paint: D:
+<!--SR:!2025-06-11,4,270-->
 --
 when iw was posted on the wanted list the cops just looked at me reaL chillf and said "u know u can just be free right?" and honestly thay was the Most profoundest thing wver said to me
 --
@@ -472,4 +473,6 @@ heaven said to take a break
 heaven said i want a way
 the kid gazes at the top of the mountain;
 the future seems so far away but it will have thunderstorms and forests filled with snakes
+--
+yall better not be hiding some frittatas up your sleeves because oh boy i'm tellin ya ain't nobody got enough frittatas in them ol' stomachs
 --

@@ -26,6 +26,9 @@
       },
       "obsidian-annotator": {
         "startupType": "long"
+      },
+      "smart-random-note": {
+        "startupType": "instant"
       }
     }
   }

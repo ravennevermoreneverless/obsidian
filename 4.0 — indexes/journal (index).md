@@ -41,6 +41,11 @@
 - [[2018 ★ Welcome to the 70th page of this SHIT journal]]
 - [[12th of February, 2018 — 22.39 (Mon) ★ I know I've been a jerk to you but you didn't have to rub it in]]
 - [[16th of July, 2018 — 5.08 ★ unlucky]]
+- [[14th of February, 2018 — 00.11 (Wed) ★ the 2-peso commission]]
+- [[2018 ★ WARNING . A rant]]
+- [[2018 ★ the philippine jeepney (types)]]
+- [[14th of February, 2018 — 5.34 (Wed) ★ My forgotten school allowance and being so pissed]]
+- [[14th of February, 2018 — 21.41 (Wed) ★ valentine's day and the off-key guitar]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
 - [[8th of June, 2020 ★ why am i even depressed]]
@@ -266,7 +271,7 @@
 #### 2025
 - [[3rd of May, 2025 — 22.40 (Sat) ★ sexual childhood trauma and attachment issues]]
 - [[9th of May, 2025 — 00.25 (Fri) ★ But I can't feel it right now and I'm afraid this will make me feel like going away.]]
-
+- [[6th of June, 2025 — 23.37 (Fri) ★ something's deeply wrong with me and the horror of it all is just so silent that i'm afraid i'd fade along with it.]]
 ### documentation
 - [[Tarot Journal]] 
 ### japanese
