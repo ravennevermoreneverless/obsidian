@@ -60,3 +60,4 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 57. ***E·MO·TION*** (2015) — Carly Rae Jepsen : Dance-Pop, Synthpop • 4/3/2025 ★ ==3==
 58. ***Immunity*** (2019) — Clairo : Bedroom Pop, Alt-Pop • 4/3/2025 ★ ==3==
 59. ***Mercurial World*** (2021) — Magdalena Bay : Synthpop, Dance-Pop • 5/15/2025 ★ ==4==
+60. ***Please Please Me*** (1963) — The Beatles : Merseybeat, Pop Rock • 6/9/2025 

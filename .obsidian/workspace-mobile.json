@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43cadcfc42177b5d",
+        "id": "b4a8a092fe5e803b",
         "type": "tabs",
         "children": [
           {
-            "id": "406389a069e5d8c9",
+            "id": "ee20ea196c219146",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2 — life data/journaling/2018/24th of February, 2018 — 4.02 (Sat) ★ last page of journal part 3.md",
+                "file": "2.0 — source materials/articles/Rock music — Wikipedia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "24th of February, 2018 — 4.02 (Sat) ★ last page of journal part 3"
+              "title": "Rock music — Wikipedia"
+            }
+          },
+          {
+            "id": "153628433f50cc4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1768,6 +1779,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "74323980c3866e9c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1ce706f8b6feac44",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1786,9 +1817,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "62547ea8a12684f0",
+  "active": "153628433f50cc4d",
   "lastOpenFiles": [
+    "2.0 — source materials/articles/Rock music — Wikipedia.md",
+    "2nd of March, 2018 — 15.03 (Fri) ★ No one understands me and I hope they know they made me like this.md",
+    "4.0 — indexes/self-esteem (index).md",
+    "4.0 — indexes/family (index).md",
     "4.0 — indexes/journal (index).md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "5.0 — everything else/Rock music (DEEP DIVE).md",
+    "1.2 — life data/journaling/2018/2nd of March, 2018 — 3.28 (Fri) ★ pink Beats headphones snapped, ex sent a friend request on FB, aunt arriving to Philippines.md",
+    "1.2 — life data/journaling/2018/24th of February, 2018 — 6.41 (Sat) ★ MORNING PAGE.md",
+    "3.0 — tags/morning.md",
+    "4.0 — indexes/morning (index).md",
     "1.2 — life data/journaling/2018/24th of February, 2018 — 4.02 (Sat) ★ last page of journal part 3.md",
     "1.2 — life data/journaling/2023/12th of August, 2023 — 22.55 (Sat) ★ I can't help but feel like we match, cutting down on sugar and milk.md",
     "5.0 — everything else/an OPEN letter to my friend, Jaime..md",
@@ -1804,16 +1845,6 @@
     "1.2 — life data/journaling/2018/16th of February, 2018 — 16.31 ★ recollection day at KHS.md",
     "5.0 — everything else/everything about you, chai..md",
     "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
-    "1.0 — immediate notes/yeaaaaaaa.md",
-    "3.0 — tags/childhood.md",
-    "1.2 — life data/journaling/2018/17th of February, 2018 — 00.09 ★ recurring end of the world dream as a kid.md",
-    "1.2 — life data/journaling/2018/2018 ★ How do you deal with ANGER.md",
-    "1.2 — life data/journaling/2018/18th of February, 2018 — 21.34 ★ we played kickball for some time.md",
-    "2.2 — creative projects/raven's brain/poems/childhood life.md",
-    "5.0 — everything else/Rock music (DEEP DIVE).md",
-    "4.0 — indexes/childhood (index).md",
-    "2.0 — source materials/articles/Rock music — Wikipedia.md",
-    "1.0 — immediate notes/Rock music (DEEP DIVE).md",
     "JetBrainsMono-Medium.ttf",
     "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",
