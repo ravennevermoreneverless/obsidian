@@ -49,6 +49,8 @@
 - [[15th of February, 2018 — 20.44 (Thu) ★ long day at school and long talk with my parents]]
 - [[16th of February, 2018 — 16.31 ★ recollection day at KHS]]
 - [[17th of February, 2018 — 00.09 ★ recurring end of the world dream as a kid]]
+- [[2018 ★ How do you deal with ANGER]]
+- [[18th of February, 2018 — 21.34 ★ we played kickball for some time]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
 - [[8th of June, 2020 ★ why am i even depressed]]

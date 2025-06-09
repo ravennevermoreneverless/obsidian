@@ -7,6 +7,7 @@
 - [[drip drop]]
 - [[random sucky roses are red violets are blue poem]]
 - [[untitled(2)]]
+- [[childhood life]]
 ### japanese
 #### poem
 - [[2024年4月9日(火) — 和歌1]]

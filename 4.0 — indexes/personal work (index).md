@@ -5,6 +5,7 @@
 - [[being bored]]
 - [[crappy poem about depression]]
 - [[drip drop]]
+- [[childhood life]]
 ### potential book
 - [[heaven-sent, unwanted 0.00 (test)]]
 ### prose
