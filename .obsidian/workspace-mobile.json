@@ -1777,6 +1777,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "126d88cbabc2f822",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1795,7 +1805,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54b042aa08efa0f9",
+  "active": "126d88cbabc2f822",
   "lastOpenFiles": [
     "2.0 — source materials/articles/Rock music — Wikipedia.md",
     "1.0 — immediate notes/Rock music (DEEP DIVE).md",
