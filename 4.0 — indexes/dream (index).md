@@ -22,3 +22,4 @@
 - [[Dream Journal — 15th of August, 2022 ★ Zombies and the wobbly tree towers]] 
 - [[Dream Journal — 14th of November, 2017 — 8.58 (Tue) ★ a parasyte has gone loose]]
 - [[17th of February, 2018 — 00.09 ★ recurring end of the world dream as a kid]] 
+- [[Dream Journal — 2018 ★ I dreamt about her again]]

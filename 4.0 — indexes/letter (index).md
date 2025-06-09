@@ -3,6 +3,7 @@
 - [[24th of May 2022 ★ A short letter to everyone I left]] 
 - [[lou]]
 - [[lou pt. 2]]
+- [[an OPEN letter to my friend, Jaime.]]
 ### to the love of my life
 - [[hello]]
 - [[hello pt. 1]]

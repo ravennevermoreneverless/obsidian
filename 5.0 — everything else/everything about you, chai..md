@@ -423,3 +423,5 @@ tags: [[chai]] [[relationship]] [[love]] [[yea]]
 - she doesn't like reading analog clocks even though she wears watches often as a kid
 
 - ayaw nya ng chippy, doritos, tostillas, snacku, at mr. chips (mga nachos na chips)
+
+- she loves waffle time especially hotdogs and pineapple pleasured 

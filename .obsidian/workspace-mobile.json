@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9df6905e6afb7dac",
+        "id": "43cadcfc42177b5d",
         "type": "tabs",
         "children": [
           {
-            "id": "37edf36afd575468",
+            "id": "406389a069e5d8c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rock music (DEEP DIVE).md",
+                "file": "1.2 — life data/journaling/2018/24th of February, 2018 — 4.02 (Sat) ★ last page of journal part 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rock music (DEEP DIVE)"
-            }
-          },
-          {
-            "id": "54b042aa08efa0f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 — immediate notes/yeaaaaaaa.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "yeaaaaaaa"
-            }
-          },
-          {
-            "id": "407bd7cb5eda59a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.0 — everything else/monoquin songs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "monoquin songs"
+              "title": "24th of February, 2018 — 4.02 (Sat) ★ last page of journal part 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -1787,6 +1738,36 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6785b180ee39e2d4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "14a3bd28962bd6e0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0ac4a57decb2dd8b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1805,41 +1786,41 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "126d88cbabc2f822",
+  "active": "62547ea8a12684f0",
   "lastOpenFiles": [
+    "4.0 — indexes/journal (index).md",
+    "1.2 — life data/journaling/2018/24th of February, 2018 — 4.02 (Sat) ★ last page of journal part 3.md",
+    "1.2 — life data/journaling/2023/12th of August, 2023 — 22.55 (Sat) ★ I can't help but feel like we match, cutting down on sugar and milk.md",
+    "5.0 — everything else/an OPEN letter to my friend, Jaime..md",
+    "4.0 — indexes/friendship (index).md",
+    "4.0 — indexes/letter (index).md",
+    "4.0 — indexes/infatuation (index).md",
+    "1.2 — life data/journaling/2018/Dream Journal — 2018 ★ I dreamt about her again.md",
+    "4.0 — indexes/dream (index).md",
+    "1.2 — life data/journaling/dream journal/Dream Journal — 26th of May, 2023 — 18.20 (Fri) ★  A galaxy outside the school exam.md",
+    "1.2 — life data/journaling/2018/2018 ★ How do you stand out from the crowd.md",
+    "3.0 — tags/individuality.md",
+    "4.0 — indexes/individuality (index).md",
+    "1.2 — life data/journaling/2018/16th of February, 2018 — 16.31 ★ recollection day at KHS.md",
+    "5.0 — everything else/everything about you, chai..md",
+    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
+    "1.0 — immediate notes/yeaaaaaaa.md",
+    "3.0 — tags/childhood.md",
+    "1.2 — life data/journaling/2018/17th of February, 2018 — 00.09 ★ recurring end of the world dream as a kid.md",
+    "1.2 — life data/journaling/2018/2018 ★ How do you deal with ANGER.md",
+    "1.2 — life data/journaling/2018/18th of February, 2018 — 21.34 ★ we played kickball for some time.md",
+    "2.2 — creative projects/raven's brain/poems/childhood life.md",
+    "5.0 — everything else/Rock music (DEEP DIVE).md",
+    "4.0 — indexes/childhood (index).md",
     "2.0 — source materials/articles/Rock music — Wikipedia.md",
     "1.0 — immediate notes/Rock music (DEEP DIVE).md",
-    "5.0 — everything else/monoquin songs.md",
-    "1.2 — life data/2025/the demon (2025).md",
-    "4.0 — indexes/deep dive (index).md",
-    "4.0 — indexes/list (index).md",
-    "4.0 — indexes/music genre (index).md",
-    "4.0 — indexes/music (index).md",
-    "4.0 — indexes/rock (index).md",
-    "3.0 — tags/deep dive.md",
-    "1.0 — immediate notes/16th of February, 2018 — 16.31 ★.md",
-    "1.2 — life data/journaling/2022/24th of January 2022 ★ ditching two classes because of van gogh, DLSU aggressive email reply, romanticizing a starving artist life.md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "4.0 — indexes/school (index).md",
     "JetBrainsMono-Medium.ttf",
-    "4.0 — indexes/journal (index).md",
-    "1.2 — life data/journaling/2018/15th of February, 2018 — 20.44 (Thu) ★ long day at school and long talk with my parents.md",
-    "1.2 — life data/journaling/2025/6th of June, 2025 — 23.37 (Fri) ★ something's deeply wrong with me and the horror of it all is just so silent that i'm afraid i'd fade along with it..md",
-    "1.2 — life data/journaling/2025/8th of June, 2025 — 22.00 (Sun) ★ I cooked adobo and I want to do everything.md",
-    "1.2 — life data/journaling/2018/16th of July, 2018 — 5.08 ★ unlucky.md",
-    "5.0 — everything else/adobo.md",
-    "4.0 — indexes/insecurities (index).md",
-    "4.0 — indexes/iceberg (index).md",
-    "1.0 — immediate notes/tweets.md",
-    "1.5 — japanese/personal works/poems/2024年5日3日(金) — 和歌18.md",
     "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 58.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 77.jpg",
-    "5.0 — everything else/The 7 Habits of Highly Effective People. Powerful Lessons in Personal Change (1989) — Stephen R. Covey (REVIEW).md",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 88.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 89.jpg",
-    "1.2 — life data/journaling/2022/12th of February 2022 ★ pandesal pizzas and being scouted to be an artist as a kid.md",
     "2.2 — creative projects/raven's brain/speech",
     "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
     "5.1 — images stockpile/others/What Makes You Beautiful — One Direction (strumming).jpg",

@@ -16,3 +16,4 @@
 ### open letters
 - [[lou]]
 - [[lou pt. 2]]
+- [[an OPEN letter to my friend, Jaime.]]

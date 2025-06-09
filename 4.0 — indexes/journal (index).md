@@ -51,6 +51,9 @@
 - [[17th of February, 2018 — 00.09 ★ recurring end of the world dream as a kid]]
 - [[2018 ★ How do you deal with ANGER]]
 - [[18th of February, 2018 — 21.34 ★ we played kickball for some time]]
+- [[2018 ★ How do you stand out from the crowd]]
+- [[Dream Journal — 2018 ★ I dreamt about her again]]
+- [[24th of February, 2018 — 4.02 (Sat) ★ last page of journal part 3]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
 - [[8th of June, 2020 ★ why am i even depressed]]
