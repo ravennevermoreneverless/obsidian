@@ -23,7 +23,8 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "editor:insert-horizontal-rule"
   ],
   "trashOption": "local",
   "showInlineTitle": true,

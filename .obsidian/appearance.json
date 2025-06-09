@@ -4,5 +4,8 @@
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSize": 11,
-  "cssTheme": ""
+  "cssTheme": "Red-Shadow",
+  "enabledCssSnippets": [
+    "fonts"
+  ]
 }

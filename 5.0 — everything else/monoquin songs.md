@@ -1247,8 +1247,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1217. Cyclone — Pinegrove : June 6, 2025
 1218. Trigger — Yuuki Ozaki : June 7, 2025
 1219. Vacation Bible School — Ayesha Erotica : June 8, 2025
-
-1220 ν June 9, 2025
+1220. Stickwitu — The Pussycat Dolls : June 9, 2025
 
 1221 ν June 10, 2025
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.0 — indexes/school (index).md",
+                "file": "Rock music (DEEP DIVE).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "school (index)"
+              "title": "Rock music (DEEP DIVE)"
+            }
+          },
+          {
+            "id": "54b042aa08efa0f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/yeaaaaaaa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "yeaaaaaaa"
+            }
+          },
+          {
+            "id": "407bd7cb5eda59a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.0 — everything else/monoquin songs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "monoquin songs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1638,6 +1687,96 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2575580734a1c98e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "3f32ff42be2dd7e6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "556010fd44e2206c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "047d380f5f8437c0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0e4c90b049149598",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c0a24ce89cfb9964",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5f4c2f9671b3a473",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5fa37c72293f9b2e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0f81620d7065c84b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1656,14 +1795,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d901f05f3504fc86",
+  "active": "54b042aa08efa0f9",
   "lastOpenFiles": [
+    "2.0 — source materials/articles/Rock music — Wikipedia.md",
+    "1.0 — immediate notes/Rock music (DEEP DIVE).md",
+    "5.0 — everything else/monoquin songs.md",
+    "1.2 — life data/2025/the demon (2025).md",
+    "4.0 — indexes/deep dive (index).md",
+    "4.0 — indexes/list (index).md",
+    "4.0 — indexes/music genre (index).md",
+    "4.0 — indexes/music (index).md",
+    "4.0 — indexes/rock (index).md",
+    "3.0 — tags/deep dive.md",
+    "1.0 — immediate notes/16th of February, 2018 — 16.31 ★.md",
+    "1.2 — life data/journaling/2022/24th of January 2022 ★ ditching two classes because of van gogh, DLSU aggressive email reply, romanticizing a starving artist life.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "4.0 — indexes/school (index).md",
     "JetBrainsMono-Medium.ttf",
     "4.0 — indexes/journal (index).md",
     "1.2 — life data/journaling/2018/15th of February, 2018 — 20.44 (Thu) ★ long day at school and long talk with my parents.md",
     "1.2 — life data/journaling/2025/6th of June, 2025 — 23.37 (Fri) ★ something's deeply wrong with me and the horror of it all is just so silent that i'm afraid i'd fade along with it..md",
-    "1.2 — life data/2025/the demon (2025).md",
-    "1.2 — life data/2025/daily notes (2025).md",
     "1.2 — life data/journaling/2025/8th of June, 2025 — 22.00 (Sun) ★ I cooked adobo and I want to do everything.md",
     "1.2 — life data/journaling/2018/16th of July, 2018 — 5.08 ★ unlucky.md",
     "5.0 — everything else/adobo.md",
@@ -1679,17 +1830,6 @@
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 88.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 89.jpg",
     "1.2 — life data/journaling/2022/12th of February 2022 ★ pandesal pizzas and being scouted to be an artist as a kid.md",
-    "2.2 — creative projects/raven's brain/poems/random sucky roses are red violets are blue poem.md",
-    "1.2 — life data/journaling/2018/29th of January, 2018 — 11.25 (Mon) ★ depression symptoms.md",
-    "4.0 — indexes/depression (index).md",
-    "1.2 — life data/journaling/2025/9th of May, 2025 — 00.25 (Fri) ★ But I can't feel it right now and I'm afraid this will make me feel like going away..md",
-    "4.0 — indexes/philippines (index).md",
-    "3.0 — tags/brain.md",
-    "5.0 — everything else/Time Adventure — Adventure Time (chords).md",
-    "1.2 — life data/journaling/2024/13th of January, 2024 — 01.16 (Sat) ★ Anne is hitting on me again.md",
-    "Untitled.md",
-    "5.0 — everything else/monoquin songs.md",
-    "1.2 — life data/journaling/2018/14th of February, 2018 — 21.41 (Wed) ★ valentine's day and the off-key guitar.md",
     "2.2 — creative projects/raven's brain/speech",
     "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
     "5.1 — images stockpile/others/What Makes You Beautiful — One Direction (strumming).jpg",

@@ -10,5 +10,5 @@
 ### checklist
 - [[adulting]]
 - [[raven's bucket list]]
-- [[nhentai codes]]
-- [[journaling prompts]]
+### genre deep dive
+- [[Rock music (DEEP DIVE)]]

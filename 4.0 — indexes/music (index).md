@@ -9,6 +9,8 @@
 ### trackers/lists
 - [[all of my playlists]] 
 - [[other people's playlists]] 
+#### genre deep dives
+- [[Rock music (DEEP DIVE)]]
 #### challenge
 - [[30-day song challenge]]
 - [[raven's 31-day song challenge pt. 2]]
