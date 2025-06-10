@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/to-do.md",
+                "file": "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "to-do"
+              "title": "the ultimate playlist of my life RYM list format"
             }
           },
           {
@@ -1910,6 +1910,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b78a4c5feab00542",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1931,6 +1941,9 @@
   },
   "active": "ee20ea196c219146",
   "lastOpenFiles": [
+    "1.2 — life data/2025/the demon (2025).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "1.0 — immediate notes/to-do.md",
     "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
     "5.0 — everything else/Rock music (DEEP DIVE).md",
     "2.0 — source materials/articles/Rock music (WIKI).md",
@@ -1947,9 +1960,6 @@
     "2.2 — creative projects/raven's brain/poems/free.1.md",
     "1.2 — life data/journaling/2022/13th of March, 2022 ★ optimism on being hungry and not taking things personally.md",
     "2.2 — creative projects/raven's brain/poems/song on the beach.md",
-    "1.0 — immediate notes/to-do.md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/journaling/2025/June, 2025 ★ I've been dissociating.md",
     "4.0 — indexes/dissociation (index).md",
     "4.0 — indexes/journal (index).md",

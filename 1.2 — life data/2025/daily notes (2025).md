@@ -316,3 +316,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==8 - 22:18== Chai and I played Pokemon Unite and CODM (with Chelsea). Chai and I showered together, too, and we had sex. I started drawing my entry for the art contest due tomorrow. I cooked *adobo* today. 
 
 ==9 - --== I finished my art contest entry due today — it was an Evangelion-themed mixed media artwork. I did my FoundEver assessment today (after some trouble), as well my Ecommerce Account Analyst timed test, then the Appointment Setter voice recording — all on my sister's laptop. I didn't feel like doing anything afterwards but I transcribed my journal entries to Obsidian while Chai plays with her niece on Roblox. We went to Puregold by evening to buy fries and coffee. 
+
+==10 - --== Didn't go to the Zoom link for FoundEver. I stayed up late to compose some music and listen to rock records. Chai and I got addicted to Grow a Garden on Roblox, and Demonology. 
