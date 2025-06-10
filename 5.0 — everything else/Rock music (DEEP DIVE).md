@@ -9,4 +9,5 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 6. ***Please Please Me*** (1963) — *The Beatles* • <span style="color:#831100">it doesn't sound so bad actually i thought a beatles record would be too overrated for me but there are some good tracks here surprisingly</span> 
 7. ***How Do You Like It?*** (1963) *— Gerry & The Pacemakers* • <span style="color:#831100">really upbeat and energetic</span>
 8. ***Sugar and Spice*** (1963) — *The Searchers* • <span style="color:#831100">oh this is something i'd unironically listen to while on a road trip somewhere on the countryside by the time summer arrives</span> 
-9. ***You Were Mad For Me*** (1964) — *Freddie & The Dreamers* • 
+9. ***You Were Mad For Me*** (1964) — *Freddie & The Dreamers* • <span style="color:#831100">listening to this while playing roblox grow a garden seems surreal</span> 
+10. 

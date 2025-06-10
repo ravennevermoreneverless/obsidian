@@ -62,3 +62,4 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 59. ***Mercurial World*** (2021) — Magdalena Bay : Synthpop, Dance-Pop • 5/15/2025 ★ ==4==
 60. ***Please Please Me*** (1963) — The Beatles : Merseybeat, Pop Rock • 6/9/2025 
 61. ***How Do You Like It?*** (1963) — Gerry & The Pacemakers : Merseybeat, Pop, Pop Rock • 6/10/2025
+62. ***You Were Mad For Me*** (1964) — Freddie and the Dreamers : Pop Rock, Beat • 6/11/2025
