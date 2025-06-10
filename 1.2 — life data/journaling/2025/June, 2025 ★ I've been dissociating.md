@@ -1,3 +1,6 @@
+status: #adult 
+tags: [[journal]] [[dissociation]] 
+
 ive been dissociating
 its like my body's moving but im not quite there
 i dont know what i want

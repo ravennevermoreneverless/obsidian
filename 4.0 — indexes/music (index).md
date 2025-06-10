@@ -4,7 +4,7 @@
 - [[songs to cover or record]] 
 ### overview
 #### articles
-- [[Rock music — Wikipedia]] 
+- [[Rock music (WIKI)]] 
 
 ### trackers/lists
 - [[all of my playlists]] 

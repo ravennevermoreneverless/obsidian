@@ -57,6 +57,7 @@
 - [[24th of February, 2018 — 6.41 (Sat) ★ MORNING PAGE]]
 - [[2nd of March, 2018 — 3.28 (Fri) ★ pink Beats headphones snapped, ex sent a friend request on FB, aunt arriving to Philippines]]
 - [[2nd of March, 2018 — 15.03 (Fri) ★ No one understands me and I hope they know they made me like this]]
+- [[8th of March, 2018 — 3.48 (Fri) ★ the double-decker bed and Lovely Bones]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
 - [[8th of June, 2020 ★ why am i even depressed]]
@@ -284,6 +285,7 @@
 - [[9th of May, 2025 — 00.25 (Fri) ★ But I can't feel it right now and I'm afraid this will make me feel like going away.]]
 - [[6th of June, 2025 — 23.37 (Fri) ★ something's deeply wrong with me and the horror of it all is just so silent that i'm afraid i'd fade along with it.]]
 - [[8th of June, 2025 — 22.00 (Sun) ★ I cooked adobo and I want to do everything]]
+- [[June, 2025 ★ I've been dissociating]]
 ### documentation
 - [[Tarot Journal]] 
 ### japanese

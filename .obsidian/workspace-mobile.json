@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 — source materials/articles/Rock music — Wikipedia.md",
+                "file": "1.0 — immediate notes/to-do.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,58 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rock music — Wikipedia"
+              "title": "to-do"
             }
           },
           {
-            "id": "153628433f50cc4d",
+            "id": "ef38f4dfe01dde03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1.2 — life data/2025/media/albums i listened to (2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "albums i listened to (2025)"
+            }
+          },
+          {
+            "id": "f4e2b50541ccecef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.0 — source materials/articles/Rock music (WIKI).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rock music (WIKI)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +142,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "dc3b41c5d150f52e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 0
@@ -119,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4.0 — indexes/insecurities (index).md",
+            "file": "5.0 — everything else/Rock music (DEEP DIVE).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -1799,6 +1850,66 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b6aa3b5fabebf3cb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a7fda8fb989a9852",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "31559085e89c76f0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "3874e1499a3f7114",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4a9c3a1cff19ca40",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "bae444bb057cfa94",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -1813,38 +1924,39 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian42-brat:BRAT": false,
-      "smart-random-note:Open Random Note from Search": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "153628433f50cc4d",
+  "active": "ee20ea196c219146",
   "lastOpenFiles": [
-    "2.0 — source materials/articles/Rock music — Wikipedia.md",
-    "2nd of March, 2018 — 15.03 (Fri) ★ No one understands me and I hope they know they made me like this.md",
+    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
+    "5.0 — everything else/Rock music (DEEP DIVE).md",
+    "2.0 — source materials/articles/Rock music (WIKI).md",
+    "4.0 — indexes/history (index).md",
+    "1.2 — life data/playlists/a collection of narrative songs to transport you to a different world.md",
+    "5.0 — everything else/Wonderwall — Oasis (chords).md",
+    "3.0 — tags/mundane.md",
+    "1.2 — life data/2024/media/podcasts i listened to (2024).md",
+    "4.0 — indexes/personal work (index).md",
+    "1.2 — life data/journaling/2023/1st of August, 2023 — 23.25 (Tue) ★ Phone battery drains like a motherfucker.md",
+    "4.0 — indexes/zombie (index).md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "1.0 — immediate notes/flashcards/english.md",
+    "2.2 — creative projects/raven's brain/poems/free.1.md",
+    "1.2 — life data/journaling/2022/13th of March, 2022 ★ optimism on being hungry and not taking things personally.md",
+    "2.2 — creative projects/raven's brain/poems/song on the beach.md",
+    "1.0 — immediate notes/to-do.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "1.2 — life data/2025/the demon (2025).md",
+    "1.2 — life data/journaling/2025/June, 2025 ★ I've been dissociating.md",
+    "4.0 — indexes/dissociation (index).md",
+    "4.0 — indexes/journal (index).md",
+    "1.2 — life data/journaling/2018/2nd of March, 2018 — 15.03 (Fri) ★ No one understands me and I hope they know they made me like this.md",
+    "1.2 — life data/journaling/2018/8th of March, 2018 — 3.48 (Fri) ★ the double-decker bed and Lovely Bones.md",
     "4.0 — indexes/self-esteem (index).md",
     "4.0 — indexes/family (index).md",
-    "4.0 — indexes/journal (index).md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
-    "5.0 — everything else/Rock music (DEEP DIVE).md",
-    "1.2 — life data/journaling/2018/2nd of March, 2018 — 3.28 (Fri) ★ pink Beats headphones snapped, ex sent a friend request on FB, aunt arriving to Philippines.md",
-    "1.2 — life data/journaling/2018/24th of February, 2018 — 6.41 (Sat) ★ MORNING PAGE.md",
-    "3.0 — tags/morning.md",
-    "4.0 — indexes/morning (index).md",
-    "1.2 — life data/journaling/2018/24th of February, 2018 — 4.02 (Sat) ★ last page of journal part 3.md",
-    "1.2 — life data/journaling/2023/12th of August, 2023 — 22.55 (Sat) ★ I can't help but feel like we match, cutting down on sugar and milk.md",
-    "5.0 — everything else/an OPEN letter to my friend, Jaime..md",
-    "4.0 — indexes/friendship (index).md",
-    "4.0 — indexes/letter (index).md",
-    "4.0 — indexes/infatuation (index).md",
-    "1.2 — life data/journaling/2018/Dream Journal — 2018 ★ I dreamt about her again.md",
-    "4.0 — indexes/dream (index).md",
-    "1.2 — life data/journaling/dream journal/Dream Journal — 26th of May, 2023 — 18.20 (Fri) ★  A galaxy outside the school exam.md",
-    "1.2 — life data/journaling/2018/2018 ★ How do you stand out from the crowd.md",
-    "3.0 — tags/individuality.md",
-    "4.0 — indexes/individuality (index).md",
-    "1.2 — life data/journaling/2018/16th of February, 2018 — 16.31 ★ recollection day at KHS.md",
-    "5.0 — everything else/everything about you, chai..md",
-    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
     "JetBrainsMono-Medium.ttf",
     "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",

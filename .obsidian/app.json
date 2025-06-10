@@ -24,9 +24,18 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "editor:insert-horizontal-rule"
+    "editor:insert-horizontal-rule",
+    "editor:fold-all",
+    "editor:toggle-inline-math",
+    "editor:toggle-comments",
+    "editor:insert-codeblock",
+    "editor:insert-mathblock"
   ],
   "trashOption": "local",
   "showInlineTitle": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1.0 — immediate notes",
+  "attachmentFolderPath": "1.0 — immediate notes"
 }

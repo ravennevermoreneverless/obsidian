@@ -36,7 +36,7 @@
 - [x] study course
 - [x] ios notes
 - [ ] old journal entries (make album for all creative journal pages - INCLUDE ALL PAGES)
-	- [ ] first journal
+	- [x] first journal
 	- [ ] black journal
 	- [ ] pink journal
 	- [ ] thick ass chaos tome journal
@@ -84,6 +84,7 @@
 - [x] prepare for job interviews
 - [ ] japanese albums rym list
 - [x] join art contests
+- [ ] make a demonology book
 ## to-buy
 - [ ] pay for gcash loan
 - [ ] pay for home credit loan

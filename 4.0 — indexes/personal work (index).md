@@ -19,7 +19,7 @@
 - [[her pt. 3 (limerence version)]]
 - [[in a perfect world]]
 - [[the thing]]
-- ### short story
+### short story
 - [[An itch]]
 - [[connection postponed until further notice]]
 - [[i heard you were looking like the moon]]
