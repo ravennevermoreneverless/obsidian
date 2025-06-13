@@ -81,7 +81,11 @@ restlessness
 - self-loathing(x2), guilt/self-blame(x2), loss or increase of appetite(x2), negativity(x2), sadness/despair(x2)
 ###### 12
 - day: baseline , night: baseline
-- day: *fluoxetine and aripiprazole* , night: 
+- day: *fluoxetine and aripiprazole* , night:
+###### 13
+- day: baseline , night: baseline
+- day: *fluoxetine and aripiprazole* , night:
+- brain fog(x2)
 ## May
 ###### 1
 - day: baseline, night: baseline

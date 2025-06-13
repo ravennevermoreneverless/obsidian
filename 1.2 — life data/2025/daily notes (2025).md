@@ -320,3 +320,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==10 - --== Didn't go to the Zoom link for FoundEver. I stayed up late to compose some music and listen to rock records. Chai and I got addicted to Grow a Garden on Roblox, and Demonology. 
 
 ==12 - 21:42== Chai and I had a falling out last night, that's why I couldn't write an entry. We had a disagreement, and then I opened up to her about how I feel hurt by her all the time. She went to her cousin's place at night and we didn't speak except in chat where I told her she can break up with me if she wants. But we quickly resolved it and we didn't break up — it was my fault though, of course. Earlier she came back home after a drinking night with her cousins, and we all played Grow a Garden for the entire day. 
+
+==13 - --== Chai, Chelsea and I played Grow a Garden almost the entire day. I have a really bad stomach ache. Chai's not in the mood for my shit. I completed the final interview and job offer contract signing at Foundever (while playing Roblox).
