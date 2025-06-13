@@ -9,6 +9,8 @@
     "editor:copy",
     "editor:paste",
     "editor:toggle-bullet-list",
+    "editor:indent-list",
+    "editor:unindent-list",
     "editor:toggle-checklist-status",
     "editor:toggle-strikethrough",
     "editor:insert-embed",
@@ -19,8 +21,6 @@
     "editor:toggle-blockquote",
     "editor:insert-link",
     "editor:toggle-numbered-list",
-    "editor:indent-list",
-    "editor:unindent-list",
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
@@ -29,7 +29,9 @@
     "editor:toggle-inline-math",
     "editor:toggle-comments",
     "editor:insert-codeblock",
-    "editor:insert-mathblock"
+    "editor:insert-mathblock",
+    "editor:go-end",
+    "editor:unfold-all"
   ],
   "trashOption": "local",
   "showInlineTitle": true,

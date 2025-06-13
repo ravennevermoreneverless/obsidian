@@ -85,9 +85,10 @@
 - [ ] japanese albums rym list
 - [x] join art contests
 - [ ] make a demonology book
+- [ ] produce music for gf
 ## to-buy
 - [ ] pay for gcash loan
-- [ ] pay for home credit loan
+- [ ] save up for home credit downpayment
 - [ ] antiperspirant deodorant
 - [ ] feminine wash
 - [ ] oatmeal soap
@@ -99,4 +100,7 @@
 - [ ] neurogum (try)
 - [ ] black tea
 - [ ] extension
+#### for chai
 - [ ] hoop earrings
+- [ ] digicam
+- [ ] power bank

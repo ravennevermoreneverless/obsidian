@@ -7,7 +7,14 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 4. ***Rock Island Line*** (1955) (single) — *Lonnie Donegan* : was a ==major== influence and helped to develop and form a unique sound of small bands who play rock and roll like *John Lennon*'s ***Quarrymen*** (later on *The Beatles*) • <span style="color:#831100">extremely fast-paced and it really makes you dance. it sticks to your head like glue, no wonder why this helped develop the sound of future rock and roll</span>
 5. ***Surfin'*** (1961) (single) — *The Beach Boys* : reached Billboard top 100 and helped solidify the surf music craze • <span style="color:#831100">oh i can definitely hear the soon-will-emerge british rock bands after the british invasion, like The Beatles, the vocal harmonizations and acapella-like runs</span>
 6. ***Please Please Me*** (1963) — *The Beatles* • <span style="color:#831100">it doesn't sound so bad actually i thought a beatles record would be too overrated for me but there are some good tracks here surprisingly</span> 
+	- Anna (Go To Him)
 7. ***How Do You Like It?*** (1963) *— Gerry & The Pacemakers* • <span style="color:#831100">really upbeat and energetic</span>
+	- You'll Never Walk Alone
 8. ***Sugar and Spice*** (1963) — *The Searchers* • <span style="color:#831100">oh this is something i'd unironically listen to while on a road trip somewhere on the countryside by the time summer arrives</span> 
+	- Don't Cha Know
 9. ***You Were Mad For Me*** (1964) — *Freddie & The Dreamers* • <span style="color:#831100">listening to this while playing roblox grow a garden seems surreal</span> 
-10. 
+	- It Doesn't Matter Anymore
+	- Tell Me When
+10. ***Stay With the Hollies*** (1964) — *The Hollies* • 
+	- Mr Moonlight
+	- Lucille

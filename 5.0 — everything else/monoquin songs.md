@@ -1248,12 +1248,9 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1218. Trigger — Yuuki Ozaki : June 7, 2025
 1219. Vacation Bible School — Ayesha Erotica : June 8, 2025
 1220. Stickwitu — The Pussycat Dolls : June 9, 2025
-
-1221 ν June 10, 2025
-
-1222 ν June 11, 2025
-
-1223 ν June 12, 2025
+1221. Girls Just Want to Have Fun — Bladee, Ecco2k : June 10, 2025
+1222. ずるいよMagnetic today — 西木野真姫 (CV. Pile), 矢澤にこ (CV. 徳井青空) : June 11, 2025
+1223. A Little Story — Daniel Johnston : June 12, 2025
 
 1224 ν June 13, 2025
 
