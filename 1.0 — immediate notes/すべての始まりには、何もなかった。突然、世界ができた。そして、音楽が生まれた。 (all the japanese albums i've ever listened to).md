@@ -362,4 +362,5 @@ tags: [[japanese media]] [[list]] [[music]] [[albums]]
 114. ***一夜のペーソス [Dusk to Dawn]*** (2023) — Lamp : Shibuya-kei, Jazz Pop 
 	★ *月世界旅行*
 	★ *古いノート*
-115. 
+115. ***Itekoma Hits*** (2019) — おとぼけビ～バ～ [Otoboke Beaver] : Hardcore Punk
+	★ *Introduce Me to Your Family*

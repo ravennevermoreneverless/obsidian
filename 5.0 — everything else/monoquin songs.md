@@ -1251,10 +1251,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1221. Girls Just Want to Have Fun — Bladee, Ecco2k : June 10, 2025
 1222. ずるいよMagnetic today — 西木野真姫 (CV. Pile), 矢澤にこ (CV. 徳井青空) : June 11, 2025
 1223. A Little Story — Daniel Johnston : June 12, 2025
-
-1224 ν June 13, 2025
-
-1225 ν June 14, 2025
+1224. Rewind — Charli xcx : June 13, 2025
+1225. summertime — cinnamons, eveing cinema : June 14, 2025
 
 1226 ν June 15, 2025
 

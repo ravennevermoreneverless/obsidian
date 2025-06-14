@@ -1,7 +1,13 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## ₱ 0.00
+## ₱ 15.00
 
+==June 14== House of Blends overload fries and cold Butter Scotch coffee 22oz : <span style="color:#A41C1D">-₱198</span>
+==June 14== McDonald's ala king meal for Chai : <span style="color:#A41C1D">-₱66</span>
+==June 14== MoveIt ride from Jollibee Center to McDonald's San Joaquin : <span style="color:#A41C1D">-₱80</span>
+==June 14== Jeepney fare from San Joaquin to One San Miguel Avenue : <span style="color:#A41C1D">-₱18</span>
+==June 14== Money from mom : <span style="color:#29A833">₱300.00</span>
+==June 14== Money from dad : <span style="color:#29A833">₱100.00</span>
 ==June 5== FX ride from Megamall to San Joaquin : <span style="color:#A41C1D">-₱60</span>
 ==June 5== Pao-tsin (w/ Chai) : <span style="color:#A41C1D">-₱185</span>
 ==June 5== EDSA Carousel fare from SM North to Ortigas : <span style="color:#A41C1D">-₱30</span>

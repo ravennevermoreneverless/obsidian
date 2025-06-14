@@ -86,6 +86,10 @@ restlessness
 - day: baseline , night: baseline
 - day: *fluoxetine and aripiprazole* , night:
 - brain fog(x2)
+###### 14
+- day: baseline , night: slightly depressed
+- day: *fluoxetine and aripiprazole* , night:
+- brain fog(x1), agitated(x1), irritability(x1)
 ## May
 ###### 1
 - day: baseline, night: baseline

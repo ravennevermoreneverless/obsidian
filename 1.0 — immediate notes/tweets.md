@@ -355,7 +355,7 @@ oh man he's talking generalizations THIS GUY'S TALKING ABOUT GENERALIZATIONS AND
 --
 you dont understand the amount of transfiguration happening inside my body everytime the clock strucks 1 to 4 AM
 --
-imagine the amount of magma i can drink
+==imagine the amount of magma i can drink==
 --
 routine gave me structure and comfort but it made me incredibly resistant to change that it pains me for a little bit of uncertainty and now i cling to chaos and discord it is never there for me and it always spins me out of control but it is the only way to acceptance
 --

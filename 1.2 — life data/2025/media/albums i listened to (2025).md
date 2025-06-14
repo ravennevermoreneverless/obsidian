@@ -63,3 +63,5 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 60. ***Please Please Me*** (1963) — The Beatles : Merseybeat, Pop Rock • 6/9/2025 
 61. ***How Do You Like It?*** (1963) — Gerry & The Pacemakers : Merseybeat, Pop, Pop Rock • 6/10/2025
 62. ***You Were Mad For Me*** (1964) — Freddie and the Dreamers : Pop Rock, Beat • 6/11/2025
+63. ***Stay With the Hollies*** (1964) — The Hollies : Beat • 6/14/2025
+64. 

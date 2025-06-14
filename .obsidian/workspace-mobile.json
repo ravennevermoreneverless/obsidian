@@ -126,9 +126,57 @@
               "icon": "lucide-file",
               "title": "すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to)"
             }
+          },
+          {
+            "id": "210a45099fc6c91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/tweets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tweets"
+            }
+          },
+          {
+            "id": "62dcbdf85c209fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 — life data/2025/annual cash flow (2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "annual cash flow (2025)"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -2039,6 +2087,46 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5b578b20b932c045",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e27ed041bb031d64",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8c72ffe9545340ff",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2a772f49068c3c57",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -2058,18 +2146,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2ed66990478acfec",
+  "active": "62dcbdf85c209fa8",
   "lastOpenFiles": [
-    "1.0 — immediate notes/tweets.md",
-    "1.0 — immediate notes/すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to).md",
-    "5.0 — everything else/Rock music (DEEP DIVE).md",
-    "1.0 — immediate notes/to-do.md",
-    "5.0 — everything else/monoquin songs.md",
     "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/2025/daily notes (2025).md",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/monoquin songs.md",
+    "1.0 — immediate notes/すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to).md",
+    "5.0 — everything else/Rock music (DEEP DIVE).md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "2.0 — source materials/articles/Rock music (WIKI).md",
+    "1.0 — immediate notes/to-do.md",
     "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
     "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
-    "2.0 — source materials/articles/Rock music (WIKI).md",
     "4.0 — indexes/history (index).md",
     "1.2 — life data/playlists/a collection of narrative songs to transport you to a different world.md",
     "5.0 — everything else/Wonderwall — Oasis (chords).md",
@@ -2078,7 +2167,6 @@
     "4.0 — indexes/personal work (index).md",
     "1.2 — life data/journaling/2023/1st of August, 2023 — 23.25 (Tue) ★ Phone battery drains like a motherfucker.md",
     "4.0 — indexes/zombie (index).md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
     "1.0 — immediate notes/flashcards/english.md",
     "2.2 — creative projects/raven's brain/poems/free.1.md",
     "1.2 — life data/journaling/2022/13th of March, 2022 ★ optimism on being hungry and not taking things personally.md",
