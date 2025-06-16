@@ -1253,10 +1253,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1223. A Little Story — Daniel Johnston : June 12, 2025
 1224. Rewind — Charli xcx : June 13, 2025
 1225. summertime — cinnamons, eveing cinema : June 14, 2025
-
-1226 ν June 15, 2025
-
-1227 ν June 16, 2025
+1226. A Forest — The Cure : June 15, 2025
+1227. MASAYUME CHASING — BoA : June 16, 2025
 
 1228 ν June 17, 2025
 

@@ -364,3 +364,12 @@ tags: [[japanese media]] [[list]] [[music]] [[albums]]
 	★ *古いノート*
 115. ***Itekoma Hits*** (2019) — おとぼけビ～バ～ [Otoboke Beaver] : Hardcore Punk
 	★ *Introduce Me to Your Family*
+116. ***スーパーチャンポン [Super Champon]*** (2022) — おとぼけビ～バ～ [Otoboke Beaver] : Hardcore Punk, Garage Punk
+117. ***あらためまして、はじめまして、ミドリです。/Aratamemashite, hajimemashite, Midori desu.*** (2008) — ミドリ [Midori] : Art Punk
+	★ *ゆきこさん*
+118. ***Eureka*** (2013) — きのこ帝国 [Kinoko Teikoku] : Indie Rock, Shoegaze
+	★ *平行世界*
+	★ *国道スロープ*
+	★ *ミュージシャン*
+119. ***A Long Day*** (2016) — ミツメ [mitsume] : Indie Rock
+120. 

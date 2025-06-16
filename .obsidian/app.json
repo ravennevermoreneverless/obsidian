@@ -31,7 +31,8 @@
     "editor:insert-codeblock",
     "editor:insert-mathblock",
     "editor:go-end",
-    "editor:unfold-all"
+    "editor:unfold-all",
+    "editor:toggle-fold"
   ],
   "trashOption": "local",
   "showInlineTitle": true,

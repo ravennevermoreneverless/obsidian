@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "13e80a7a483cc02d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 — immediate notes/to-do.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "to-do"
-            }
-          },
-          {
             "id": "e7e4bea4f783c167",
             "type": "leaf",
             "state": {
@@ -128,7 +104,7 @@
             }
           },
           {
-            "id": "210a45099fc6c91d",
+            "id": "b2c2bf5ee8da8949",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,33 +126,9 @@
               "icon": "lucide-file",
               "title": "tweets"
             }
-          },
-          {
-            "id": "62dcbdf85c209fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2025/annual cash flow (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "annual cash flow (2025)"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -2127,6 +2079,66 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "47fd22e07e6822ad",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "cf6e4d59e2c0342e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f8de07bf708b53d7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8f91742001cce829",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "10d11fac7e5e55c7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f0f9176a63342fa1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -2146,16 +2158,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "62dcbdf85c209fa8",
+  "active": "f0f9176a63342fa1",
   "lastOpenFiles": [
+    "5.0 — everything else/monoquin songs.md",
     "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/2025/daily notes (2025).md",
-    "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/monoquin songs.md",
     "1.0 — immediate notes/すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to).md",
     "5.0 — everything else/Rock music (DEEP DIVE).md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
     "2.0 — source materials/articles/Rock music (WIKI).md",
+    "1.0 — immediate notes/tweets.md",
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
     "1.0 — immediate notes/to-do.md",
     "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
     "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
@@ -2173,7 +2186,6 @@
     "2.2 — creative projects/raven's brain/poems/song on the beach.md",
     "1.2 — life data/journaling/2025/June, 2025 ★ I've been dissociating.md",
     "4.0 — indexes/dissociation (index).md",
-    "4.0 — indexes/journal (index).md",
     "JetBrainsMono-Medium.ttf",
     "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",

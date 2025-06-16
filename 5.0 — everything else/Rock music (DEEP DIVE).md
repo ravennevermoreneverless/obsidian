@@ -12,9 +12,11 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 	- You'll Never Walk Alone
 8. ***Sugar and Spice*** (1963) — *The Searchers* • <span style="color:#831100">oh this is something i'd unironically listen to while on a road trip somewhere on the countryside by the time summer arrives</span> 
 	- Don't Cha Know
-9. ***You Were Mad For Me*** (1964) — *Freddie & The Dreamers* • <span style="color:#831100">listening to this while playing roblox grow a garden seems surreal</span> 
+9. ***I Want to Hold Your Hand*** (1963) — *The Beatles* : was their first number one hit on the Billboard top 100 • <span style="color:#831100">no wonder this became a hit, it's very "common listener" friendly and it has a replayable value in it — really catchy</span>
+10. ***You Were Mad For Me*** (1964) — *Freddie & The Dreamers* • <span style="color:#831100">listening to this while playing roblox grow a garden seems surreal</span> 
 	- It Doesn't Matter Anymore
 	- Tell Me When
-10. ***Stay With the Hollies*** (1964) — *The Hollies* • 
+11. ***Stay With the Hollies*** (1964) — *The Hollies* • <span style="color:#831100">not even mad, this is quite good</span>
 	- Mr Moonlight
 	- Lucille
+12. ***Peter and Gordon*** (1964) — *Peter and Gordon* • 
