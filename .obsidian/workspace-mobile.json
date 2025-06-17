@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/tweets.md",
+                "file": "1.2 — life data/2025/annual cash flow (2025).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tweets"
+              "title": "annual cash flow (2025)"
             }
           }
         ],
@@ -2139,6 +2139,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2d1cbf282355f3b1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0f72fb0f2eeb8aab",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -2158,15 +2178,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f0f9176a63342fa1",
+  "active": "b2c2bf5ee8da8949",
   "lastOpenFiles": [
-    "5.0 — everything else/monoquin songs.md",
     "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/2025/daily notes (2025).md",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/monoquin songs.md",
     "1.0 — immediate notes/すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to).md",
     "5.0 — everything else/Rock music (DEEP DIVE).md",
     "2.0 — source materials/articles/Rock music (WIKI).md",
-    "1.0 — immediate notes/tweets.md",
     "1.2 — life data/2025/annual cash flow (2025).md",
     "1.2 — life data/2025/media/albums i listened to (2025).md",
     "1.0 — immediate notes/to-do.md",

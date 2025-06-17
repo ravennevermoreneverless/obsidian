@@ -1,7 +1,15 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## ₱ 15.00
+## <span style="color:#29A833">₱ 148.00</span>
 
+## <span style="color:#FFF37B">₱ 300.00</span>
+
+==June 17== Bought Chicken Pastil meal + Kopiko Lucky Day (x2) at Lawson : <span style="color:#A41C1D">-₱117</span>
+==June 17== FX fare from San Joaquin to Julia Vargas : <span style="color:#A41C1D">-₱35</span>
+==June 17== Loaded Go59 : <span style="color:#A41C1D">-₱59</span>
+==June 17== Money from mom for work : <span style="color:#29A833">₱30.00</span>
+==June 17== Money from mom for work : <span style="color:#29A833">₱30.00</span>
+==June 17== Money from dad (loaned): <span style="color:#FFF37B">₱300.00</span>
 ==June 14== House of Blends overload fries and cold Butter Scotch coffee 22oz : <span style="color:#A41C1D">-₱198</span>
 ==June 14== McDonald's ala king meal for Chai : <span style="color:#A41C1D">-₱66</span>
 ==June 14== MoveIt ride from Jollibee Center to McDonald's San Joaquin : <span style="color:#A41C1D">-₱80</span>
