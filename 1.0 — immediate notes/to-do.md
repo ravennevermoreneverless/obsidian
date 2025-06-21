@@ -89,7 +89,7 @@
 ## to-buy
 - [ ] pay for gcash loan
 - [ ] save up for home credit downpayment
-- [ ] antiperspirant deodorant
+- [x] antiperspirant deodorant
 - [ ] feminine wash
 - [ ] oatmeal soap
 - [ ] mouse (PC)
@@ -100,6 +100,8 @@
 - [ ] neurogum (try)
 - [ ] black tea
 - [ ] extension
+- [ ] wet wipes
+- [ ] gcash card
 #### for chai
 - [ ] hoop earrings
 - [ ] digicam

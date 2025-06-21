@@ -97,8 +97,17 @@ restlessness
 - sleep problems(x2)
 ###### 16
 - day: baseline , night baseline
-- day: *fluoxetine and aripiprazole* , night
+- day: *fluoxetine and aripiprazole* , night: 
+###### 17
+- day: baseline , night baseline
+- day: *fluoxetine and aripiprazole* + *Biperiden*, night
+###### 18
+- day: baseline , night baseline
+- day: *fluoxetine and aripiprazole*, night:
 
+###### 21
+- day: baseline , night baseline
+- day: *fluoxetine and aripiprazole*, night:
 ## May
 ###### 1
 - day: baseline, night: baseline

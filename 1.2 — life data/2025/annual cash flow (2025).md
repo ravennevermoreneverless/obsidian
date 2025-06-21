@@ -1,9 +1,28 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱ 148.00</span>
+## <span style="color:#29A833">₱ 1,141.00</span>
 
 ## <span style="color:#FFF37B">₱ 300.00</span>
 
+==June 22== McDonald's ala king + Matcha McFlurry + McCafé Vanilla medium <span style="color:#A41C1D">-₱246</span>
+==June 22== JoyRide from Technopoint to McDonald's San Joaquin <span style="color:#A41C1D">-₱69</span>
+==June 21== Bottled Water + Great Taste Dark Latte + Pizz Kariman + Tuna Kariman <span style="color:#A41C1D">-₱124</span>
+==June 21== Bottled Water + Nutri Boost strawberry + Taco Salad Rolls on Lawson <span style="color:#A41C1D">-₱152</span>
+==June 21== FX ride from San Joaquin to Doña Julia Vargas <span style="color:#A41C1D">-₱69</span>
+==June 21== Go59 <span style="color:#A41C1D">-₱60</span>
+==June 21== Foundever incentive GCash eGiftCard <span style="color:#29A833">₱985.00</span>
+==June 20== MoveIt ride from Technopoint to San Joaquin <span style="color:#A41C1D">-₱66</span>
+==June 20== Double Choco muffin + UCC microground coffe (x2) + Milo <span style="color:#A41C1D">-₱99</span>
+==June 20== Nutri-Boost strawberry from Lawson <span style="color:#A41C1D">-₱27</span>
+==June 20== FX fare from San Joaquin to Doña Julia Vargas<span style="color:#A41C1D">-₱35</span>
+==June 20== Go59 <span style="color:#A41C1D">-₱60</span>
+==June 20== Tam's vanilla ice cream + Chai's crinkles <span style="color:#A41C1D">-₱83</span>
+==June 19== MoveIt from Technopoint to San Joaquin <span style="color:#A41C1D">-₱82</span>
+==June 19== Creamy Spinach Lasagna + Tuna Clubhouse Sandwich + Great Taste Caramel Macchiato from Lawson <span style="color:#A41C1D">-₱156</span>
+==June 19== FX fare from San Joaquin to Doña Julia Vargas <span style="color:#A41C1D">-₱35</span>
+==June 19== GCash cashout fee <span style="color:#A41C1D">-₱15</span>
+==June 18== Some stuff happened (I got my ₱2000 but it's only ₱1,975) then I bought McDonald's for Chai and I <span style="color:#A41C1D">>-₱500</span>
+==June 18== Foundever incentive GCash eGiftCard <span style="color:#29A833">₱1,975.00</span>
 ==June 17== Bought Chicken Pastil meal + Kopiko Lucky Day (x2) at Lawson : <span style="color:#A41C1D">-₱117</span>
 ==June 17== FX fare from San Joaquin to Julia Vargas : <span style="color:#A41C1D">-₱35</span>
 ==June 17== Loaded Go59 : <span style="color:#A41C1D">-₱59</span>

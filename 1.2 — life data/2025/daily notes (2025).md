@@ -328,3 +328,12 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==15 - --== I almost didn't sleep and just played Roblox until 3 AM. Then I fell asleep playing Roblox, woke up playing Roblox. Went to my nephews' birthday at McDonald's for a short whil (still playing Roblox) then went home and played Roblox with Chai and my siblings. We had a really nice dinner, too, that mom cooked.
 
 ==16 - --== Submitted my pre-employment documents at Foundever, then played Roblox with Chai and my siblings until evening. I arranged my closet by 7 PM then did the mock call around 11 PM. 
+
+
+==17 - --== First day of work a Foundever. A lot happened but I managed to survive the day. The entire time I'm talking to Chai during breaks and I remained alone for the majority of the time at work. Being nonchalant worked. The class was a bit boring and there were a lot of guys. 
+
+==18 - --== A normal day at work but this time during lunch I joined my coworkers (but I didn't speak). I rode a MoveIt home again today and bought McDonald's for Chai and I (since I got my incentive/allowance). 
+
+==20 - --== Chai and I's 10th monthsary. I bought her crinkles and muffin. It's my 4th day at work, still eating alone, and I'm the first one who did the mock call. I did fairly well. I immediately went home afterwards and played ROBLOX with my siblings and my girlfriend. 
+
+==22 - 00:57== It's such a long day. I started the day with Chai disappointed in me because I posted a video of us together and she didn't like her image. I went to work through a MoveIt ride because I was running a bit late. The training was filled with discussion for almost the entire day and I still eat alone but I talked to a few trainees for a brief exchange of words. When it's the end of my shift, I had a hard time booking rides on several apps so I ate at Uncle John's first before trying again. Chai fell asleep, I bought her food from McDonald's, then I got home tired and sleepy. 
