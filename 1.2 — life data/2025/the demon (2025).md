@@ -108,6 +108,10 @@ restlessness
 ###### 21
 - day: baseline , night baseline
 - day: *fluoxetine and aripiprazole*, night:
+###### 22
+- day: baseline , night baseline
+- day: *fluoxetine and aripiprazole*, night:
+- anhedonia(x2)
 ## May
 ###### 1
 - day: baseline, night: baseline

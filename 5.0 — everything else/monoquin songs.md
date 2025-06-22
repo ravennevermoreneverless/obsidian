@@ -1255,18 +1255,12 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1225. summertime — cinnamons, eveing cinema : June 14, 2025
 1226. A Forest — The Cure : June 15, 2025
 1227. MASAYUME CHASING — BoA : June 16, 2025
-
-1228 ν June 17, 2025
-
-1229 ν June 18, 2025
-
-1230 ν June 19, 2025
-
-1231 ν June 20, 2025
-
-1232 ν June 21, 2025
-
-1233 ν June 22, 2025
+1228. Epilogue: Young Forever — BTS : June 17, 2025
+1229. My Heroine - Acoustic — Silverstein : June 18, 2025
+1230. Chromakey Dreamcoat — Boards of Canada : June 19, 2025
+1231. Everybody Knows — The Jokes : June 20, 2025
+1232. Oceans — Musical O : June 21, 2025
+1233. Dare You To Move — Switchfoot : June 22, 2025
 
 1234 ν June 23, 2025
 
