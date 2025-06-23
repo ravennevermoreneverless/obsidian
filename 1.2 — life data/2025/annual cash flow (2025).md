@@ -1,9 +1,13 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱ 1,141.00</span>
+## <span style="color:#29A833">₱ 1,060.00</span>
 
 ## <span style="color:#FFF37B">₱ 300.00</span>
 
+==June 24== Some pizza slice <span style="color:#A41C1D">-₱70</span>
+==June 23== Maxim ride from San Joaquin to Technopoit Doña Julia Vargas <span style="color:#A41C1D">-₱72</span>
+==June 23== Go59 <span style="color:#A41C1D">-₱59</span>
+==June 23== Mom's loan from me <span style="color:#29A833">₱120.00</span>
 ==June 22== McDonald's ala king + Matcha McFlurry + McCafé Vanilla medium <span style="color:#A41C1D">-₱246</span>
 ==June 22== JoyRide from Technopoint to McDonald's San Joaquin <span style="color:#A41C1D">-₱69</span>
 ==June 21== Bottled Water + Great Taste Dark Latte + Pizz Kariman + Tuna Kariman <span style="color:#A41C1D">-₱124</span>

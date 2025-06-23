@@ -1261,8 +1261,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1231. Everybody Knows — The Jokes : June 20, 2025
 1232. Oceans — Musical O : June 21, 2025
 1233. Dare You To Move — Switchfoot : June 22, 2025
-
-1234 ν June 23, 2025
+1234. On & On — Cartoon, Jéja, Daniel Levi : June 23, 2025
 
 1235 ν June 24, 2025
 

@@ -339,3 +339,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==22 - 00:57== It's such a long day. I started the day with Chai disappointed in me because I posted a video of us together and she didn't like her image. I went to work through a MoveIt ride because I was running a bit late. The training was filled with discussion for almost the entire day and I still eat alone but I talked to a few trainees for a brief exchange of words. When it's the end of my shift, I had a hard time booking rides on several apps so I ate at Uncle John's first before trying again. Chai fell asleep, I bought her food from McDonald's, then I got home tired and sleepy. 
 
 ==22 - 23:01== Chai and I didn't go to Cubao Expo today. Her, me and my siblings played ROBLOX for almost the entire day. Chai and I bathed together though and had amazing sex. I drank brewed coffee for the first time since forever again. 
+
+==24 - 02:18== I woke up really early because I thought I was going to get meds — I did not. I just played ROBLOX. I ran a huge errand with Chai and my sister which led me to become sleepless for work by 10pm. I got kind of hyper because we have brewed coffee starting today.

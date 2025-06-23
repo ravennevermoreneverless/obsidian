@@ -112,6 +112,10 @@ restlessness
 - day: baseline , night baseline
 - day: *fluoxetine and aripiprazole*, night:
 - anhedonia(x2)
+###### 23
+- day: slightly manic , night: slightly manic
+- day: *aripiprazole*, night:
+- hyperactivity(x2), talkative(x2), racing thoughts(x1), sleep problems(x2)
 ## May
 ###### 1
 - day: baseline, night: baseline

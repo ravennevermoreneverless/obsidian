@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2 — life data/2025/the demon (2025).md",
+                "file": "1.0 — immediate notes/to-do.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the demon (2025)"
+              "title": "to-do"
+            }
+          },
+          {
+            "id": "26e9ae1301e60844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL CROPS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grow A Garden (ROBLOX) ALL CROPS"
+            }
+          },
+          {
+            "id": "098b0b0ef04d5659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL CROPS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grow A Garden (ROBLOX) ALL CROPS"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -219,7 +267,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.2 — life data/2025/the demon (2025).md",
+            "file": "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL CROPS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -2299,6 +2347,36 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4f2dd5162ddc8514",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "154cac53758ae757",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a0812968022ab83e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -2318,23 +2396,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b0046102459e5be",
+  "active": "098b0b0ef04d5659",
   "lastOpenFiles": [
+    "1.2 — life data/2025/the demon (2025).md",
     "1.2 — life data/2025/daily notes (2025).md",
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
     "5.0 — everything else/monoquin songs.md",
     "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL CROPS.md",
+    "5.0 — everything else/Rock music (DEEP DIVE).md",
+    "2.0 — source materials/articles/Rock music (WIKI).md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "1.0 — immediate notes/to-do.md",
     "4.0 — indexes/game (index).md",
     "4.0 — indexes/list (index).md",
     "5.0 — everything else/sensory things that make me wanna rip my scalp and chew my teeth off.md",
     "5.0 — everything else/気持ち悪い。(all the japanese films i've ever watched).md",
-    "1.2 — life data/2025/the demon (2025).md",
-    "1.2 — life data/2025/annual cash flow (2025).md",
-    "1.0 — immediate notes/to-do.md",
     "1.0 — immediate notes/tweets.md",
     "1.0 — immediate notes/すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to).md",
-    "5.0 — everything else/Rock music (DEEP DIVE).md",
-    "2.0 — source materials/articles/Rock music (WIKI).md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
     "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
     "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
     "4.0 — indexes/history (index).md",
@@ -2345,7 +2424,6 @@
     "4.0 — indexes/personal work (index).md",
     "1.2 — life data/journaling/2023/1st of August, 2023 — 23.25 (Tue) ★ Phone battery drains like a motherfucker.md",
     "4.0 — indexes/zombie (index).md",
-    "1.0 — immediate notes/flashcards/english.md",
     "JetBrainsMono-Medium.ttf",
     "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",
