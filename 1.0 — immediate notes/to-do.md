@@ -86,7 +86,7 @@
 - [x] join art contests
 - [ ] make a demonology book
 - [ ] produce music for gf
-- [ ] grow a garden database
+- [x] grow a garden database
 ## to-buy
 - [ ] pay for gcash loan
 - [ ] save up for home credit downpayment
