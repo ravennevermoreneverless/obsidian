@@ -1262,18 +1262,12 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1232. Oceans — Musical O : June 21, 2025
 1233. Dare You To Move — Switchfoot : June 22, 2025
 1234. On & On — Cartoon, Jéja, Daniel Levi : June 23, 2025
-
-1235 ν June 24, 2025
-
-1236 ν June 25, 2025
-
-1237 ν June 26, 2025
-
-1238 ν June 27, 2025
-
-1239 ν June 28, 2025
-
-1240 ν June 29, 2025
+1235. tumakbo sa ulan — Hezekiah Valle Mesina : June 24, 2025
+1236. Ba'To — Bullet Dumas : June 25, 2025
+1237. Can't Stop — Red Hot Chili Peppers : June 26, 2025
+1238. That's What You Get — Paramore : June 27, 2025
+1239. Idioteque — Radiohead : June 28, 2025
+1240. Over Your Shoulder — Rudderless : June 29, 2025
 
 1241 ν June 30, 2025
 

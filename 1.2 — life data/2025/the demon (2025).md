@@ -116,6 +116,19 @@ restlessness
 - day: slightly manic , night: slightly manic
 - day: *aripiprazole*, night:
 - hyperactivity(x2), talkative(x2), racing thoughts(x1), sleep problems(x2)
+###### 24
+- day: slightly depressed , night: slightly depressed
+- day: *fluoxetine and aripiprazole*, night:
+- sleep problems(x2), anhedonia(x2), inability to concentrate(x1), emptiness(x2), loneliness(x2)
+###### 26
+- day: slightly depressed , night: slightly depressed
+- day: *fluoxetine and aripiprazole*, night:
+###### 27
+- day: baseline , night: baseline
+- day: *fluoxetine and aripiprazole*, night:
+###### 28
+- day: baseline , night: baseline
+- day: *fluoxetine and aripiprazole*, night:
 ## May
 ###### 1
 - day: baseline, night: baseline

@@ -1,11 +1,38 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱ 1,060.00</span>
+## <span style="color:#29A833">₱ 2,305.00</span>
 
 ## <span style="color:#FFF37B">₱ 300.00</span>
 
+## <span style="color:#FFF37B">₱ 200.00</span>
+
+## <span style="color:#FFF37B">₱ 485.00</span>
+
+## <span style="color:#FFF37B">₱ 2,000.00</span>
+
+
+==June 29== iCloud subscription (50GB) <span style="color:#A41C1D">-₱49</span>
+==June 29== Milo for Chai (x2) <span style="color:#A41C1D">-₱24</span>
+==June 29== Ice cream for everyone <span style="color:#A41C1D">-₱93</span>
+==June 28== FX fare from Doña Julia Vargas to Kapasigan + Jeepney fare from Kapasigan to San Joaquin <span style="color:#A41C1D">-₱43</span>
+==June 28== Creamy Spinach Lasagna from Lawson <span style="color:#A41C1D">-₱69</span>
+==June 27== Jeepney fare from San Joaquin to KFC Kapasigan <span style="color:#A41C1D">-₱11</span>
+==June 27== Loaned money from Tam (for baon) <span style="color:#29A833">₱485.00</span>
+==June 27== FX fare from Doña Julia Vargas to Kapasigan + Jeepney fare from Kapasigan to San Joaquin <span style="color:#A41C1D">-₱43</span>
+==June 26== Stuff <span style="color:#A41C1D">-₱????</span>
+==June 25== All-purpose cream + 2 Nestea lemon <span style="color:#A41C1D">-₱76</span>
+==June 25== Cashout + bread from the bakery for Chai <span style="color:#A41C1D">-₱46</span>
+==June 25== Jeep ride from Kapasigan to San Joaquin <span style="color:#A41C1D">-₱14</span>
+==June 25== FX from Doña Julia Vargas to Kapasigan <span style="color:#A41C1D">-₱30</span>
+==June 25== Calamares + rice <span style="color:#A41C1D">-₱75</span>
+==June 25== Turon <span style="color:#A41C1D">-₱20</span>
+==June 25== MoveIt ride from San Joaquin to Technopoint Doña Julia Vargas <span style="color:#A41C1D">-₱82</span>
+==June 25== trip to NCMH fare <span style="color:#A41C1D">-₱128</span>
+==June 25== FX from Doña Julia Vargas to San Joaquin <span style="color:#A41C1D">-₱30</span>
+==June 24== Loaned money from mom (for NCMH) <span style="color:#29A833">₱200.00</span>
+==June 24== FX from Doña Julia Vargas to San Joaquin <span style="color:#A41C1D">-₱30</span>
 ==June 24== Some pizza slice <span style="color:#A41C1D">-₱70</span>
-==June 23== Maxim ride from San Joaquin to Technopoit Doña Julia Vargas <span style="color:#A41C1D">-₱72</span>
+==June 23== Maxim ride from San Joaquin to Technopoint Doña Julia Vargas <span style="color:#A41C1D">-₱72</span>
 ==June 23== Go59 <span style="color:#A41C1D">-₱59</span>
 ==June 23== Mom's loan from me <span style="color:#29A833">₱120.00</span>
 ==June 22== McDonald's ala king + Matcha McFlurry + McCafé Vanilla medium <span style="color:#A41C1D">-₱246</span>

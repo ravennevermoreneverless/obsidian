@@ -341,3 +341,11 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==22 - 23:01== Chai and I didn't go to Cubao Expo today. Her, me and my siblings played ROBLOX for almost the entire day. Chai and I bathed together though and had amazing sex. I drank brewed coffee for the first time since forever again. 
 
 ==24 - 02:18== I woke up really early because I thought I was going to get meds — I did not. I just played ROBLOX. I ran a huge errand with Chai and my sister which led me to become sleepless for work by 10pm. I got kind of hyper because we have brewed coffee starting today.
+
+==25 - --== I was so fucking sleepy. I didn't get to sleep much because I went to NCMH to get meds, Chai came with me which I'm very thankful for. We got home by past 7 PM, I didn't have the time to sleep at all. I was so sleepy at work I almost fell asleep during QA talk. 
+
+==27 - 09:52== I played ROBLOX with Chai and Chelsea. I didn't go to my NBI appointment, instead I rescheduled it to July 7. I tried FX for the first time going to work and I arrived there 9 PM. We had LM Pette for the entire day and it was really entertaining and informative. I didn't feel tired nor sleepy. I got home to Chai and we played ROBLOX. I'm not sleepy yet. 
+
+==28 - 09:27== I got my first call yesterday. It was 43 minutes long and I fumbled like a fucking pelican grabbing a seal by the throat and getting smashed by a car window just because it passed by. Jesus Christ. I might get called out for this. 
+
+==29 - 10:58== We cleaned the room and I was so fucking tired that I almost fell asleep while still awake. Chai got a pretty bad stomachache at night while we were showering and I got an adrenaline rush that I stayed awake until after the Grow A Garden update. 
