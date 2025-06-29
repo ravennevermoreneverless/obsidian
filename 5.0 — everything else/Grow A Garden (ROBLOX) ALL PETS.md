@@ -44,7 +44,7 @@ tags: [[list]] [[game]]
 	- [ ] Master Sprinkler
 	- [ ] Lightning Rod
 33. [x] ***Peacock*** — Paradise Egg — 30% Hatch Chance — *Legendary* : Utter Beauty: Occasionally fans its feathers every ~10 minutes and all nearby pets will advance ability cooldowns by ~60 seconds.
-34. [ ] ***Ostrich*** — Paradise Egg — 40% Hatch Chance — *Legendary* : Eggsperience: Grants pets hatched from eggs an age bonus.
+34. [x] ***Ostrich*** — Paradise Egg — 40% Hatch Chance — *Legendary* : Eggsperience: Grants pets hatched from eggs an age bonus.
 35. [x] ***Capybara*** — Paradise Egg — 21% Hatch Chance — *Legendary* : Chill Zone: Nearby pets' hunger will not go down and they will gain additional exp per second.
 36. [ ] ***Sand Snake*** — Oasis Egg — 34.5% Hatch Chance — *Legendary* : Buying from the seed/gear shop has a 1.45% to duplicate the bought item.
 37. [ ] ***Meerkat*** — Oasis Egg — 45% Hatch Chance — *Legendary* : Every 7:14m goes to another pet and does a lookout. That pet advanced cooldown by 21.06s! Has a 15.53% chance to do it again after each lookout
@@ -74,7 +74,7 @@ tags: [[list]] [[game]]
 61. [ ] ***Axolotl*** — Oasis Egg — 15% Hatch Chance — *Mythical* : 6.76% chance Summer type fruit stays after collecting!
 62. [ ] ***Chicken Zombie*** — Join a server before 1.06.0 update — *Mythical* : Every ~25m, ~20% chance a nearby fruit becomes Zombified! Increases egg hatch speed by ~10%
 63. [ ] ***Firefly*** — Join a game during a test server — *Mythical* : Once ~80 seconds, 3% chance the Firefly will turn a nearby crop shocked.
-64. [ ] ***Blood Kiwi*** — 20,000,000 in Blood Moon Shop — *Mythical* : The Blood Kiwi's passive is to sit above the egg with the highest remaining hatch time, making the egg's hatch time decrease by 45 seconds every minute. It also increases its hatch speed by 20%. If there are no eggs in a player's garden, it does nothing
+64. [x] ***Blood Kiwi*** — 20,000,000 in Blood Moon Shop — *Mythical* : The Blood Kiwi's passive is to sit above the egg with the highest remaining hatch time, making the egg's hatch time decrease by 45 seconds every minute. It also increases its hatch speed by 20%. If there are no eggs in a player's garden, it does nothing
 65. [ ] ***Owl*** — complete the last milestone of the Wise Old Owl in the Lunar Glow Event 2025 — *Mythical* : The Owl boosts all active pet XP by around 0.20 XP each second. When aging up, the increase goes up by 0.01 XP.
 66. [x] ***Honey Bee*** — Unknown — *Mythical* : The Golden Bee has the ability to occasionally pollinate fruit and there is a small chance harvested fruit will turn gold.
 67. [x] ***Cooked Owl*** — Join a server during the 1.10.0 update — *Mythical* : Every ~15 minutes, ~15.35% chance to cook a nearby fruit. Usually Burnt, but occasionally Cooked. All active pets gain an additional ~0.17 XP/s.
