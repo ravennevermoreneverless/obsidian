@@ -19,4 +19,7 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 11. ***Stay With the Hollies*** (1964) — *The Hollies* • <span style="color:#831100">not even mad, this is quite good</span>
 	- Mr Moonlight
 	- Lucille
-12. ***Peter and Gordon*** (1964) — *Peter and Gordon* • 
+12. ***Peter and Gordon*** (1964) — *Peter and Gordon* • <span style="color:#831100">i don't know, i've been at this for weeks and i still haven't finished it so i'll just move on</span>
+13. ***Animals*** (1964) — *The Animals* • <span style="color:#831100">played this while playing grow a garden roblox, i got a blood kiwi :)</span> 
+	- The Story of Bo Diddley
+	- I'm Mad Again

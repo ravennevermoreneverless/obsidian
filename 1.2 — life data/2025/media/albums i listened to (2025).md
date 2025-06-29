@@ -64,4 +64,5 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 61. ***How Do You Like It?*** (1963) — Gerry & The Pacemakers : Merseybeat, Pop, Pop Rock • 6/10/2025
 62. ***You Were Mad For Me*** (1964) — Freddie and the Dreamers : Pop Rock, Beat • 6/11/2025
 63. ***Stay With the Hollies*** (1964) — The Hollies : Beat • 6/14/2025
-64. 
+64. ***Peter and Gordon*** (1964) — Peter and Gordon : Beat, Merseybeat, Close Harmony • 6/30/2025
+65. ***Animals*** (1964) — The Animals : British Rhythm & Blues • 6/30/2025 
