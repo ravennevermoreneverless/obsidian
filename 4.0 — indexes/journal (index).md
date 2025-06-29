@@ -286,6 +286,7 @@
 - [[6th of June, 2025 — 23.37 (Fri) ★ something's deeply wrong with me and the horror of it all is just so silent that i'm afraid i'd fade along with it.]]
 - [[8th of June, 2025 — 22.00 (Sun) ★ I cooked adobo and I want to do everything]]
 - [[June, 2025 ★ I've been dissociating]]
+- [[29th of June, 2025 — 19.32 (Sun) ★ I could sleep for days and still won't remember]]
 ### documentation
 - [[Tarot Journal]] 
 ### japanese
