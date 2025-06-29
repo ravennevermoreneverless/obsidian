@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 — everything else/monoquin songs.md",
+                "file": "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL PETS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "monoquin songs"
+              "title": "Grow A Garden (ROBLOX) ALL PETS"
+            }
+          },
+          {
+            "id": "27d14deb0cae8d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 — life data/2025/media/films i watched (2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "films i watched (2025)"
             }
           }
         ],
@@ -243,7 +267,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5.0 — everything else/Grow A Garden (ROBLOX) ALL CROPS.md",
+            "file": "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL PETS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -2633,6 +2657,36 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "07d012e73f66fe09",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f8a0f4dd24279ef7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "fb7e1f8b101aa2d4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -2654,6 +2708,9 @@
   },
   "active": "544d663fe47de6f0",
   "lastOpenFiles": [
+    "1.2 — life data/2025/media/films i watched (2025).md",
+    "1.0 — immediate notes/habit chronological order.md",
+    "5.0 — everything else/monoquin songs.md",
     "1.0 — immediate notes/to-do.md",
     "1.2 — life data/2025/the demon (2025).md",
     "5.0 — everything else/Grow A Garden (ROBLOX) ALL CROPS.md",
@@ -2661,7 +2718,6 @@
     "1.2 — life data/2025/annual cash flow (2025).md",
     "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL PETS.md",
     "1.0 — immediate notes/tam password.md",
-    "5.0 — everything else/monoquin songs.md",
     "4.0 — indexes/list (index).md",
     "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
     "5.0 — everything else/Rock music (DEEP DIVE).md",
@@ -2678,8 +2734,6 @@
     "1.2 — life data/playlists/a collection of narrative songs to transport you to a different world.md",
     "5.0 — everything else/Wonderwall — Oasis (chords).md",
     "3.0 — tags/mundane.md",
-    "1.2 — life data/2024/media/podcasts i listened to (2024).md",
-    "4.0 — indexes/personal work (index).md",
     "JetBrainsMono-Medium.ttf",
     "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",
