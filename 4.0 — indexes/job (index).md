@@ -10,3 +10,4 @@
 - [[20th of January, 2024 — 17.36 (Sat) ★ Infatuated with Camille]]
 - [[28th of January, 2024 — 22.14 (Sun) ★ Workplace drama and Camille in a 6-year relationship flirting with me]]
 - [[31st of January, 2024 — 05.31 (Wed) ★ Endorsed to production and slight goodbyes]] 
+- [[29th of June, 2025 — 19.32 (Sun) ★ I could sleep for days and still won't remember]] 
