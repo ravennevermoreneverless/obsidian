@@ -96,9 +96,8 @@
 - [ ] mouse (PC)
 - [ ] headphones (personal)
 - [ ] noise-cancelling headphones
-- [ ] icloud
+- [x] icloud
 - [ ] spotify 
-- [ ] neurogum (try)
 - [ ] black tea
 - [ ] extension
 - [ ] wet wipes

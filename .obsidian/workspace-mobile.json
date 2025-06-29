@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL PETS.md",
+                "file": "1.0 — immediate notes/to-do.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grow A Garden (ROBLOX) ALL PETS"
+              "title": "to-do"
             }
           },
           {
@@ -267,7 +267,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL PETS.md",
+            "file": "1.2 — life data/2025/annual cash flow (2025).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -2687,6 +2687,46 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "eb73df37b446b63a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0eb9fa1f8b2f38b3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ad9853be08ed73b3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "657798a75e0cb67a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -2708,15 +2748,17 @@
   },
   "active": "544d663fe47de6f0",
   "lastOpenFiles": [
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "1.0 — immediate notes/to-do.md",
+    "1.0 — immediate notes/すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to).md",
+    "1.2 — life data/2025/the demon (2025).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.0 — everything else/Grow A Garden (ROBLOX) ALL PETS.md",
+    "1.2 — life data/journaling/2025/29th of June, 2025 — 19.32 (Sun) ★ I could sleep for days and still won't remember.md",
     "1.2 — life data/2025/media/films i watched (2025).md",
     "1.0 — immediate notes/habit chronological order.md",
     "5.0 — everything else/monoquin songs.md",
-    "1.0 — immediate notes/to-do.md",
-    "1.2 — life data/2025/the demon (2025).md",
     "5.0 — everything else/Grow A Garden (ROBLOX) ALL CROPS.md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "1.2 — life data/2025/annual cash flow (2025).md",
-    "1.0 — immediate notes/Grow A Garden (ROBLOX) ALL PETS.md",
     "1.0 — immediate notes/tam password.md",
     "4.0 — indexes/list (index).md",
     "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
@@ -2727,13 +2769,11 @@
     "5.0 — everything else/sensory things that make me wanna rip my scalp and chew my teeth off.md",
     "5.0 — everything else/気持ち悪い。(all the japanese films i've ever watched).md",
     "1.0 — immediate notes/tweets.md",
-    "1.0 — immediate notes/すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to).md",
     "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
     "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
     "4.0 — indexes/history (index).md",
     "1.2 — life data/playlists/a collection of narrative songs to transport you to a different world.md",
     "5.0 — everything else/Wonderwall — Oasis (chords).md",
-    "3.0 — tags/mundane.md",
     "JetBrainsMono-Medium.ttf",
     "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",

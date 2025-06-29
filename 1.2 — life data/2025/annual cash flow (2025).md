@@ -1,8 +1,8 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱ 2,305.00</span>
+## <span style="color:#29A833">₱ 1,807.00</span>
 
-## <span style="color:#FFF37B">₱ 300.00</span>
+## <span style="color:#FFF37B">₱ 600.00</span>
 
 ## <span style="color:#FFF37B">₱ 200.00</span>
 
@@ -11,6 +11,8 @@ tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 ## <span style="color:#FFF37B">₱ 2,000.00</span>
 
 
+==June 29== GLoan due on July 1 <span style="color:#A41C1D">-₱454</span>
+==June 29== Chicken Skin + Minute Burger + Ice Cream for Chai and I <span style="color:#A41C1D">-₱49</span>
 ==June 29== iCloud subscription (50GB) <span style="color:#A41C1D">-₱49</span>
 ==June 29== Milo for Chai (x2) <span style="color:#A41C1D">-₱24</span>
 ==June 29== Ice cream for everyone <span style="color:#A41C1D">-₱93</span>

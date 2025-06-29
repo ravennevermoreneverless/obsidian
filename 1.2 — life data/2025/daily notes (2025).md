@@ -349,3 +349,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==28 - 09:27== I got my first call yesterday. It was 43 minutes long and I fumbled like a fucking pelican grabbing a seal by the throat and getting smashed by a car window just because it passed by. Jesus Christ. I might get called out for this. 
 
 ==29 - 10:58== We cleaned the room and I was so fucking tired that I almost fell asleep while still awake. Chai got a pretty bad stomachache at night while we were showering and I got an adrenaline rush that I stayed awake until after the Grow A Garden update. 
+
+==29 - 22:37== Chai and I bought burgers and ice cream, then we watched *Kiyoshi Kurosawa*'s ***Cure*** (1997). Afterwards, we stopped talking because I wanted to play and she wanted to watch. I played Grow A Garden and joined a summer harvest on my own then got a Moon Melon. I fell asleep, then when I woke up, she fell asleep. 
