@@ -23,3 +23,4 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 13. ***Animals*** (1964) — *The Animals* • <span style="color:#831100">played this while playing grow a garden roblox, i got a blood kiwi :)</span> 
 	- The Story of Bo Diddley
 	- I'm Mad Again
+14. ***The Five Faces of Manfred Mann*** (1964) — *Mandred Mann* • <span style="color:#831100">it's not much of a commendable record. i could understand if it was just one of the records that got released as soon as the genre was starting to bloom</span>

@@ -34,6 +34,17 @@ psychosis
 depersonalization/derealization
 restlessness
 
+
+## July
+
+###### 2
+- day: baseline , night: baseline
+- day: *fluoxetine and aripiprazole*, night:
+###### 3
+- day: moderately depressed , night: slightly depressed
+- day: *fluoxetine and aripiprazole*, night:
+- loss or increase of appetite(x3), low self-esteem(x2), negativity(x3), sadness/despair(x3), hopelessness/helplessness(x3), self-loathing(x2), guilt/self-blame(x2)
+
 ## June
 
 ###### 1

@@ -1268,10 +1268,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1238. That's What You Get — Paramore : June 27, 2025
 1239. Idioteque — Radiohead : June 28, 2025
 1240. Over Your Shoulder — Rudderless : June 29, 2025
-
-1241 ν June 30, 2025
-
-1242 ν July 1, 2025
+1241. Linger — The Cranberries : June 30, 2025
+1242. I Don't Know How To Love — The Drums : July 1, 2025
 
 1243 ν July 2, 2025
 

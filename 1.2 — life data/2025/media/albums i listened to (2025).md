@@ -66,3 +66,4 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 63. ***Stay With the Hollies*** (1964) — The Hollies : Beat • 6/14/2025
 64. ***Peter and Gordon*** (1964) — Peter and Gordon : Beat, Merseybeat, Close Harmony • 6/30/2025
 65. ***Animals*** (1964) — The Animals : British Rhythm & Blues • 6/30/2025 
+66. ***The Five Faces of Manfred Mann*** (1964) — Manfred Mann : British Rhythm & Blues, British Blues • 7/1/2025

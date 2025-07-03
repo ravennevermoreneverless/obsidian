@@ -1,18 +1,29 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱ 1,807.00</span>
+## <span style="color:#29A833">₱ 623.00</span>
 
-## <span style="color:#FFF37B">₱ 600.00</span>
+## <span style="color:#FFF37B">₱ 600.00</span> - Papa
 
-## <span style="color:#FFF37B">₱ 200.00</span>
+## <span style="color:#FFF37B">₱ 200.00</span> - Mama
 
-## <span style="color:#FFF37B">₱ 485.00</span>
+## <span style="color:#FFF37B">₱ 485.00</span> - Tam
 
-## <span style="color:#FFF37B">₱ 2,000.00</span>
+## <span style="color:#FFF37B">₱ 2,000.00</span> - Tita Nini
 
+==July 2== McDonald's for me and Chai + Chai's Milo <span style="color:#A41C1D">-₱369</span>
+==July 2== FX fare from Doña Julia Vargas to Malinao + Jeepney fare from Malinao to San Joaquin <span style="color:#A41C1D">-₱43</span>
+==July 2== Mozzarella Chicken Fillet w/ rice + Strawberry Yogurt <span style="color:#A41C1D">-₱112</span>
+==July 1== Jeepney fare from San Joaquin to KFC Kapasigan + FX fare from KFC Kapasigan to Doña Julia Vargas <span style="color:#A41C1D">-₱45</span>
+==July 1== FX fare from Doña Julia Vargas to Kapasigan + Jeepney fare from Kapasigan to San Joaquin <span style="color:#A41C1D">-₱45</span>
+==July 1== Nescafé Ice Black <span style="color:#A41C1D">-₱45</span>
+==July 1== Creamy Spinach Lasagna + Turon <span style="color:#A41C1D">-₱89</span>
+## July 
 
+==June 30== Jeepney fare from San Joaquin to KFC Kapasigan + FX fare from KFC Kapasigan to Doña Julia Vargas <span style="color:#A41C1D">-₱45</span>
+==June 30== Go99+ <span style="color:#A41C1D">-₱101</span>
+==June 30== GamePass worth 424 Robux <span style="color:#A41C1D">-₱118</span>
 ==June 29== GLoan due on July 1 <span style="color:#A41C1D">-₱454</span>
-==June 29== Chicken Skin + Minute Burger + Ice Cream for Chai and I <span style="color:#A41C1D">-₱49</span>
+==June 29== Chicken Skin + Minute Burger + Ice Cream for Chai and I <span style="color:#A41C1D">-₱????</span>
 ==June 29== iCloud subscription (50GB) <span style="color:#A41C1D">-₱49</span>
 ==June 29== Milo for Chai (x2) <span style="color:#A41C1D">-₱24</span>
 ==June 29== Ice cream for everyone <span style="color:#A41C1D">-₱93</span>
