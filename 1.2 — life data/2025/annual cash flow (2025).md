@@ -1,15 +1,18 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱ 623.00</span>
+## <span style="color:#29A833">₱ 832.00</span>
 
 ## <span style="color:#FFF37B">₱ 600.00</span> - Papa
 
-## <span style="color:#FFF37B">₱ 200.00</span> - Mama
+## <span style="color:#FFF37B">₱ 2,600.00</span> - Mama
 
-## <span style="color:#FFF37B">₱ 485.00</span> - Tam
+## <span style="color:#FFF37B">₱ 500.00</span> - Tam
 
 ## <span style="color:#FFF37B">₱ 2,000.00</span> - Tita Nini
 
+==July 5== GoLONGER50 + Regular Load <span style="color:#A41C1D">-₱70</span>
+==July 5== Jollibee for me and Chai <span style="color:#A41C1D">-₱345</span>
+==July 4== Loaned money from Mama (for baon) <span style="color:#29A833">₱1,200.00</span>
 ==July 2== McDonald's for me and Chai + Chai's Milo <span style="color:#A41C1D">-₱369</span>
 ==July 2== FX fare from Doña Julia Vargas to Malinao + Jeepney fare from Malinao to San Joaquin <span style="color:#A41C1D">-₱43</span>
 ==July 2== Mozzarella Chicken Fillet w/ rice + Strawberry Yogurt <span style="color:#A41C1D">-₱112</span>

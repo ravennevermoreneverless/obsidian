@@ -87,6 +87,7 @@
 - [ ] make a demonology book
 - [ ] produce music for gf
 - [x] grow a garden database
+- [ ] grow a garden database (pre-historic update)
 ## to-buy
 - [ ] pay for gcash loan
 - [ ] save up for home credit downpayment

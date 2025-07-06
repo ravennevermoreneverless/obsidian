@@ -1270,16 +1270,11 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1240. Over Your Shoulder — Rudderless : June 29, 2025
 1241. Linger — The Cranberries : June 30, 2025
 1242. I Don't Know How To Love — The Drums : July 1, 2025
-
-1243 ν July 2, 2025
-
-1244 ν July 3, 2025
-
-1245 ν July 4, 2025
-
-1246 ν July 5, 2025
-
-1247 ν July 6, 2025
+1243. Undo U — Ninajirachi : July 2, 2025
+1244. Field Below — Regina Spektor : July 3, 2025
+1245. Telephasic Workshop — Boards of Canada : July 4, 2025
+1246. Snow Fairy — FUNKIST : July 5, 2025
+1247. Head Over Heels — Tears For Fears : July 6, 2025
 
 1248 ν July 7, 2025
 

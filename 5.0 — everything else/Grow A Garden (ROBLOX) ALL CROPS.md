@@ -77,14 +77,14 @@ tags: [[list]] [[game]]
 70. [x] ***Wild Carrot*** — 22,563 sheckles (min.) — *Uncommon* — One-Time
 71. [x] ***Cantaloupe*** — 18,050 sheckles (min.) — *Legendary* — Multi-Harvest
 72. [x] ***Parasol Flower*** — 165,300 sheckles (min.) — *Mythical* — One-Time
-73. [ ] ***Rosy Delight*** — 62,273 sheckles (min.) — *Divine* — Multi-Harvest
+73. [x] ***Rosy Delight*** — 62,273 sheckles (min.) — *Divine* — Multi-Harvest
 74. [ ] ***Elephant Ears*** — 69,493 sheckles (min.) — *Prismatic* — Multi-Harvest
 75. [ ] ***Burning Bud*** — 50,000,000 sheckles — *Unknown* — Unknown
 76. [ ] ***Guanabana*** — 65,431 sheckles (min.) — *Mythical* — Multi-Harvest
-77. [ ] ***Lily of the Valley*** — 12 Summer Coins — 40,009 sheckles (min.) — *Mythical* — Multi-Harvest
-78. [ ] ***Aloe Vera*** — 18 Summer Coins — 62,272 sheckles (min.) — *Legendary* — One-Time
+77. [x] ***Lily of the Valley*** — 12 Summer Coins — 40,009 sheckles (min.) — *Mythical* — Multi-Harvest
+78. [x] ***Aloe Vera*** — 18 Summer Coins — 62,272 sheckles (min.) — *Legendary* — One-Time
 79. [ ] ***Traveler's Fruit*** — 32 Summer Coins — 57,000 sheckles (min.) — *Divine* — Multi-Harvest
 80. [x] ***Pitcher Plant*** — 7,500,000 sheckles — 28,880 sheckles (min.) — *Divine* — Multi-Harvest
 81. [x] ***Rafflesia*** — 3,200 sheckles — 5,500 sheckles (min.) — *Legendary* — One-Time 
-82. [ ] ***Peace Lily*** — 3 Summer Coins — 22,000 sheckles (min.) — *Rare* — One-Time
-83. [ ] ***Delphinium*** — 2 Summer Coins — 21,660 sheckles (min.) — *Rare* — One-Time
+82. [x] ***Peace Lily*** — 3 Summer Coins — 22,000 sheckles (min.) — *Rare* — One-Time
+83. [x] ***Delphinium*** — 2 Summer Coins — 21,660 sheckles (min.) — *Rare* — One-Time
