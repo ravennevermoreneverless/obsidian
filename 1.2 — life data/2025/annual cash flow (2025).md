@@ -1,15 +1,45 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱ 832.00</span>
+## <span style="color:#29A833">₱5,234.00</span>
 
-## <span style="color:#FFF37B">₱ 600.00</span> - Papa
+## <span style="color:#FFF37B">₱ 1,500.00</span> - Mama
 
-## <span style="color:#FFF37B">₱ 2,600.00</span> - Mama
+#### never exceed:
+### ₱215.00 per day // ₱80.00
+### ₱1,075.00 per week // ₱174.00
+### ₱2,300.00 for 2 weeks // ₱174.00
+### ₱1,288.00 for other expenses // ₱100.00
 
-## <span style="color:#FFF37B">₱ 500.00</span> - Tam
-
-## <span style="color:#FFF37B">₱ 2,000.00</span> - Tita Nini
-
+==July 12== Nescafé Ice Black <span style="color:#A41C1D">-₱45</span>
+==July 12== FX ride from San Joaquin to Doña Julia Vargas <span style="color:#A41C1D">-₱35</span>
+==July 12== Ambag for broken doorknob <span style="color:#A41C1D">-₱100</span>
+==July 12== MoveIt ride from Technopoint to San Joaquin <span style="color:#A41C1D">-₱75</span>
+==July 11== Pizza slice <span style="color:#A41C1D">-₱64</span>
+==July 11== UV fare from San Joaquin to Doña Julia Vargas <span style="color:#A41C1D">-₱35</span>
+==July 11== GCash card <span style="color:#A41C1D">-₱250</span>
+==July 11== Bayad utang <span style="color:#A41C1D">-₱5,386</span>
+==July 11== Shawarma Rice (x2) + Shawarma Pita (small) (x2) <span style="color:#A41C1D">-₱230</span>
+==July 11== Chelsea's Mac & Cheese + Bear Brand Choco Milk for Chai <span style="color:#A41C1D">-₱73</span>
+==July 11== GCash cashout fee <span style="color:#A41C1D">-₱10</span>
+==July 11== InstaPay fee from UnionBank to GCash <span style="color:#A41C1D">-₱10</span>
+==July 11== Foundever salary <span style="color:#29A833">₱11,831.00</span>
+==July 11== MoveIt ride from Technopoint to San Joaquin <span style="color:#A41C1D">-₱75</span>
+==July 10== Creamy Spinach Lasagna + Strawberry Yogurt <span style="color:#A41C1D">-₱100</span>
+==July 10== ₱60 regular load for Chai's SMART SIM + some random ass coffee (x3) <span style="color:#A41C1D">-₱99</span>
+==July 10== FX fare from San Joaquin to Doña Julia Vargas <span style="color:#A41C1D">-₱35</span>
+==July 10== Chai's money (I'm keeping) <span style="color:#29A833">₱45.00</span>
+==July 10== Loaned money from Mama (for baon) <span style="color:#29A833">₱300.00</span>
+==July 10== Nescafé twin-pack (x2) <span style="color:#A41C1D">-₱34</span>
+==July 9== Chicken Nuggets meal at Lawson <span style="color:#A41C1D">-₱92</span>
+==July 9== Hotdog sandwich at 3rd floor pantry <span style="color:#A41C1D">-₱35</span>
+==July 9=== UV ride from San Joaquin to Doña Julia Vargas <span style="font-style:italic; color:#A41C1D">-₱35</span>
+==July 9=== Bought BioFlu + Decolgen for Chai + Colgate toothpaste <span style="color:#A41C1D">-₱52</span>
+==July 9== Loaned money from Mama (for baon) <span style="color:#29A833">₱100.00</span>
+==July 9=== MoveIt ride from Doña Julia Vargas to San Joaquin <span style="color:#A41C1D">-₱76</span>
+==July 8== Chicken A La King w/ Java Rice @ Lawson <span style="color:#A41C1D">-₱100</span>
+==July 8== MoveIt from San Joaquin to Technopoint <span style="color:#A41C1D">-₱77</span>
+==July 8== Mango Graham Bar for me + Snacks for Chai <span style="color:#A41C1D">-₱67</span>
+==July 8== Milo for Chai + Nescafé Regular Twin-pack for me <span style="color:#A41C1D">-₱54</span>
 ==July 5== GoLONGER50 + Regular Load <span style="color:#A41C1D">-₱70</span>
 ==July 5== Jollibee for me and Chai <span style="color:#A41C1D">-₱345</span>
 ==July 4== Loaned money from Mama (for baon) <span style="color:#29A833">₱1,200.00</span>

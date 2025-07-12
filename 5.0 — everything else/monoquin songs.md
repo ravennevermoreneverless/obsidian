@@ -1275,18 +1275,12 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1245. Telephasic Workshop — Boards of Canada : July 4, 2025
 1246. Snow Fairy — FUNKIST : July 5, 2025
 1247. Head Over Heels — Tears For Fears : July 6, 2025
-
-1248 ν July 7, 2025
-
-1249 ν July 8, 2025
-
-1250 ν July 9, 2025
-
-1251 ν July 10, 2025
-
-1252 ν July 11, 2025
-
-1253 ν July 12, 2025
+1248. Poison — Alejandro Aranda : July 7, 2025
+1249. Sincerely — TRUE : July 8, 2025
+1250. Ceiling — Pastilan Dong! : July 9, 2025
+1251. The Perfect Needle — The Telescopes : July 10, 2025
+1252. Daechwita — Agust D : July 11, 2025
+1253. The Scope of All This Rebuilding — The Hotelier : July 12, 2025
 
 1254 ν July 13, 2025
 

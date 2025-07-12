@@ -24,3 +24,4 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 	- The Story of Bo Diddley
 	- I'm Mad Again
 14. ***The Five Faces of Manfred Mann*** (1964) — *Mandred Mann* • <span style="color:#831100">it's not much of a commendable record. i could understand if it was just one of the records that got released as soon as the genre was starting to bloom</span>
+15. ***Live On Air 1966*** (1966) — *The Mindbenders* • <span style="color:#831100">it works as an album and a radio broadcast episode</span>

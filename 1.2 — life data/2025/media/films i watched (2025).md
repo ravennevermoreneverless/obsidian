@@ -151,3 +151,6 @@ tags: [[raven]] [[spreadsheet]] [[films]]
 148. ***10 Cloverfield Lane*** (2016) dir. Dan Trachtenberg • 5/31/2025 ★ ==3.5==
 149. ***The Black Phone*** (2021) dir. Scott Derrickson • 6/6/2024 ★ ==2==
 150. ***キュア [Cure]*** (1997) dir. Kiyoshi Kurosawa • 6/29/2025 ★ ==4==
+151. ***Stuck*** (2020) dir. David Mikalson • 7/6/2025
+152. ***Bring Her Back*** (2025) dir. Danny Philippou, Michael Philippou • 7/6/2025
+153. ***Parasite*** (2019) dir. Bong Joon-Ho • 7/7/2025

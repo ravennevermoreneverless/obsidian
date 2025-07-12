@@ -87,7 +87,8 @@
 - [ ] make a demonology book
 - [ ] produce music for gf
 - [x] grow a garden database
-- [ ] grow a garden database (pre-historic update)
+- [x] grow a garden database (pre-historic update)
+- [ ] NBI clearance
 ## to-buy
 - [ ] pay for gcash loan
 - [ ] save up for home credit downpayment

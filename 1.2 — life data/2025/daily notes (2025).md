@@ -357,3 +357,11 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==2 - 11:00== Chai seemed bothered about something since last night and I couldn't pinpoint why. I got home late because of traffic in Pasig due to Pasig Day but I got myself and Chai some McDonald's then we looked at our Instagram stories. 
 
 ==3 - --== I got home by commute, it was raining really hard and Chai was really upset about it that she cried, I cried, and we didn't talk until later that day when she was having stomachaches and I helped her. We stopped talking again during the evening because I wasn't aware I pushed her away as she was making advances towards me. But we made up a bit when I was about to go to work. 
+
+==7 - --== I didn't sleep, I just played ROBLOX. I watched a film with Chai at noon. I was about to go to Robinson's for my NBI Clearance but I got hungry so I just said fuck it. We were playing ROBLOX while cuddling but we both fell asleep with my work clothes on. Turns out, it's still my rest day, so we continued sleeping until the morning next day. 
+
+==9 - 04:39== Today we took calls for 4 hours. It's a different kind of work and it's really tiring—I even had a headache. I rode a MoveIt ride from there to here and then from here to there. We te Mcdo fried chicken and pizza plus donut because our mentor's birthdays came up. Anyway, today was really tiring. 
+
+==10 - 13:16== I almost had a panic attack yesterday before work. Thankfully, Chai was there on chat to calm me down. And the coaching with Coach Erma helped me a bit. The 3 hours of call time I had were good. 
+
+==11 - 21:26== I had 4 YES surveys yesterday. But I got a NO right now. I cried to Chai earlier because I didn't want her to go this weekend.

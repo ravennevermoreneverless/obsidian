@@ -44,7 +44,20 @@ restlessness
 - day: moderately depressed , night: slightly depressed
 - day: *fluoxetine and aripiprazole*, night:
 - loss or increase of appetite(x3), low self-esteem(x2), negativity(x3), sadness/despair(x3), hopelessness/helplessness(x3), self-loathing(x2), guilt/self-blame(x2)
-
+###### 7
+- day: slightly depressed , night: bqseline
+- day: *fluoxetine and aripiprazole*, night:
+###### 8
+- day: baseline , night: baseline
+- day: *fluoxetine and aripiprazole*, night:
+###### 9
+- day: moderately depressed , night: slightly depressed
+- day: *fluoxetine and aripiprazole*, night:
+- high anxiety(x2)
+###### 10
+- day: moderately depressed , night: slightly depressed
+- day: *fluoxetine and aripiprazole*, night:
+- high anxiety(x2)
 ## June
 
 ###### 1

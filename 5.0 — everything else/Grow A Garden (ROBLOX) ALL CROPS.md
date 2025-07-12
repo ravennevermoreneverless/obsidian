@@ -88,3 +88,11 @@ tags: [[list]] [[game]]
 81. [x] ***Rafflesia*** — 3,200 sheckles — 5,500 sheckles (min.) — *Legendary* — One-Time 
 82. [x] ***Peace Lily*** — 3 Summer Coins — 22,000 sheckles (min.) — *Rare* — One-Time
 83. [x] ***Delphinium*** — 2 Summer Coins — 21,660 sheckles (min.) — *Rare* — One-Time
+84. [x] ***Liberty Lily*** — 650,000 sheckles — *Rare* — Multi-Harvest
+85. [x] ***Firework Flower*** — 150,000 sheckles — *Legendary* — One-Time
+86. [ ] ***Stonebite*** — 35,000 sheckles (min.) — *Uncommon* — One-Time
+87. [ ] ***Paradise Petal*** — 25,000 sheckles (min.) — *Rare* — Multi-Harvest
+88. [ ] ***Horned Dinoshroom*** — 62,272 sheckles (min.) — *Legendary* — Multi-Harvest
+89. [ ] ***Boneboo*** — 141,141 sheckles (min.) — *Legendary* — One-Time
+90. [ ] ***Firefly Fern*** — 64,980 sheckles (min.) — *Mythical* — Multi-Harvest
+91. [ ] ***Fossilight*** — 79,420 sheckles (min.) — *Divine* — Multi-Harvest

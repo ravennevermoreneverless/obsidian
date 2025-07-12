@@ -4,7 +4,7 @@ tags: [[list]] [[game]]
 
 1. [x] ***Starfish*** — Common Summer Egg — 50% Hatch Chance — *Common* : Gains additional 5.85 XP per second (increases by 0.085 XP every age up from 1)
 2. [x] ***Crab*** — Common Summer Egg — 25% Hatch Chance — *Common* : Pinch Pocket: Occasionally goes to another player and pinches them, granting sheckles.
-3. [ ] ***Seagull*** — Common Summer Egg — 25% Hatch Chance — *Common* : Scavenger: Shoveling plants have a chance to drop the equivalent seed. Does not work on limited fruits like Candy Blossom.
+3. [x] ***Seagull*** — Common Summer Egg — 25% Hatch Chance — *Common* : Scavenger: Shoveling plants have a chance to drop the equivalent seed. Does not work on limited fruits like Candy Blossom.
 4. [x] ***Bunny*** — Common Egg — 33.33% Hatch Chance — *Common* : Every ~40 seconds, the Bunny searches for a Carrot or Chocolate carrot on the garden and eats it, automatically selling it at a marked up price of 1.5x value. The sell value multiplier increases as the Bunny ages. If no Carrots are planted in the garden, Bunnies will wander around aimlessly.
 5. [x] ***Dog*** — Common Egg — 33.33% Hatch Chance — *Common* : Every ~60 seconds, the Dog will attempt to dig up a random seed (only Seed Shop plants), with a ~5% chance to succeed.
 6. [x] ***Golden Lab*** — Common Egg — 33.33% Hatch Chance — *Common* : Every ~60 seconds, the Golden Lab will attempt to dig up a random seed that can be found in the Seed Shop, with a ~10% chance to succeed.
@@ -85,3 +85,10 @@ tags: [[list]] [[game]]
 72. [ ] ***Fennec Fox*** — Oasis Egg — 0.5% Hatch Chance — *Divine* : Every 22:12m, goes to another player's random fruit, copies one mutation from it and applies it to a random fruit in the pet owner's garden. The higher a mutation's multiplier is, the rarer it will be for the pet to copy.
 73. [ ] ***Disco Bee*** — Anti Bee Egg — 0.25% Hatch Chance — *Divine* : Every ≈13 minutes, ≈22% chance a nearby fruit becomes Disco!
 74. [ ] ***Blood Owl*** — 60,000,000 in Blood Moon Shop — *Divine* : All active pets gain an additional >0.50 XP per second.
+75. [x] ***Bald Eagle*** — 4th of July Event Shop — 7,400,000 sheckles — *Legendary* : Occasionally flaps its wings of freedom and advances hatch time for all eggs in the garden!
+76. [x] ***Raptor*** — Dinosaur Egg — 35% Hatch Chance — *Legendary* : Clever Claws: 2% - 2.5% chance fruit gets Amber mutation after collecting! Rarer plants have a lesser chance to mutate. (+0.0475% mutation chance per level up.) / Raptor Dance: Grants additional 14% - 14.5% increase to player movement speed! (+0.0475% player movement speed per level up.)
+77. [ ] ***Triceratops*** — Dinosaur Egg — 32.5% Hatch Chance — *Legendary* : Tri-Horn: Every 3:33m, rams into 3 random plants and advances their growth by 33:33m. Has a 15.18% chance to do it again each time.
+78. [ ] ***Stegosaurus*** — Dinosaur Egg — 28% Hatch Chance — *Legendary* : Prehistoric Doubling: ~8% chance to duplicate harvested fruit (Rarer crops have lower chance of being duplicated) / Prehistoric Harvester: ~5% extra chance to duplicate harvested prehistoric type plant
+79. [ ] ***Pterodactyl*** — Dinosaur Egg — 3% Hatch Chance — *Legendary* : Sky Reptile: Occasionally applies Windstruck mutation to multiple nearby fruits with a chance of replacing with Twisted! / Air Time: Grants additional 14.39% increase to player's jump height.
+80. [ ] ***Brontosaurus*** — Dinosaur Egg — 1% Hatch Chance — *Mythical* : Giant Incubator: Pets hatched from eggs have a 5.2% increase in base size and weight! This size bonus is capped at 30% per egg and does not apply to Brontsauruses.
+81. [ ] ***T-Rex*** — Dinosaur Egg — 0.5% Hatch Chance — *Divine* : Apex Predator: Every 20:00 min Occasionally eats a random mutation from a fruit in the player's garden then roars and applies that mutation to other fruits (3,51) in the player's. (Doesn't apply to Dawnbound)
