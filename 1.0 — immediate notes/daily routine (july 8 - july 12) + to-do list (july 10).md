@@ -11,10 +11,12 @@
 
 -- 
 
-- [x] meds
-- [x] monoquin (story)
-- [x] monoquin (post)
-- [ ] zombie — the cranberries
-- [ ] (prose/poem) for the blue artwork
-- [x] ROBLOX grow a garden
+- [ ] meds
+- [ ] monoquin (story)
+- [ ] monoquin (post)
+- [ ] (prose/poem) for the blue artwork artwork #to-do #project/blue
+- [ ] ROBLOX grow a garden
+- [ ] ROBLOX grow a garden (prehistoric database)
+- [ ] figure out task genius plugin
+- [ ] fix garden
 - [ ] edit monoquin post

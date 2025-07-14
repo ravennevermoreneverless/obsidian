@@ -1281,10 +1281,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1251. The Perfect Needle — The Telescopes : July 10, 2025
 1252. Daechwita — Agust D : July 11, 2025
 1253. The Scope of All This Rebuilding — The Hotelier : July 12, 2025
-
-1254 ν July 13, 2025
-
-1255 ν July 14, 2025
+1254. Cleanin' Out My Closet — Eminem : July 13, 2025
+1255. Isolation — Joy Division : July 14, 2025
 
 1256 ν July 15, 2025
 

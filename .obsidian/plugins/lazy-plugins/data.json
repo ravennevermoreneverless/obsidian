@@ -32,6 +32,9 @@
       },
       "custom-font-loader": {
         "startupType": "instant"
+      },
+      "obsidian-task-progress-bar": {
+        "startupType": "instant"
       }
     }
   }

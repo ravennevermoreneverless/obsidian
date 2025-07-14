@@ -3,19 +3,15 @@ tags: [[list]]
 ## daily
 #### post
 - the ultimate playlist of my life 
-- yeaaaaaaa 🫱🏻‍🫲🏼
-- monoquin (YT) 🫱🏻‍🫲🏼
-- artwork from online 🫱🏻‍🫲🏼
+- yeaaaaaaa 
+- monoquin (YT) 
+- artwork from online 
 - article from gmail 
-- reddit posts 🫱🏻‍🫲🏼
-- NASA photos 🫱🏻‍🫲🏼
-- random word 🫱🏻‍🫲🏼
+- reddit posts 
+- NASA photos 
 - short films
-- tiktok video 🫱🏻‍🫲🏼
+- tiktok video 
 - random fact
-- logic puzzles
-- big book of what?
-- index/glossary
 - poem from a book
 - songs: the complete list
 - ravencore cinema (end of evangelion, it's such a beautiful day, gummo, still walking, me and you and everyone we know, julien donkey-boy, company, when black birds fly, it's only talk, bardo, kids, little miss sunshine, the mist, the doom generation, fallen angels, kalel 15, blue, sing street, rudderless, lust for life, cube, trainspotting, girl interrupted, the platform, meantime, faces of death, throw away the books and rally in the streets, a.i. artificial intelligence, dogtooth, cobain montage of heck, the devil and daniel johnston, blue spring, the idiots, stinking heaven) 

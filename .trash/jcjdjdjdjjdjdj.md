@@ -1,0 +1,9 @@
+- [ ] Parent Task [||||----] [✓:4 ⟳:1 ?:1 / 8] // Example with graphical bar and custom text format
+  - [x] Sub-task 1
+  - [x] Sub-task 2
+  - [/] Sub-task 3 [-] [✓:0 ⟳:0 ?:0 / 8]
+    - [ ] Sub-task 4
+  - [-] Sub-task 5 (Abandoned - might be excluded from count based on settings)
+  - [?] Sub-task 6 (Planned)
+  - [x] Sub-task 7
+  - [x] Sub-task 8

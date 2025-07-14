@@ -7,25 +7,25 @@ tags: [[raven]] [[spreadsheet 1]] [[to-do 1]]
 - [ ] Witness a lunar eclipse
 - [ ] Visit Japan
 - [ ] Tattoos
-- [x] Smoke a cigarette
+- [ ] Smoke a cigarette
 - [ ] Piercings
 - [ ] Learn how to play the piano
 - [ ] Road trip with friends
 - [ ] Learn morse code
 - [ ] Bake something
-- [x] Visit a beach then build a sand castle
-- [x] Meet an internet friend
+- [ ] Visit a beach then build a sand castle
+- [ ] Meet an internet friend
 - [ ] Meet a psychic to predict your future
 - [ ] Drive a motorcycle
 - [ ] Attend a concert
 - [ ] Design your own room
 - [ ] Experience snow
-- [x] Dye my hair red
+- [ ] Dye my hair red
 - [ ] Mini-library
 - [ ] Visit a ghost town/abandoned places
 - [ ] Learn how to swim 
 - [ ] Play paintball
-- [x] Nightwalk
+- [ ] Nightwalk
 - [ ] Learn how to play drums
 - [ ] Watch a live theater play
 - [ ] Perform with a band
@@ -38,7 +38,7 @@ tags: [[raven]] [[spreadsheet 1]] [[to-do 1]]
 - [ ] Learn martial arts
 - [ ] Own an electric guitar
 - [ ] Write a book
-- [x] Buy tarot card decks
+- [ ] Buy tarot card decks
 - [ ] Collect stones
 - [ ] Own an exotic pet
 - [ ] Own a really old book about occult stuff

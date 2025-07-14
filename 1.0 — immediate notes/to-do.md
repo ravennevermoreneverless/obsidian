@@ -1,104 +1,47 @@
-- [x] monoquin songs
-- [x] other people's playlist、
-- [x] all of my playlists
-- [x] songs to cover or record
-- [x] the ultimate playlist of my life
-- [x] albums i listened to (2025)
-- [x] books i read (2025)
-- [x] films i watched (2025)
-- [x] series i watched (2025)
-- [x] podcasts i listened to (2025)
-- [x] mangas i read (2025)
-- [x] daily notes (2025)
-- [x] annual cash flow (2025)
-- [x] dailies (2025)
-- [x] the demon (2025)
-- [x] albums i listened to (2024)
-- [x] books i read (2024)
-- [x] films i watched (2024)
-- [x] series i watched (2024)
-- [x] podcasts i listened to (2024)
-- [x] mangas i read (2024)
-- [x] daily notes (2024)
-- [x] annual cash flow (2024)
-- [x] albums i listened to (2023)
-- [x] books i read (2023)
-- [x] films i watched (2023)
-- [x] series i watched (2023)
-- [x] podcasts i listened to (2023)
-- [x] mangas i read (2023)
-- [x] daily notes (2023)
-- [x] albums i listened to (2022)
-- [x] books i read (2022)
-- [x] films i watched (2022)
-- [x] series i watched (2022)
-- [x] daily notes (2022)
-- [x] study course
-- [x] ios notes
-- [ ] old journal entries (make album for all creative journal pages - INCLUDE ALL PAGES)
-	- [x] first journal
-	- [ ] black journal
-	- [ ] pink journal
-	- [ ] thick ass chaos tome journal
-	- [ ] everything everyone everywhere journal
-- [ ] small notebooks (images)
-- [ ] old drawings & sketches (to-post on tiktok/X/archive on obsidian)
-- [x] laptop notes
-- [x] japanese journal entries
-- [x] japanese poems
-- [ ] japanese notes (everything)
-- [ ] gdocs playlist duplicates  
-- [x] save past tweets (to post on monoquin) (do this on laptop day—entire day)
-- [x] save instagram captions to their respective obsidian notes
-- [ ] RYM lists
-- [x] RYM reviews
-- [x] goodreads reviews
-- [ ] letterboxd reviews
-- [x] backloggd reviews
-- [x] chords plugin
-- [x] chords from tabs guitar 
-- [x] anki plugin
-- [ ] add anki flashcards
-- [x] post on tiktok : song covers & literature writings & old artworks
-- [ ] re-download (spring day - bts) to mp3
-- [ ] re-download (girlfriend - bigbang) to mp3
-- [ ] re-download (inkya impulse - futakuchi mana) to mp3
-- [ ] re-download (bank account remix - joyner lucas) to mp3
-- [ ] download (anino - up dharma down) to mp3
-- [ ] re-list RYM list ***the ultimate playlist of my life*** (do this on laptop day)
-- [ ] download (remember you - domunirom) to mp3
+
+- [/] old journal entries (make album for all creative journal pages - INCLUDE ALL PAGES) #ObsidianNotes 🔺
+	- [ ] first journal #ObsidianNotes 
+	- [ ] black journal #ObsidianNotes 
+	- [ ] pink journal #ObsidianNotes 
+	- [ ] thick ass chaos tome journal #ObsidianNotes 
+	- [ ] everything everyone everywhere journal #ObsidianNotes 
+- [ ] small notebooks (images) #ObsidianNotes 🔼
+- [ ] old drawings & sketches (to-post on tiktok/X/archive on obsidian) #ObsidianNotes ⏫
+- [ ] japanese notes (everything) #ObsidianNotes ⏫
+- [/] gdocs playlist duplicates #ObsidianNotes   🔽
+- [/] RYM lists #ObsidianNotes 🔼
+- [/] letterboxd reviews #ObsidianNotes ⏫
+- [ ] add anki flashcards #ObsidianNotes 🔽
+- [ ] re-download (spring day - bts) to mp3 #to-do #music ⏬
+- [ ] re-download (girlfriend - bigbang) to mp3 #to-do #music ⏬
+- [ ] re-download (inkya impulse - futakuchi mana) to mp3 #to-do #music ⏬
+- [ ] re-download (bank account remix - joyner lucas) to mp3 #to-do #music ⏬
+- [ ] download (anino - up dharma down) to mp3 #to-do #music ⏬
+- [ ] re-list RYM list ***the ultimate playlist of my life*** (do this on laptop day) #to-do #music ⏬
+- [ ] download (remember you - domunirom) to mp3 #to-do #music ⏬
 
 ## right now???
-- [ ] corpse party
-- [x] "first 30-seconds mini melodic orgasms" playlist RYM
-- [x] "first 30-seconds mini melodic orgasms" playlist reddit
-- [x] "first 30-seconds mini melodic orgasms" playlist archive account edit
+- [/] corpse party #to-do #game ⏫
 - [ ] tiktok/X/monoquin edits
 - [ ] crescendo
-- [x] evelyn hugo
 - [ ] rock music genre wikipedia / rock albums
 - [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff
 - [ ] japanese playlist
-- [x] edit gf video
-- [x] prepare art portfolio
-- [x] prepare for job interviews
 - [ ] japanese albums rym list
-- [x] join art contests
 - [ ] make a demonology book
 - [ ] produce music for gf
-- [x] grow a garden database
-- [x] grow a garden database (pre-historic update)
+- [ ] grow a garden database
 - [ ] NBI clearance
 ## to-buy
 - [ ] pay for gcash loan
 - [ ] save up for home credit downpayment
-- [x] antiperspirant deodorant
+- [ ] antiperspirant deodorant
 - [ ] feminine wash
 - [ ] oatmeal soap
 - [ ] mouse (PC)
 - [ ] headphones (personal)
 - [ ] noise-cancelling headphones
-- [x] icloud
+- [ ] icloud
 - [ ] spotify 
 - [ ] black tea
 - [ ] extension

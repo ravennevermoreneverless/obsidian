@@ -1,15 +1,12 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱5,234.00</span>
+## <span style="color:#29A833">₱4,780.00</span>
 
 ## <span style="color:#FFF37B">₱ 1,500.00</span> - Mama
 
-#### never exceed:
-### ₱215.00 per day // ₱80.00
-### ₱1,075.00 per week // ₱174.00
-### ₱2,300.00 for 2 weeks // ₱174.00
-### ₱1,288.00 for other expenses // ₱100.00
-
+==July 13== Jollibee late night meal w/ Chai <span style="color:#A41C1D">-₱298</span>
+==July 13== MoveIt ride from Technopoint to San Joaquin <span style="color:#A41C1D">-₱75</span>
+==July 12== Mozzarella chicken fillet w/ rice @ Lawson <span style="color:#A41C1D">-₱81</span>
 ==July 12== Nescafé Ice Black <span style="color:#A41C1D">-₱45</span>
 ==July 12== FX ride from San Joaquin to Doña Julia Vargas <span style="color:#A41C1D">-₱35</span>
 ==July 12== Ambag for broken doorknob <span style="color:#A41C1D">-₱100</span>
