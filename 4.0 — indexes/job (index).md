@@ -11,3 +11,4 @@
 - [[28th of January, 2024 — 22.14 (Sun) ★ Workplace drama and Camille in a 6-year relationship flirting with me]]
 - [[31st of January, 2024 — 05.31 (Wed) ★ Endorsed to production and slight goodbyes]] 
 - [[29th of June, 2025 — 19.32 (Sun) ★ I could sleep for days and still won't remember]] 
+- [[16th of July, 2025 — 19.37 (Wed) ★ At this point, I don't know where this will go at all]]

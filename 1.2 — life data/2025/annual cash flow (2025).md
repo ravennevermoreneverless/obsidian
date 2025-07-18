@@ -1,9 +1,19 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱4,780.00</span>
+## <span style="color:#29A833">₱1,737.00</span>
 
 ## <span style="color:#FFF37B">₱ 1,500.00</span> - Mama
 
+## <span style="color:#1199FF">₱ 1,300.00</span> - Mama
+
+==July 17== F9-5 bluetooth earphones + Chai's inhaler set on Lazada <span style="color:#A41C1D">-₱285</span>
+==July 16== Mama loaned momey from me <span style="color:#FFF37B">-₱1200.00</span>
+==July 16== This day we went to NCMH and ate at KFC <span style="color:#A41C1D">-₱502</span>
+==July 15== Gift for Chai on Tik Tok <span style="color:#A41C1D">-₱228</span>
+==July 15== Nescafé Original twin-pack + GCash cashout fee <span style="color:#A41C1D">-₱25</span>
+==July 14== ₱70 Regular Load for Chai <span style="color:#A41C1D">-₱70</span>
+==July 14== JoyRide from San Joaquin to Lakad Street, QC <span style="color:#A41C1D">-₱445</span>
+==July 14== Go149 load to me <span style="color:#A41C1D">-₱151</span>
 ==July 13== Jollibee late night meal w/ Chai <span style="color:#A41C1D">-₱298</span>
 ==July 13== MoveIt ride from Technopoint to San Joaquin <span style="color:#A41C1D">-₱75</span>
 ==July 12== Mozzarella chicken fillet w/ rice @ Lawson <span style="color:#A41C1D">-₱81</span>

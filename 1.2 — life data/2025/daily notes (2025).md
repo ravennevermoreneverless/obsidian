@@ -365,3 +365,9 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==10 - 13:16== I almost had a panic attack yesterday before work. Thankfully, Chai was there on chat to calm me down. And the coaching with Coach Erma helped me a bit. The 3 hours of call time I had were good. 
 
 ==11 - 21:26== I had 4 YES surveys yesterday. But I got a NO right now. I cried to Chai earlier because I didn't want her to go this weekend.
+
+==14 - 20:19== Chai and I went back to her house at QC with a well-crafted story of why I'm leaving work. We ate egg sandwich before leaving and we rode a car. I had time to work on my to-do list while in the middle of traffic at EDSA. 
+
+==16 - 19:35== Chai and I went to NCMH for my usual check-up and getting my monthly meds. Then we ate at KFC in Shangrila mall and I finally got to eat the new Chili Cheeze menu. We got home by 1 PM, really tired, only to find out my resignation is not immediate and I still have to report to work. My day is kinda ruined and Chai's sick so I'm kind of a little bit stressed out.
+
+==17 - 19:36== OM Erma didn't call me today and I didn't take my initial interview. I had a headache in the morning so I slept some more. Chai and I watched Adventure Time. I felt like shit in the evening for a lot of negative reasons and I felt like crying. We watched Tik Tok videos together and the strawberry crochet as a gift for her came today.

@@ -1283,14 +1283,10 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1253. The Scope of All This Rebuilding — The Hotelier : July 12, 2025
 1254. Cleanin' Out My Closet — Eminem : July 13, 2025
 1255. Isolation — Joy Division : July 14, 2025
-
-1256 ν July 15, 2025
-
-1257 ν July 16, 2025
-
-1258 ν July 17, 2025
-
-1259 ν July 18, 2025
+1256. Fallout — Catfish and the Bottlemen : July 15, 2025
+1257. Brain Damage — Pink Floyd : July 16, 2025
+1258. Ribs — Lorde : July 17, 2025
+1259. Favourite Colour — Carly Rae Jepsen : July 18, 2025
 
 1260 ν July 19, 2025
 

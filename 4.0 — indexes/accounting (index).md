@@ -1,4 +1,2 @@
-### general
-- [[study course]]
-### others
+### courses
 - [[Accounting Basics — AccountingCoach]]

@@ -19,7 +19,7 @@
         "startupType": "short"
       },
       "remember-cursor-position": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-spaced-repetition": {
         "startupType": "long"
@@ -34,6 +34,9 @@
         "startupType": "instant"
       },
       "obsidian-task-progress-bar": {
+        "startupType": "instant"
+      },
+      "obsidian-habit-tracker": {
         "startupType": "instant"
       }
     }

@@ -287,6 +287,7 @@
 - [[8th of June, 2025 — 22.00 (Sun) ★ I cooked adobo and I want to do everything]]
 - [[June, 2025 ★ I've been dissociating]]
 - [[29th of June, 2025 — 19.32 (Sun) ★ I could sleep for days and still won't remember]]
+- [[16th of July, 2025 — 19.37 (Wed) ★ At this point, I don't know where this will go at all]]
 ### documentation
 - [[Tarot Journal]] 
 ### japanese

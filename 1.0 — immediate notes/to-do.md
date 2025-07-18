@@ -1,6 +1,6 @@
 
 - [/] old journal entries (make album for all creative journal pages - INCLUDE ALL PAGES) #ObsidianNotes 🔺
-	- [ ] first journal #ObsidianNotes 
+	- [/] first journal #ObsidianNotes 
 	- [ ] black journal #ObsidianNotes 
 	- [ ] pink journal #ObsidianNotes 
 	- [ ] thick ass chaos tome journal #ObsidianNotes 
@@ -22,32 +22,35 @@
 
 ## right now???
 - [/] corpse party #to-do #game ⏫
-- [ ] tiktok/X/monoquin edits
-- [ ] crescendo
-- [ ] rock music genre wikipedia / rock albums
-- [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff
-- [ ] japanese playlist
-- [ ] japanese albums rym list
-- [ ] make a demonology book
-- [ ] produce music for gf
-- [ ] grow a garden database
-- [ ] NBI clearance
+- [/] tiktok/X/monoquin edits #to-do #monoquin 🔼
+- [/] crescendo #to-do #book 🔼
+- [/] rock music genre wikipedia / rock albums #to-do #music ⏫
+- [ ] ravencore edit (for tiktok & IG) : films, albums, series, games, favorite stuff, personal artworks, pinterest images, youtube channels, youtube videos, playlists, book excerpts, artworks, gore stuff #to-do #monoquin ⏬ 
+- [/] japanese playlist #to-do #music  🔼
+- [/] japanese albums rym list #to-do #ObsidianNotes 🔼
+- [ ] make a demonology book #to-do #project/demonology 🔽
+	- [ ] buy new old-style journal #to-buy #journal #project/demonology 
+- [/] produce music for gf #to-do #music #project/SongForChai 🔺
+- [/] grow a garden database #to-do #game 🔺
+- [ ] NBI clearance #to-do #work 🔺 📅 2025-07-17
+- [ ] (prose/poem) for the blue artwork artwork #to-do #project/BlueArtwork 📅 2025-07-19
+- [x] ROBLOX grow a garden (prehistoric database) #to-do #game 📅 2025-07-16 ✅ 2025-07-16
+- [x] figure out task genius plugin #ObsidianNotes 
+- [x] fix garden #to-buy #game ⏫ 📅 2025-07-19 ✅ 2025-07-15
+- [/] accounting basics #to-do #study #work 🔺 📅 2025-07-19
 ## to-buy
-- [ ] pay for gcash loan
-- [ ] save up for home credit downpayment
-- [ ] antiperspirant deodorant
-- [ ] feminine wash
-- [ ] oatmeal soap
-- [ ] mouse (PC)
-- [ ] headphones (personal)
-- [ ] noise-cancelling headphones
-- [ ] icloud
-- [ ] spotify 
-- [ ] black tea
-- [ ] extension
-- [ ] wet wipes
-- [ ] gcash card
+- [ ] pay for gcash loan #to-buy #loan 🔺 🔁 every month 📅 2025-08-01
+- [ ] pay for gcash loan 2 #to-buy #loan 🔺 🔁 every month 📅 2025-08-12
+- [/] save up for home credit downpayment #to-buy #downpayment #savings 🔺 
+- [ ] antiperspirant deodorant #to-buy #hygiene 🔼
+- [ ] feminine wash #to-buy #hygiene ⏫
+- [ ] mouse (PC) #to-buy #gadget ⏬
+- [ ] headphones (personal) #to-buy #gadget 🔽
+- [ ] noise-cancelling headphones #to-buy #gadget 🔽
+- [/] icloud (every month) #to-buy #subscription 🔼
+- [ ] wet wipes #to-buy #hygiene 🔽
+- [ ] power bank #to-buy #gadget ⏫
 #### for chai
-- [ ] hoop earrings
-- [ ] digicam
-- [ ] power bank
+- [ ] hoop earrings #to-buy #gift ⏬
+- [ ] digicam #to-buy #gift #gadget ⏬
+- [ ] power bank #to-buy #gift #gadget 🔽

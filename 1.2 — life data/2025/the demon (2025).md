@@ -58,6 +58,17 @@ restlessness
 - day: moderately depressed , night: slightly depressed
 - day: *fluoxetine and aripiprazole*, night:
 - high anxiety(x2)
+###### 14
+- day: baseline , night: baseline
+- day: *fluoxetine and aripiprazole*, night:
+###### 16
+- day: baseline , night: slightly depressed
+- day: *fluoxetine and aripiprazole*, night:
+###### 17
+- day: baseline , night: slightly depressed
+- day: *fluoxetine and aripiprazole*, night:
+- anhedonia(x2), restlessness(x1), high anxiety(x2), headaches(x1)
+
 ## June
 
 ###### 1

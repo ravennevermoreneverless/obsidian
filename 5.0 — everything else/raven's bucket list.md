@@ -1,50 +1,50 @@
 status: #child 
-tags: [[raven]] [[spreadsheet 1]] [[to-do 1]]
+tags: [[raven]] [[spreadsheet]] [[3.0 — tags/to-do|to-do]]
 
-- [ ] Ride a horse
-- [ ] Witness a meteor shower
-- [ ] Witness a solar eclipse
-- [ ] Witness a lunar eclipse
-- [ ] Visit Japan
-- [ ] Tattoos
-- [ ] Smoke a cigarette
-- [ ] Piercings
-- [ ] Learn how to play the piano
-- [ ] Road trip with friends
-- [ ] Learn morse code
-- [ ] Bake something
-- [ ] Visit a beach then build a sand castle
-- [ ] Meet an internet friend
-- [ ] Meet a psychic to predict your future
-- [ ] Drive a motorcycle
-- [ ] Attend a concert
-- [ ] Design your own room
-- [ ] Experience snow
-- [ ] Dye my hair red
-- [ ] Mini-library
-- [ ] Visit a ghost town/abandoned places
-- [ ] Learn how to swim 
-- [ ] Play paintball
-- [ ] Nightwalk
-- [ ] Learn how to play drums
-- [ ] Watch a live theater play
-- [ ] Perform with a band
-- [ ] Have a picnic
-- [ ] Climb a tree
-- [ ] Solve a rubik's cube in under 15 seconds — ==on-going== 
-- [ ] Paint a mural
-- [ ] Learn how to ride a bicycle
-- [ ] Win something in a claw machine
-- [ ] Learn martial arts
-- [ ] Own an electric guitar
-- [ ] Write a book
-- [ ] Buy tarot card decks
-- [ ] Collect stones
-- [ ] Own an exotic pet
-- [ ] Own a really old book about occult stuff
-- [ ] Become fluent in Japanese — ==on-going==
-- [ ] Have a vinyl record collection
-- [ ] Have a CD record collection
-- [ ] Own various music players — ==on-going==
-- [ ] Live (and possibly work) in Japan (maybe for a few months)
-- [ ] Stay at a hotel alone
+- [ ] Ride a horse #bucketlist
+- [ ] Witness a meteor shower #bucketlist 
+- [ ] Witness a solar eclipse #bucketlist 
+- [ ] Witness a lunar eclipse #bucketlist 
+- [ ] Visit Japan #bucketlist 
+- [ ] Tattoos #bucketlist 
+- [x] Smoke a cigarette #bucketlist 
+- [ ] Piercings #bucketlist 
+- [ ] Learn how to play the piano #bucketlist 
+- [ ] Road trip with friends #bucketlist 
+- [ ] Learn morse code #bucketlist 
+- [ ] Bake something #bucketlist 
+- [ ] Visit a beach then build a sand castle #bucketlist 
+- [x] Meet an internet friend  #bucketlist 
+- [ ] Meet a psychic to predict your future #bucketlist 
+- [ ] Drive a motorcycle #bucketlist 
+- [ ] Attend a concert #bucketlist 
+- [ ] Design your own room #bucketlist 
+- [ ] Experience snow #bucketlist 
+- [x] Dye my hair red #bucketlist 
+- [ ] Mini-library #bucketlist 
+- [ ] Visit a ghost town/abandoned places #bucketlist 
+- [ ] Learn how to swim #bucketlist 
+- [ ] Play paintball #bucketlist 
+- [x] Nightwalk #bucketlist 
+- [ ] Learn how to play drums #bucketlist 
+- [x] Watch a live theater play #bucketlist 
+- [x] Perform with a band #bucketlist 
+- [ ] Have a picnic #bucketlist 
+- [ ] Climb a tree #bucketlist 
+- [/] Solve a rubik's cube in under 15 seconds #bucketlist 
+- [ ] Paint a mural #bucketlist 
+- [ ] Learn how to ride a bicycle #bucketlist 
+- [ ] Win something in a claw machine #bucketlist 
+- [ ] Learn martial arts #bucketlist 
+- [ ] Own an electric guitar #bucketlist 
+- [ ] Write a book #bucketlist 
+- [x] Buy tarot card decks #bucketlist 
+- [ ] Collect stones #bucketlist 
+- [ ] Own an exotic pet #bucketlist 
+- [ ] Own a really old book about occult stuff #bucketlist 
+- [/] Become fluent in Japanese #bucketlist 
+- [ ] Have a vinyl record collection #bucketlist 
+- [ ] Have a CD record collection #bucketlist 
+- [/] Own various music players #bucketlist 
+- [ ] Live (and possibly work) in Japan (maybe for a few months) #bucketlist 
+- [ ] Stay at a hotel alone #bucketlist 

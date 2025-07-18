@@ -34,7 +34,7 @@
 - [[annual cash flow (2025)]]
 - [[daily notes (2025)]]
 - [[the demon (2025)]] 
-- [[dailies (2025)]]
-
+- [[daily notes (2025)]]
+- [[habits (2025)]]
 ### to-do
 - [[raven's bucket list]] 

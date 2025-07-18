@@ -1,5 +1,5 @@
 ### habits
-- [[dailies (2025)]] 
+- [[habits (2025)]]
 ### expenses
 - [[annual cash flow (2024)]]
 - [[annual cash flow (2025)]]
@@ -14,7 +14,6 @@
 
 ### music
 - [[all of my playlists]] 
-- [[genre iceberg]] 
 - [[monoquin songs]] 
 - [[other people's playlists]] 
 - [[songs to cover or record]] 

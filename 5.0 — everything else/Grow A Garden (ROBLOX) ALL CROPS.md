@@ -89,7 +89,11 @@ tags: [[list]] [[game]]
 	- [x] ***Firework Flower*** — 150,000 sheckles — *Legendary* — One-Time #GAGplant #project/GrowAGarden 
 	- [x] ***Stonebite*** — 35,000 sheckles (min.) — *Uncommon* — One-Time #GAGplant #project/GrowAGarden 
 	- [x] ***Paradise Petal*** — 25,000 sheckles (min.) — *Rare* — Multi-Harvest #GAGplant #project/GrowAGarden 
-	- [x] ***Horned Dinoshroom*** — 62,272 sheckles (min.) — *Legendary* — Multi-Harvest #GAGplant #project/Grow 
+	- [x] ***Horned Dinoshroom*** — 62,272 sheckles (min.) — *Legendary* — Multi-Harvest #GAGplant #project/GrowAGarden
 	- [x] ***Boneboo*** — 141,141 sheckles (min.) — *Legendary* — One-Time #GAGplant #project/GrowAGarden 
 	- [ ] ***Firefly Fern*** — 64,980 sheckles (min.) — *Mythical* — Multi-Harvest #GAGplant #project/GrowAGarden 
 	- [ ] ***Fossilight*** — 79,420 sheckles (min.) — *Divine* — Multi-Harvest #GAGplant #project/GrowAGarden 
+	- [ ] ***Grand Volcania*** — 63,676 (min.) — *Divine* — Multi-Harvest #GAGplant #project/GrowAGarden 
+	- [x] ***Lingonberry*** — 35,000 (min.) — *Legendary* — Multi-Harvest #GAGplant #project/GrowAGarden 
+	- [ ] ***Amber Spine*** — 55,000 (min.) — *Mythical* — Multi-Harvest #GAGplant #project/GrowAGarden 
+	- [x] ***Horsetail*** — 27,000 (min.) — *Rare* — One-Time #GAGplant #project/GrowAGarden 
