@@ -371,3 +371,9 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==16 - 19:35== Chai and I went to NCMH for my usual check-up and getting my monthly meds. Then we ate at KFC in Shangrila mall and I finally got to eat the new Chili Cheeze menu. We got home by 1 PM, really tired, only to find out my resignation is not immediate and I still have to report to work. My day is kinda ruined and Chai's sick so I'm kind of a little bit stressed out.
 
 ==17 - 19:36== OM Erma didn't call me today and I didn't take my initial interview. I had a headache in the morning so I slept some more. Chai and I watched Adventure Time. I felt like shit in the evening for a lot of negative reasons and I felt like crying. We watched Tik Tok videos together and the strawberry crochet as a gift for her came today.
+
+==18 - 19:37== This day is officially tagged as "trying-to-order-at-foodpanda-but-failed-for-the-entire-day-twice-in-a-row-as-a-massive-inconvenience-so-we're-all-hungry-in-the-end" day. It fucking sucks. I also didn't get to watch Adventure Time with my girlfriend, nor did my interview.
+
+==19 - 23:22== Chai and I didn't go through with our trip since it's raining pretty hard. We just stayed at home. I tried to finger her while she's on her period but the bunk bed kept shaking so we stopped so I just sucked her boobs. I ordered Jollibee for everyone here (except the ones outside the room) and then Chai and I watched Adventure Time while eating. We also took a bath together but it was short because it's really cold. Grow A Garden had an update tonight but Chai was sleepy so I played her account and mine at the same time. 
+
+==20 - 20:38== Chai and I were watching Adventure Time but I spilled food on the bed sheet so we had to change it for all of our inconvenience and I felt so terrible. She got snappy by the end of the day, too. It's our monthsary today but I felt like crying. I love her but it hurts sometimes.

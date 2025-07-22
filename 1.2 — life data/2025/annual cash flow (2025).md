@@ -1,11 +1,14 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱1,737.00</span>
+## <span style="color:#29A833">₱2,139.00</span>
 
 ## <span style="color:#FFF37B">₱ 1,500.00</span> - Mama
 
-## <span style="color:#1199FF">₱ 1,300.00</span> - Mama
-
+==July 11== Mom paid for her loan <span style="color:#29A833">₱1,300.00</span>
+==July 21== Go+149 <span style="color:#A41C1D">-₱164</span>
+==July 19== Load for Chai <span style="color:#A41C1D">-₱70</span>
+==July 19== Jollibee for Chai, me, and her fam <span style="color:#A41C1D">-₱514</span>
+==July 19== Barbecue for dinner <span style="color:#A41C1D">-₱100</span>
 ==July 17== F9-5 bluetooth earphones + Chai's inhaler set on Lazada <span style="color:#A41C1D">-₱285</span>
 ==July 16== Mama loaned momey from me <span style="color:#FFF37B">-₱1200.00</span>
 ==July 16== This day we went to NCMH and ate at KFC <span style="color:#A41C1D">-₱502</span>

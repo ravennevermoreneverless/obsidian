@@ -1287,14 +1287,10 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1257. Brain Damage — Pink Floyd : July 16, 2025
 1258. Ribs — Lorde : July 17, 2025
 1259. Favourite Colour — Carly Rae Jepsen : July 18, 2025
-
-1260 ν July 19, 2025
-
-1261 ν July 20, 2025
-
-1262 ν July 21, 2025
-
-1263 ν July 22, 2025
+1260. So Here We Are — Bloc Party : July 19, 2025
+1261. Strawberry Girl — MATOKI : July 20, 2025
+1262. Yellow — Alejandro Aranda : July 21, 2025
+1263. Anino — Up Dharma Down : July 22, 2025
 
 1264 ν July 23, 2025
 

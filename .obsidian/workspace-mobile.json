@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b438b6e9ae81fcd",
+            "id": "bc430a8e150410e8",
             "type": "leaf",
             "state": {
-              "type": "task-genius-view",
+              "type": "tasknotes-task-list-view",
               "state": {},
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
           },
           {
-            "id": "3e335900ddc27d4d",
+            "id": "a56074e0232c6776",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-agenda-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "df323d9ea9eb6fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,12 +52,12 @@
             }
           },
           {
-            "id": "8c2a04e3a890e468",
+            "id": "bc52abdca7ea6bb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 — everything else/Accounting Basics — AccountingCoach.md",
+                "file": "5.0 — everything else/monoquin songs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,59 +72,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Accounting Basics — AccountingCoach"
-            }
-          },
-          {
-            "id": "450f1607489080b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 — immediate notes/to-do.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "to-do"
-            }
-          },
-          {
-            "id": "770101e8a773ae00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2025/annual cash flow (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "annual cash flow (2025)"
+              "title": "monoquin songs"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.2 — life data/2025/the demon (2025).md",
+            "file": "1.2 — life data/2025/habits (2025).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -3785,6 +3747,296 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c3f7dd18adc789e4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5d558608b139b985",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "09797119dfd091de",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "16067a958fc4b1ef",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e56cbfeaa2038957",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "38dc7a3b4c18de7f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "862196a53c4b429f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "18462cfd8c057993",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0adcbc450604f23d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0819282231aa3014",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "d031a067dd48f0a2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f6f836d427d611d2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8a62c3ba6ee5eb1e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "da1b635e96d7deb8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "91c231c3a45d3b13",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b05e64e17103b2f0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4ba0de18290577b4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "88b1373a0b1ee0af",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "49a4ad6915cf48f7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "03574871ca4287e1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "30133bbd87f2a83b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "aa1b66f2711090c6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "03653e2cef9cac53",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ab96540ab0db8041",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6e96daab63a28efe",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1130fb77b5677ec1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e4c5f367b075dc37",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "885e942d93f78b7e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1c67f77347ba3825",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -3801,38 +4053,53 @@
       "obsidian42-brat:BRAT": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
-      "obsidian-task-progress-bar:Open Task Genius view": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "770101e8a773ae00",
+  "active": "bc52abdca7ea6bb4",
   "lastOpenFiles": [
-    "5.0 — everything else/monoquin songs.md",
-    "1.0 — immediate notes/ここは痛みのない世界だと思ってた.md",
-    "1.0 — immediate notes/すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to).md",
-    "1.2 — life data/2025/habits (2025).md",
-    "1.2 — life data/2025/the demon (2025).md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "4.0 — indexes/job (index).md",
-    "4.0 — indexes/journal (index).md",
-    "1.0 — immediate notes/16th of July, 2025 — 19.37 (Wed) ★ At this point, I don't know where this will go at all.md",
-    "1.2 — life data/journaling/2025/29th of June, 2025 — 19.32 (Sun) ★ I could sleep for days and still won't remember.md",
-    "1.2 — life data/2025/annual cash flow (2025).md",
-    "1.5 — japanese/personal anecdotes/7月10日2022年、水曜日 ★ あ！いまもおんがくをききます。.md",
-    "1.5 — japanese/personal anecdotes/-- ★ たけしさんをまちました.md",
-    "2.2 — creative projects/raven's brain/potential book/heaven-sent, unwanted/heaven-sent, unwanted 0.00 (test).md",
-    "1.5 — japanese/personal works/poems/2024年4月9日(火) — 和歌1.md",
-    "1.0 — immediate notes/to-do.md",
-    "5.0 — everything else/Grow A Garden (ROBLOX) ALL PETS.md",
+    "4.0 — indexes/game (index).md",
+    "4.0 — indexes/list (index).md",
+    "3.0 — tags/list.md",
     "5.0 — everything else/Grow A Garden (ROBLOX) ALL CROPS.md",
-    "2.0 — source materials/articles/Rock music (WIKI).md",
-    "4.0 — indexes/accounting (index).md",
-    "5.0 — everything else/Accounting Basics — AccountingCoach.md",
-    "3.0 — tags/to-do.md",
-    "3.0 — tags/accounting.md",
-    "4.0 — indexes/overview (index).md",
-    "4.0 — indexes/finance (index).md",
-    "4.0 — indexes/course (index).md",
+    "5.0 — everything else/Grow A Garden (ROBLOX) ALL PETS.md",
+    "1.0 — immediate notes/to-do.md",
+    "6.0 — all tasks/buy digicam.md",
+    "6.0 — all tasks/buy hoop earrings.md",
+    "6.0 — all tasks/buy power bank.md",
+    "6.0 — all tasks/icloud subscription.md",
+    "6.0 — all tasks/buy noise-cancelling headphones.md",
+    "6.0 — all tasks/buy headphones (personal).md",
+    "6.0 — all tasks/buy mouse (PC).md",
+    "6.0 — all tasks/buy feminine wash.md",
+    "6.0 — all tasks/buy antiperspirant deodorant.md",
+    "6.0 — all tasks/pay for gcash loan 2.md",
+    "6.0 — all tasks/pay for gcash loan 1.md",
+    "6.0 — all tasks/accounting basics.md",
+    "6.0 — all tasks/produce music for gf.md",
+    "6.0 — all tasks/buy an old-style journal.md",
+    "6.0 — all tasks/make a demonology book.md",
+    "6.0 — all tasks/listen to japanese playlist.md",
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "6.0 — all tasks/ravencore edit (for tiktok & IG).md",
+    "6.0 — all tasks/rock music genre wikipedia rock albums.md",
+    "6.0 — all tasks/read crescendo.md",
+    "6.0 — all tasks/Tasks",
+    "6.0 — all tasks",
+    "6.0 — all tasks/projects",
+    "6.0 — all tasks/tasks",
+    "6.0 — all tasks",
+    "5.1 — images stockpile/playlists/image — scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit.png",
+    "5.1 — images stockpile/playlists/image — cris🅱️y songs.jpg",
     "JetBrainsMono-Medium.ttf",
     "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
     "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",
@@ -3844,13 +4111,7 @@
     "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
     "5.1 — images stockpile/others/What Makes You Beautiful — One Direction (strumming).jpg",
     "5.1 — images stockpile/others/Somewhere in Neverland — All Time Low (strumming).jpg",
-    "5.1 — images stockpile/others/Perfect — Simple Plan (strumming).jpg",
-    "5.1 — images stockpile/others/One Thing — One Direction (strumming).jpg",
     "5.1 — images stockpile/others",
-    "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf",
-    "1.0 — immediate notes/flashcards",
-    "1.0 — immediate notes/flashacrds",
-    "Recording 20250524230551.m4a",
-    "Recording 20250524230540.m4a"
+    "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf"
   ]
 }

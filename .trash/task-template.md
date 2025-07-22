@@ -1,0 +1,12 @@
+{{title}}
+{{details}}
+{{date}}
+{{time}}
+{{priority}}
+{{status}}
+{{contexts}}
+{{tags}}
+{{timeEstimate}}
+{{dueDate}}
+{{scheduledDate}}
+{{parentNote}}

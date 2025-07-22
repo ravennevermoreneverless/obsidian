@@ -38,6 +38,9 @@
       },
       "obsidian-habit-tracker": {
         "startupType": "instant"
+      },
+      "tasknotes": {
+        "startupType": "instant"
       }
     }
   }

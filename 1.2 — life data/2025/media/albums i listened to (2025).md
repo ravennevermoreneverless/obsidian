@@ -67,3 +67,6 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 64. ***Peter and Gordon*** (1964) — Peter and Gordon : Beat, Merseybeat, Close Harmony • 6/30/2025
 65. ***Animals*** (1964) — The Animals : British Rhythm & Blues • 6/30/2025 
 66. ***The Five Faces of Manfred Mann*** (1964) — Manfred Mann : British Rhythm & Blues, British Blues • 7/1/2025
+67. ***The Rolling Stones*** (1964) — The Rolling Stones : British Rhythm & Blues, Blues Rock • 7/21/2025
+68. ***From Nowhere*** (1966) — *The Troggs* : Garage Rock, Frat Rock • 7/21/2025
+69. ***Letter to Myself*** (EP) (2024) — *TAEYEON* : K-Pop, Contemporary R&B, Pop Rock • 7/21/2025

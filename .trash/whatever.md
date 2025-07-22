@@ -1,0 +1,12 @@
+whatever
+{{details}}
+2025-07-21
+23:06
+{{priority}}
+{{status}}
+{{contexts}}
+{{tags}}
+{{timeEstimate}}
+{{dueDate}}
+{{scheduledDate}}
+{{parentNote}}
