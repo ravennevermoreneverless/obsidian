@@ -27,3 +27,7 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 15. ***The Rolling Stones*** (1964) — *The Rolling Stones* • <span style="color:#831100">i mean, i can't complain: it's the rolling stones for christ's sake—i just wished it was better or up to my expectations though</span>
 16. ***Live On Air 1966*** (1966) — *The Mindbenders* • <span style="color:#831100">it works as an album and a radio broadcast episode</span>
 17. ***From Nowhere*** (1966) — *The Troggs* • <span style="color:#831100">was it a typical or not-so-typical rock album? i'm not sure. my perception of rock is slowly turning intona smudge. it's just not-so-typical and typical, no in-between. what has become of me?</span>
+18. ***Sunshine Superman*** (1966) — *Donovan* • <span style="color:#831100">refreshing as fuck. not sure if this is even rock but it was released along those times. i very much think this would fit well as a soundtrack for lord of the rings, the hobbits' scenes and stuff—pretty nice album, bro.</span>
+	- Legend of a Girl Child Linda 
+	- Three King Fishers
+19. ***Face to Face*** (1966) — *The Kinks* • <span style="color:#831100">largely influenced by country music, i guess</span>

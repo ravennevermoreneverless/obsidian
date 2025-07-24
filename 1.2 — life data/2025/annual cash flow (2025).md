@@ -1,16 +1,24 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱2,139.00</span>
+## <span style="color:#29A833">₱1,362.00</span>
 
 ## <span style="color:#FFF37B">₱ 1,500.00</span> - Mama
 
-==July 11== Mom paid for her loan <span style="color:#29A833">₱1,300.00</span>
+## <span style="color:#3E9FE1">₱ 100.00</span> - Chai's mom
+
+
+==July 23== Powerbank + Charging adapter + multi-cable <span style="color:#A41C1D">-₱234</span>
+==July 23== Fare for me and Chai from Bagong Barrio to San Joaquin <span style="color:#A41C1D">-₱136</span>
+==July 23== Jolen's load loaned by her mom from me <span style="color:#A41C1D">-₱100</span>
+==July 22== Chips + Coffee <span style="color:#A41C1D">-₱62</span>
+==July 22== Chai's skin care products <span style="color:#A41C1D">-₱245</span>
+==July 22== Mom paid for her loan <span style="color:#29A833">₱1,300.00</span>
 ==July 21== Go+149 <span style="color:#A41C1D">-₱164</span>
 ==July 19== Load for Chai <span style="color:#A41C1D">-₱70</span>
 ==July 19== Jollibee for Chai, me, and her fam <span style="color:#A41C1D">-₱514</span>
 ==July 19== Barbecue for dinner <span style="color:#A41C1D">-₱100</span>
 ==July 17== F9-5 bluetooth earphones + Chai's inhaler set on Lazada <span style="color:#A41C1D">-₱285</span>
-==July 16== Mama loaned momey from me <span style="color:#FFF37B">-₱1200.00</span>
+==July 16== Mama loaned money from me <span style="color:#FFF37B">-₱1200.00</span>
 ==July 16== This day we went to NCMH and ate at KFC <span style="color:#A41C1D">-₱502</span>
 ==July 15== Gift for Chai on Tik Tok <span style="color:#A41C1D">-₱228</span>
 ==July 15== Nescafé Original twin-pack + GCash cashout fee <span style="color:#A41C1D">-₱25</span>

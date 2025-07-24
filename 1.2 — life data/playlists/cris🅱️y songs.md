@@ -17,49 +17,21 @@ tags: [[playlist]] [[music]] [[noise]]
 11. <b><i><span style="color:#E1E1E1">10 d E A T h b R E a s T ⚄ ⚄</span></b></i> – Bon Iver ★★★½
 12. <b><i><span style="color:#44B0FF">Double Helix</span></b></i> — Death Grips ★★★★
 13. <b><i><span style="color:#72D828">Punk Weight</span></b></i> — Death Grips ★★★★
-    
-14. Heart Attack - Scarlxrd ★★★
-    
-15. WHY AM I STILL IN LA - Joji. D33J, Shlohmo ★★★
-    
-16. cop graveyard - Teen Suicide ★★★★
-    
-17. The Glow, Pt. 2 - The Microphones ★★★★
-    
-18. Environment - Andrew Goes to Hell ★★★★★
-    
-19. 0506+056 - Deathpact ★★★★
-    
-20. Crash Jam - Dan Deacon ★★★
-    
-21. Crown On The Ground - Sleigh Bells ★★★★
-    
-22. City Song - Daughters ★★★★★
-    
-23. DIAMONDS - Scarypoolparty ★★★★
-    
-24. Black Paint - Death Grips ★★★
-    
-25. Cropsey - Have A Nice Life ★★★★
-    
-26. Emptiness Is a Closet Full of Your Old Clothes - Wishing ★★★★
-    
-27. Ataronchronon - Boards of Canada ★★★★
-    
-28. I’ll Be Found - IC3PEAK ★★★
-    
-29. Bugman - Blur ★★★
-    
-30. Sandwich Song - Lil $ucre ★★★
-    
-31. TURN THIS THE FUCK UP - COCKAHOLICS ★★★
-    
-32. CHERRY BOMB - Tyler, The Creator ★★★★
-    
-33. Click - Charli XCX, Kim Petras. Tommy Cash ★★★★
-    
-34. Facial Demolition (When A Nail Meats) - Phyllomedusa, Vantana Row ★★★
-    
-35. metal - food house, Gupi, Fraxiom ★★★★
-    
-36. Slo-dancin’ - Ricky Eat Acid ★★★
+14. <b><i><span style="color:#451212">Heart Attack</span></b></i> — Scarlxrd ★★★★
+15. <b><i><span style="color:#45038F">WHY AM I STILL IN LA</span></b></i> — Joji. D33J, Shlohmo ★★★½ 
+16. <b><i><span style="color:#8733CD">cop graveyard</span></b></8> — Teen Suicide ★★★
+17. <b><i><span style="color:#919059">The Glow, Pt. 2</span></b></i> — The Microphones ★★★★
+18. <b><i><span style="color:#53FF2E">Environment</span></b></i> — Andrew Goes to Hell ★★★★
+19. <b><i><span style="color:#9AAF96">Crash Jam</span></b></i> — Dan Deacon ★★★
+20. <b><i><span style="color:#0E8DCB">Crown On The Ground</span></b></i> — Sleigh Bells ★★★★
+21. <b><i><span style="color:#FFFFFF">City Song</span></b></i> — Daughters ★★★★
+22. <b><i><span style="color:#DF001A">DIAMONDS</span></b></i> — Scarypoolparty ★★★½
+23. <b><i><span style="color:#445B40">Black Paint</span></b></i> — Death Grips ★★★
+24. <b><i><span style="color:#3D4844">Cropsey</span></b></i> — Have A Nice Life ★★★
+25. <b><i><span style="color:#CF9055">Emptiness Is a Closet Full of Your Old Clothes</span></b></i> — Wishing ★★★½
+26. <b><i><span style="color:#03B78E">Ataronchronon</span></b></i> — Boards of Canada ★★★½
+27. <b><i><span style="color:#8E7094">I’ll Be Found</span></b></i> — IC3PEAK ★★★
+28. <b><i><span style="color:#00BFFF">TURN THIS THE FUCK UP</span></b></i> — COCKAHOLICS ★★★
+29. <b><i><span style="color:#1000C6">CHERRY BOMB</span></b></i> — Tyler, The Creator ★★★½
+30. <b><i><span style="color:#FF8900">Click</span></b></i> — Charli XCX, Kim Petras, Tommy Cash ★★★★ 
+31. <b><i><span style="color:#A5EFF5">metal</span></b></i> — food house, Gupi, Fraxiom ★★★

@@ -128,7 +128,7 @@
 --
 大事なことが無くしたのが怖い
 --
-どうやってこのアニメを続ける 僕はもう感じがない
+==どうやってこのアニメを続ける 僕はもう感じがない==
 --
 10年とっても、君を戻るのため待つ。 僕たちがまだ終わらない。
 --
@@ -182,13 +182,13 @@ man gets burned alive, beaten and killed on the street by many men for being gay
 
 背中が痛い。。 僕は長い間ベッドに横たわっていた
 --
-ive been thinking alot about how i was teetering on the edge of being morally ambiguous and a "good" person. i didn't know who i wanted to be and i feel like everyone already knew they wanted to be a good person. i don't even know why i had that choice.
+==ive been thinking alot about how i was teetering on the edge of being morally ambiguous and a "good" person. i didn't know who i wanted to be and i feel like everyone already knew they wanted to be a good person. i don't even know why i had that choice.==
 
-and i thought being a bad person, if i were to be one, or if i already am, it's just a nuisance. there's nothing beneficial to come out of it. i could live a "neutral" life, that's quite a favorable outcome, however i would risk being a social outcast—which isn't so bad.
+==and i thought being a bad person, if i were to be one, or if i already am, it's just a nuisance. there's nothing beneficial to come out of it. i could live a "neutral" life, that's quite a favorable outcome, however i would risk being a social outcast—which isn't so bad.==
 
-i bet there's a whole study about this in philosophy but i just haven't looked more into it. it's like, i can't decide who i want to be yet, without knowing what being "me" really means. as well as being a "good" or "bad" or "neutral" person.
+==i bet there's a whole study about this in philosophy but i just haven't looked more into it. it's like, i can't decide who i want to be yet, without knowing what being "me" really means. as well as being a "good" or "bad" or "neutral" person.==
 
-didn't realize having a choice would be this heavy.
+==didn't realize having a choice would be this heavy.==
 --
 
 みんなが起きているときに起きるのは嫌だ
@@ -477,4 +477,6 @@ the future seems so far away but it will have thunderstorms and forests filled w
 yall better not be hiding some frittatas up your sleeves because oh boy i'm tellin ya ain't nobody got enough frittatas in them ol' stomachs
 --
 you can't beat me i have pneumonia
+--
+everything that chatgpt knows i already know inside my mind and soul
 --

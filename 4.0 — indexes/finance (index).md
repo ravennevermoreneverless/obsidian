@@ -3,3 +3,4 @@
 - [[annual cash flow (2025)]]
 ### courses
 - [[Accounting Basics — AccountingCoach]]
+- [[Debits and Credits — AccountingCoach]]

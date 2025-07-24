@@ -288,6 +288,7 @@
 - [[June, 2025 ★ I've been dissociating]]
 - [[29th of June, 2025 — 19.32 (Sun) ★ I could sleep for days and still won't remember]]
 - [[16th of July, 2025 — 19.37 (Wed) ★ At this point, I don't know where this will go at all]]
+- [[23rd of July, 2024 — 21.44 (Wed) ★ waist-deep in thought]]
 ### documentation
 - [[Tarot Journal]] 
 ### japanese

@@ -154,3 +154,5 @@ tags: [[raven]] [[spreadsheet]] [[films]]
 151. ***Stuck*** (2020) dir. David Mikalson • 7/6/2025
 152. ***Bring Her Back*** (2025) dir. Danny Philippou, Michael Philippou • 7/6/2025
 153. ***Parasite*** (2019) dir. Bong Joon-Ho • 7/7/2025
+154. ***さよならくちびる [Farewell Song]*** (2019) dir. 塩田明彦 [Akihiko Shiota] • 7/22/2025 
+155. ***The Crazies*** (2010) dir. Breck Eisner • 7/24/2025

@@ -3,5 +3,6 @@
   "lazy-plugins",
   "custom-font-loader",
   "obsidian-habit-tracker",
-  "tasknotes"
+  "tasknotes",
+  "obsidian-file-cooker"
 ]

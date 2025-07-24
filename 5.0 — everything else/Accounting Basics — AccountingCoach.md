@@ -1,5 +1,5 @@
 status: #baby 
-tags: [[course]] [[accounting]] [[finance]] [[overview]]
+tags: [[accounting]] [[finance]] [[overview]]
 
 ## Income Statement
 - shows how profitable a company is during the time interval shown in the statement's heading

@@ -8,20 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc430a8e150410e8",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-task-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "a56074e0232c6776",
             "type": "leaf",
             "state": {
               "type": "tasknotes-agenda-view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Agenda"
+            }
+          },
+          {
+            "id": "1fb112ec6ddfcde3",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-task-list-view",
               "state": {},
               "icon": "lucide-file",
               "title": "Plugin no longer active"
@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "bc52abdca7ea6bb4",
+            "id": "e469f886c9165ca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 — everything else/monoquin songs.md",
+                "file": "5.0 — everything else/the ultimate playlist of my life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,11 +72,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "monoquin songs"
+              "title": "the ultimate playlist of my life"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#project/GrowAGarden",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -167,7 +166,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.2 — life data/2025/habits (2025).md",
+            "file": "1.0 — immediate notes/tweets.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -4037,6 +4036,316 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "926c747c8585982e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "3f39179d16c73672",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "3334290b311c8b6e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e205ac2b2285bc2b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b1f66048487f69d0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c002d5d05ebd1e83",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9341328643414e4b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a120c9ad42382e79",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "25ad8d8d7038d525",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5a19c94e12f89e3b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "dbf0707a026495a0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8b8d5bef68d6b008",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1aaa9cf018b7555a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5b29724d8fa27a30",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1f0ed88132545001",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "cd5a3a084fb76d44",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "83288db518b8a141",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "426f7614149a9ffa",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "dfee009b89299e33",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2ce405f1898557f4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "40051950347e32e8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "81bdc096899d5beb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "50f89422a56e0ca7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f2dcda3ae1f3fe1e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6c981ae0c8fa5a12",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b4397ff69340f3fd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "bbe0a11fae07063c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5c798907db73a4d8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ddf5e22018730b65",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1af6d5a8480abbaf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "29bfd1c436e353c1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -4065,53 +4374,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bc52abdca7ea6bb4",
+  "active": "29bfd1c436e353c1",
   "lastOpenFiles": [
-    "4.0 — indexes/game (index).md",
-    "4.0 — indexes/list (index).md",
-    "3.0 — tags/list.md",
-    "5.0 — everything else/Grow A Garden (ROBLOX) ALL CROPS.md",
-    "5.0 — everything else/Grow A Garden (ROBLOX) ALL PETS.md",
-    "1.0 — immediate notes/to-do.md",
-    "6.0 — all tasks/buy digicam.md",
-    "6.0 — all tasks/buy hoop earrings.md",
-    "6.0 — all tasks/buy power bank.md",
-    "6.0 — all tasks/icloud subscription.md",
-    "6.0 — all tasks/buy noise-cancelling headphones.md",
-    "6.0 — all tasks/buy headphones (personal).md",
-    "6.0 — all tasks/buy mouse (PC).md",
-    "6.0 — all tasks/buy feminine wash.md",
-    "6.0 — all tasks/buy antiperspirant deodorant.md",
-    "6.0 — all tasks/pay for gcash loan 2.md",
-    "6.0 — all tasks/pay for gcash loan 1.md",
-    "6.0 — all tasks/accounting basics.md",
-    "6.0 — all tasks/produce music for gf.md",
-    "6.0 — all tasks/buy an old-style journal.md",
-    "6.0 — all tasks/make a demonology book.md",
-    "6.0 — all tasks/listen to japanese playlist.md",
+    "1.2 — life data/2025/media/films i watched (2025).md",
+    "5.0 — everything else/monoquin songs.md",
+    "1.2 — life data/2025/habits (2025).md",
+    "5.0 — everything else/Debits and Credits — AccountingCoach.md",
+    "4.0 — indexes/overview (index).md",
+    "4.0 — indexes/finance (index).md",
+    "4.0 — indexes/accounting (index).md",
+    "4.0 — indexes/course (index).md",
+    "5.0 — everything else/Accounting Basics — AccountingCoach.md",
+    "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 7.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 6.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 20.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 19.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 18.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 17.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 16.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 15.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 14.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 13.jpg",
+    "6.0 — all tasks/download mp3 versions of playlists (and edit them each).md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "5.0 — everything else/Rock music (DEEP DIVE).md",
+    "2.0 — source materials/articles/Rock music (WIKI).md",
+    "5.0 — everything else/all of my playlists.md",
+    "1.2 — life data/playlists/cris🅱️y songs.md",
     "1.2 — life data/2025/annual cash flow (2025).md",
-    "6.0 — all tasks/ravencore edit (for tiktok & IG).md",
-    "6.0 — all tasks/rock music genre wikipedia rock albums.md",
-    "6.0 — all tasks/read crescendo.md",
+    "1.2 — life data/journaling/2025/3rd of May, 2025 — 22.40 (Sat) ★ sexual childhood trauma and attachment issues.md",
+    "5.1 — images stockpile/journals/2nd journal (2018)",
+    "4.0 — indexes/journal (index).md",
+    "1.2 — life data/journaling/2025/23rd of July, 2024 — 21.44 (Wed) ★ waist-deep in thought.md",
+    "1.2 — life data/journaling/2018/8th of March, 2018 — 3.48 (Fri) ★ the double-decker bed and Lovely Bones.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "1.2 — life data/2025/the demon (2025).md",
+    "6.0 — all tasks/old journal entries (make album for all creative journal pages - INCLUDE ALL PAGES).md",
+    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
+    "1.0 — immediate notes/templates/the ultimate playlist of my life IG caption format.md",
     "6.0 — all tasks/Tasks",
     "6.0 — all tasks",
     "6.0 — all tasks/projects",
     "6.0 — all tasks/tasks",
     "6.0 — all tasks",
-    "5.1 — images stockpile/playlists/image — scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit.png",
-    "5.1 — images stockpile/playlists/image — cris🅱️y songs.jpg",
     "JetBrainsMono-Medium.ttf",
-    "5.1 — images stockpile/art/2018/2018 — sketch 5.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 52.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 58.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 77.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 88.jpg",
-    "5.1 — images stockpile/journals/1st journal (2018)/journal 1 — page 89.jpg",
     "2.2 — creative projects/raven's brain/speech",
     "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
-    "5.1 — images stockpile/others/What Makes You Beautiful — One Direction (strumming).jpg",
-    "5.1 — images stockpile/others/Somewhere in Neverland — All Time Low (strumming).jpg",
-    "5.1 — images stockpile/others",
-    "1.0 — immediate notes/The Bridge to Lucy Dunne (Exurb1a) (Z-Library).pdf"
+    "5.1 — images stockpile/others"
   ]
 }

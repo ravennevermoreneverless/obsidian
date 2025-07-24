@@ -41,6 +41,9 @@
       },
       "tasknotes": {
         "startupType": "instant"
+      },
+      "obsidian-file-cooker": {
+        "startupType": "instant"
       }
     }
   }

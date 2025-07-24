@@ -1291,10 +1291,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1261. Strawberry Girl — MATOKI : July 20, 2025
 1262. Yellow — Alejandro Aranda : July 21, 2025
 1263. Anino — Up Dharma Down : July 22, 2025
-
-1264 ν July 23, 2025
-
-1265 ν July 24, 2025
+1264. Sodus — Cemeteries : July 23, 2025
+1265. Meditation of the Snake — Steve Hillage : July 24, 2025
 
 1266 ν July 25, 2025
 
