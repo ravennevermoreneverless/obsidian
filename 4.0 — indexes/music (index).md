@@ -9,6 +9,7 @@
 ### trackers/lists
 - [[all of my playlists]] 
 - [[other people's playlists]] 
+- [[songs. the complete list]]
 #### genre deep dives
 - [[Rock music (DEEP DIVE)]]
 #### challenge

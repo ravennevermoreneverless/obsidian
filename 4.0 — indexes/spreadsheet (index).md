@@ -9,6 +9,9 @@
 - [[all of my playlists]] 
 - [[songs to cover or record]] 
 - [[the ultimate playlist of my life]] 
+- [[すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to)]]
+- [[気持ち悪い。(all the japanese films i've ever watched)]]
+- [[songs. the complete list]]
 ### yearly log
 #### 2025
 - [[albums i listened to (2025)]]

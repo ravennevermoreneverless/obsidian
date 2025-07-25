@@ -11,6 +11,7 @@
 - [[0 (2013) — 青葉市子 (Ichiko Aoba) (REVIEW)]]
 ### lists
 - [[気持ち悪い。(all the japanese films i've ever watched)]]
+- [[すべての始まりには、何もなかった。突然、世界ができた。そして、音楽が生まれた。 (all the japanese albums i've ever listened to)]]
 ### films
 - [[新世紀エヴァンゲリオン劇場版 Air . まごころを、君に (Neon Genesis Evangelion. The End of Evangelion) (1997) dir. Hideaki Anno, Kazuya Tsurumaki]]
 ## playlists

@@ -1,5 +1,5 @@
 status: #child 
-tags: [[japanese media]] [[list]] [[music]] [[albums]]
+tags: [[japanese media]] [[list]] [[music]] [[albums]] [[tracker]] [[spreadsheet]]
 
 1. ***T H E*** (2013) — tricot : Math Rock, J-Rock, Math Pop 
 	★ *ちゃんせんすぅす* 

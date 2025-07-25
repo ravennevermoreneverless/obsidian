@@ -1,5 +1,5 @@
 status: #baby 
-tags: [[japanese media]] [[list]] [[films]] 
+tags: [[japanese media]] [[list]] [[films]] [[tracker]] [[spreadsheet]] 
 
 1. ***君の名は。[Your Name.]*** (2016) dir. 新海誠/Makoto Shinkai • Anime, Low Fantasy, Romance, Coming-of-Age, Teen Movie ★ ==5==
 2. ***火垂るの墓 [Grave of the Fireflies]*** (1988) dir. 高畑勲/Isao Takahata • Anime, War, Period Drama ★ ==5==

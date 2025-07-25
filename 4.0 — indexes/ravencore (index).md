@@ -1,5 +1,6 @@
 ### playlists
 - [[the ultimate playlist of my life]] 
+- [[songs. the complete list]]
 
 ### books
 - [[Wizard's First Rule — Terry Goodkind, 1994]] 

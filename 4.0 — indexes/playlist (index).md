@@ -1,5 +1,6 @@
 ### personal
 - [[the ultimate playlist of my life]] 
+- [[songs. the complete list]]
 ### languages
 - [[ここは痛みのない世界だと思ってた]]
 ### specific themes
