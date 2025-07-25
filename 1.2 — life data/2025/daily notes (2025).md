@@ -381,3 +381,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 ==23 - 21:40== I slept late because I did a lot on my to-do list while everyone was asleep. I woke up at noon and ate lunch. Then Chai and I went back home to San Joaquin amidst the rain. And of course, Chai's mom still had something to say, which dampened the mood even further. We both went home quietly, me and her deep in thought.
 
 ==24 - 23:13== Chai and I went to get Cheesecake groomed in the afternoon. We ate pizzas and shared a butterscotch latté cup. It was raining pretty hard. Then we had a talk about philosophy. Then had a discussion about anime with Chelsea and Idoy. We watched a fucked up Taiwanese zombie film. Then watched top 5 ghost videos on Youtube. 
+
+==25 - 22:08== Woke up really sleepy, I didn't have enough sleep. Chai wanted to take a bath but I didn't so we waited until the afternoon. I still didn't want to shower so we tried making deals. In the end, we took a bath (and had sex).

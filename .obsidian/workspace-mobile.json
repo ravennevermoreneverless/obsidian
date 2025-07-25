@@ -13,8 +13,8 @@
             "state": {
               "type": "tasknotes-agenda-view",
               "state": {},
-              "icon": "calendar-clock",
-              "title": "Agenda"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 — source materials/book/The Modern Witchcraft Book of Tarot; The Complete Guide to Understanding the Tarot — Skye Alexander, 2017.md",
+                "file": "1.2 — life data/2025/the demon (2025).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,7 +96,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Modern Witchcraft Book of Tarot; The Complete Guide to Understanding the Tarot — Skye Alexander, 2017"
+              "title": "the demon (2025)"
             }
           }
         ],
@@ -4581,6 +4581,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1a3c4461f4fd6d8d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9f308fa4410139ce",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -4609,8 +4629,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e551bea4fec69bb6",
+  "active": "9f308fa4410139ce",
   "lastOpenFiles": [
+    "1.2 — life data/2025/habits (2025).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "2.0 — source materials/book/The Modern Witchcraft Book of Tarot; The Complete Guide to Understanding the Tarot — Skye Alexander, 2017.md",
     "2.0 — source materials/book/Wizard's First Rule — Terry Goodkind, 1994.md",
     "2.0 — source materials/anime/悪の華 Aku no Hana (Flowers of Evil, 2013).md",
     "2.0 — source materials/anime/新世紀エヴァンゲリオン Neon Genesis Evangelion (1995 - 1996) — Hideaki Anno.md",
@@ -4629,7 +4652,6 @@
     "5.0 — everything else/Fly — Sleeping With Sirens (chords).md",
     "2.0 — source materials/articles/Rock music (WIKI).md",
     "5.0 — everything else/Rock music (DEEP DIVE).md",
-    "1.2 — life data/2025/habits (2025).md",
     "1.2 — life data/playlists/cris🅱️y songs.md",
     "1.0 — immediate notes/file cooker.md",
     "6.0 — all tasks/cyberbacker initial interview.md",
@@ -4645,8 +4667,6 @@
     "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 38.jpg",
     "1.0 — immediate notes/tweets.md",
     "5.0 — everything else/a quest of finding the most fucked up film to ever exist.md",
-    "5.0 — everything else/monoquin songs.md",
-    "1.2 — life data/2025/daily notes (2025).md",
     "5.1 — images stockpile/journals/2nd journal (2018)",
     "6.0 — all tasks/Tasks",
     "6.0 — all tasks",

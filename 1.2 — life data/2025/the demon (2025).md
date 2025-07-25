@@ -78,6 +78,9 @@ restlessness
 - day: baseline , night: slightly depressed
 - day: *fluoxetine and aripiprazole*, night:
 ###### 24
+- day: moderately manic , night: slightly manic
+- day: *fluoxetine and aripiprazole*, night:
+###### 25
 - day: baseline , night: baseline
 - day: *fluoxetine and aripiprazole*, night:
 ## June
