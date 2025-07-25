@@ -8,7 +8,7 @@ contexts:
 timeEstimate: 60
 recurrence: FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-23T00:22:15.891+08:00
-dateModified: 2025-07-24T04:42:00.179+08:00
+dateModified: 2025-07-25T19:11:57.739+08:00
 tags:
   - task
 timeEntries:
@@ -21,5 +21,6 @@ timeEntries:
 complete_instances:
   - 2025-07-23
   - 2025-07-24
+  - 2025-07-25
 ---
 

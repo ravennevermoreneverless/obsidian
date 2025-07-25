@@ -25,9 +25,12 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 	- I'm Mad Again
 14. ***The Five Faces of Manfred Mann*** (1964) — *Mandred Mann* • <span style="color:#831100">it's not much of a commendable record. i could understand if it was just one of the records that got released as soon as the genre was starting to bloom</span>
 15. ***The Rolling Stones*** (1964) — *The Rolling Stones* • <span style="color:#831100">i mean, i can't complain: it's the rolling stones for christ's sake—i just wished it was better or up to my expectations though</span>
-16. ***Live On Air 1966*** (1966) — *The Mindbenders* • <span style="color:#831100">it works as an album and a radio broadcast episode</span>
-17. ***From Nowhere*** (1966) — *The Troggs* • <span style="color:#831100">was it a typical or not-so-typical rock album? i'm not sure. my perception of rock is slowly turning intona smudge. it's just not-so-typical and typical, no in-between. what has become of me?</span>
-18. ***Sunshine Superman*** (1966) — *Donovan* • <span style="color:#831100">refreshing as fuck. not sure if this is even rock but it was released along those times. i very much think this would fit well as a soundtrack for lord of the rings, the hobbits' scenes and stuff—pretty nice album, bro.</span>
+16. ***My Generation*** (1965) — *The Who* • <span style="color:#831100">longass album, i thought it would never end but i don't have major complaints either</span>
+	- The Kids Are Alright
+	- Please, Please, Please
+17. ***Live On Air 1966*** (1966) — *The Mindbenders* • <span style="color:#831100">it works as an album and a radio broadcast episode</span>
+18. ***From Nowhere*** (1966) — *The Troggs* • <span style="color:#831100">was it a typical or not-so-typical rock album? i'm not sure. my perception of rock is slowly turning intona smudge. it's just not-so-typical and typical, no in-between. what has become of me?</span>
+19. ***Sunshine Superman*** (1966) — *Donovan* • <span style="color:#831100">refreshing as fuck. not sure if this is even rock but it was released along those times. i very much think this would fit well as a soundtrack for lord of the rings, the hobbits' scenes and stuff—pretty nice album, bro.</span>
 	- Legend of a Girl Child Linda 
 	- Three King Fishers
-19. ***Face to Face*** (1966) — *The Kinks* • <span style="color:#831100">largely influenced by country music, i guess</span>
+20. ***Face to Face*** (1966) — *The Kinks* • <span style="color:#831100">largely influenced by country music, i guess</span>

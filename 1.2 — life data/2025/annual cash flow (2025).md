@@ -1,12 +1,13 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱1,362.00</span>
+## <span style="color:#29A833">₱871.00</span>
 
 ## <span style="color:#FFF37B">₱ 1,500.00</span> - Mama
 
 ## <span style="color:#3E9FE1">₱ 100.00</span> - Chai's mom
 
-
+==July 24== Bacon Mushroom 10" pizza + Large butterscotch latte + Nescafé twin-pack original <span style="color:#A41C1D">-₱315</span>
+==July 24== Chai's sweets + my coffee <span style="color:#A41C1D">-₱176</span>
 ==July 23== Powerbank + Charging adapter + multi-cable <span style="color:#A41C1D">-₱234</span>
 ==July 23== Fare for me and Chai from Bagong Barrio to San Joaquin <span style="color:#A41C1D">-₱136</span>
 ==July 23== Jolen's load loaned by her mom from me <span style="color:#A41C1D">-₱100</span>

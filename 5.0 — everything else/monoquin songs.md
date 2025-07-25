@@ -1293,8 +1293,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1263. Anino — Up Dharma Down : July 22, 2025
 1264. Sodus — Cemeteries : July 23, 2025
 1265. Meditation of the Snake — Steve Hillage : July 24, 2025
-
-1266 ν July 25, 2025
+1266. find u — demotapes, Jukaa : July 25, 2025
 
 1267 ν July 26, 2025
 

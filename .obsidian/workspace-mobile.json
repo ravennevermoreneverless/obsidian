@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "e469f886c9165ca4",
+            "id": "3a2fbc7981bbff16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 — everything else/the ultimate playlist of my life.md",
+                "file": "5.0 — everything else/Rock music (DEEP DIVE).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,10 +72,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the ultimate playlist of my life"
+              "title": "Rock music (DEEP DIVE)"
+            }
+          },
+          {
+            "id": "e551bea4fec69bb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.0 — source materials/book/The Modern Witchcraft Book of Tarot; The Complete Guide to Understanding the Tarot — Skye Alexander, 2017.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Modern Witchcraft Book of Tarot; The Complete Guide to Understanding the Tarot — Skye Alexander, 2017"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -4346,6 +4371,216 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f6fcb8517feb73f0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "3e3d01ebb6b07542",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "bc0087acb5201279",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9ba35299cb285bbe",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "aaf7f6a1c5a1a13a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2253dff44251cb17",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "219d60ff3a49bc5a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "963767288891e55a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "69db82988f8992c7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "cf04bde95b3c968c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "46bced82989fdc43",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a03c663c8ddac829",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "888546bb44070ecc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "86a1fa2410c1cc47",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1df359921a8bb5ad",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e6d37aa63352e6c4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "75bb51b3e10b677c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "3268b6f7dbf40aa9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6be6fba3470e63a8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "3b0d399028f46b8a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ef922c65cf8bdb98",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -4374,45 +4609,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "29bfd1c436e353c1",
+  "active": "e551bea4fec69bb6",
   "lastOpenFiles": [
-    "1.2 — life data/2025/media/films i watched (2025).md",
-    "5.0 — everything else/monoquin songs.md",
-    "1.2 — life data/2025/habits (2025).md",
-    "5.0 — everything else/Debits and Credits — AccountingCoach.md",
-    "4.0 — indexes/overview (index).md",
-    "4.0 — indexes/finance (index).md",
-    "4.0 — indexes/accounting (index).md",
-    "4.0 — indexes/course (index).md",
-    "5.0 — everything else/Accounting Basics — AccountingCoach.md",
-    "1.0 — immediate notes/file cooker.md",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 7.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 6.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 20.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 19.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 18.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 17.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 16.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 15.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 14.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 13.jpg",
-    "6.0 — all tasks/download mp3 versions of playlists (and edit them each).md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
-    "5.0 — everything else/Rock music (DEEP DIVE).md",
+    "2.0 — source materials/book/Wizard's First Rule — Terry Goodkind, 1994.md",
+    "2.0 — source materials/anime/悪の華 Aku no Hana (Flowers of Evil, 2013).md",
+    "2.0 — source materials/anime/新世紀エヴァンゲリオン Neon Genesis Evangelion (1995 - 1996) — Hideaki Anno.md",
+    "1.2 — life data/journaling/2024/6th of January, 2024 — 21.44 (Sat) ★ MOA with my sisters.md",
+    "1.2 — life data/journaling/2024/16th of July, 2024 ★ no one taught me how to accept being an adult.md",
+    "1.2 — life data/journaling/2024/17th of February, 2024 — 02.34 (Sat) ★ immediate resignation at Concentrix.md",
+    "1.5 — japanese/personal works/poems/2024年5日9日(木) — 和歌24.md",
+    "5.0 — everything else/hello pt. 6.md",
+    "2.2 — creative projects/raven's brain/poems/crappy poem about depression.md",
+    "1.2 — life data/journaling/2023/12th of December, 2023 — 02.22 (Tue) ★ VC channel on SINEGANG Discord server, bipolar loneliness, music listening system.md",
+    "3.0 — tags/melancholy.md",
+    "1.5 — japanese/personal anecdotes/2023年11月3日(金)、午後7時29分 ★ がんばります！.md",
+    "1.2 — life data/journaling/2024/31st of January, 2024 — 05.31 (Wed) ★ Endorsed to production and slight goodbyes.md",
+    "6.0 — all tasks/re-download (girlfriend - bigbang) to mp3.md",
+    "3.0 — tags/mixed episode.md",
+    "5.0 — everything else/Fly — Sleeping With Sirens (chords).md",
     "2.0 — source materials/articles/Rock music (WIKI).md",
-    "5.0 — everything else/all of my playlists.md",
+    "5.0 — everything else/Rock music (DEEP DIVE).md",
+    "1.2 — life data/2025/habits (2025).md",
     "1.2 — life data/playlists/cris🅱️y songs.md",
-    "1.2 — life data/2025/annual cash flow (2025).md",
-    "1.2 — life data/journaling/2025/3rd of May, 2025 — 22.40 (Sat) ★ sexual childhood trauma and attachment issues.md",
-    "5.1 — images stockpile/journals/2nd journal (2018)",
-    "4.0 — indexes/journal (index).md",
-    "1.2 — life data/journaling/2025/23rd of July, 2024 — 21.44 (Wed) ★ waist-deep in thought.md",
-    "1.2 — life data/journaling/2018/8th of March, 2018 — 3.48 (Fri) ★ the double-decker bed and Lovely Bones.md",
+    "1.0 — immediate notes/file cooker.md",
+    "6.0 — all tasks/cyberbacker initial interview.md",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 21.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 36.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 32.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 27.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 28.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 29.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 30.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 40.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 39.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 38.jpg",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/a quest of finding the most fucked up film to ever exist.md",
+    "5.0 — everything else/monoquin songs.md",
     "1.2 — life data/2025/daily notes (2025).md",
-    "1.2 — life data/2025/the demon (2025).md",
-    "6.0 — all tasks/old journal entries (make album for all creative journal pages - INCLUDE ALL PAGES).md",
-    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
-    "1.0 — immediate notes/templates/the ultimate playlist of my life IG caption format.md",
+    "5.1 — images stockpile/journals/2nd journal (2018)",
     "6.0 — all tasks/Tasks",
     "6.0 — all tasks",
     "6.0 — all tasks/projects",

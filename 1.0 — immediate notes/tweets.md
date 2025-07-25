@@ -274,7 +274,7 @@ i subject myself to infinite digital consumerism and media consumption
 --
 i love music so much so much i will breathe it in i will swallow it i will engrave it everywhere on my skin i will ingest it in my heart and brain i will pump it in my blood i will give birth to it i will intertwine it with my soul i will transcend alongside it
 --
-i'm not even gonna pretend i know shit i don't know shit unfortunately
+==i'm not even gonna pretend i know shit i don't know shit unfortunately==
 --
 what's the use of consuming millions of art when you couldn't take away a single thing from all of it?
 --
