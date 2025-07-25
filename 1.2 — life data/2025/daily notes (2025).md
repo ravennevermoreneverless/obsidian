@@ -382,4 +382,4 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 
 ==24 - 23:13== Chai and I went to get Cheesecake groomed in the afternoon. We ate pizzas and shared a butterscotch latté cup. It was raining pretty hard. Then we had a talk about philosophy. Then had a discussion about anime with Chelsea and Idoy. We watched a fucked up Taiwanese zombie film. Then watched top 5 ghost videos on Youtube. 
 
-==25 - 22:08== Woke up really sleepy, I didn't have enough sleep. Chai wanted to take a bath but I didn't so we waited until the afternoon. I still didn't want to shower so we tried making deals. In the end, we took a bath (and had sex).
+==25 - 22:08== Woke up really sleepy, I didn't have enough sleep. Chai wanted to take a bath but I didn't so we waited until the afternoon. I still didn't want to shower so we tried making deals. In the end, we took a bath (and had sex). I had my Cyberbacker initial interview today (I completely fumbled it because I was hungry and shaking). 

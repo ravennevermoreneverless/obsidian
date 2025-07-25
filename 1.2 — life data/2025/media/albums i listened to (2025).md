@@ -72,3 +72,4 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 69. ***Letter to Myself*** (EP) (2024) — *TAEYEON* : K-Pop, Contemporary R&B, Pop Rock • 7/21/2025
 70. ***Sunshine Superman*** (1966) — *Donovan* : 	Psychedelic Folk, Singer-Songwriter, Psychedelic Pop • 7/23/2025
 71. ***Face to Face*** (1966) — *The Kinks* : Pop Rock • 7/24/2025
+72. ***Try Too Hard*** (1966) — *The Dave Clark Five* : Beat, Pop Rock

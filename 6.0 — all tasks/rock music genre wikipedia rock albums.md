@@ -7,7 +7,7 @@ contexts:
 timeEstimate: 100000
 recurrence: FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-22T00:37:30.917+08:00
-dateModified: 2025-07-25T21:07:38.117+08:00
+dateModified: 2025-07-26T00:44:08.360+08:00
 tags:
   - music
   - albums
@@ -27,6 +27,7 @@ complete_instances:
   - 2025-07-23
   - 2025-07-24
   - 2025-07-25
+  - 2025-07-26
 ---
 
 wiki / deep dive

@@ -34,3 +34,4 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 	- Legend of a Girl Child Linda 
 	- Three King Fishers
 20. ***Face to Face*** (1966) — *The Kinks* • <span style="color:#831100">largely influenced by country music, i guess</span>
+21. ***Try Too Hard*** (1966) — *The Dave Clark Five* • <span style="color:#831100">oh a really quick one. i was contemplating whether to listen to an old album or a new one but i chose this one because it's nearer to the late 1960's which is the transition to blues rock</span>

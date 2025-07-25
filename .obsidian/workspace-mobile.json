@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "3a2fbc7981bbff16",
+            "id": "0f697263f278f52b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 — everything else/Rock music (DEEP DIVE).md",
+                "file": "1.0 — immediate notes/songs. the complete list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,16 +72,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rock music (DEEP DIVE)"
+              "title": "songs. the complete list"
             }
           },
           {
-            "id": "e551bea4fec69bb6",
+            "id": "7ace7d3611c383d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2 — life data/2025/the demon (2025).md",
+                "file": "4.0 — indexes/lyric (index).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,7 +96,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the demon (2025)"
+              "title": "lyric (index)"
+            }
+          },
+          {
+            "id": "f400c6edaae09431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/Size of the Moon — Pinegrove.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Size of the Moon — Pinegrove"
             }
           }
         ],
@@ -191,7 +215,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.0 — immediate notes/tweets.md",
+            "file": "1.0 — immediate notes/Size of the Moon — Pinegrove.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -4601,6 +4625,86 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "298d0863d0a45850",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c2c06a7915a7978d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "908b872a277e2b59",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5f20f47d17fbaf1b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a54d7c6d69b0012c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e87ffee2ab2af459",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "748f93a93515c0dd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "958e1b6fb692b186",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -4610,6 +4714,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -4626,35 +4731,38 @@
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
       "tasknotes:Create new task": false,
+      "daily-notes:Open today's daily note": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9f308fa4410139ce",
+  "active": "7ace7d3611c383d3",
   "lastOpenFiles": [
+    "4.0 — indexes/analysis (index).md",
+    "4.0 — indexes/song (index).md",
+    "4.0 — indexes/music (index).md",
+    "4.0 — indexes/lyric (index).md",
+    "1.0 — immediate notes/songs. the complete list.md",
+    "1.0 — immediate notes/Size of the Moon — Pinegrove.md",
+    "1.0 — immediate notes/Skeleton — The Front Bottoms.md",
+    "1.0 — immediate notes/Cosmological Principle — Zach Mccoy.md",
+    "1.0 — immediate notes/Frou-frou Foxes in Midsummer Fires — Cocteau Twins.md",
     "1.2 — life data/2025/habits (2025).md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "2.0 — source materials/book/The Modern Witchcraft Book of Tarot; The Complete Guide to Understanding the Tarot — Skye Alexander, 2017.md",
-    "2.0 — source materials/book/Wizard's First Rule — Terry Goodkind, 1994.md",
-    "2.0 — source materials/anime/悪の華 Aku no Hana (Flowers of Evil, 2013).md",
-    "2.0 — source materials/anime/新世紀エヴァンゲリオン Neon Genesis Evangelion (1995 - 1996) — Hideaki Anno.md",
-    "1.2 — life data/journaling/2024/6th of January, 2024 — 21.44 (Sat) ★ MOA with my sisters.md",
-    "1.2 — life data/journaling/2024/16th of July, 2024 ★ no one taught me how to accept being an adult.md",
-    "1.2 — life data/journaling/2024/17th of February, 2024 — 02.34 (Sat) ★ immediate resignation at Concentrix.md",
-    "1.5 — japanese/personal works/poems/2024年5日9日(木) — 和歌24.md",
-    "5.0 — everything else/hello pt. 6.md",
-    "2.2 — creative projects/raven's brain/poems/crappy poem about depression.md",
-    "1.2 — life data/journaling/2023/12th of December, 2023 — 02.22 (Tue) ★ VC channel on SINEGANG Discord server, bipolar loneliness, music listening system.md",
-    "3.0 — tags/melancholy.md",
-    "1.5 — japanese/personal anecdotes/2023年11月3日(金)、午後7時29分 ★ がんばります！.md",
-    "1.2 — life data/journaling/2024/31st of January, 2024 — 05.31 (Wed) ★ Endorsed to production and slight goodbyes.md",
-    "6.0 — all tasks/re-download (girlfriend - bigbang) to mp3.md",
-    "3.0 — tags/mixed episode.md",
-    "5.0 — everything else/Fly — Sleeping With Sirens (chords).md",
-    "2.0 — source materials/articles/Rock music (WIKI).md",
+    "3.0 — tags/lyric.md",
+    "1.0 — immediate notes/It's Only Sex — Car Seat Headrest.md",
+    "1.0 — immediate notes/lyrics.md",
+    "5.0 — everything else/Black Sheep (Brie Larson Vocal Version) — Metric.md",
+    "3.0 — tags/analysis.md",
+    "4.0 — indexes/psychoanalysis (index).md",
+    "3.0 — tags/song.md",
+    "6.0 — all tasks/duplicate songs the complete list.md",
+    "6.0 — all tasks/ravencore edit (for tiktok & IG).md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
     "5.0 — everything else/Rock music (DEEP DIVE).md",
+    "2.0 — source materials/wiki/Rock music (WIKI).md",
     "1.2 — life data/playlists/cris🅱️y songs.md",
-    "1.0 — immediate notes/file cooker.md",
-    "6.0 — all tasks/cyberbacker initial interview.md",
+    "0.1 — flash notes/cyberbacker.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "1.2 — life data/2025/the demon (2025).md",
     "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 21.jpg",
     "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 36.jpg",
     "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 32.jpg",
@@ -4665,8 +4773,6 @@
     "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 40.jpg",
     "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 39.jpg",
     "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 38.jpg",
-    "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/a quest of finding the most fucked up film to ever exist.md",
     "5.1 — images stockpile/journals/2nd journal (2018)",
     "6.0 — all tasks/Tasks",
     "6.0 — all tasks",

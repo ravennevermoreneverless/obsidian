@@ -152,16 +152,16 @@
   },
   "savedViews": [
     {
-      "id": "mdda7r5vjrjviats1",
-      "name": "priority ",
+      "id": "mdj0u2j0pexm6gdsv",
+      "name": "normal ",
       "query": {
         "type": "group",
         "id": "filter_1753112630172_13",
         "conjunction": "and",
         "children": [],
-        "sortKey": "priority",
+        "sortKey": "due",
         "sortDirection": "asc",
-        "groupKey": "none"
+        "groupKey": "priority"
       }
     }
   ],
