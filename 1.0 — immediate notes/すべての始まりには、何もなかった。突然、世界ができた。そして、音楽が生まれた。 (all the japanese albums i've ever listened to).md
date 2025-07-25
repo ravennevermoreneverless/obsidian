@@ -376,3 +376,165 @@ tags: [[japanese media]] [[list]] [[music]] [[albums]]
 121. ***タイムマシンがこわれるまえに*** (2015) — 溶けない名前 [Tokenainamae] : Shoegaze, Noise Pop, J-Rock
 122. ***98.12.28 男達の別れ/98.12.28 Otokotachi no wakare*** (1999) — Fishmans : Dream Pop, Neo-Psychedelia
 	- *Long Season*
+123. ***BADモード/BAD MODE*** (2022) — 宇多田ヒカル [Hikaru Utada] : J-Pop, Contemporary R&B
+	- *One Last Kiss*  
+	- *PINK BLOOD*
+124. ***呼吸 [Kokyuu]*** (2001) — Lily Chou-Chou : Dream Pop, Film Soundtrack
+	- *アラベスク*
+	- *愛の実験*
+	- *回復する傷*
+	- *飽和*
+	- *共鳴 (空虚な石)*
+	- *グライド*
+125. ***Hapmoniym 1972–1975*** (2004) — マジカル・パワー・マコ : Experimental, Psychedelic Rock
+126. ***勝訴ストリップ [Shouso Strip]*** (2000) — 椎名林檎 [Sheena Ringo] : J-Rock, Noise Pop, Art Pop
+	- *ギブス*
+	- *闇に降る雨*
+	- *アイデンティティ*
+	- *月に負け犬*
+127. ***LONG SEASON*** (1996) — Fishmans : Dream Pop, Neo-Psychedelia, Progressive Pop
+	- *Long Season*
+128. ***Come Over to the Deepend*** (2000) — Coaltar of the Deepers : Shoegaze
+	- *Hard Reality*
+	- *Taste*
+129. ***No New World*** (2018) — Mass of the Fermenting Dregs : J-Rock, Alternative Rock
+	- *New Order*
+	- *HuHuhu*
+	- *スローモーションリプレイ*
+130. ***Mignonne*** (1978) — 大貫妙子 [Taeko Ohnuki] : City Pop, New Music, Jazz Pop
+	- *4:00 A.M.*
+131. ***Toy Box*** (2013) — The Otogibanashi's : Japanese Hip Hop
+	- *Lunchtime*
+	- *Pool*
+132. ***The Ashtray*** (EP) (2018) — Suchmos : Indie Rock
+133. ***Water Plant*** (EP) (2007) — susquatch : Midwest Emo, Math Pop
+	- *The Summer Solstice*
+	- *Ceto*
+	- *Harvest*
+134. ***In This World*** (2009) — susquatch : Midwest Emo, Math Rock, Math Pop
+	- *Awakening at Daybreak*
+	- *Ghost*
+	- *Matsuri*
+	- *Summer End*
+135. ***いくつもの絵 [Many Pictures]*** (EP) (2012) — イツエ [Itsue] : Indie Rock, J-Rock
+	- *青い鳥*
+136. ***While Shadows Sweep Across the Lawn*** (2012) — Hakobune : Ambient, Drone
+137. ***かなしばり [Kanashibari]*** (1984) — はにわちゃん [Haniwa-Chan] : Art Pop, Zolo, New Wave
+	- *体育祭*
+138. ***Parallel World*** (1976) — Far East Family Band : Space Rock, Progressive Rock
+139. ***Chicken Zombies*** (1997) — Thee Michelle Gun Elephant : Garage Rock
+	- *マングース*
+	- *ゲット・アップ・ルーシー (Album Version)*
+	- *サニー・サイド・リバー*
+	- *ブロンズ・マスター*
+140. ***oddloop*** (2014) — フレデリック [Frederic] : Indie Rock, J-Rock, Indie Pop
+	- *オドループ*
+141. ***黒の天使*** (2019) — 沖縄電子少女彩 [Okinawa Electric Girl Saya] : J-Pop
+142. ***フレデリズム [Frederhythm]*** (2016) — フレデリック [Frederic] : Indie Rock, Indie Pop, Math Pop
+	- *オドループ*
+	- *Poolside Dog*
+143. ***Dataplex*** (2005) — Ryoji Ikeda : Microsound, Glitch, Data Sonification
+144. ***Cochin Moon*** (1978) — 横尾忠則 [Tadanori Yokoo], 細野晴臣 [Haruomi Hosono] : Progressive Electronic
+145. ***Philharmony*** (1982) — Haruomi Hosono : Art Pop, Electronic, Synthpop
+146. ***eYe's*** (2017) — MYTH & ROID : J-Pop, Art Pop
+147. ***Daoko*** (2015) — Daoko : Japanese Hip Hop, Pop Rap, Synthpop
+	- *きみ*
+148. ***Expatriation*** (1990) — Jack or Jive : Ethereal Wave
+149. ***動物の身体 [Animal Body]*** (2012) — ハイスイノナサ/Haisuinonasa : Math Rock, Post-Rock, Math Pop
+	- *地下鉄の動態*
+	- *logos*
+	- *動物の身体*
+150. ***Paradise of Replica*** (1989) — After Dinner : Art Pop, Progressive Pop
+151. ***Harlem Jets*** (2000) — Blankey Jet City : Indie Rock
+152. ***Furu Platinum*** (2000) — 新居昭乃 [Akino Arai] : Ambient Pop, Singer-Songwriter, Dream Pop
+153. ***Knead*** (2002) — Knead : Noise Rock
+154. ***Requiem for Innocence*** (2002) — Art-School : Emo, J-Rock, Post-Hardcore
+155. ***薔薇の聖堂/Bara no Seidō*** (2000) — MALICE MIZER : Neoclassical Darkwave, Visual kei
+156. ***Koizumi in the House*** (1989) — 小泉今日子 [Kyoko Koizumi] : J-Pop, Dance-Pop, House
+157. ***春蜜柑/Harumikan*** (2001) — つじあやの [Ayano Tsuji]
+158. ***Port Island*** (2018) — Tsudio Studio : Chillwave, City Pop
+159. ***W*** (2019) — whoo : Post-Rock
+	- *夜の足跡*
+	- *ESNO*
+160. ***はためき/Hatameki*** (2021) — odol : Indie Pop
+	- *瞬間*
+	- *かたちのないもの*
+	- *歩む日々に*
+161. ***ぱみゅぱみゅレボリューション/Pamyu Pamyu Revolution*** (2012) — きゃりーぱみゅぱみゅ/Kyary Pamyu Pamyu : J-Pop, Dance-Pop
+	- *PONPONPON*
+	- *CANDY CANDY*
+	- *ちゃんちゃかちゃんちゃん*
+162. ***Technodelic*** (1981) — YMO : Synthpop, Art Pop
+163. ***檸檬の月 [Lemon no Tsuki]*** (1993) — 小川美潮 [Mishio Ogawa] : Pop
+164. ***So Kakkoii 宇宙*** (2019) — 小沢健二 [Kenji Ozawa] : Pop
+165. ***Re:結束バンド*** (EP) (2024) — 結束バンド [kessoku band] : Indie Rock, Film Soundtrack, J-Rock
+	- *秒針少女*
+	- *Re:Re*
+166. ***さよならくちびる*** (2019) — ハルレオ [Haruleo]
+	- *さよならくちびる*
+167. ***光るなら*** (2014) — Goose house : J-Pop
+168. ***Help Ever Hurt Never*** (2020) — 藤井風 [Fujii Kaze] : Contemporary R&B, J-Pop
+169. ***Hollowgallow*** (2023) — Dip : Indie Rock
+	- *krauteater*
+	- *for never end*
+	- *il faut continuer*
+	- *eva*
+170. ***若気ガイタル/Wakage ga itaru*** (2019) — 新しい学校のリーダーズ [ATARASHII GAKKO!] : Jazz-Rock, J-Pop, Art Pop
+	- *知りたい*
+171. ***Asobi Seksu*** (2004) — Asobi Seksu : Shoegaze, Indie Pop
+	- *Walk on the Moon*
+172. ***Solid State Survivor*** (1979) — Yellow Magic Orchestra : Synthpop
+173. ***Pulsate*** (2012) — Taika : Progressive Rock, Progressive Pop
+	- *Awake*
+174. ***Crystallize*** (2011) — 東京酒吐座 [Tokyo Shoegazer] : Shoegaze
+	- *Just Alright*
+	- *Bright*
+	- *Waltz Matilda*
+	- *Free*
+	- *Back to My Place*
+175. ***Green*** (2022) — RAY : Shoegaze, Dream Pop, J-Rock
+	- *わたし夜に泳ぐの*
+	- *ムーンパレス*
+	- *スカイライン*
+	- *ナイトバード*
+176. ***Manster*** (2024) — Galileo Galilei : Rock, J-Rock
+177. ***Mantral*** (2024) — Galileo Galilei : Indie Rock, J-Rock
+	- *Mantral*
+178. ***Continental*** (1983) — 清野由美 [Yumi Seino] : Art Pop, Sophisti-Pop
+179. ***Graduation*** (2018) — 笹川真生 [Mao Sasagawa] : J-Rock, Post-Rock
+	- *i was*
+	- *フロイデ*
+	- *mentir*
+180. ***utp_*** (2009) — Alva Noto, Ryuichi Sakamoto with Ensemble Modern : Ambient, Glitch, Modern Classical
+181. ***Vrioon*** (2002) — Alva Noto + Ryuichi Sakamoto : Glitch, Ambient
+	- *Trioon II*
+182. ***Made in Japan/メイド・イン・ジャパン*** (1980) — 渋谷祐子 [Yuuko Shibuya] : City Pop
+	- *Sail Away*
+183. ***春がいっぱい [Spring is Nearly Here]*** (1981) — 大村憲司 [Kenji Omura] : New Wave, Synthpop
+184. ***The Very Best of Hero*** (1985) — The Swankys : Japanese Hardcore, Punk Rock
+185. ***ムウ＝ミサ/Moo=Misa*** (1990) — マサ子さん [Masakosan] : Zolo, Art Pop
+186. ***Feu follet*** (2007) — Dip : Alternative Rock
+187. ***Weekender*** (1999) — Dip : Indie Rock, Garage Rock
+188. ***月世界遊泳 [Moonworld Playground]*** (2022) — 東京酒吐座 [Tokyo Shoegazer] : Shoegaze
+	- *Tokyo Neon Signs*
+	- *Moondive*
+	- *Destroy*
+189. ***goji-sanpun*** (2012) — goji-sanpun : Shoegaze
+	- *遠く、近く*
+	- *瞬きの間に*
+	- *この瞬間の感情を*
+190. ***Ukiyogunjou*** (2010) — Cruyff in the Bedroom : Shoegaze
+	- *Last Night in Antwerp*
+191. ***lovefullstudentnerdthings*** (2023) — Cruyff : Shoegaze, Noise Pop, Noise Rock
+	- *Summercut*
+192. ***幸せの谷の死体*** (2016) — 死んだ僕の石川 [Shinda Bokuno Ishikawa] : Dream Pop, Noise Pop, Shoegaze
+	- *Kamikakushi*
+193. ***性命体、終わり。*** (2020) — 空っぽな部屋、したたる彼女。 [Empty Room, Dripping My Girlfriend.] : Shoegaze, Slacker Rock, Noise Pop
+	- *kokubunji*
+194. ***When the First Time We Met*** (2016) — Ether Feels : Shoegaze, Indie Rock
+	- *Holizon*
+	- *Winter*
+195. ***Downt*** (2021) — downt : Midwest Emo
+	- *AM4:50*
+196. ***Lovetheism*** (EP) (2020) — 春ねむり [Haru Nemuri] : Art Rock, Art Pop, Shimokita-kei
+197. ***Picnic Land*** (1982) — ピッキーピクニック/Picky Picnic : Rock, Minimal Synth
