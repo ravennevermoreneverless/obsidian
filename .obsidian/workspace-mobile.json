@@ -28,36 +28,12 @@
             }
           },
           {
-            "id": "df323d9ea9eb6fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2025/habits (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "habits (2025)"
-            }
-          },
-          {
             "id": "0f697263f278f52b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/songs. the complete list.md",
+                "file": "1.0 — immediate notes/file cooker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,59 +48,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "songs. the complete list"
-            }
-          },
-          {
-            "id": "7ace7d3611c383d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.0 — indexes/lyric (index).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "lyric (index)"
-            }
-          },
-          {
-            "id": "f400c6edaae09431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 — immediate notes/Size of the Moon — Pinegrove.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Size of the Moon — Pinegrove"
+              "title": "file cooker"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.0 — immediate notes/Size of the Moon — Pinegrove.md",
+            "file": "1.0 — immediate notes/IMG_7954 1.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -4705,6 +4633,116 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "459ec444c756f97f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4bb968440dc4c8fc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "777ba0ee7ce8aaa8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b46ac4120fdbddcf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "19b200431f28b89d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ab9e2178710f02d9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9ba2e4e00e876a3b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "70f33ff5f6bdc18a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5f8c3e191f7a74e5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a4cf32e572dca4f5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b3c027252b33fcfb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -4735,44 +4773,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7ace7d3611c383d3",
+  "active": "0f697263f278f52b",
   "lastOpenFiles": [
-    "4.0 — indexes/analysis (index).md",
-    "4.0 — indexes/song (index).md",
-    "4.0 — indexes/music (index).md",
-    "4.0 — indexes/lyric (index).md",
+    "5.1 — images stockpile/notes/2018/2018 — notes 7.1.jpg",
+    "5.1 — images stockpile/notes/2018/2018 — notes 7.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 48.jpg",
+    "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 42.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 41.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 14.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 13.jpg",
+    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 46.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 12.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 11.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 10.jpg",
     "1.0 — immediate notes/songs. the complete list.md",
-    "1.0 — immediate notes/Size of the Moon — Pinegrove.md",
-    "1.0 — immediate notes/Skeleton — The Front Bottoms.md",
-    "1.0 — immediate notes/Cosmological Principle — Zach Mccoy.md",
-    "1.0 — immediate notes/Frou-frou Foxes in Midsummer Fires — Cocteau Twins.md",
-    "1.2 — life data/2025/habits (2025).md",
-    "3.0 — tags/lyric.md",
-    "1.0 — immediate notes/It's Only Sex — Car Seat Headrest.md",
-    "1.0 — immediate notes/lyrics.md",
-    "5.0 — everything else/Black Sheep (Brie Larson Vocal Version) — Metric.md",
-    "3.0 — tags/analysis.md",
-    "4.0 — indexes/psychoanalysis (index).md",
-    "3.0 — tags/song.md",
-    "6.0 — all tasks/duplicate songs the complete list.md",
-    "6.0 — all tasks/ravencore edit (for tiktok & IG).md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
-    "5.0 — everything else/Rock music (DEEP DIVE).md",
-    "2.0 — source materials/wiki/Rock music (WIKI).md",
-    "1.2 — life data/playlists/cris🅱️y songs.md",
-    "0.1 — flash notes/cyberbacker.md",
+    "1.0 — immediate notes/2025-07-26.md",
     "1.2 — life data/2025/daily notes (2025).md",
     "1.2 — life data/2025/the demon (2025).md",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 21.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 36.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 32.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 27.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 28.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 29.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 30.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 40.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 39.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 38.jpg",
+    "1.2 — life data/2025/habits (2025).md",
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "1.2 — life data/playlists/cris🅱️y songs.md",
+    "2.0 — source materials/anime/新世紀エヴァンゲリオン Neon Genesis Evangelion (1995 - 1996) — Hideaki Anno.md",
+    "3.0 — tags/films.md",
+    "1.2 — life data/2025/media/films i watched (2025).md",
+    "5.0 — everything else/Girls — The 1975 (chords).md",
+    "5.0 — everything else/monoquin songs.md",
+    "4.0 — indexes/lyric (index).md",
+    "4.0 — indexes/analysis (index).md",
+    "3.0 — tags/lyric.md",
+    "4.0 — indexes/song (index).md",
+    "4.0 — indexes/music (index).md",
+    "5.0 — everything else/No Children — The Mountain Goats.md",
+    "5.0 — everything else/Lonely Eyes — The Front Bottoms.md",
+    "1.0 — immediate notes/Father — The Front Bottoms.md",
+    "5.0 — everything else/Sex - EP Version — The 1975.md",
+    "5.0 — everything else/Size of the Moon — Pinegrove.md",
+    "5.0 — everything else/Skeleton — The Front Bottoms.md",
+    "1.0 — immediate notes/Cosmological Principle — Zach Mccoy.md",
     "5.1 — images stockpile/journals/2nd journal (2018)",
     "6.0 — all tasks/Tasks",
     "6.0 — all tasks",

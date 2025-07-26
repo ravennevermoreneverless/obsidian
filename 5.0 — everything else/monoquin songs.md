@@ -1294,8 +1294,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1264. Sodus — Cemeteries : July 23, 2025
 1265. Meditation of the Snake — Steve Hillage : July 24, 2025
 1266. find u — demotapes, Jukaa : July 25, 2025
-
-1267 ν July 26, 2025
+1267. World Lampshade — Ryo-kun : July 26, 2025
 
 1268 ν July 27, 2025
 

@@ -95,3 +95,7 @@
 - [[Cosmological Principle — Zach Mccoy]]
 - [[Skeleton — The Front Bottoms]]
 - [[Size of the Moon — Pinegrove]]
+- [[Sex - EP Version — The 1975]]
+- [[Father — The Front Bottoms]]
+- [[No Children — The Mountain Goats]]
+- [[Lonely Eyes — The Front Bottoms]]

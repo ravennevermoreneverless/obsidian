@@ -1,5 +1,5 @@
 status: #adult 
-tags: [[raven]] [[spreadsheet]] [[films]] 
+tags: [[raven]] [[spreadsheet]] [[films]]
 
 1. ***余命10年 [The Last 10 Years]*** (2022) dir. 藤井道人 [Michihito Fujii] • 1/5/2025
 2. ***西游·降魔篇 [Journey to the West: Conquering the Demons]*** (2013) dir. 周星馳 [Stephen Chow] • 1/13/2025
@@ -156,4 +156,8 @@ tags: [[raven]] [[spreadsheet]] [[films]]
 153. ***Parasite*** (2019) dir. Bong Joon-Ho • 7/7/2025
 154. ***さよならくちびる [Farewell Song]*** (2019) dir. 塩田明彦 [Akihiko Shiota] • 7/22/2025 
 155. ***The Crazies*** (2010) dir. Breck Eisner • 7/24/2025
-156. ***The Sadness*** (2021) dir. Rob Jabbaz • 7/24/2025
+156. ***The Sadness*** (2021) dir. Rob Jabbaz • 7/24/2025 ★ ==4==
+157. ***Double Vision*** (2024) dir. Isabelle Kiser • 7/26/2025
+158. ***All Girls*** (2022) dir. Anastasia Bruce-Jones • 7/26/2025
+159. ***Milk Teeth*** (2020) dir. Felipe Vargas • 7/26/2025
+160. ***The Dollmaker*** (2017) dir. Al Lougher • 7/26/2025
