@@ -1,5 +1,5 @@
 status: #child 
-tags: [[music]] [[song]] [[analysis]] [[lyric]]
+tags: [[music]] [[song]] [[analysis]] [[lyrics]] [[sexuality]] [[asexual]] 
 
 ***Slacker Rock, Singer-Songwriter, Indietronica*** 
 *Spoken Word*
@@ -8,11 +8,72 @@ largely a song about asexuality or perhaps the complications of discovery of sex
 
 ---
 
-> OK, so I've been reading all the sex blogs
-> And they all talk about how OK it is to be gay
-> And straight and bisexual and asexual
-> And have sex however you like
-> But I don't care about hundreds of hypothetical people
-> And their hypothetical sex deals
-> I care about me, and my sex deal!
-> What about my problems?
+> The other night I cried while thinking of having sex with you  
+> Not out of desire or shame but some subconscious impulse to feel pain  
+> I wiped my tears on my face and neck and the backs of my ears  
+> And said, "Now it's sweat, now it's sweat, it's sweat now"
+
+>Just to see you  
+>It's such a treasure  
+>But when I feel you  
+>My flesh yields no pleasure
+
+>And honey I'm cultured  
+>I'm very sex positive  
+>So what is this feeling?  
+>It ain't so positive
+
+>I can't tell you if I like it, I like it oh
+>What happens if I don't like it? I like it  
+>I can't tell you if I like it, I like it  
+>What happens if I don't like it? It's only
+
+>==OK, so I've been reading all the sex blogs==  
+>==And they all talk about how OK it is to be gay==  
+>==And straight and bisexual and asexual==  
+>==And have sex however you like==
+
+>==But I don't care about hundreds of hypothetical people==  
+>==And their hypothetical sex deals==  
+>==I care about me, and my sex deal!==  
+>==What about my problems?==
+
+>Baby, my body  
+>Constantly betrays me  
+>I try to betray it  
+>I only hurt myself  
+>Yeah, yeah
+
+>I can't tell you if I like it, I like it  
+>What happens if I don't like it? I like it  
+>I can't tell you if I like it, I like it  
+>What happens if I don't like it? It's only-
+
+>It's only sex  
+>It's only  
+>It's only sex  
+>C'mon, sexual desire, speak!
+
+>I want to hold you tight  
+>I want to feel your love physically  
+>I want to sleep with you  
+>But only in the literal sense
+
+>I can't tell you if I like it, I like it  
+>What happens if I don't like it? I like you  
+>I can't tell you if I like it, I like it  
+>What happens if I don't like it? It's only-
+
+>I can't tell you if I like it, I like it  
+>What happens if I don't like it? I like it  
+>I can't tell you if I like it, I like it  
+>What happens if I don't like it? It's only-
+
+>It's only sex (it's only sex)  
+>It's only-  
+>It's only sex (no, it's not)  
+>It's only sex  
+>It's only-  
+>It's only sex  
+>It's only sex  
+>It's only-

@@ -20,6 +20,7 @@
   },
   "calendarViewSettings": {
     "defaultView": "dayGridMonth",
+    "customDayCount": 3,
     "slotDuration": "00:30:00",
     "slotMinTime": "00:00:00",
     "slotMaxTime": "24:00:00",
@@ -169,5 +170,6 @@
     "isRunning": false,
     "timeRemaining": 3600
   },
-  "lastPomodoroDate": "2025-07-25"
+  "lastPomodoroDate": "2025-07-27",
+  "hideCompletedFromOverdue": true
 }

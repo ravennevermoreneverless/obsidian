@@ -1,5 +1,5 @@
 status: #child 
-tags: [[music]] [[song]] [[analysis]] [[lyric]]
+tags: [[music]] [[song]] [[analysis]] [[lyrics]] [[universe]] 
 
 ***Indie Folk, Singer-Songwriter***
 *Indie Rock*
@@ -8,8 +8,42 @@ the cosmological principle states that no matter where we look in the universe, 
 
 ---
 
-> And I'm not going to worry
-> Oh when the flame goes out
-> When the oceans pack their things and they leave
-> 'Cause I'm the center of you and you're the center of me
-> I'm the center of you and you're the center of me
+>Well I've got a cosmological principle
+>Which means that I am the attraction for you
+>So why don't you sit down and let me show you the fact of the truth
+>That I want to be somebody you point to
+
+>Well this balloon keeps getting bigger
+>And we will always point to each other
+>Each other
+>(Each other)
+
+>And I'm not going to worry
+>Oh when the flame goes out
+>When the oceans pack their things and they leave
+>'Cause I'm the center of you and you're the center of me
+>I'm the center of you and you're the center of me
+>I'm the center of you and you're the center of me
+>I'm the center of you and you're the center of me
+
+>Well I've got a cosmological principle
+>Which means that I am the attraction for you
+>Well why don't you sit down and I'll tell you the fact of the truth
+>That I want to be something that you point to
+
+>Well this balloon keeps getting bigger
+>(Keeps getting bigger)
+>And we will always point to each other
+>To each other
+
+>==And I'm not going to worry==
+>==When the flame goes out==
+>==When the oceans pack their things and they leave==
+>=='Cause I'm the center of you and you're the center of me==
+>==I'm the center of you and you're the center of me==
+>I'm the center of you and you're the center of me
+>I'm the center of you and you're the center of
+>Me
+
+>Well I've got a cosmological principle
+>Which means that I am the attraction for you

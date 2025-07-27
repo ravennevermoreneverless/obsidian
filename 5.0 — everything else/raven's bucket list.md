@@ -1,50 +1,50 @@
 status: #child 
-tags: [[raven]] [[spreadsheet]] [[3.0 — tags/to-do|to-do]]
+tags: [[raven]] [[3.0 — tags/to-do|to-do]]
 
-- [ ] Ride a horse #bucketlist
-- [ ] Witness a meteor shower #bucketlist 
-- [ ] Witness a solar eclipse #bucketlist 
-- [ ] Witness a lunar eclipse #bucketlist 
-- [ ] Visit Japan #bucketlist 
-- [ ] Tattoos #bucketlist 
-- [x] Smoke a cigarette #bucketlist 
-- [ ] Piercings #bucketlist 
-- [ ] Learn how to play the piano #bucketlist 
-- [ ] Road trip with friends #bucketlist 
-- [ ] Learn morse code #bucketlist 
-- [ ] Bake something #bucketlist 
-- [ ] Visit a beach then build a sand castle #bucketlist 
-- [x] Meet an internet friend  #bucketlist 
-- [ ] Meet a psychic to predict your future #bucketlist 
-- [ ] Drive a motorcycle #bucketlist 
-- [ ] Attend a concert #bucketlist 
-- [ ] Design your own room #bucketlist 
-- [ ] Experience snow #bucketlist 
-- [x] Dye my hair red #bucketlist 
-- [ ] Mini-library #bucketlist 
-- [ ] Visit a ghost town/abandoned places #bucketlist 
-- [ ] Learn how to swim #bucketlist 
-- [ ] Play paintball #bucketlist 
-- [x] Nightwalk #bucketlist 
-- [ ] Learn how to play drums #bucketlist 
-- [x] Watch a live theater play #bucketlist 
-- [x] Perform with a band #bucketlist 
-- [ ] Have a picnic #bucketlist 
-- [ ] Climb a tree #bucketlist 
-- [/] Solve a rubik's cube in under 15 seconds #bucketlist 
-- [ ] Paint a mural #bucketlist 
-- [ ] Learn how to ride a bicycle #bucketlist 
-- [ ] Win something in a claw machine #bucketlist 
-- [ ] Learn martial arts #bucketlist 
-- [ ] Own an electric guitar #bucketlist 
-- [ ] Write a book #bucketlist 
-- [x] Buy tarot card decks #bucketlist 
-- [ ] Collect stones #bucketlist 
-- [ ] Own an exotic pet #bucketlist 
-- [ ] Own a really old book about occult stuff #bucketlist 
-- [/] Become fluent in Japanese #bucketlist 
-- [ ] Have a vinyl record collection #bucketlist 
-- [ ] Have a CD record collection #bucketlist 
-- [/] Own various music players #bucketlist 
-- [ ] Live (and possibly work) in Japan (maybe for a few months) #bucketlist 
-- [ ] Stay at a hotel alone #bucketlist 
+1. Ride a horse
+2. Witness a meteor shower 
+3. Witness a solar eclipse 
+4. Witness a lunar eclipse 
+5. Visit Japan 
+6. Tattoos 
+7. Smoke a cigarette 
+8. Piercings
+9. Learn how to play the piano 
+10. Road trip with friends 
+11. Learn morse code 
+12. Bake something 
+13. Visit a beach then build a sand castle 
+14. Meet an internet friend  
+15. Meet a psychic to predict your future 
+16. Drive a motorcycle 
+17. Attend a concert
+18. Design your own room 
+19. Experience snow 
+20. Dye my hair red
+21. Mini-library 
+22. Visit a ghost town/abandoned places 
+23. Learn how to swim
+24. Play paintball
+25. Nightwalk 
+26. Learn how to play drums
+27. Watch a live theater play
+28. Perform with a band
+29. Have a picnic 
+30. Climb a tree 
+31. Solve a rubik's cube in under 15 seconds 
+32. Paint a mural 
+33. Learn how to ride a bicycle 
+34. Win something in a claw machine 
+35. Learn martial arts 
+36. Own an electric guitar 
+37. Write a book 
+38. Buy tarot card decks
+39. Collect stones 
+40. Own an exotic pet 
+41. Own a really old book about occult stuff 
+42. Become fluent in Japanese 
+43. Have a vinyl record collection 
+44. Have a CD record collection 
+45. Own various music players
+46. Live (and possibly work) in Japan (maybe for a few months) 
+47. Stay at a hotel alone 

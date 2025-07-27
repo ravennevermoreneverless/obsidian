@@ -1,7 +1,7 @@
 status: #baby 
 tags: [[fucked up]] [[films]] [[spreadsheet]] [[tracker]]
 
-1. ***Српски филм [A Serbian Film]*** (2010) dir. Srđan Spasojević — 3/12/2024 — ==**95%**== 
+1. ***Српски филм [A Serbian Film]*** (2010) dir. Srđan Spasojević — 3/12/2024 — ==**95%**==
 2. ***The Human Centipede II (Full Sequence)*** (2011) dir. Tom Six — 3/2/2024 — ==**93%**==
 3. ***Saw 3D*** (2010) dir. Kevin Greutert — 7/9/2024 — ==**76%**==
 4. ***渇き。[The World of Kanako]*** (2014) dir. 中島哲也 [Tetsuya Nakashima] — 7/12/2024 — ==**75%**==

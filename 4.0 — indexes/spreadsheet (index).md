@@ -1,7 +1,3 @@
-### general
-- [[raven's bucket list]] 
-### guide
-- [[tarot card meanings]]
 ### trackers
 - [[a quest of finding the most fucked up film to ever exist]]
 - [[monoquin songs]] 
@@ -23,7 +19,7 @@
 - [[daily notes (2025)]]
 - [[annual cash flow (2025)]]
 - [[the demon (2025)]]
-- [[dailies (2025)]]
+- [[daily notes (2025)]]
 #### 2024
 - [[albums i listened to (2024)]]
 - [[books i read (2024)]]

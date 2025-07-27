@@ -1,5 +1,5 @@
 status: #child 
-tags: [[witchcraft]] [[tarot]] [[spreadsheet 1]] [[guide]] 
+tags: [[witchcraft]] [[tarot]] [[guide]] 
 
 ## MAJOR ARCANA
 #### 0 - The Fool

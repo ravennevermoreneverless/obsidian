@@ -17,7 +17,7 @@ shared on archive account?
 4. ==collection of narrative songs to transport you to a different world== — **duplicated, on spotify profile, listened to, enhanced, RYM, reddit, archive account, tiktok account**
 5. ==in a teen coming-of-age film where the main character's finally ready for the next chapter== — **duplicated, on spotify profile, listened to, enhanced, RYM, reddit, archive account, tiktok account**
 6. ==first 30 seconds mini melodic orgasms== — **duplicated, on spotify profile, listened to, enhanced, RYM, reddit, archive account, tiktok account**
-7. ==cris🅱️y songs== — **duplicated, on spotify profile, listened to**
+7. ==cris🅱️y songs== — **duplicated, on spotify profile, listened to, enhanced**
 8. the morbid, ugly, depressing side of reality — **duplicated, on spotify profile, 7 hours 12 minutes**
 9. i murder you in my sleep sometimes — **duplicated, NOT on spotify profile, 1 hour 37 minutes**
 10. nastiest breakdowns — duplicated, NOT on spotify profile, 2 hours 12 minutes

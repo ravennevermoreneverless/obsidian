@@ -1,5 +1,5 @@
 status: #adult 
-tags: [[music]] [[song]] [[analysis]] [[lyric]]
+tags: [[music]] [[song]] [[analysis]] [[lyrics]] [[heartbreak]] 
 
 ***Indie Rock***
 *Emo-Pop, Pop Punk*
@@ -8,12 +8,73 @@ after some careful observations, i can interpret this song as the guy getting ov
 
 ---
 
-> I walk around like a skeleton last night
-> Confused and alone
-> Who was I kidding? I can't get past you
-> You are the cops, you are my student loans
-> You are a head-shaped hole
-> In a sheet rock wall
-> You are the pain I feel
-> You are the stud in the wall
-> Better than nothing at all
+>I walk around like a skeleton last night
+>Trying to find my way home
+>This white frame, it's all that I've got left
+>'Cause not even you could chew through my bones
+>I've got very strong bones
+
+>==I walk around like a skeleton last night==
+>==Confused and alone==
+>==Who was I kidding? I can't get past you==
+>==You are the cops, you are my student loans==
+>==You are a head-shaped hole==
+>==In a sheet rock wall==
+>==You are the pain I feel==
+>==You are the stud in the wall==
+>==Better than nothing at all==
+
+>And I got so stoned
+>I fell asleep in the front seat
+>I never sleep in the front seat
+>I'm too tall
+>But I got so stoned
+>I fell asleep in the front seat
+>I never sleep in the front seat
+>I'm too tal
+>But I got so stoned
+
+>Come on, baby, calm me down
+>You're the only one who knows how
+
+>Reunited and it feels so good
+>It's so much better than I thought it would
+>'Cause I feel fucked, but in a good way
+>I start to cough, taste the butane
+>And I can tell that he's asking her Yes or No questions
+>By the way she's shaking her head
+>From left to right, then up and down
+>Then left to right again
+
+>I'm gonna go get so stoned
+>I fall asleep in the front seat
+>I never sleep in the front seat
+>I'm too tall
+>But I got so stoned
+>I fell asleep in the front seat
+>I never sleep in the front seat
+>I'm too tall
+>But I got so stoned
+
+>Come on, baby, calm me down
+>You're the only one who knows how
+
+>I got miles to go
+>'Til I ever get home
+>But the sound of your laugh
+>And your voice on the phone
+>Makes me feel like I am already there
+
+>I got so stoned
+>I fell asleep in the front seat
+>I never sleep in the front seat
+>I'm too tall
+>But I got so stoned
+>I fell asleep in the front seat
+>I never sleep in the front seat
+>I'm too tall
+>But I got so stoned
+>I fell asleep in the front seat
+>I never sleep in the front seat
+>I'm too tall
+>But I got so stoned

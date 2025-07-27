@@ -16,4 +16,4 @@
 ### film
 - [[that one film idea (with lou) while manic]]
 ### music
-- [[lyrics]]
+- [[lyrics i thought of randomly]]
