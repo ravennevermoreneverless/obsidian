@@ -1,11 +1,13 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱4,327.00</span>
+## <span style="color:#29A833">₱4,137.00</span>
 
 ## <span style="color:#FFF37B">₱ 0.00</span>
 
 ## <span style="color:#3E9FE1">₱ 100.00</span> - Chai's mom
 
+==July 27== Earphones for Chelsea on TikTok x2 <span style="color:#A41C1D">-₱140</span>
+==July 27== Bought coffee <span style="color:#A41C1D">-₱50</span>
 ==July 26== Paid my loan to mom <span style="color:#A41C1D">-₱1,500</span>
 ==July 26== Mom paid for her loan <span style="color:#29A833">₱5,077.00</span>
 ==July 26== To and From Doña Julia Vargas Technopoint <span style="color:#A41C1D">-₱120</span>
