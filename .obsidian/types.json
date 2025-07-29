@@ -21,6 +21,9 @@
     "bookReading": "text",
     "doArt": "checkbox",
     "songaDaily": "checkbox",
-    "ankiDeck": "checkbox"
+    "ankiDeck": "checkbox",
+    "": "number",
+    "minutes": "text",
+    "seconds": "text"
   }
 }

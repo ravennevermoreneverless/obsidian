@@ -1,4 +1,16 @@
-status: #child 
+---
+playlistNumber: "5"
+playlistName: "{{file.link}}"
+duplicated: "👍🏻"
+onSpotify: "👍🏻"
+listenedTo: "👍🏻"
+enhanced: "👍🏻"
+addedOnRYM: "👍🏻"
+sharedOnReddit: "👍🏻"
+sharedOnMonoquin: "👍🏻"
+---
+
+mstatus: #child 
 tags: [[playlist]] [[music]] [[coming-of-age]] [[teenage]] 
 ![[image — in a teen coming-of-age film where the main character's finally ready for the next chapter.jpg]]
 *she looked back for the last time and took a heavy sigh—she knew it’ll never be the same again.*

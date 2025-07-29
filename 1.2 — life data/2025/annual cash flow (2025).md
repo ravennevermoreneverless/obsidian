@@ -1,11 +1,12 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱2,413.00</span>
+## <span style="color:#29A833">₱2,283.00</span>
 
 ## <span style="color:#FFF37B">₱ 0.00</span>
 
 ## <span style="color:#3E9FE1">₱ 100.00</span> - Chai's mom
 
+==July 29== Paint brush set + lip/nose rings <span style="color:#A41C1D">-₱130</span>
 ==July 29== Nipple Tape (12pcs.) <span style="color:#A41C1D">-₱87</span>
 ==July 29== Load for Chai and I <span style="color:#A41C1D">-₱180</span>
 ==July 29== MitsuAya pin + Bubbline sticker + I <3 YURI sticker + Evangelion NERV pin <span style="color:#A41C1D">-₱255</span>

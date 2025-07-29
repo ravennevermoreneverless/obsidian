@@ -1,0 +1,10 @@
+---
+track:
+songTitle:
+artist: 
+minutes: 
+seconds:
+duplicatedOnPaper: 
+addedOnRYM: 
+sharedOnMonoquin: 
+---

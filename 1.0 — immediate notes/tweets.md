@@ -276,7 +276,7 @@ i love music so much so much i will breathe it in i will swallow it i will engra
 --
 ==i'm not even gonna pretend i know shit i don't know shit unfortunately==
 --
-what's the use of consuming millions of art when you couldn't take away a single thing from all of it?
+==what's the use of consuming millions of art when you couldn't take away a single thing from all of it?==
 --
 i'm living my life now as if nothing more could possibly make me happier than i am today. it will never be perfect—it may be subjected to more suffering or it may have the possibility of significant improvement—but i accept the reality of the present, whatever it may be.
 --

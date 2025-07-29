@@ -1,17 +1,20 @@
 status: #god
 tags: [[ravencore]] [[playlist]] [[tracker]] [[music]] [[spreadsheet]]
 
-track #
-title
-artist 
-hours
-minutes 
-duplicated (on GDocs)? 
-duplicated (on paper)? 
-RYM? 
-shared on archive account?
+```dataview
+TABLE WITHOUT ID 
+track,
+file.link AS title,
+artist,
+minutes, seconds,
+duplicatedOnPaper, addedOnRYM,
+sharedOnMonoquin
+FROM "5.8 — database/the ultimate playlist of my life"
+SORT playlistNumber ASC
+```
 
-1. A Sky Full Of Stars — Coldplay : 4 minutes 28 seconds • **duplicated, on paper, on RYM, NOT shared on archive**
+
+1. ~~A Sky Full Of Stars — Coldplay : 4 minutes 28 seconds • ~~
 2. Open Season — High Highs : 3 minutes 48 seconds • **duplicated, on paper, on RYM, NOT shared on archive**
 3. Final Round — Danny Elfman : 6 minutes 53 seconds • **duplicated, on paper, on RYM, NOT shared on archive**
 4. ==Stay — Zedd, Alessia Cara== : 3 minutes 30 seconds • **duplicated, on paper, on RYM, shared on archive**

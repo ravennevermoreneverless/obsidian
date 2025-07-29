@@ -73,3 +73,5 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 70. ***Sunshine Superman*** (1966) — *Donovan* : 	Psychedelic Folk, Singer-Songwriter, Psychedelic Pop • 7/23/2025
 71. ***Face to Face*** (1966) — *The Kinks* : Pop Rock • 7/24/2025
 72. ***Try Too Hard*** (1966) — *The Dave Clark Five* : Beat, Pop Rock
+73. ***Rubber Soul*** (1965) — *The Beatles* : Pop Rock
+74. **Aftermath** (1966) — *The Rolling Stones* : Blues Rock

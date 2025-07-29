@@ -1,7 +1,6 @@
 ### trackers
 - [[a quest of finding the most fucked up film to ever exist]]
 - [[monoquin songs]] 
-- [[other people's playlists]] 
 - [[all of my playlists]] 
 - [[songs to cover or record]] 
 - [[the ultimate playlist of my life]] 

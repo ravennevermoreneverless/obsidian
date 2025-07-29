@@ -1297,8 +1297,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1267. World Lampshade — Ryo-kun : July 26, 2025
 1268. Affection — Scruffpuppie : July 27, 2025
 1269. Contact — Daft Punk : July 28, 2025
-
-1270 ν July 29, 2025
+1270. Alive — Pearl Jam : July 29, 2025
 
 1271 ν July 30, 2025
 

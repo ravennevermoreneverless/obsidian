@@ -8,7 +8,7 @@ projects:
   - "[[old journal entries (make album for all creative journal pages - INCLUDE ALL PAGES)]]"
 timeEstimate: 720
 dateCreated: 2025-07-21T23:40:13.359+08:00
-dateModified: 2025-07-28T14:48:09.641+08:00
+dateModified: 2025-07-30T01:26:39.911+08:00
 tags:
   - journal
   - task
@@ -35,6 +35,7 @@ complete_instances:
   - 2025-07-24
   - 2025-07-25
   - 2025-07-26
+  - 2025-07-30
 ---
 
 the second black one

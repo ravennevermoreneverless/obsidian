@@ -7,11 +7,12 @@ contexts:
   - study
 timeEstimate: 560
 dateCreated: 2025-07-22T10:44:01.186+08:00
-dateModified: 2025-07-28T08:23:51.288+08:00
+dateModified: 2025-07-29T22:51:34.098+08:00
 tags:
   - accounting
   - study
   - task
+  - archived
 projects: []
 recurrence: FREQ=WEEKLY;BYDAY=MO,TU,TH,FR
 timeEntries:
