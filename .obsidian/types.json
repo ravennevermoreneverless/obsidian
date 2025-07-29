@@ -10,8 +10,17 @@
     "dateWatched": "date",
     "fuckedUoMeter": "number",
     "fuckedUpMeter": "number",
-    "meds": "text",
+    "meds": "checkbox",
     "transactionHistory": "number",
-    "timeEntries": "text"
+    "timeEntries": "text",
+    "aripiprazole": "checkbox",
+    "monoquinPost": "text",
+    "calisthenics": "text",
+    "journaling": "checkbox",
+    "monoquinEdit": "checkbox",
+    "bookReading": "text",
+    "doArt": "checkbox",
+    "songaDaily": "checkbox",
+    "ankiDeck": "checkbox"
   }
 }

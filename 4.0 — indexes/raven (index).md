@@ -26,8 +26,6 @@
 - [[daily notes (2024)]]
 #### 2025
 
-- [[dailies (2025)]]
-
 - [[albums i listened to (2025)]]
 - [[books i read (2025)]]
 - [[films i watched (2025)]]
@@ -38,6 +36,6 @@
 - [[daily notes (2025)]]
 - [[the demon (2025)]] 
 - [[daily notes (2025)]]
-- [[habits (2025)]]
+- [[daily tracker (2025)]]
 ### to-do
 - [[raven's bucket list]] 

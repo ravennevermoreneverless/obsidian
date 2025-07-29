@@ -1,5 +1,6 @@
-### habits
-- [[habits (2025)]]
+### daily tracker
+- [[daily tracker (2025)]]
+- 
 ### expenses
 - [[annual cash flow (2024)]]
 - [[annual cash flow (2025)]]

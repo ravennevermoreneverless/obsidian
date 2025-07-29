@@ -53,6 +53,9 @@
       },
       "heatmap-calendar": {
         "startupType": "instant"
+      },
+      "calculite": {
+        "startupType": "instant"
       }
     }
   }

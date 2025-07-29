@@ -390,3 +390,5 @@ tags: [[raven]] [[spreadsheet]] [[daily notes]]
 respond but I did eventually. But I played ROBLOX mostly with Chai in the daylight, and did chores. I did laundry on my own today and cooked dinner. Chai and I had a small disagreement in the shower and I went out with both of us silent. We made up when we were cleaning the room and changing sheets. I was rejected by Cyberbacker and I'm planning to schedule an appointment to NCMH for an autism diagnosis. 
 
 ==28 - 22:15== Chai and I confessed to each other how we had no clue where this was going, especially our future. I cried, of course. But we had a talk on Messenger, and that's that. We went on with our lives.
+
+==29 - 21:39== Chai and I went to Cubao for her job interview but we ended up not going because we didn't make it on time. We, instead, roamed around Cubao and ate McDonald's. We bought yuri stickers and pins. I changed my bag back to my messenger bag.

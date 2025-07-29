@@ -7,7 +7,7 @@ genre: Crime, Horror, Mystery
 year: "2010"
 cast: Tobin Bell, Costas Mandylor, Betsy Russell
 director: Kevin Greutert
-fuckedUpMeter: "76"
+fuckedUpMeter: 76
 ---
 
 

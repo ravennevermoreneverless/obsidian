@@ -10,7 +10,7 @@
 - [[songs. the complete list]]
 ### yearly log
 #### 2025
-- [[dailies (2025)]]
+- [[daily tracker (2025)]]
 
 - [[albums i listened to (2025)]]
 - [[books i read (2025)]]

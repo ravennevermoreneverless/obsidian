@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2a08445f8417066",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-agenda-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "f44dd23f5b96b547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1 — flash notes/art journey.md",
+                "file": "1.2 — life data/2025/annual cash flow (2025).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "art journey"
+              "title": "annual cash flow (2025)"
             }
           },
           {
@@ -66,31 +56,26 @@
             }
           },
           {
-            "id": "d5eaebcfb2857a3d",
+            "id": "f8ba4f6e632ac106",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 — immediate notes/migrate to dataview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "tasknotes-task-list-view",
+              "state": {},
+              "icon": "check-square",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "ace8cb454ae847f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "migrate to dataview"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +166,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.0 — immediate notes/migrate to dataview.md",
+            "file": "1.2 — life data/2025/annual cash flow (2025).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -3911,8 +3896,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -5231,8 +5216,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -5251,6 +5236,56 @@
           },
           "icon": "lucide-calculator",
           "title": "Calculite"
+        }
+      },
+      {
+        "id": "80e3cc7c7cd6c835",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "61c82206caa736e3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e18fdfe3f8bb30eb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1bcc20f9623ceca6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7f411fc488fa52ec",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
         }
       }
     ],
@@ -5276,42 +5311,43 @@
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
       "tasknotes:Create new task": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "calculite:Show calculator": false
+      "calculite:Show calculator": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "91c231c3a45d3b13",
+  "active": "f44dd23f5b96b547",
   "lastOpenFiles": [
+    "0.1 — flash notes/art journey.md",
     "4.0 — indexes/spreadsheet (index).md",
+    "6.0 — all tasks/prepare (and scan some) all sketchbooks and drawings ever.md",
+    "6.0 — all tasks/buy groceries.md",
+    "0.1 — flash notes/7-29.md",
+    "6.0 — all tasks/go back to QC at Chai's.md",
+    "1.0 — immediate notes/migrate to dataview.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "1.2 — life data/2025/daily tracker (2025).md",
+    "1.0 — immediate notes/actual templates/day template.md",
+    "5.8 — database/dailies/2025-07-29.md",
+    "4.0 — indexes/daily notes (index).md",
+    "4.0 — indexes/raven (index).md",
+    "4.0 — indexes/tracker (index).md",
+    "1.0 — immediate notes/habits (2025).md",
+    "1.2 — life data/2025/dailies (2025).md",
+    "1.0 — immediate notes/Untitled.md",
+    "5.0 — everything else/a quest of finding the most fucked up film to ever exist.md",
+    "1.2 — life data/2025/habits (2025).md",
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "1.0 — immediate notes/lgbt films.md",
+    "5.8 — database/dailies/Portrait of a Lady on Fire (2019) dir. Céline Sciamma.md",
+    "5.8 — database/a quest of finding the most fucked up film to ever exist/Српски филм [A Serbian Film] (2010) dir. Srdjan Spasojevic.md",
+    "5.8 — database/a quest of finding the most fucked up film to ever exist/I Spit on Your Grave (2010) dir. Steven R. Monroe.md",
+    "5.8 — database/a quest of finding the most fucked up film to ever exist/Saw 3D (2010) dir. Kevin Greutert.md",
     "5.8 — database/transactions/2025-07-29.md",
     "5.8 — database/transactions/transactionhistory2025.journal",
     "5.8 — database/transactions/2025.journal",
     "5.8 — database/transactions",
     "5.8 — database/ledger.ledger",
-    "1.0 — immediate notes/migrate to dataview.md",
-    "5.8 — database/ledger.md",
     "5.8 — database/ledger",
-    "1.0 — immediate notes/file cooker.md",
-    "5.8 — database/dailies/2025-07-30.md",
-    "1.2 — life data/2025/dailies (2025).md",
-    "1.0 — immediate notes/actual templates/day template.md",
-    "1.0 — immediate notes/Untitled 5.md",
-    "5.8 — database/dailies/2025-07-29.md",
-    "1.0 — immediate notes/Untitled 4.md",
-    "1.0 — immediate notes/Untitled 3.md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
-    "0.1 — flash notes/art journey.md",
-    "0.1 — flash notes/new obsidian system.md",
-    "5.0 — everything else/a quest of finding the most fucked up film to ever exist.md",
-    "4.0 — indexes/raven (index).md",
-    "1.0 — immediate notes/daily.md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "1.0 — immediate notes/Untitled 2.md",
-    "1.2 — life data/2025/the demon (2025).md",
-    "5.8 — database/dailies/2025-07-33.md",
-    "1.0 — immediate notes/Untitled 1.md",
-    "5.8 — database/dailies/2025-07-32.md",
-    "5.8 — database/dailies/2025-07-31.md",
     "5.8 — database/dailies",
     "movie.js",
     "5.8 — database/a quest of finding the most fucked up film to ever exist",

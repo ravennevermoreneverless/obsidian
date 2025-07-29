@@ -7,7 +7,7 @@ genre: Horror, Mystery, Thriller
 year: "2010"
 cast: Srdjan 'Zika' Todorovic, Sergej Trifunovic, Jelena Gavrilovic
 director: Srdjan Spasojevic
-fuckedUpMeter: "95"
+fuckedUpMeter: 95
 ---
 
 
