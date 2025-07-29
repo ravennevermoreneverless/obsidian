@@ -11,11 +11,12 @@
   "taskCreationDefaults": {
     "defaultContexts": "",
     "defaultTags": "",
+    "defaultProjects": "",
     "defaultTimeEstimate": 0,
     "defaultRecurrence": "none",
     "defaultDueDate": "none",
     "defaultScheduledDate": "today",
-    "bodyTemplate": "1.0 — immediate notes/templates/task-template.md",
+    "bodyTemplate": "",
     "useBodyTemplate": false
   },
   "calendarViewSettings": {
@@ -25,26 +26,26 @@
     "slotMinTime": "00:00:00",
     "slotMaxTime": "24:00:00",
     "scrollTime": "08:00:00",
-    "firstDay": 0,
+    "firstDay": 1,
     "timeFormat": "24",
     "showWeekends": true,
     "defaultShowScheduled": true,
     "defaultShowDue": true,
     "defaultShowDueWhenScheduled": true,
-    "defaultShowTimeEntries": true,
+    "defaultShowTimeEntries": false,
     "defaultShowRecurring": true,
     "defaultShowICSEvents": true,
-    "enableTimeblocking": true,
+    "enableTimeblocking": false,
     "defaultShowTimeblocks": true,
     "nowIndicator": true,
     "selectMirror": true,
-    "weekNumbers": true,
+    "weekNumbers": false,
     "showTodayHighlight": true
   },
-  "pomodoroWorkDuration": 60,
-  "pomodoroShortBreakDuration": 10,
-  "pomodoroLongBreakDuration": 20,
-  "pomodoroLongBreakInterval": 3,
+  "pomodoroWorkDuration": 25,
+  "pomodoroShortBreakDuration": 5,
+  "pomodoroLongBreakDuration": 15,
+  "pomodoroLongBreakInterval": 4,
   "pomodoroAutoStartBreaks": true,
   "pomodoroAutoStartWork": false,
   "pomodoroNotifications": true,
@@ -83,7 +84,7 @@
       "id": "none",
       "value": "none",
       "label": "None",
-      "color": "#cccccc",
+      "color": "#ffffff",
       "isCompleted": false,
       "order": 0
     },
@@ -91,7 +92,7 @@
       "id": "open",
       "value": "open",
       "label": "Open",
-      "color": "#808080",
+      "color": "#65e651",
       "isCompleted": false,
       "order": 1
     },
@@ -99,7 +100,7 @@
       "id": "in-progress",
       "value": "in-progress",
       "label": "In progress",
-      "color": "#0066cc",
+      "color": "#0056d6",
       "isCompleted": false,
       "order": 2
     },
@@ -107,7 +108,7 @@
       "id": "done",
       "value": "done",
       "label": "Done",
-      "color": "#00aa00",
+      "color": "#cd2727",
       "isCompleted": true,
       "order": 3
     }
@@ -143,18 +144,40 @@
     }
   ],
   "recurrenceMigrated": true,
-  "showTrackedTasksInStatusBar": true,
+  "showTrackedTasksInStatusBar": false,
   "autoStopTimeTrackingOnComplete": true,
   "autoStopTimeTrackingNotification": false,
   "showProjectSubtasks": true,
+  "hideCompletedFromOverdue": true,
   "icsIntegration": {
     "defaultNoteTemplate": "",
     "defaultNoteFolder": ""
   },
   "savedViews": [
     {
-      "id": "mdj0u2j0pexm6gdsv",
-      "name": "normal ",
+      "id": "mdmbsgb2brchngmm6",
+      "name": "recurrent ",
+      "query": {
+        "type": "group",
+        "id": "filter_1753112630172_13",
+        "conjunction": "and",
+        "children": [
+          {
+            "type": "condition",
+            "id": "filter_1753659736913_5",
+            "property": "recurrence",
+            "operator": "is-not-empty",
+            "value": null
+          }
+        ],
+        "sortKey": "due",
+        "sortDirection": "asc",
+        "groupKey": "priority"
+      }
+    },
+    {
+      "id": "mdmbsvnqboilis4jq",
+      "name": "normal",
       "query": {
         "type": "group",
         "id": "filter_1753112630172_13",
@@ -168,8 +191,7 @@
   ],
   "pomodoroState": {
     "isRunning": false,
-    "timeRemaining": 3600
+    "timeRemaining": 1500
   },
-  "lastPomodoroDate": "2025-07-27",
-  "hideCompletedFromOverdue": true
+  "lastPomodoroDate": "2025-07-29"
 }

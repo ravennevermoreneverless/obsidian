@@ -44,6 +44,15 @@
       },
       "obsidian-file-cooker": {
         "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "quickadd": {
+        "startupType": "instant"
+      },
+      "heatmap-calendar": {
+        "startupType": "instant"
       }
     }
   }

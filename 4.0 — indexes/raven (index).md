@@ -25,6 +25,9 @@
 - [[annual cash flow (2024)]]
 - [[daily notes (2024)]]
 #### 2025
+
+- [[dailies (2025)]]
+
 - [[albums i listened to (2025)]]
 - [[books i read (2025)]]
 - [[films i watched (2025)]]

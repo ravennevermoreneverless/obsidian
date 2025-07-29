@@ -5,6 +5,13 @@
     "tags": "tags",
     "autoscroll-speed": "number",
     "scheduledDate": "date",
-    "dueDate": "datetime"
+    "dueDate": "datetime",
+    "yearWatched": "number",
+    "dateWatched": "date",
+    "fuckedUoMeter": "number",
+    "fuckedUpMeter": "number",
+    "meds": "text",
+    "transactionHistory": "number",
+    "timeEntries": "text"
   }
 }

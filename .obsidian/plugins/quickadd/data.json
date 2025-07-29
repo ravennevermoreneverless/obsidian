@@ -1,0 +1,181 @@
+{
+  "choices": [
+    {
+      "id": "ef7dcd68-342d-4cca-ae43-786abb8e6611",
+      "name": "add movie",
+      "type": "Macro",
+      "command": true,
+      "macroId": "d67dc21a-5c93-46a4-948f-f35cab2266cd"
+    },
+    {
+      "id": "d9f0c6a5-c46b-48cc-8f82-575e83b7b55e",
+      "name": "add daily",
+      "type": "Macro",
+      "command": true,
+      "macroId": "e2561187-a30c-411c-8f88-6cac6f79f625"
+    }
+  ],
+  "macros": [
+    {
+      "name": "lookup movie",
+      "id": "d67dc21a-5c93-46a4-948f-f35cab2266cd",
+      "commands": [
+        {
+          "name": "movie",
+          "type": "UserScript",
+          "id": "097bb922-f9db-461f-a260-4e7a7cc1470f",
+          "path": "movie.js",
+          "settings": {
+            "OMDb API Key": "2310021f"
+          }
+        },
+        {
+          "name": "movie template",
+          "type": "NestedChoice",
+          "id": "80b32a3e-2abf-4c4e-bf87-cf5813eb07e4",
+          "choice": {
+            "id": "9cd35e61-e624-43d9-8937-4d8a2dd352ad",
+            "name": "movie template",
+            "type": "Template",
+            "command": false,
+            "templatePath": "1.0 — immediate notes/actual templates/new movie template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:filmName}} ({{VALUE:Year}}) dir. {{VALUE:Director}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": true,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "dailynote",
+      "id": "e2561187-a30c-411c-8f88-6cac6f79f625",
+      "commands": [
+        {
+          "name": "add daily ",
+          "type": "NestedChoice",
+          "id": "93d89b94-4930-459d-b3aa-64e7a8ddf92e",
+          "choice": {
+            "id": "e6637902-1b06-4f10-89b2-93eb68e7abb1",
+            "name": "add daily ",
+            "type": "Template",
+            "command": false,
+            "templatePath": "1.0 — immediate notes/actual templates/day template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "5.8 — database/dailies"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.18.1",
+  "disableOnlineFeatures": true,
+  "enableRibbonIcon": false,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  }
+}

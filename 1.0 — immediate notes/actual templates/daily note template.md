@@ -1,3 +1,5 @@
 ---
-dateCreated: "{{date}}"
+dateCreated: "{{date}} {{time}}"
+tags: 
+category:
 ---

@@ -3,6 +3,10 @@
   "lazy-plugins",
   "custom-font-loader",
   "obsidian-habit-tracker",
+  "obsidian-file-cooker",
   "tasknotes",
-  "obsidian-file-cooker"
+  "dataview",
+  "quickadd",
+  "heatmap-calendar",
+  "calculite"
 ]

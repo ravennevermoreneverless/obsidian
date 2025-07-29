@@ -8,12 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06c26fda2a11ea61",
+            "id": "b2a08445f8417066",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-agenda-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f44dd23f5b96b547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 — source materials/wiki/Rock music (WIKI).md",
+                "file": "0.1 — flash notes/art journey.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +38,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rock music (WIKI)"
+              "title": "art journey"
             }
           },
           {
-            "id": "cdab8ff27d2b9eb3",
+            "id": "c18f98880febf5c4",
             "type": "leaf",
             "state": {
-              "type": "tasknotes-agenda-view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Agenda"
+              "type": "markdown",
+              "state": {
+                "file": "4.0 — indexes/spreadsheet (index).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "spreadsheet (index)"
+            }
+          },
+          {
+            "id": "d5eaebcfb2857a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/migrate to dataview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "migrate to dataview"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,6 +181,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "1.0 — immediate notes/migrate to dataview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -3862,8 +3911,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
         }
       },
       {
@@ -4932,8 +4981,276 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "10e3bb1f0ac0b1d3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "d172d93a6db58891",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "465555f3b4c8c758",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6cde5805c07ac03c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4aecbc89a8665521",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4307627c6f3f7f7d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "48754fde7f85c35f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "bbead20386a3898e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5ff19e68290c992a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5d00ef199cdb0970",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8ba8242e04699609",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ec121f3595add2b5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "033b6e2359629857",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4635839bfd733de7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6cec335e44924b66",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "dea462b2966ef605",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6068dcf3350beb9c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "bb3366deda7322f7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c7c1ce2121760d4b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ae4bd902ce604af9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a96cf61c445af1b1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "86ae9d036491d47a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0b4b6922bc46dbe2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "cbc35fb0d13af7ea",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "796ab629f34f7c8b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
+        }
+      },
+      {
+        "id": "0aea8e0d17098ef8",
+        "type": "leaf",
+        "state": {
+          "type": "calculite",
+          "state": {
+            "previousResult": null,
+            "previousOperator": null,
+            "previousInput": null,
+            "currentResult": null,
+            "currentOperator": null,
+            "currentInput": null,
+            "currentError": null
+          },
+          "icon": "lucide-calculator",
+          "title": "Calculite"
         }
       }
     ],
@@ -4946,9 +5263,10 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian42-brat:BRAT": false,
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian42-brat:BRAT": false,
       "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
       "tasknotes:Open task list": false,
@@ -4958,38 +5276,46 @@
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
       "tasknotes:Create new task": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "calculite:Show calculator": false
     }
   },
-  "active": "cdab8ff27d2b9eb3",
+  "active": "91c231c3a45d3b13",
   "lastOpenFiles": [
-    "2.0 — source materials/wiki/Rock music (WIKI).md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "1.2 — life data/2025/the demon (2025).md",
-    "1.2 — life data/2025/habits (2025).md",
-    "1.2 — life data/2025/annual cash flow (2025).md",
-    "5.0 — everything else/a quest of finding the most fucked up film to ever exist.md",
     "4.0 — indexes/spreadsheet (index).md",
-    "5.0 — everything else/tarot card meanings.md",
-    "5.0 — everything else/raven's bucket list.md",
-    "4.0 — indexes/tracker (index).md",
-    "3.0 — tags/tracker.md",
-    "3.0 — tags/spreadsheet.md",
-    "5.0 — everything else/all of my playlists.md",
-    "1.0 — immediate notes/Untitled.md",
-    "5.0 — everything else/Lonely Eyes — The Front Bottoms.md",
-    "5.0 — everything else/songs. the complete list.md",
-    "5.0 — everything else/No Children — The Mountain Goats.md",
-    "5.0 — everything else/Father — The Front Bottoms.md",
-    "5.0 — everything else/Sex - EP Version — The 1975.md",
-    "5.0 — everything else/Size of the Moon — Pinegrove.md",
-    "5.0 — everything else/Skeleton — The Front Bottoms.md",
-    "5.0 — everything else/Cosmological Principle — Zach Mccoy.md",
-    "5.0 — everything else/Frou-frou Foxes in Midsummer Fires — Cocteau Twins.md",
-    "5.0 — everything else/It's Only Sex — Car Seat Headrest.md",
-    "5.0 — everything else/Black Sheep (Brie Larson Vocal Version) — Metric.md",
-    "4.0 — indexes/lyrics (index).md",
+    "5.8 — database/transactions/2025-07-29.md",
+    "5.8 — database/transactions/transactionhistory2025.journal",
+    "5.8 — database/transactions/2025.journal",
+    "5.8 — database/transactions",
+    "5.8 — database/ledger.ledger",
+    "1.0 — immediate notes/migrate to dataview.md",
+    "5.8 — database/ledger.md",
+    "5.8 — database/ledger",
+    "1.0 — immediate notes/file cooker.md",
+    "5.8 — database/dailies/2025-07-30.md",
+    "1.2 — life data/2025/dailies (2025).md",
+    "1.0 — immediate notes/actual templates/day template.md",
+    "1.0 — immediate notes/Untitled 5.md",
+    "5.8 — database/dailies/2025-07-29.md",
+    "1.0 — immediate notes/Untitled 4.md",
+    "1.0 — immediate notes/Untitled 3.md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "0.1 — flash notes/art journey.md",
+    "0.1 — flash notes/new obsidian system.md",
+    "5.0 — everything else/a quest of finding the most fucked up film to ever exist.md",
+    "4.0 — indexes/raven (index).md",
+    "1.0 — immediate notes/daily.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "1.0 — immediate notes/Untitled 2.md",
+    "1.2 — life data/2025/the demon (2025).md",
+    "5.8 — database/dailies/2025-07-33.md",
+    "1.0 — immediate notes/Untitled 1.md",
+    "5.8 — database/dailies/2025-07-32.md",
+    "5.8 — database/dailies/2025-07-31.md",
+    "5.8 — database/dailies",
+    "movie.js",
+    "5.8 — database/a quest of finding the most fucked up film to ever exist",
+    "5.8 — database",
     "5.1 — images stockpile/notes/2018/2018 — notes 7.1.jpg",
     "5.1 — images stockpile/notes/2018/2018 — notes 7.jpg",
     "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 48.jpg",
@@ -5000,15 +5326,6 @@
     "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 46.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 12.jpg",
     "5.1 — images stockpile/art/2018/2018 — sketch 11.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)",
-    "6.0 — all tasks/Tasks",
-    "6.0 — all tasks",
-    "6.0 — all tasks/projects",
-    "6.0 — all tasks/tasks",
-    "6.0 — all tasks",
-    "JetBrainsMono-Medium.ttf",
-    "2.2 — creative projects/raven's brain/speech",
-    "video-output-75560A08-70A7-4CD4-8436-C8C1E5F7BA07.mov",
-    "5.1 — images stockpile/others"
+    "5.1 — images stockpile/journals/2nd journal (2018)"
   ]
 }

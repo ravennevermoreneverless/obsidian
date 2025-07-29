@@ -1,0 +1,44 @@
+---
+dateCreated: "{{date}}"
+timeEntries: "{{time}}"
+DaySummary: 
+transactionSummary: 
+transactionHistory: 
+moods: 
+meds: fluoxetine, aripiprazole
+habits:
+---
+## legend
+talkative
+flight of ideas
+distractibility
+sleep problems
+grandiosity
+racing thoughts
+high anxiety
+headaches
+over-optimisim
+delusions
+hyperactivity
+anhedonia
+brain fog
+understimulated
+low self-esteem
+loss or increase of appetite
+inability to concentrate
+indecisiveness
+negativity
+suicidal thoughts
+sadness/despair
+hopelessness/helplessness
+social withdrawal
+self-loathing
+guilt/self-blame
+emptiness
+loneliness
+irritability
+agitated
+aggressive impulses
+psychosis
+depersonalization/derealization
+restlessness

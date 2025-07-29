@@ -424,4 +424,6 @@ tags: [[chai]] [[relationship]] [[love]] [[yea]]
 
 - ayaw nya ng chippy, doritos, tostillas, snacku, at mr. chips (mga nachos na chips)
 
-- she loves waffle time especially hotdogs and pineapple pleasured 
+- she loves waffle time especially hotdogs and pineapple pleasured
+ 
+- she doesn't like pares
