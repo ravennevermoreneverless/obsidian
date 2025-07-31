@@ -193,5 +193,21 @@
     "isRunning": false,
     "timeRemaining": 1500
   },
-  "lastPomodoroDate": "2025-07-30"
+  "lastPomodoroDate": "2025-07-30",
+  "pomodoroHistory": [
+    {
+      "id": "1753856584085",
+      "startTime": "2025-07-30T14:23:04.084+08:00",
+      "endTime": "2025-07-30T15:10:41.696+08:00",
+      "plannedDuration": 60,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2025-07-30T14:23:04.084+08:00",
+          "endTime": "2025-07-30T15:10:41.697+08:00"
+        }
+      ]
+    }
+  ]
 }

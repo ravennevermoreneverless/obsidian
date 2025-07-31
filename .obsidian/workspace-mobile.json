@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa42725d5d304cdd",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-agenda-view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Agenda"
-            }
-          },
-          {
             "id": "dc6f9283c8cf4397",
             "type": "leaf",
             "state": {
@@ -42,19 +32,65 @@
             }
           },
           {
-            "id": "81eadf854a097dfe",
+            "id": "debf63d27b932ba8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5.1 — images stockpile/playlists/image — marceline abadeer would probably like these songs.png"
+                "file": "1.2 — life data/2025/daily tracker (2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "image — marceline abadeer would probably like these songs"
+              "icon": "lucide-file",
+              "title": "daily tracker (2025)"
+            }
+          },
+          {
+            "id": "2cf7210a88c0489d",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-agenda-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2299b05023dee02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/file cooker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "file cooker"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +181,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5.1 — images stockpile/playlists/image — marceline abadeer would probably like these songs.png",
+            "file": "1.0 — immediate notes/2018 — sketch 19.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -5313,6 +5349,106 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0b281d8350552153",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "57782dd9a6c13a66",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "dd4b290352692504",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "d4d7cab2782e77f6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "caef70af0beb6ca0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ab1bba94f0cdb5f0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "001b323d7c535cfa",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ca2818fd8f8c565b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "413101982a5c7c62",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ca2ea533eaa21de0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -5344,20 +5480,30 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "81eadf854a097dfe",
+  "active": "2299b05023dee02a",
   "lastOpenFiles": [
-    "1.0 — immediate notes/file cooker.md",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 98.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 100.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 112.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 113.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 115.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 81.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 62.jpg",
-    "5.1 — images stockpile/art/2018/2018 — sketch 15.jpg",
+    "1.0 — immediate notes/favorites rating system.md",
+    "5.1 — images stockpile/art/2018/2018 — sketch 19.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 20.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 18.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 22.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 21.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 17.jpg",
+    "5.1 — images stockpile/art/2018/2018 — sketch 16.jpg",
+    "5.1 — images stockpile/notes/2018/2018 — notes 12.jpg",
+    "5.1 — images stockpile/notes/2018/2018 — notes 11.4.jpg",
+    "5.1 — images stockpile/notes/2018/2018 — notes 11.3.jpg",
+    "1.0 — immediate notes/Untitled.md",
+    "1.0 — immediate notes/gdrive distribution.md",
     "5.0 — everything else/the ultimate playlist of my life.md",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 118.jpg",
-    "5.1 — images stockpile/journals/2nd journal (2018)/journal 2 — page 117.jpg",
+    "1.2 — life data/2025/daily tracker (2025).md",
+    "6.0 — all tasks/monthly playlist (listen, last.fm, youtube,IG story,ultimate playlist book).md",
+    "1.2 — life data/2025/media/films i watched (2025).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-07-30.md",
+    "5.0 — everything else/monoquin songs.md",
+    "6.0 — all tasks/buy groceries.md",
+    "1.0 — immediate notes/file cooker.md",
     "6.0 — all tasks/convert md spreadsheet to dataview.md",
     "5.8 — database/the ultimate playlist of my life/A Sky Full of Stars.md",
     "1.0 — immediate notes/actual templates/ultimate playlist template.md",
@@ -5370,18 +5516,9 @@
     "1.2 — life data/2025/media/albums i listened to (2025).md",
     "1.0 — immediate notes/actual templates/playlist template.md",
     "1.2 — life data/playlists/marceline abadeer would probably like these songs.md",
-    "1.2 — life data/2025/daily tracker (2025).md",
     "5.8 — database/dailies/2025-07-29.md",
     "6.0 — all tasks/read crescendo.md",
     "5.0 — everything else/all of my playlists.md",
-    "1.2 — life data/playlists/cris🅱️y songs.md",
-    "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
-    "1.2 — life data/playlists/in a teen coming-of-age film where the main character's finally ready for the next chapter.md",
-    "1.2 — life data/playlists/a collection of narrative songs to transport you to a different world.md",
-    "1.2 — life data/playlists/sounds pretty gay but okay.md",
-    "1.2 — life data/playlists/scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit.md",
-    "5.0 — everything else/a quest of finding the most fucked up film to ever exist.md",
-    "5.8 — database/a quest of finding the most fucked up film to ever exist/Texas Chainsaw (2013) dir. John Luessenhop.md",
     "Untitled",
     "5.8 — database/transactions/transactionhistory2025.journal",
     "5.8 — database/transactions/2025.journal",

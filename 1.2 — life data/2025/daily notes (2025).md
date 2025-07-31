@@ -392,3 +392,5 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==28 - 22:15== Chai and I confessed to each other how we had no clue where this was going, especially our future. I cried, of course. But we had a talk on Messenger, and that's that. We went on with our lives.
 
 ==29 - 21:39== Chai and I went to Cubao for her job interview but we ended up not going because we didn't make it on time. We, instead, roamed around Cubao and ate McDonald's. We bought yuri stickers and pins. I changed my bag back to my messenger bag.
+
+==30 - 20:43== Chai and I watched 3 films today, all of them horror. I'm continuing my journey to doing paid survey side hustles as well as applying to more jobs. 

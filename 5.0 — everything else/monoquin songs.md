@@ -1298,8 +1298,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1268. Affection — Scruffpuppie : July 27, 2025
 1269. Contact — Daft Punk : July 28, 2025
 1270. Alive — Pearl Jam : July 29, 2025
-
-1271 ν July 30, 2025
+1271. Look At Me! — XXXTENTACION : July 30, 2025
 
 1272 ν July 31, 2025
 
