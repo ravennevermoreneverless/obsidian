@@ -272,7 +272,7 @@ my art style is whatever the fuck happens when i make art
 --
 i subject myself to infinite digital consumerism and media consumption
 --
-i love music so much so much i will breathe it in i will swallow it i will engrave it everywhere on my skin i will ingest it in my heart and brain i will pump it in my blood i will give birth to it i will intertwine it with my soul i will transcend alongside it
+==i love music so much so much i will breathe it in i will swallow it i will engrave it everywhere on my skin i will ingest it in my heart and brain i will pump it in my blood i will give birth to it i will intertwine it with my soul i will transcend alongside it==
 --
 ==i'm not even gonna pretend i know shit i don't know shit unfortunately==
 --
@@ -301,7 +301,7 @@ i don't like just trusting that my brain can hold being on autopilot for so long
 
 i don't want to dread work IT JUST CREATES A FEEDBACK LOOP WHICH CAUSES MORE WORK AVOIDANCE AND IN THE END I'LL LOSE MY JOB !!!!!!!!
 --
-was showing my mom some (family-friendly) journal spreads and accidentally flipped to the page where i drew the decapitation/rape scene from a serbian film
+==was showing my mom some (family-friendly) journal spreads and accidentally flipped to the page where i drew the decapitation/rape scene from a serbian film==
 --
 everything about me would honestly just make sense if i was to be diagnosed with mild autism
 --

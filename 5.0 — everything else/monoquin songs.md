@@ -1299,16 +1299,11 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1269. Contact — Daft Punk : July 28, 2025
 1270. Alive — Pearl Jam : July 29, 2025
 1271. Look At Me! — XXXTENTACION : July 30, 2025
-
-1272 ν July 31, 2025
-
-1273 ν August 1, 2025
-
-1274 ν August 2, 2025
-
-1275 ν August 3, 2025
-
-1276 ν August 4, 2025
+1272. Bon Appetit — moumoon : July 31, 2025
+1273. drivers license — Olivia Rodrigo : August 1, 2025
+1274. Angels of Porn II — Nicole Dollanganger : August 2, 2025
+1275. Sorry, I'm a human like trash — takayan : August 3, 2025
+1276. Perfect — Capoxxo, oaf1, dreamcache : August 4, 2025
 
 1277 ν August 5, 2025
 

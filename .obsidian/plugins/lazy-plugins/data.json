@@ -2,8 +2,8 @@
   "dualConfigs": false,
   "showConsoleLog": false,
   "desktop": {
-    "shortDelaySeconds": 5,
-    "longDelaySeconds": 10,
+    "shortDelaySeconds": 3,
+    "longDelaySeconds": 15,
     "delayBetweenPlugins": 40,
     "defaultStartupType": null,
     "showDescriptions": true,
@@ -19,7 +19,7 @@
         "startupType": "short"
       },
       "remember-cursor-position": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-spaced-repetition": {
         "startupType": "long"
@@ -43,18 +43,21 @@
         "startupType": "instant"
       },
       "obsidian-file-cooker": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "dataview": {
         "startupType": "instant"
       },
       "quickadd": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "heatmap-calendar": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "calculite": {
+        "startupType": "instant"
+      },
+      "obsidian-rewarder": {
         "startupType": "instant"
       }
     }

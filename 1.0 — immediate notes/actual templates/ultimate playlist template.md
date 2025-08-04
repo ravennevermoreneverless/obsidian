@@ -1,10 +1,10 @@
 ---
-track:
-songTitle:
+track: 
+songTitle: "{{title}}"
 artist: 
 minutes: 
-seconds:
+seconds: 
 duplicatedOnPaper: 
 addedOnRYM: 
-sharedOnMonoquin: 
+sharedOnMonoquin:
 ---

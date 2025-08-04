@@ -19,7 +19,7 @@
 - [[mangas i read (2025)]]
 - [[daily notes (2025)]]
 - [[annual cash flow (2025)]]
-- [[the demon (2025)]]
+- [[the demon (2025) (discontinued)]]
 - [[daily notes (2025)]]
 #### 2024
 - [[albums i listened to (2024)]]

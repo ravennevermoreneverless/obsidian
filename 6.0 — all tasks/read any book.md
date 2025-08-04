@@ -5,7 +5,7 @@ contexts:
   - book
 timeEstimate: 300
 dateCreated: 2025-07-22T00:33:55.740+08:00
-dateModified: 2025-07-29T23:47:05.240+08:00
+dateModified: 2025-08-03T19:56:35.700+08:00
 tags:
   - book
   - task
@@ -16,6 +16,8 @@ complete_instances:
   - 2025-07-24
   - 2025-07-26
   - 2025-07-29
+  - 2025-08-01
+  - 2025-08-03
 timeEntries:
   - startTime: 2025-07-23T14:09:48.927+08:00
     description: Work session
@@ -29,5 +31,11 @@ timeEntries:
   - startTime: 2025-07-29T23:46:51.919+08:00
     description: Work session
     endTime: 2025-07-29T23:46:56.400+08:00
+  - startTime: 2025-07-31T23:05:44.403+08:00
+    description: Work session
+    endTime: 2025-08-01T06:30:45.856+08:00
+  - startTime: 2025-08-03T19:23:21.917+08:00
+    description: Work session
+    endTime: 2025-08-03T19:56:31.182+08:00
 ---
 

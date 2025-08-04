@@ -1,0 +1,38 @@
+- Watch a random Youtube video {rare}
+- Scroll on social media for 5 min. {common}
+- Leisure reading for 10 min. {common}
+- Listen to a song in song queue {common}
+- Play a video game for 30 min. {rare}
+- 10-min. break {common}
+- Listen to a song in deacon & mastodon {common}
+- Listen to a song from my playlists {common}
+- Listen to a song from other people's playlist {common}
+- Listen to a saved album (on spotify) {rare}
+- Listen to a saved album (on bandcamp) {rare}
+- Listen to a song in soundcloud {common}
+- Listen to an album from genre iceberg albums {rare}
+- Listen to a song from a Youtube playlist {common}
+- Listen to a song from "songs: the complete list" {common}
+- Read 10 chapters of a manga {rare}
+- Watch an "effedupmovies" film {rare}
+- Watch a film from another "fucked up films" watchlist {rare}
+- Watch a film from main watchlist {rare}
+- Wath any film from any of my letterboxd watchlist(s) {rare}
+- Listen to a podcast episode {rare}
+- Watch a short film {rare}
+- Watch 1 episode of an anime {rare}
+- Watch 1 episode from any series {rare}
+- Watch a video from "to-watch pt. 1" {rare}
+- Watch a video from "to-watch pt. 2" {rare}
+- Watch a video from "to-watch pt. 3" {rare}
+- Watch a video from "school" Youtube playlist {rare}
+- Watch a video from "work" Youtube playlist {rare}
+- Watch a video from "study" Youtube playlist {rare}
+- Sketch for fun {common}
+- Draw an easy reference {common}
+- Play 1 song on guitar {common}
+- Write a short poem {common}
+- Solve a rubik's cube {common}
+- Make another cup of coffee {legendary}
+- Buy a premium coffee blend mix {legendary}
+- Buy something from online shopping cart {legendary}

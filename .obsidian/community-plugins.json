@@ -2,11 +2,8 @@
   "obsidian42-brat",
   "lazy-plugins",
   "custom-font-loader",
-  "obsidian-habit-tracker",
-  "obsidian-file-cooker",
   "tasknotes",
   "dataview",
-  "quickadd",
-  "heatmap-calendar",
-  "calculite"
+  "calculite",
+  "remember-cursor-position"
 ]

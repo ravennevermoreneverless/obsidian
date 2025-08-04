@@ -6,7 +6,7 @@
 - [[annual cash flow (2025)]]
 
 ### mental health
-- [[the demon (2025)]] 
+- [[the demon (2025) (discontinued)]] 
 ### academic
 - [[study course]] 
 

@@ -1,11 +1,24 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱2,283.00</span>
+## <span style="color:#29A833">₱907.00</span>
 
 ## <span style="color:#FFF37B">₱ 0.00</span>
 
 ## <span style="color:#3E9FE1">₱ 100.00</span> - Chai's mom
 
+==Aug 4== Nescafé Original twin-pack (x2) + Zesto mango <span style="color:#A41C1D">-₱44</span>
+==Aug 4== Iced Coffee Cereal Milk + Chick Fillet A La King @ McDonald's <span style="color:#A41C1D">-₱206</span>
+==Aug 3== Mattress on Tik Tok <span style="color:#A41C1D">-₱758</span>
+==Aug 3== 1-week 90GB load for Chai <span style="color:#A41C1D">-₱96</span>
+==Aug 3== Fare from San Joaquin to QC Bagong Barrio w/ Chai <span style="color:#A41C1D">-₱136</span>
+==Aug 3== Dad gave me money <span style="color:#29A833">₱300</span>
+==Aug 2== Dad and aunt gave us money <span style="color:#29A833">₱200</span>
+==Aug 2== Nescafé Original twin-pack + Milo <span style="color:#A41C1D">-₱27</span>
+==Aug 2== Corrupted Kitsune (x2) <span style="color:#A41C1D">-₱100</span>
+==Aug 1== Paid for GCash loan <span style="color:#A41C1D">-₱454</span>
+## August 
+
+==July 31== Diatabs (x3) <span style="color:#A41C1D">-₱30</span>
 ==July 29== Paint brush set + lip/nose rings <span style="color:#A41C1D">-₱130</span>
 ==July 29== Nipple Tape (12pcs.) <span style="color:#A41C1D">-₱87</span>
 ==July 29== Load for Chai and I <span style="color:#A41C1D">-₱180</span>

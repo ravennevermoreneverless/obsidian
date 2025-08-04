@@ -1,13 +1,13 @@
 ---
 status: in-progress
-priority: high
+priority: normal
 contexts:
   - music
   - albums
 timeEstimate: 100000
 recurrence: FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-22T00:37:30.917+08:00
-dateModified: 2025-07-30T01:04:28.522+08:00
+dateModified: 2025-08-04T09:28:15.411+08:00
 tags:
   - music
   - albums
@@ -26,6 +26,9 @@ timeEntries:
   - startTime: 2025-07-29T22:53:01.103+08:00
     description: Work session
     endTime: 2025-07-29T23:58:49.266+08:00
+  - startTime: 2025-07-31T23:05:18.730+08:00
+    description: Work session
+    endTime: 2025-08-01T06:30:31.239+08:00
 complete_instances:
   - 2025-07-23
   - 2025-07-24
@@ -33,6 +36,7 @@ complete_instances:
   - 2025-07-26
   - 2025-07-29
   - 2025-07-30
+  - 2025-08-01
 ---
 
 wiki / deep dive

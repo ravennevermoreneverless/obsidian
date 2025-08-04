@@ -394,3 +394,15 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==29 - 21:39== Chai and I went to Cubao for her job interview but we ended up not going because we didn't make it on time. We, instead, roamed around Cubao and ate McDonald's. We bought yuri stickers and pins. I changed my bag back to my messenger bag.
 
 ==30 - 20:43== Chai and I watched 3 films today, all of them horror. I'm continuing my journey to doing paid survey side hustles as well as applying to more jobs. 
+
+==31 - 22:57== I started taking photos of all my drawings. I'll continue tomorrow or later. Chai and I had sex in the shower while I was terribly hungry. 
+
+## August
+
+==1 - 22:54== I think I'm really overwhelmed today that my body just moves on hyperdrive yet I'm just drifting. I took pictures of most of my drawings and notes on paper. We played 99 nights on ROBLOX with Dana and Kendall for 4 hours. I bought barbecue and KFC. A lot happened, I don't even remember anything at all.
+
+==2 - --== It was a long, tiring day. We cleaned the room and the house midday. We bought lunch, too. The twins (my nephews) came by with their mom and dad for like the rest of the day we were babysitting. We also bought food outside. It was so tiring. I didn't hold the babies because I was too chicken that I'd hurt them and I felt bad because it would mean I'm not a good parent which Chai would want. I was so stressed and overwhelmed and I wanted to cry but night came by and everyone went home eventually (as well as my aunt who stopped by). 
+
+==3 - 20:35== Chai and I went back home to QC. It was tiring. Chai cried in the morning. Her mom was and will be away for a while. Dad gave me money. We bought a mattress online.
+
+==4 - 20:04== It was so hot today. I sprained my ankle. I spent the entire day taking photos of each of the pages of my journal. I tried McDonald's Cereal Milk Iced Coffee today, it was okay. 
