@@ -11,3 +11,5 @@
 #### accounting
 - [[Accounting Basics — AccountingCoach]]
 - [[Debits and Credits — AccountingCoach]]
+#### japanese
+- [[Japanese Writing System (げんき I)]]

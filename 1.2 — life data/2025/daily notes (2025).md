@@ -406,3 +406,13 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==3 - 20:35== Chai and I went back home to QC. It was tiring. Chai cried in the morning. Her mom was and will be away for a while. Dad gave me money. We bought a mattress online.
 
 ==4 - 20:04== It was so hot today. I sprained my ankle. I spent the entire day taking photos of each of the pages of my journal. I tried McDonald's Cereal Milk Iced Coffee today, it was okay. 
+
+==5 - 20:26== I slept for an hour today. Chai and I had a misunderstanding in the morning which led her to yell at me. She apologized afterwards, then we cooked spaghetti macaroni for a while until noon. We ate a lot, then we slept in the afternoon. We woke up and took a long shower together. The mattress came by today so we set that up, too. We ate siomai for dinner. We didn't get to watch *Conjuring* today. 
+
+==6 - 21:04== Chai and I started our morning with lots of kisses. The notebook arrived today. I started studying with Genki. But during the day, Chai was very irritated. And I was no exception to her irritation. She raised her voice at me again and all I could think about was to go back home. She played 99 nights for almost the entire day and she let me play her game sometimes. She reached day 508 despite always reconnecting. We cooked chicken wings today and her mom arrived back home. 
+
+==7 - 20:22== Chai and I started our morning with me eating her out. Then we watched ***The Nun***, ***Anabelle: Creation***, and ***The Nun II***. I created Anki flashcards in between. We also fell asleep for 2 hours. Then we had a small disagreement in the bathroom while showering, which led us to stay quiet for a while. 
+
+==8 - 20:04== A lot happened today. A lot involving money. I got my ₱557 back from Chai. Her mom received cash for lots of things today. She kept using my GCash but she still pays for all of them. We got the tissues, wipes, alcohol, and dental floss today, as well as my iPhone charging cord. We ate Jollibee fried chicken. I studied Japanese for 3 hours. Chai and I watched ***Anabelle*** and ***The Conjuring***. We had a small disagreement before dinner but we managed to get over it. Chai was pretty hyper throughout the day. 
+
+==9 - 22:11== It was kind of chaotic today. A lot was happening, Chai was evidently stressed. I managed to study Japanese for a few hours, with some hiccups in between. Mom asked me to check UMAK for enrollment  inquiries. Chai and I talked about our families before watching ***Anabelle Comes Home*** and ***The Conjuring 2***. Her mom came back home today and we ate lots of food again. I really really wanted to pee earlier but their grandmother kept calling me so I took care of her. 

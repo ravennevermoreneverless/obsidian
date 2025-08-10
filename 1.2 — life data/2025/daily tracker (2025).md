@@ -49,8 +49,9 @@ dateCreated as date,
 symptoms as symptoms
 
 FROM "5.8 — database/dailies"
-```
 
+SORT file.ctime DESC
+```
 
 ```dataviewjs
 dv.span("fluoxetine")

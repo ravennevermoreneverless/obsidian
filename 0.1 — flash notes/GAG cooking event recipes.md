@@ -6,11 +6,11 @@
 ‎1x Banana
 ‎
 ‎Divine:
-‎4x Sugar Apple
-‎1x Corn
+==‎4x Sugar Apple==
+==‎1x Corn==
 ‎or
-‎4x Elder Strawberry
-‎1x Corn
+==‎4x Elder Strawberry==
+==‎1x Corn==
 ‎
 ‎
 ‎Mythical:
@@ -62,16 +62,16 @@
 ‎
 ‎
 ‎Mythical:
-‎1x Tomato
-‎1x Corn
-‎1x Pepper
-‎2x Sugar Apple
+==‎1x Tomato==
+==‎1x Corn==
+==‎1x Pepper==
+==‎2x Sugar Apple==
 ‎or
-‎1x Giant Pinecone
-‎1x Corn
-‎1x Apple
-‎1x Mushroom
-‎1x Pepper
+==‎1x Giant Pinecone==
+==‎1x Corn==
+==‎1x Apple==
+==‎1x Mushroom==
+==‎1x Pepper==
 ‎
 ‎
 ‎Legendary:
@@ -101,8 +101,8 @@
 ‎1x Tomato
 ‎1x Apple
 ‎or
-‎1x Corn
-‎1x Watermelon
+==‎1x Corn==
+==‎1x Watermelon==
 ‎
 ‎
 ‎
@@ -116,8 +116,8 @@
 ‎
 ‎
 ‎Mythical:
-‎1x Banana
-‎1x Sugar Apple
+==‎1x Banana==
+==‎1x Sugar Apple==
 ‎
 ‎
 ‎Uncommon:
@@ -144,8 +144,8 @@
 ‎
 ‎
 ‎Mythical:
-‎1x Giant Pinecone
-‎1x Tomato
+==‎1x Giant Pinecone==
+==‎1x Tomato==
 ‎
 ‎
 ‎Prismatic:
@@ -168,8 +168,8 @@
 ‎
 ‎
 ‎Divine:
-‎1x Sugar Apple
-‎1x Coconut
+==‎1x Sugar Apple==
+==‎1x Coconut==
 ‎
 ‎
 ‎
@@ -187,8 +187,9 @@
 ‎
 ‎
 ‎Divine:
-‎4x Ember Lily
-‎1x Corn
+==‎4x Ember Lily==
+==‎1x Corn==
+
 ‎Prismatic:
 ‎4x Bone Blossom
 ‎1x Corn

@@ -165,3 +165,11 @@ tags: [[raven]] [[spreadsheet]] [[films]]
 162. ***Immaculate*** (2024) dir. Michael Mohan • 7/30/2025
 163. ***The First Omen*** (2024) dir. Arkasha Stevenson • 7/30/2025
 164. ***The Neighbors' Window*** (2019) dir. Marshall Curry • 8/1/2025
+165. ***The Nun*** (2018) dir. Colin Hardy • 8/7/2025
+166. ***Anabelle: Creation*** (2017) dir. David F. Sandberg • 8/7/2025
+167. ***The Nun II*** (2023) dir. Michael Chaves • 8/7/2025
+168. ***Anabelle*** (2014) dir. John R. Leonetti • 8/8/2025
+169. ***The Conjuring*** (2013) dir. James Wan • 8/8/2025
+170. ***Anabelle Comes Home*** (2019) dir. Gary Dauberman • 8/9/2025
+171. ***The Conjuring 2*** (2016) dir. James Wan • 8/9/2025
+172. ***The Conjuring: The Devil Made Me Do It*** (2021) dir. Michael Chaves • 8/10/2925

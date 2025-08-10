@@ -1304,18 +1304,12 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1274. Angels of Porn II — Nicole Dollanganger : August 2, 2025
 1275. Sorry, I'm a human like trash — takayan : August 3, 2025
 1276. Perfect — Capoxxo, oaf1, dreamcache : August 4, 2025
-
-1277 ν August 5, 2025
-
-1278 ν August 6, 2025
-
-1279 ν August 7, 2025
-
-1280 ν August 8, 2025
-
-1281 ν August 9, 2025
-
-1282 ν August 10, 2025
+1277. Balang Araw - Single Version — I Belong To The Zoo : August 5, 2025
+1278. Desafio — Arca : August 6, 2025
+1279. Bloody Kisses (A Death in the Family) — Type O Negative : August 7, 2025
+1280. Rain — TAEYEON : August 8, 202
+1281. I'm Not In Love — 10cc : August 9, 2025
+1282. Kanakana Shigure — Michael Tai : August 10, 2025
 
 1283 ν August 11, 2025
 

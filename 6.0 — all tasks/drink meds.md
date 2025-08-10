@@ -2,13 +2,13 @@
 status: in-progress
 priority: high
 contexts:
-  - health
   - essentials
+  - health
   - personal
 timeEstimate: 5
-recurrence: FREQ=DAILY;INTERVAL=1
+recurrence: DTSTART:20250723T002532Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-23T00:25:32.263+08:00
-dateModified: 2025-08-04T13:43:43.484+08:00
+dateModified: 2025-08-10T11:35:36.932+08:00
 tags:
   - health
   - task
@@ -24,6 +24,13 @@ complete_instances:
   - 2025-08-01
   - 2025-08-03
   - 2025-08-04
+  - 2025-08-05
+  - 2025-08-06
+  - 2025-08-07
+  - 2025-08-08
+  - 2025-08-09
+  - 2025-08-10
+projects: []
 ---
 
 never skip!!!!!!

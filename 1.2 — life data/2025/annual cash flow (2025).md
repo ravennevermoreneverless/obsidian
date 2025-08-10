@@ -1,11 +1,12 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱907.00</span>
+## <span style="color:#29A833">₱1,288.00</span>
 
 ## <span style="color:#FFF37B">₱ 0.00</span>
 
 ## <span style="color:#3E9FE1">₱ 100.00</span> - Chai's mom
 
+==Aug 5== Regular load Globe ₱80 <span style="color:#A41C1D">-₱83</span>
 ==Aug 4== Nescafé Original twin-pack (x2) + Zesto mango <span style="color:#A41C1D">-₱44</span>
 ==Aug 4== Iced Coffee Cereal Milk + Chick Fillet A La King @ McDonald's <span style="color:#A41C1D">-₱206</span>
 ==Aug 3== Mattress on Tik Tok <span style="color:#A41C1D">-₱758</span>

@@ -1,6 +1,5 @@
 ### important notes
 - [[music listening system (updated)]]
-- [[genre iceberg]]
 - [[study course]]
 - [[tarot card meanings]] 
 - [[study course]] 

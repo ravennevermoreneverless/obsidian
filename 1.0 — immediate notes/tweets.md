@@ -87,9 +87,9 @@
 --
 4年前、僕は普通な人間だった。いったい何が起こったんだ？
 --
-コーヒーを飲みすぎちゃった
+==コーヒーを飲みすぎちゃった==
 --
-暑い。。。夏か？本当。。。
+==暑い。。。夏か？本当。。。==
 --
 あなたには奇妙すぎるかもしれないねえ
 --
@@ -130,7 +130,7 @@
 --
 ==どうやってこのアニメを続ける 僕はもう感じがない==
 --
-10年とっても、君を戻るのため待つ。 僕たちがまだ終わらない。
+==10年とっても、君を戻るのため待つ。 僕たちがまだ終わらない。==
 --
 皆はいなくなった
 残っているのは芸術だけだ
@@ -147,7 +147,7 @@ discordは孤独な人たちでいっぱい。誰にも他の人に知り合い�
 --
 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない 死にたい 死にたくない
 --
-ちょっとの間、生きていたい。
+==ちょっとの間、生きていたい。==
 --
 早く起きてみたけど、、、、、 12時ごろだけもう疲れた( ´_ゝ`)
 --
@@ -205,7 +205,7 @@ or maybe i'm just very immature idk
 --
 最も太っている　_:(´ཀ`」 ∠):
 --
-everyones going To fucking japan nowadays , now i Dont wantt to Go bcs i'm Petty
+==everyones going To fucking japan nowadays , now i Dont wantt to Go bcs i'm Petty==
 --
 すべてが大きすぎる。 すべてが明るすぎる。 僕を触るな。
 --
@@ -479,4 +479,7 @@ yall better not be hiding some frittatas up your sleeves because oh boy i'm tell
 you can't beat me i have pneumonia
 --
 everything that chatgpt knows i already know inside my mind and soul
+--
+
+harmony korine please release a new film oh please harmony korine i'm begging you harmony korine korine harmonics empathy-person wisdom man please oh please
 --

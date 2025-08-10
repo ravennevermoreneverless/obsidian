@@ -1,0 +1,4 @@
+status: #adult 
+tags: [[journal]]
+
+This must be the most fucking tiring day known to manking (not really). But for me, it is yet. Even coffee didn't solve shit. I just felt fast heartbeat but the sleepiness and exhaustion is still there; fuck me if I didn't finish some shit. Imma yolo the damn outta this. I got like 2 or 3 things left to problem with? I really hope this be over; I wanna get out of that fucking school and get away feom the unprofessional, synthetic teachers that shouldn't even be called as teachers im the first place. I'm dying and I need to sleep. I hope our play turns out well... hopefully. I have faith in my groupmates... I'd have to rant more but I'm tired so... bye!

@@ -58,6 +58,9 @@
 - [[2nd of March, 2018 — 3.28 (Fri) ★ pink Beats headphones snapped, ex sent a friend request on FB, aunt arriving to Philippines]]
 - [[2nd of March, 2018 — 15.03 (Fri) ★ No one understands me and I hope they know they made me like this]]
 - [[8th of March, 2018 — 3.48 (Fri) ★ the double-decker bed and Lovely Bones]]
+- [[13th of March, 2018 — 1.38 (Tue) ★ tita Jane's last saturday]]
+- [[13th of March, 2018 — 22.31 (Tue) ★ tiring as hell]]
+- [[14th of March, 2018 — 21.10 (Wed) ★ Career Caravan]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
 - [[8th of June, 2020 ★ why am i even depressed]]

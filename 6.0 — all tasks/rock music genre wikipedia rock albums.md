@@ -5,14 +5,13 @@ contexts:
   - music
   - albums
 timeEstimate: 100000
-recurrence: FREQ=DAILY;INTERVAL=1
+recurrence: DTSTART:20250722T003730Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-22T00:37:30.917+08:00
-dateModified: 2025-08-04T09:28:15.411+08:00
+dateModified: 2025-08-10T06:15:28.525+08:00
 tags:
   - music
   - albums
   - task
-due: 2025-12-31
 timeEntries:
   - startTime: 2025-07-23T00:30:41.479+08:00
     description: Work session
@@ -37,6 +36,8 @@ complete_instances:
   - 2025-07-29
   - 2025-07-30
   - 2025-08-01
+  - 2025-08-04
+  - 2025-08-08
 ---
 
 wiki / deep dive

@@ -72,6 +72,10 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 69. ***Letter to Myself*** (EP) (2024) — *TAEYEON* : K-Pop, Contemporary R&B, Pop Rock • 7/21/2025
 70. ***Sunshine Superman*** (1966) — *Donovan* : 	Psychedelic Folk, Singer-Songwriter, Psychedelic Pop • 7/23/2025
 71. ***Face to Face*** (1966) — *The Kinks* : Pop Rock • 7/24/2025
-72. ***Try Too Hard*** (1966) — *The Dave Clark Five* : Beat, Pop Rock
-73. ***Rubber Soul*** (1965) — *The Beatles* : Pop Rock
-74. **Aftermath** (1966) — *The Rolling Stones* : Blues Rock
+72. ***Try Too Hard*** (1966) — *The Dave Clark Five* : Beat, Pop Rock • 7/25/2025
+73. ***Rubber Soul*** (1965) — *The Beatles* : Pop Rock • 7/26/2025
+74. **Aftermath** (1966) — *The Rolling Stones* : Blues Rock • 8/5/2025
+75. ***Revolver*** (1966) — *The Beatles* : Pop Rock, Psychedelic Pop • 8/6/2025
+76. ***A Quick One*** (1966) — *The Who* : Freakbeat • 8/7/2025
+77. ***Pet Sounds*** (1966) — *The Beach Boys* : Baroque Pop • 8/8/2025 
+78. ***Blonde on Blonde*** (1966) — *Bob Dylan* : Folk Rock, Singer-Songwriter

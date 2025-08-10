@@ -2,13 +2,13 @@
 status: in-progress
 priority: normal
 contexts:
+  - edit
   - monoquin
   - personal
-  - edit
 timeEstimate: 60
-recurrence: FREQ=DAILY;INTERVAL=1
+recurrence: DTSTART:20250723T002215Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-23T00:22:15.891+08:00
-dateModified: 2025-08-03T18:54:19.003+08:00
+dateModified: 2025-08-10T05:25:20.423+08:00
 tags:
   - task
 timeEntries:
@@ -24,5 +24,13 @@ complete_instances:
   - 2025-07-25
   - 2025-07-26
   - 2025-08-03
+  - 2025-08-04
+  - 2025-08-05
+  - 2025-08-06
+  - 2025-08-07
+  - 2025-08-08
+  - 2025-08-09
+  - 2025-08-10
+projects: []
 ---
 

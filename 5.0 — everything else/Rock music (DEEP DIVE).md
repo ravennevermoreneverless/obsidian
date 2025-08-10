@@ -38,3 +38,12 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 22. ***Face to Face*** (1966) — *The Kinks* • <span style="color:#831100">largely influenced by country music, i guess</span>
 23. ***Try Too Hard*** (1966) — *The Dave Clark Five* • <span style="color:#831100">oh a really quick one. i was contemplating whether to listen to an old album or a new one but i chose this one because it's nearer to the late 1960's which is the transition to blues rock</span>
 24. ***Revolver*** (1966) — *The Beatles* • <span style="color:#831100">it got me thinking 'yeah i guess this is actually the reson why the beatles became popular and what made them as big as they are now'</span>
+	- Eleanor Rigby
+25. ***A Quick One*** (1966) — *The Who* • <span style="color:#831100">unique-sounding, excentric, totally in its own league and world, from start to finish it wanted to say something no one has ever been said and they succeeded.</span>
+	- Boris The Spider
+	- Barbara Ann
+	- Doctor, Doctor
+26. ***Pet Sounds*** (1966) — *The Beach Boys* • <span style="color:#831100">they're US-based but you can clearly see the influence of british rock bands here. not necessarily full-on rock, but a dashof surf rock and a lot of fun.</span>
+	- Wouldn't It Be Nice
+	- I Just Wasn't Made For These Times
+27. ***Blonde on Blonde*** (1966) — *Bob Dylan* • <span style="color:#831100">bob dylan is a big name in the music industry but this sounds like a random country blues album from the south</span>
