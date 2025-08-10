@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "3c0b8426bb3f4984",
+            "id": "4211852dfb288aa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/file cooker.md",
+                "file": "1.2 — life data/2025/daily notes (2025).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,35 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "file cooker"
-            }
-          },
-          {
-            "id": "4fcf5c3b59324d89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2025/media/films i watched (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "films i watched (2025)"
+              "title": "daily notes (2025)"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -7005,6 +6981,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "d968dd17422ffb51",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -7036,8 +7022,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "46b1e3e00c86e027",
+  "active": "4211852dfb288aa4",
   "lastOpenFiles": [
+    "5.8 — database/dailies/2025-08-10.md",
     "5.0 — everything else/the ultimate playlist of my life.md",
     "5.8 — database/the ultimate playlist of my life/I Want To Break Free.md",
     "5.8 — database/the ultimate playlist of my life/Under Pressure.md",
@@ -7074,7 +7061,6 @@
     "5.0 — everything else/monoquin songs.md",
     "5.8 — database/the ultimate playlist of my life/Ruin.md",
     "5.8 — database/the ultimate playlist of my life/She Was Weird.md",
-    "5.8 — database/the ultimate playlist of my life/Oceans.md",
     "5.1 — images stockpile/notes/2019",
     "5.1 — images stockpile/art/2019",
     "5.1 — images stockpile/journals/3rd journal (2019)",
