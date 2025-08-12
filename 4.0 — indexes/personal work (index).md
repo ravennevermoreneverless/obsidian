@@ -1,7 +1,7 @@
 ### poems
 - [[free.1]]
 - [[her pt.5]]
-- [[song on the beach]]
+- [[song on the beach (poem)]]
 - [[being bored]]
 - [[crappy poem about depression]]
 - [[drip drop]]
@@ -26,7 +26,8 @@
 - [[it's always been you]]
 - [[what matters most]] 
 - [[3981 (finished)]]
-
+### songwriting
+- [[aking mahal na nanay]]
 ### japanese
 #### poems
 - [[2024年4月9日(火) — 和歌1]]

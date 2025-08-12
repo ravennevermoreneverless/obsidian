@@ -30,7 +30,7 @@ tags: [[rock]] [[music]] [[music genre]] [[wikipedia]]
 
 ## 1940s to 1950s : BIRTH OF ROCK AND ROLL
 — foundations came from the US during the late 1940s and early 1950s
-— origins were melded from black musical genres back them, like rhythm and blues, gospel music and country/western music
+— origins were melded from black musical genres back then, like rhythm and blues, gospel music and country/western music
 
 - ***Rock Around the Clock*** (1954) — *Bill Haley* : first rock and roll track to enter the billboard's main sales and opened the world to this genre 
 
@@ -38,9 +38,9 @@ tags: [[rock]] [[music]] [[music genre]] [[wikipedia]]
 
 — spread out from the US though associating the 'americanization' events happening worldwide resulted from the second world war 
 
-- ***Move It*** (1959) by Cliff Richard ushered in the sound of British rock.
-- ***Wild One*** (1958) by John O'Keefe was one of the earliest Australian rock and roll hits. 
-- ***Rock Island Line*** (1955) by Lonnie Donegan was a major influence and helped to develop and form a unique sound of small bands who play Rock and Roll like John Lennon's Quarrymen (later on The Beatles). 
+- ***Move It*** (1959) — *Cliff Richard* : ushered in the sound of British rock.
+- ***Wild One*** (1958) — *John O'Keefe* : was one of the earliest Australian rock and roll hits. 
+- ***Rock Island Line*** (1955) — *Lonnie Donegan* : was a major influence and helped to develop and form a unique sound of small bands who play Rock and Roll like John Lennon's Quarrymen (later on The Beatles). 
 
 — former rock and roll acts in the US became lightweight pop and ballads, the ones in the UK, more strongly influenced by blues-rock pioneers, developed rock music with their own touch and passion, another level of intensity, which will shape the future of rock music through the *British invasion*
 ## 1960s : British invasion and broadening sound

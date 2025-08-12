@@ -1,10 +1,10 @@
 ---
 status: in-progress
-priority: high
+priority: normal
 timeEstimate: 780
 recurrence: DTSTART:20250729T225539Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-29T22:55:39.502+08:00
-dateModified: 2025-08-10T05:34:29.856+08:00
+dateModified: 2025-08-12T16:17:53.970+08:00
 tags:
   - task
 timeEntries:
@@ -29,5 +29,7 @@ complete_instances:
   - 2025-08-08
   - 2025-08-09
   - 2025-08-10
+  - 2025-08-11
+  - 2025-08-12
 ---
 

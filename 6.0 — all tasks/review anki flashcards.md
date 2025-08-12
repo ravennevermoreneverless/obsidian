@@ -1,12 +1,12 @@
 ---
 status: in-progress
-priority: normal
+priority: low
 contexts:
   - flashcards
 timeEstimate: 30
 recurrence: DTSTART:20250723T002452Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-23T00:24:52.562+08:00
-dateModified: 2025-08-10T13:21:17.413+08:00
+dateModified: 2025-08-12T14:53:05.686+08:00
 tags:
   - japanese
   - english
@@ -18,5 +18,7 @@ complete_instances:
   - 2025-08-08
   - 2025-08-09
   - 2025-08-10
+  - 2025-08-11
+  - 2025-08-12
 ---
 

@@ -23,3 +23,5 @@
 - [[Dream Journal — 14th of November, 2017 — 8.58 (Tue) ★ a parasyte has gone loose]]
 - [[17th of February, 2018 — 00.09 ★ recurring end of the world dream as a kid]] 
 - [[Dream Journal — 2018 ★ I dreamt about her again]]
+- [[Dream Journal — 18th of March, 2018 (Sun) ★ leaving italy on a jet, killing nazis and redecorating the fat nazi chief's house]]
+- [[Dream Journal — 20th of March, 2018 (Tue) ★ Lorde turned into Claire, my most hated substitute teacher in Filipino]]

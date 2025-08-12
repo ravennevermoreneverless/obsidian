@@ -172,7 +172,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ## habits
 ```dataviewjs
 
-dv.span("** calisthenics **")
+dv.span("** japanese **")
 
 const hue1 = 13 
 const hue2 = 132
@@ -197,11 +197,11 @@ const calendarData = {
     entries: []
 }
 
-for(let page of dv.pages('"5.8 — database/dailies"').where(p=>p.calisthenics)){ 
+for(let page of dv.pages('"5.8 — database/dailies"').where(p=>p.studyJapanese)){ 
 
     calendarData.entries.push({
         date: page.file.name, 
-        intensity: page.calisthenics,
+        intensity: page.studyJapanese,
         content: await dv.span(`[](${page.file.name})`), //for hover preview
     })
       
@@ -210,9 +210,8 @@ for(let page of dv.pages('"5.8 — database/dailies"').where(p=>p.calisthenics))
 renderHeatmapCalendar(this.container, calendarData)
 
 ```
-
 ```dataviewjs
-dv.span("journaling")
+dv.span("post art")
 
 const calendarData = {
     year: 2025, // optional, remove this line to autoswitch year
@@ -223,7 +222,7 @@ const calendarData = {
     entries: []
 }
 
-for(let page of dv.pages('"5.8 — database/dailies"').where(p=>p.journaling)){
+for(let page of dv.pages('"5.8 — database/dailies"').where(p=>p.postArt)){
 	 
     calendarData.entries.push({
         date: page.file.name,
@@ -237,7 +236,6 @@ renderHeatmapCalendar(this.container, calendarData)
 
 
 ```
-
 
 ```dataviewjs
 

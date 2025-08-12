@@ -1310,10 +1310,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1280. Rain — TAEYEON : August 8, 202
 1281. I'm Not In Love — 10cc : August 9, 2025
 1282. Kanakana Shigure — Michael Tai : August 10, 2025
-
-1283 ν August 11, 2025
-
-1284 ν August 12, 2025
+1283. enclosed — Mixed Matches : August 11, 2025
+1284. from Y to Y — ジミーサムP / OneRoom : August 12, 2025
 
 1285 ν August 13, 2025
 

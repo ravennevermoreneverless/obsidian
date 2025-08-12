@@ -7,8 +7,8 @@ fluoxetine: false
 aripiprazole: false
 monoquinPost: 
 monoquinEdit: false
-calisthenics: 
-journaling: false
+studyJapanese: 
+postArt: false
 bookReading: 
 doArt: false
 songDaily: false

@@ -78,4 +78,5 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 75. ***Revolver*** (1966) — *The Beatles* : Pop Rock, Psychedelic Pop • 8/6/2025
 76. ***A Quick One*** (1966) — *The Who* : Freakbeat • 8/7/2025
 77. ***Pet Sounds*** (1966) — *The Beach Boys* : Baroque Pop • 8/8/2025 
-78. ***Blonde on Blonde*** (1966) — *Bob Dylan* : Folk Rock, Singer-Songwriter
+78. ***Blonde on Blonde*** (1966) — *Bob Dylan* : Folk Rock, Singer-Songwriter • 8/9/2025
+79. ***Lush*** (2018) — *Snail Mail* : Indie Rock, Indie Pop • 8/10/2025

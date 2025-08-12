@@ -5,3 +5,4 @@
 - [[16th of February, 2018 — 16.31 ★ recollection day at KHS]]
 - [[2nd of March, 2018 — 15.03 (Fri) ★ No one understands me and I hope they know they made me like this]]
 - [[13th of March, 2018 — 1.38 (Tue) ★ tita Jane's last saturday]]
+- [[17th of March, 2018 — 00.47 (Sat) ★ guitar hero at timezone, getting lost at glorietta, last day with the family]]

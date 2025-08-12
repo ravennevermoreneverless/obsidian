@@ -1,7 +1,11 @@
-instagram 
-tiktok
-twitter
-pinterest
-reddit
-
-## clean artwork first + add signature + save on obsidian 
+- [ ] clean artwork
+- [ ] add signature
+- [ ] instagram 
+- [ ] tiktok
+- [ ] twitter
+- [ ] pinterest
+- [ ] reddit
+- [ ] tumblr
+- [ ] substack
+- [ ] discord
+- [ ] add on obsidian

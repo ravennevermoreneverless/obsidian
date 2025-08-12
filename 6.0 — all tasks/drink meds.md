@@ -8,7 +8,7 @@ contexts:
 timeEstimate: 5
 recurrence: DTSTART:20250723T002532Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-23T00:25:32.263+08:00
-dateModified: 2025-08-10T11:35:36.932+08:00
+dateModified: 2025-08-12T13:52:12.752+08:00
 tags:
   - health
   - task
@@ -30,6 +30,8 @@ complete_instances:
   - 2025-08-08
   - 2025-08-09
   - 2025-08-10
+  - 2025-08-11
+  - 2025-08-12
 projects: []
 ---
 

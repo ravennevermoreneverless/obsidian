@@ -1,6 +1,6 @@
 ---
 status: in-progress
-priority: normal
+priority: low
 contexts:
   - edit
   - monoquin
@@ -8,7 +8,7 @@ contexts:
 timeEstimate: 60
 recurrence: DTSTART:20250723T002215Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-23T00:22:15.891+08:00
-dateModified: 2025-08-10T05:25:20.423+08:00
+dateModified: 2025-08-12T03:39:30.632+08:00
 tags:
   - task
 timeEntries:

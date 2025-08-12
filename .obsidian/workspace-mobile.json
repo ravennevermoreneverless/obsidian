@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-clock",
+              "title": "Agenda"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.8 — database/the ultimate playlist of my life/I Want To Break Free.md",
+                "file": "5.8 — database/the ultimate playlist of my life/Everytime We Touch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "I Want To Break Free"
+              "title": "Everytime We Touch"
             }
           },
           {
@@ -102,33 +102,8 @@
               "icon": "lucide-file",
               "title": "japanese flashcards"
             }
-          },
-          {
-            "id": "4211852dfb288aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2025/daily notes (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "daily notes (2025)"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +194,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5.8 — database/the ultimate playlist of my life/이별 10분 전 (The Sense of an Ending).md",
+            "file": "1.2 — life data/2025/daily tracker (2025).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -6991,6 +6966,356 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "801fccc8939b8118",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "cdbdd56648d24d12",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "214ce9357e733560",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "d215788aa9a66eaf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "39a151ad2af760df",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2b3223f6419d0adf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "395811f25a0e5080",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "006a7dfe59a16f61",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7f39859e67a3105e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "72239fe58e5dcd32",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4b0cebf1ffccc2f3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "70dfab583bac3f45",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b27d1faae12b6bd7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "02bb0c65616aaccf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "95c6b009ee5b6023",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "52b8e11747640e89",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "3e8d4326bced1dc1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2e79aadb6a011ccb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "890c50473ca3b7a2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "457b1e6a49325706",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7156e5c54ea44cec",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b7f5a88812d1dddd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b14f7d4941d710f4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "1f095180225a3ce7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "aa89a362ed85085c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "86a44297de76c0cd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e0abcdf88812cb27",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c9c2f2784e202ba3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2169eed0d712eed4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "31efc9c2dc879e72",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "65dfa7d981b0ab1e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b4f935ff55913450",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "614ed584df723ffc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ea6ea51b924cdfdd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "35a438fd751c7240",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -7022,53 +7347,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4211852dfb288aa4",
+  "active": "7acdb4fc68e599e4",
   "lastOpenFiles": [
-    "5.8 — database/dailies/2025-08-10.md",
+    "5.8 — database/the ultimate playlist of my life/Everytime We Touch.md",
+    "5.8 — database/the ultimate playlist of my life/Everlong.md",
     "5.0 — everything else/the ultimate playlist of my life.md",
-    "5.8 — database/the ultimate playlist of my life/I Want To Break Free.md",
-    "5.8 — database/the ultimate playlist of my life/Under Pressure.md",
-    "5.8 — database/the ultimate playlist of my life/Radio Ga Ga.md",
-    "5.8 — database/the ultimate playlist of my life/21세기 소녀.md",
-    "5.8 — database/the ultimate playlist of my life/The Promise.md",
-    "5.1 — images stockpile/art/2011",
-    "5.1 — images stockpile/art/2011/2011 - sketch 10.jpg",
-    "5.1 — images stockpile/art/2011/2011 - sketch 9.jpg",
-    "5.1 — images stockpile/art/2011/2011 - sketch 8.jpg",
-    "5.1 — images stockpile/art/2011/2011 - sketch 7.jpg",
-    "5.1 — images stockpile/art/2011/2011 - sketch 6.jpg",
-    "5.1 — images stockpile/art/2011/2011 - sketch 5.jpg",
-    "5.1 — images stockpile/art/2011/2011 - sketch 4.jpg",
-    "5.1 — images stockpile/art/2011/2011 - sketch 3.jpg",
-    "5.1 — images stockpile/art/2011/2011 - sketch 2.jpg",
-    "5.1 — images stockpile/art/2011/2011 - sketch 1.jpg",
-    "1.0 — immediate notes/file cooker.md",
-    "0.1 — flash notes/post art on socmed.md",
-    "0.1 — flash notes/art journey.md",
-    "1.2 — life data/journaling/2018/14th of March, 2018 — 21.10 (Wed) ★ Career Caravan.md",
-    "4.0 — indexes/journal (index).md",
-    "1.0 — immediate notes/[journal.md",
-    "1.2 — life data/journaling/2018/13th of March, 2018 — 22.31 (Tue) ★ tiring as hell.md",
-    "1.2 — life data/journaling/2018/13th of March, 2018 — 1.38 (Tue) ★ tita Jane's last saturday.md",
-    "4.0 — indexes/family (index).md",
-    "1.2 — life data/journaling/2023/14th of October, 2023 — 00.16 (Sat) ★ smoking with my turquoise flannel, human brain's storage capacity.md",
+    "5.8 — database/the ultimate playlist of my life/Eastside.md",
+    "5.8 — database/the ultimate playlist of my life/Comethru.md",
+    "5.8 — database/the ultimate playlist of my life/Cigarette.md",
+    "5.8 — database/the ultimate playlist of my life/Butterfly.md",
+    "5.8 — database/the ultimate playlist of my life/Black Sheep.md",
+    "5.8 — database/the ultimate playlist of my life/10 Years.md",
+    "5.8 — database/the ultimate playlist of my life/愛Dee (Ai Dee).md",
+    "5.8 — database/the ultimate playlist of my life/This Is Me.md",
+    "5.8 — database/the ultimate playlist of my life/「テノヒラ」 (\"Tenohira\").md",
+    "5.8 — database/the ultimate playlist of my life/I Wish.md",
     "1.0 — immediate notes/flashcards/japanese flashcards.md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
-    "5.0 — everything else/Rock music (DEEP DIVE).md",
-    "1.2 — life data/playlists/cris🅱️y songs.md",
-    "1.0 — immediate notes/jdjdjjdj.md",
-    "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/monoquin songs.md",
-    "5.8 — database/the ultimate playlist of my life/Ruin.md",
-    "5.8 — database/the ultimate playlist of my life/She Was Weird.md",
+    "1.2 — life data/journaling/dream journal/Dream Journal — 20th of March, 2018 (Tue) ★ Lorde turned into Claire, my most hated substitute teacher in Filipino.md",
+    "4.0 — indexes/journal (index).md",
+    "5.8 — database/the ultimate playlist of my life/Dreaming Backwards.md",
+    "4.0 — indexes/dream (index).md",
+    "1.2 — life data/journaling/dream journal/Dream Journal — 18th of March, 2018 (Sun) ★ leaving italy on a jet, killing nazis and redecorating the fat nazi chief's house.md",
+    "1.2 — life data/journaling/2018/17th of March, 2018 — 21.47 (Sat) ★ date with mom, Pateros is where humanity is still alive.md",
+    "4.0 — indexes/mundane (index).md",
+    "1.2 — life data/journaling/2018/17th of March, 2018 — 00.47 (Sat) ★ guitar hero at timezone, getting lost at glorietta, last day with the family.md",
+    "4.0 — indexes/family (index).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "1.2 — life data/journaling/2023/19th of December, 2023 — (Tue) ★ hypomania and friends.md",
+    "0.1 — flash notes/post art on socmed.md",
+    "5.1 — images stockpile/art/2012/2012 - sketch 3.jpeg",
+    "5.1 — images stockpile/art/2012/2012 - sketch 2.jpeg",
+    "5.1 — images stockpile/art/2012/2012 - sketch 1.jpeg",
+    "5.1 — images stockpile/art/2012",
+    "2.2 — creative projects/raven's brain/songwriting",
+    "5.1 — images stockpile/art/2011/2011 - sketch 21.jpg",
+    "5.1 — images stockpile/art/2011/2011 - sketch 20.jpg",
+    "5.1 — images stockpile/art/2011/2011 - sketch 19.jpg",
+    "5.1 — images stockpile/art/2011/2011 - sketch 18.jpg",
+    "5.1 — images stockpile/art/2011/2011 - sketch 17.jpg",
+    "5.1 — images stockpile/art/2011/2011 - sketch 16.jpg",
+    "5.1 — images stockpile/art/2011/2011 - sketch 15.jpg",
+    "5.1 — images stockpile/art/2011",
     "5.1 — images stockpile/notes/2019",
     "5.1 — images stockpile/art/2019",
     "5.1 — images stockpile/journals/3rd journal (2019)",
     "1.5 — japanese/study notes/genki I",
     "1.5 — japanese/study notes",
     "5.8 — database/the ultimate playlist of my life",
-    "Untitled",
-    "5.8 — database/transactions/transactionhistory2025.journal",
-    "5.8 — database/transactions/2025.journal"
+    "Untitled"
   ]
 }

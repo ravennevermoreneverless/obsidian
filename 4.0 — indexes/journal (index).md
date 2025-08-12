@@ -61,6 +61,12 @@
 - [[13th of March, 2018 — 1.38 (Tue) ★ tita Jane's last saturday]]
 - [[13th of March, 2018 — 22.31 (Tue) ★ tiring as hell]]
 - [[14th of March, 2018 — 21.10 (Wed) ★ Career Caravan]]
+- [[15th of March, 2018 — 20.46 (Thu) ★ the forgotten books and a fucking pissed off day]]
+- [[16th of March, 2018 — 11.39 (Fri) ★ friend group splitting apart, drifting away and wanting to escape]]
+- [[17th of March, 2018 — 00.47 (Sat) ★ guitar hero at timezone, getting lost at glorietta, last day with the family]]
+- [[17th of March, 2018 — 21.47 (Sat) ★ date with mom, Pateros is where humanity is still alive]]
+- [[Dream Journal — 18th of March, 2018 (Sun) ★ leaving italy on a jet, killing nazis and redecorating the fat nazi chief's house]]
+- [[Dream Journal — 20th of March, 2018 (Tue) ★ Lorde turned into Claire, my most hated substitute teacher in Filipino]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
 - [[8th of June, 2020 ★ why am i even depressed]]
