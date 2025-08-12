@@ -7316,6 +7316,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f42d93461fa81d93",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8974eb345d34da03",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -7347,7 +7367,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7acdb4fc68e599e4",
+  "active": "8974eb345d34da03",
   "lastOpenFiles": [
     "5.8 — database/the ultimate playlist of my life/Everytime We Touch.md",
     "5.8 — database/the ultimate playlist of my life/Everlong.md",
