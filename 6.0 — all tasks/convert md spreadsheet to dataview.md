@@ -4,7 +4,7 @@ priority: normal
 timeEstimate: 780
 recurrence: DTSTART:20250729T225539Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-29T22:55:39.502+08:00
-dateModified: 2025-08-12T16:17:53.970+08:00
+dateModified: 2025-08-14T13:31:15.822+08:00
 tags:
   - task
 timeEntries:
@@ -31,5 +31,8 @@ complete_instances:
   - 2025-08-10
   - 2025-08-11
   - 2025-08-12
+  - 2025-08-13
+  - 2025-08-14
+scheduled: 2025-08-15
 ---
 

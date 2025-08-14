@@ -6,7 +6,7 @@ contexts:
   - music
 timeEstimate: 400
 dateCreated: 2025-07-22T10:39:10.583+08:00
-dateModified: 2025-08-09T05:18:15.004+08:00
+dateModified: 2025-08-14T00:44:51.576+08:00
 tags:
   - music
   - task
@@ -19,7 +19,8 @@ timeEntries:
 complete_instances:
   - 2025-07-24
   - 2025-08-09
+  - 2025-08-14
 recurrence: DTSTART:20250722T103910Z;FREQ=WEEKLY;BYDAY=TU,TH,SA;UNTIL=20250820
-scheduled: 2025-08-12
+scheduled: 2025-08-16
 ---
 

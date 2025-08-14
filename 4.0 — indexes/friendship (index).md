@@ -13,6 +13,7 @@
 - [[19th of September, 2023 — 23.18 (Tue) ★ Khan Academy units, my esoteric tendencies, people just come and go]]
 - [[20th of December, 2023 — 21.17 (Wed) ★ disconnect from friendships]]
 - [[28th of November, 2023 — 21.15 (Tue) ★ Thinking of Lou]] 
+- [[25th of March, 2018 — 15.29 (Sun) ★ goodbye, jaime.]]
 ### open letters
 - [[lou]]
 - [[lou pt. 2]]

@@ -67,6 +67,9 @@
 - [[17th of March, 2018 — 21.47 (Sat) ★ date with mom, Pateros is where humanity is still alive]]
 - [[Dream Journal — 18th of March, 2018 (Sun) ★ leaving italy on a jet, killing nazis and redecorating the fat nazi chief's house]]
 - [[Dream Journal — 20th of March, 2018 (Tue) ★ Lorde turned into Claire, my most hated substitute teacher in Filipino]]
+- [[2018 ★ the woman who stares]]
+- [[Dream Journal — 25th of March, 2018 (Sun) ★ fire caused by a lightning and my parents didn't care one bit]]
+- [[25th of March, 2018 — 15.29 (Sun) ★ goodbye, jaime.]]
 #### 2020
 - [[8th of June, 2020 ★ i don't know how to love.]]
 - [[8th of June, 2020 ★ why am i even depressed]]
@@ -298,6 +301,7 @@
 - [[29th of June, 2025 — 19.32 (Sun) ★ I could sleep for days and still won't remember]]
 - [[16th of July, 2025 — 19.37 (Wed) ★ At this point, I don't know where this will go at all]]
 - [[23rd of July, 2024 — 21.44 (Wed) ★ waist-deep in thought]]
+- [[13th of August, 2025 — 11.59 (Wed) ★ you're screaming, and crying, and hurting me, and smiling, apologizing.]]
 ### documentation
 - [[Tarot Journal]] 
 ### japanese

@@ -1312,10 +1312,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1282. Kanakana Shigure — Michael Tai : August 10, 2025
 1283. enclosed — Mixed Matches : August 11, 2025
 1284. from Y to Y — ジミーサムP / OneRoom : August 12, 2025
-
-1285 ν August 13, 2025
-
-1286 ν August 14, 2025
+1285. Trouble — Coldplay : August 13, 2025
+1286. Pasensya Ka Na — Silent Sanctuary : August 14, 2025
 
 1287 ν August 15, 2025
 

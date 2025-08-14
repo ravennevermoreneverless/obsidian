@@ -173,3 +173,4 @@ tags: [[raven]] [[spreadsheet]] [[films]]
 170. ***Anabelle Comes Home*** (2019) dir. Gary Dauberman • 8/9/2025
 171. ***The Conjuring 2*** (2016) dir. James Wan • 8/9/2025
 172. ***The Conjuring: The Devil Made Me Do It*** (2021) dir. Michael Chaves • 8/10/2925
+173. **Barbarian** (2022) dir. Zach Cregger • 8/13/2025

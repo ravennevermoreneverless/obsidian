@@ -241,7 +241,7 @@ my friend told me she gets a lil annoyed about my "i hate men" shit like IM SO F
 --
 i remember when i was an elementary (and middle school) kid, my family had enough money to transfer me from a public school to a private school yet i refused so VEHEMENTLY, reasoning i would NEVER leave my friends ever like wow kid ur sentimentality cost u a proper education
 --
-normal-looking people and their very normal relationships
+==normal-looking people and their very normal relationships==
 --
 loving music—not in a music critic, album reviewer, song analyst type of way or a perfect pitch, violinist, music theory, playing in a band type of way or even a song recommender, radio DJ, lyric-memorizing type of way—but in my strange esoteric in-my-own-world type of way.
 --

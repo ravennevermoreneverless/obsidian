@@ -25,3 +25,4 @@
 - [[Dream Journal — 2018 ★ I dreamt about her again]]
 - [[Dream Journal — 18th of March, 2018 (Sun) ★ leaving italy on a jet, killing nazis and redecorating the fat nazi chief's house]]
 - [[Dream Journal — 20th of March, 2018 (Tue) ★ Lorde turned into Claire, my most hated substitute teacher in Filipino]]
+- [[Dream Journal — 25th of March, 2018 (Sun) ★ fire caused by a lightning and my parents didn't care one bit]]
