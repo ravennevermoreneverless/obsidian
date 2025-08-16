@@ -1314,12 +1314,9 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1284. from Y to Y — ジミーサムP / OneRoom : August 12, 2025
 1285. Trouble — Coldplay : August 13, 2025
 1286. Pasensya Ka Na — Silent Sanctuary : August 14, 2025
-
-1287 ν August 15, 2025
-
-1288 ν August 16, 2025
-
-1289 ν August 17, 2025
+1287. Paracetamol — Declan McKenna : August 15, 2025
+1288. Twin Flames — Midrift : August 16, 2025
+1289. Take Me To Church — Hozier : August 17, 2025
 
 1290 ν August 18, 2025
 

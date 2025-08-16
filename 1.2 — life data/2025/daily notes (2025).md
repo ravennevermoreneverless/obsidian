@@ -426,3 +426,7 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==13 - 21:34== It was like nothing had happened but I cried during the afternoon because of remembering last night. It took me 2 hours to post stuff. Chai's mom went home. Chai and I watched ***Barbarian***, it was great. 
 
 ==14 - 19:51== Didn't do much today but cuddle with Chai. It's our second day of our periods today. I don't remember much of what happened. Her mom sang at a videoke and Chai and I took a bath. I massaged her head because she didn't feel well. I'm going home tomorrow. Why do I feel like this is the last time? I cried again. I feel so lonely and empty and I feel like nothing can make me feel better.
+
+==15 - 23:09== Chai colored her hair today before going to the interview. We didn't go to the interview but we ate at McDonald's Megamall, then went home to San Joaquin. We talked a lot today with our mom, we got told we'd have to move houses again. I couldn't go to my interview today either because I thought it's tomorrow. 
+
+==16 - --== I forgot most of what happened today but Chai and I played 99 Nights for most of the day while she used Roblox script as we played. We bathed Cheesecake and cleaned the room. The twin babies went by our house and stayed for the night. We didn't get to sleep at all because of the babies. I feel bad for MY baby (Chai). 

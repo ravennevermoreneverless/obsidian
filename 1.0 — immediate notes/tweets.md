@@ -149,7 +149,7 @@ discordは孤独な人たちでいっぱい。誰にも他の人に知り合い�
 --
 ==ちょっとの間、生きていたい。==
 --
-早く起きてみたけど、、、、、 12時ごろだけもう疲れた( ´_ゝ`)
+==早く起きてみたけど、、、、、 12時ごろだけもう疲れた==
 --
 何度も何度も繰り返せば、 いつもと違った朝が来る。
 --
@@ -311,7 +311,7 @@ i remember christmas of 2019, my family rented a vacation house in tagaytay. and
 
 i sat there for the entire day, 10 hours perhaps, reading this book called "black order" that my friend gave me for my birthday. no one bothered me, i was left alone. i was not expected to socialize at all. it was the most fun i've ever had on a christmas day.
 --
-"how do i romanticize life?" on reddit its just so sad That we just kinda lost the ability to live life yknow
+=="how do i romanticize life?" on reddit its just so sad That we just kinda lost the ability to live life yknow==
 --
 oh i miss the moments when i didnt have such an intricate almost perfect system that works so well for me
 --
