@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.8 — database/the ultimate playlist of my life/Why Do You Feel So Down.md",
+                "file": "5.8 — database/the ultimate playlist of my life/テノヒラ (Tenohira).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Why Do You Feel So Down"
+              "title": "テノヒラ (Tenohira)"
             }
           },
           {
@@ -8041,6 +8041,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e51785abf8abacda",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -8074,7 +8084,9 @@
   },
   "active": "aea458135827066b",
   "lastOpenFiles": [
-    "5.8 — database/the ultimate playlist of my life/テノヒラ (\"Tenohira\").md",
+    "5.8 — database/the ultimate playlist of my life/スキキライ Like Dislike (Suki Kirai).md",
+    "5.8 — database/the ultimate playlist of my life/Why Do You Feel So Down.md",
+    "5.8 — database/the ultimate playlist of my life/テノヒラ (Tenohira).md",
     "5.0 — everything else/the ultimate playlist of my life.md",
     "1.0 — immediate notes/flashcards/japanese flashcards.md",
     "1.2 — life data/2025/daily notes (2025).md",
@@ -8108,8 +8120,6 @@
     "1.0 — immediate notes/tweets.md",
     "5.8 — database/the ultimate playlist of my life/The King of Carrot Flowers, Pt. 1.md",
     "5.8 — database/the ultimate playlist of my life/예뻤어 (You Were Beautiful).md",
-    "5.8 — database/the ultimate playlist of my life/시간과 낙엽.md",
-    "5.8 — database/the ultimate playlist of my life/Blueshift.md",
     "5.1 — images stockpile/art/2012",
     "2.2 — creative projects/raven's brain/songwriting",
     "5.1 — images stockpile/art/2011",
