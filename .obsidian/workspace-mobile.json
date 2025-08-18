@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "calendar-clock",
-              "title": "Agenda"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -27,8 +27,8 @@
               "type": "tasknotes-task-list-view",
               "state": {},
               "pinned": true,
-              "icon": "check-square",
-              "title": "Tasks"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 — everything else/the ultimate playlist of my life.md",
+                "file": "5.8 — database/the ultimate playlist of my life/Why Do You Feel So Down.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the ultimate playlist of my life"
+              "title": "Why Do You Feel So Down"
             }
           },
           {
@@ -8031,6 +8031,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f2d44b69571e82d9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -8064,13 +8074,14 @@
   },
   "active": "aea458135827066b",
   "lastOpenFiles": [
+    "5.8 — database/the ultimate playlist of my life/テノヒラ (\"Tenohira\").md",
+    "5.0 — everything else/the ultimate playlist of my life.md",
     "1.0 — immediate notes/flashcards/japanese flashcards.md",
     "1.2 — life data/2025/daily notes (2025).md",
     "1.2 — life data/2025/daily tracker (2025).md",
     "5.8 — database/dailies/2025-08-17.md",
     "5.8 — database/the ultimate playlist of my life/The World At Large.md",
     "5.8 — database/the ultimate playlist of my life/Yes, I'm Changing.md",
-    "5.0 — everything else/the ultimate playlist of my life.md",
     "5.8 — database/the ultimate playlist of my life/Ceremony (Version 1).md",
     "5.8 — database/the ultimate playlist of my life/heart won't let me.md",
     "5.8 — database/the ultimate playlist of my life/505.md",
@@ -8099,7 +8110,6 @@
     "5.8 — database/the ultimate playlist of my life/예뻤어 (You Were Beautiful).md",
     "5.8 — database/the ultimate playlist of my life/시간과 낙엽.md",
     "5.8 — database/the ultimate playlist of my life/Blueshift.md",
-    "5.8 — database/the ultimate playlist of my life/Valentine.md",
     "5.1 — images stockpile/art/2012",
     "2.2 — creative projects/raven's brain/songwriting",
     "5.1 — images stockpile/art/2011",
