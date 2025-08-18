@@ -8082,6 +8082,16 @@
           "icon": "lucide-file",
           "title": "Plugin no longer active"
         }
+      },
+      {
+        "id": "369861546960d263",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
       }
     ],
     "currentTab": 0
@@ -8106,10 +8116,11 @@
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
       "tasknotes:Create new task": false,
-      "calculite:Show calculator": false
+      "calculite:Show calculator": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "aea458135827066b",
+  "active": "369861546960d263",
   "lastOpenFiles": [
     "5.1 — images stockpile/art/2012/2012 - lavi from d.gray-man.jpeg",
     "5.1 — images stockpile/art/2012/journal 3 - tomoki sakurai from sora no otoshimono.jpeg",
