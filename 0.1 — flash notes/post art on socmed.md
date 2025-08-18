@@ -1,11 +1,11 @@
 - [x] clean artwork
 - [x] add signature
-- [x] instagram 
-- [x] tiktok
-- [x] twitter
-- [x] pinterest
-- [x] reddit
-- [x] tumblr
-- [x] substack
-- [x] discord
+- [ ] instagram 
+- [ ] tiktok
+- [ ] twitter
+- [ ] pinterest
+- [ ] reddit
+- [ ] tumblr
+- [ ] substack
+- [ ] discord
 - [ ] add on obsidian
