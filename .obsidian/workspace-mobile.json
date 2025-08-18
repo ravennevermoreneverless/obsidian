@@ -27,8 +27,8 @@
               "type": "tasknotes-task-list-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "check-square",
+              "title": "Tasks"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.8 — database/the ultimate playlist of my life/The King of Carrot Flowers, Pt. 2 & 3.md",
+                "file": "5.8 — database/the ultimate playlist of my life/The World At Large.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The King of Carrot Flowers, Pt. 2 & 3"
+              "title": "The World At Large"
             }
           },
           {
@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "japanese flashcards"
             }
-          },
-          {
-            "id": "39340968c3b78893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 — immediate notes/file cooker.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "file cooker"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -7965,6 +7941,96 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f4941ce46622a89a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "413d3da848da0e91",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a653dffe7906321d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "6f604c4d33559086",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7ef04f9a182777fe",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "d1bbe64295ac43af",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "03db6851811e33cb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b323a6b199d1e460",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "60afb9095525f0bc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -7996,10 +8062,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "39340968c3b78893",
+  "active": "aea458135827066b",
   "lastOpenFiles": [
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 65.jpg",
+    "1.0 — immediate notes/flashcards/japanese flashcards.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "1.2 — life data/2025/daily tracker (2025).md",
+    "5.8 — database/dailies/2025-08-17.md",
+    "5.8 — database/the ultimate playlist of my life/The World At Large.md",
+    "5.8 — database/the ultimate playlist of my life/Yes, I'm Changing.md",
+    "5.0 — everything else/the ultimate playlist of my life.md",
+    "5.8 — database/the ultimate playlist of my life/Ceremony (Version 1).md",
+    "5.8 — database/the ultimate playlist of my life/heart won't let me.md",
+    "5.8 — database/the ultimate playlist of my life/505.md",
+    "5.8 — database/the ultimate playlist of my life/Videotape.md",
+    "5.8 — database/the ultimate playlist of my life/Supercut.md",
+    "5.8 — database/the ultimate playlist of my life/Why Even Try.md",
+    "5.8 — database/the ultimate playlist of my life/In the Aeroplane Over the Sea.md",
+    "5.8 — database/the ultimate playlist of my life/The King of Carrot Flowers, Pt. 2 & 3.md",
     "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 65.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 64.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 63.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 62.jpg",
@@ -8009,30 +8090,16 @@
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 58.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 57.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 56.jpg",
-    "1.0 — immediate notes/flashcards/japanese flashcards.md",
     "1.0 — immediate notes/philosophers i want to study.md",
     "0.1 — flash notes/post art on socmed.md",
     "5.0 — everything else/monoquin songs.md",
-    "1.2 — life data/2025/daily notes (2025).md",
     "5.8 — database/dailies/2025-08-16.md",
     "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/the ultimate playlist of my life.md",
-    "5.8 — database/the ultimate playlist of my life/The King of Carrot Flowers, Pt. 2 & 3.md",
     "5.8 — database/the ultimate playlist of my life/The King of Carrot Flowers, Pt. 1.md",
     "5.8 — database/the ultimate playlist of my life/예뻤어 (You Were Beautiful).md",
     "5.8 — database/the ultimate playlist of my life/시간과 낙엽.md",
     "5.8 — database/the ultimate playlist of my life/Blueshift.md",
     "5.8 — database/the ultimate playlist of my life/Valentine.md",
-    "5.8 — database/the ultimate playlist of my life/Falling.md",
-    "5.8 — database/the ultimate playlist of my life/Ribs.md",
-    "5.8 — database/the ultimate playlist of my life/Youuu.md",
-    "5.8 — database/the ultimate playlist of my life/Uwi Bahay.md",
-    "5.8 — database/the ultimate playlist of my life/Nine.md",
-    "5.8 — database/the ultimate playlist of my life/Two.md",
-    "5.8 — database/the ultimate playlist of my life/Never Really Over.md",
-    "5.8 — database/the ultimate playlist of my life/スキキライ Like Dislike (Suki Kirai).md",
-    "5.8 — database/the ultimate playlist of my life/Good Things Fall Apart.md",
-    "5.8 — database/the ultimate playlist of my life/Sincerity is Scary.md",
     "5.1 — images stockpile/art/2012",
     "2.2 — creative projects/raven's brain/songwriting",
     "5.1 — images stockpile/art/2011",
