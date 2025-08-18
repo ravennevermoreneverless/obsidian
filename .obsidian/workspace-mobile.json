@@ -8079,8 +8079,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -8106,8 +8106,7 @@
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
       "tasknotes:Create new task": false,
-      "calculite:Show calculator": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "calculite:Show calculator": false
     }
   },
   "active": "aea458135827066b",
