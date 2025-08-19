@@ -35,12 +35,48 @@
             "id": "aea458135827066b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5.1 — images stockpile/genre iceberg legend.jpg"
+                "file": "0.1 — flash notes/DIPPY AI TEST VIDEO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "genre iceberg legend"
+              "icon": "lucide-file",
+              "title": "DIPPY AI TEST VIDEO"
+            }
+          },
+          {
+            "id": "1ede781db53b0023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 — life data/2025/daily tracker (2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "daily tracker (2025)"
             }
           },
           {
@@ -49,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.8 — database/the ultimate playlist of my life/The World At Large.md",
+                "file": "5.8 — database/the ultimate playlist of my life/Never Meant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,35 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The World At Large"
-            }
-          },
-          {
-            "id": "98c7faad131b6aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 — immediate notes/flashcards/japanese flashcards.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "japanese flashcards"
+              "title": "Never Meant"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.0 — immediate notes/tweets.md",
+            "file": "5.0 — everything else/the ultimate playlist of my life.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -8089,6 +8101,120 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "29b2f676328aa24c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "77cdfa64d4cc53de",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "4f07f1705394c680",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.1 — flash notes/post art on socmed.md",
+            "mode": "source",
+            "source": false,
+            "backlinks": true,
+            "backlinkOpts": {
+              "collapseAll": false,
+              "extraContext": false,
+              "sortOrder": "alphabetical",
+              "showSearch": false,
+              "searchQuery": "",
+              "backlinkCollapsed": false,
+              "unlinkedCollapsed": true
+            }
+          },
+          "icon": "lucide-file",
+          "title": "post art on socmed"
+        }
+      },
+      {
+        "id": "f7f8356b4ee84c48",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "971986cbe9a76433",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2b822cc171ebe092",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "cd95fdbd498eba9f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "0cb3efb8d988aa04",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9daa62b072015a70",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a6da7d3449e9960b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -8120,44 +8246,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "369861546960d263",
+  "active": "1ede781db53b0023",
   "lastOpenFiles": [
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-08-19.md",
+    "0.1 — flash notes/DIPPY AI TEST VIDEO.md",
+    "5.0 — everything else/the ultimate playlist of my life.md",
+    "5.8 — database/the ultimate playlist of my life/Never Meant.md",
+    "5.8 — database/the ultimate playlist of my life/Six.md",
+    "5.8 — database/the ultimate playlist of my life/ピアス.md",
+    "5.8 — database/the ultimate playlist of my life/Teenage Dirtbag.md",
+    "5.8 — database/the ultimate playlist of my life/I Am Not Alive.md",
+    "5.8 — database/the ultimate playlist of my life/Up.md",
+    "5.8 — database/the ultimate playlist of my life/Human Sadness.md",
+    "5.8 — database/the ultimate playlist of my life/Get Got.md",
+    "5.8 — database/the ultimate playlist of my life/Mr. Blue.md",
+    "5.8 — database/the ultimate playlist of my life/Sweet Disposition.md",
+    "5.8 — database/the ultimate playlist of my life/The World At Large.md",
+    "5.1 — images stockpile/genre iceberg legend.jpg",
+    "5.1 — images stockpile/art/2012/2012 - miku with pikachu len and rin.jpeg",
+    "0.1 — flash notes/post art on socmed.md",
+    "5.0 — everything else/monoquin songs.md",
+    "5.8 — database/dailies/2025-08-18.md",
     "5.1 — images stockpile/art/2012/2012 - lavi from d.gray-man.jpeg",
     "5.1 — images stockpile/art/2012/journal 3 - tomoki sakurai from sora no otoshimono.jpeg",
-    "0.1 — flash notes/post art on socmed.md",
     "5.8 — database/the ultimate playlist of my life/テノヒラ (Tenohira).md",
     "5.8 — database/the ultimate playlist of my life/スキキライ Like Dislike (Suki Kirai).md",
     "5.8 — database/the ultimate playlist of my life/Why Do You Feel So Down.md",
-    "5.0 — everything else/the ultimate playlist of my life.md",
     "1.0 — immediate notes/flashcards/japanese flashcards.md",
-    "1.2 — life data/2025/daily notes (2025).md",
     "1.2 — life data/2025/daily tracker (2025).md",
     "5.8 — database/dailies/2025-08-17.md",
-    "5.8 — database/the ultimate playlist of my life/The World At Large.md",
     "5.8 — database/the ultimate playlist of my life/Yes, I'm Changing.md",
     "5.8 — database/the ultimate playlist of my life/Ceremony (Version 1).md",
-    "5.8 — database/the ultimate playlist of my life/heart won't let me.md",
-    "5.8 — database/the ultimate playlist of my life/505.md",
-    "5.8 — database/the ultimate playlist of my life/Videotape.md",
-    "5.8 — database/the ultimate playlist of my life/Supercut.md",
-    "5.8 — database/the ultimate playlist of my life/Why Even Try.md",
-    "5.8 — database/the ultimate playlist of my life/In the Aeroplane Over the Sea.md",
-    "5.8 — database/the ultimate playlist of my life/The King of Carrot Flowers, Pt. 2 & 3.md",
-    "1.0 — immediate notes/file cooker.md",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 65.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 64.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 63.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 62.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 61.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 60.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 59.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 58.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 57.jpg",
-    "1.0 — immediate notes/philosophers i want to study.md",
-    "5.0 — everything else/monoquin songs.md",
-    "5.8 — database/dailies/2025-08-16.md",
-    "1.0 — immediate notes/tweets.md",
-    "5.8 — database/the ultimate playlist of my life/The King of Carrot Flowers, Pt. 1.md",
     "5.1 — images stockpile/art/2012",
     "2.2 — creative projects/raven's brain/songwriting",
     "5.1 — images stockpile/art/2011",

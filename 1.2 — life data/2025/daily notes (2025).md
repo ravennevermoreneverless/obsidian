@@ -432,3 +432,7 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==16 - --== I forgot most of what happened today but Chai and I played 99 Nights for most of the day while she used Roblox script as we played. We bathed Cheesecake and cleaned the room. The twin babies went by our house and stayed for the night. We didn't get to sleep at all because of the babies. I feel bad for MY baby (Chai). 
 
 ==17 - 21:47== A very long day. Chai, mom, dad, and I didn't sleep much because of the twin babies. We took care of them until afternoon. Afterwards, Chai and I cleaned the room again. Then dinner came, Chelsea, me, and Chai were all laughs, until dad got angry at us because we didn't cook him dinner soon enough. Chai and I then took a shower. 
+
+==18 - 23:19== Chai's stomach hurt the entire day. But we played 99 Nights on ROBLOX for hours. I got my money today, my dad got his money, too. Chai and I fooled around a bit. Mom and I went to the groceries and bought KFC with my younger brother. I did my interview today with a woman named Valerie, it went well. 
+
+==19 - 22:27== I worked on the Digital Artist (Tik Tok/Instagram) test video for the entire day. I bought food for Chai and I (shawarma and fries) as well as her medicine. Someonen is trying to commission me on Tumblr but I'm not sure if it's a scam. 

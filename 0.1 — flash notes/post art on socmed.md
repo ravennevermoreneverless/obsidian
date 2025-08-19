@@ -7,5 +7,5 @@
 - [x] reddit
 - [x] tumblr
 - [x] substack
-- [x] discord
-- [x] add on obsidian
+- [ ] discord
+- [ ] add on obsidian
