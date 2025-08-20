@@ -5,12 +5,12 @@ contexts:
   - book
 timeEstimate: 300
 dateCreated: 2025-07-22T00:33:55.740+08:00
-dateModified: 2025-08-17T23:33:34.439+08:00
+dateModified: 2025-08-20T22:35:30.048+08:00
 tags:
   - book
   - task
 projects: []
-recurrence: DTSTART:20250722T003355Z;FREQ=DAILY;INTERVAL=1
+recurrence: FREQ=DAILY;INTERVAL=1
 complete_instances:
   - 2025-07-23
   - 2025-07-24
@@ -50,6 +50,6 @@ timeEntries:
   - startTime: 2025-08-05T00:52:15.871+08:00
     description: Work session
     endTime: 2025-08-05T01:06:32.455+08:00
-scheduled: 2025-08-18
+scheduled: 2025-08-20
 ---
 

@@ -2,15 +2,15 @@
 status: in-progress
 priority: low
 contexts:
-  - music
   - albums
+  - music
 timeEstimate: 100000
-recurrence: DTSTART:20250722T003730Z;FREQ=DAILY;INTERVAL=1
+recurrence: FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-22T00:37:30.917+08:00
-dateModified: 2025-08-12T03:39:53.621+08:00
+dateModified: 2025-08-20T22:35:47.355+08:00
 tags:
-  - music
   - albums
+  - music
   - task
 timeEntries:
   - startTime: 2025-07-23T00:30:41.479+08:00
@@ -38,6 +38,7 @@ complete_instances:
   - 2025-08-01
   - 2025-08-04
   - 2025-08-08
+projects: []
 ---
 
 wiki / deep dive

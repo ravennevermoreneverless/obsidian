@@ -16,7 +16,7 @@ views:
     name: all albums
     filters:
       and:
-        - file.inFolder("5.8 — database/albums")
+        - file.folder == "ravenowsky/5.8 — database/albums"
     order:
       - file.name
       - typeofRelease

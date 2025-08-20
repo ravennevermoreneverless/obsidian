@@ -19,5 +19,5 @@ language:
 rating: 7
 complete_instances:
   - 2022-01-06
-image:
+image: "[[nurture - porter robinson.jpg]]"
 ---

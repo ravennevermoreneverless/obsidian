@@ -4,14 +4,14 @@ priority: low
 contexts:
   - flashcards
 timeEstimate: 30
-recurrence: DTSTART:20250723T002452Z;FREQ=DAILY;INTERVAL=1
+recurrence: FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-23T00:24:52.562+08:00
-dateModified: 2025-08-17T23:33:29.087+08:00
+dateModified: 2025-08-20T22:36:16.092+08:00
 tags:
-  - japanese
   - english
-  - science
+  - japanese
   - math
+  - science
   - task
 complete_instances:
   - 2025-08-07
@@ -24,6 +24,8 @@ complete_instances:
   - 2025-08-14
   - 2025-08-15
   - 2025-08-17
-scheduled: 2025-08-18
+  - 2025-08-20
+scheduled: 2025-08-20
+projects: []
 ---
 
