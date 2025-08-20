@@ -436,3 +436,5 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==18 - 23:19== Chai's stomach hurt the entire day. But we played 99 Nights on ROBLOX for hours. I got my money today, my dad got his money, too. Chai and I fooled around a bit. Mom and I went to the groceries and bought KFC with my younger brother. I did my interview today with a woman named Valerie, it went well. 
 
 ==19 - 22:27== I worked on the Digital Artist (Tik Tok/Instagram) test video for the entire day. I bought food for Chai and I (shawarma and fries) as well as her medicine. Someonen is trying to commission me on Tumblr but I'm not sure if it's a scam. 
+
+==20 - 21:55== It's Chai and I's anniversary. Nothing much happened but my love for her is still overflowing. She's still sick and I still took care of her. We slept a lot and played 99 Nights on ROBLOX. 

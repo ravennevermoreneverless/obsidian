@@ -8,6 +8,9 @@ secondaryMusicGenre:
   - math pop
 dateListened: 2022-01-01
 language: english
-rating:
+rating: 5
 typeofRelease: LP
+complete_instances:
+  - 2022-01-01
+image: "[[american football (LP2) - american football.jpg]]"
 ---

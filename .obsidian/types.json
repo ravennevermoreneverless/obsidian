@@ -30,6 +30,7 @@
     "musicGenre": "multitext",
     "dateListened": "date",
     "rating": "number",
-    "secondaryMusicGenre": "multitext"
+    "secondaryMusicGenre": "multitext",
+    "language": "multitext"
   }
 }

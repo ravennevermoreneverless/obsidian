@@ -12,7 +12,7 @@ properties:
   note.artist:
     displayName: artist
 views:
-  - type: table
+  - type: cards
     name: all albums
     filters:
       and:
@@ -27,6 +27,8 @@ views:
       - dateListened
       - language
       - rating
+      - complete_instances
+      - image
     sort:
       - property: dateListened
         direction: ASC
@@ -38,6 +40,9 @@ views:
       note.dateListened: 94
       note.language: 113
       note.typeofRelease: 102
+    image: note.image
+    cardSize: 120
+    imageAspectRatio: 1
   - type: table
     name: "2022"
     filters:

@@ -11,4 +11,7 @@ dateListened: 2022-01-02
 language:
 typeofRelease: LP
 rating: 8
+complete_instances:
+  - 2022-01-02
+image: "[[the campfire headphase - boards of canada.jpg]]"
 ---

@@ -14,4 +14,7 @@ dateListened: 2022-01-01
 rating: 7
 typeofRelease: LP
 language: english
+image: "[[american football - american football.jpg]]"
+complete_instances:
+  - 2022-01-01
 ---

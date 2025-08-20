@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "tasknotes-agenda-view"
+              "icon": "calendar-clock",
+              "title": "Agenda"
             }
           },
           {
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "0868bb1403bbc545",
+            "id": "5b67a39de68ff985",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -64,24 +64,36 @@
                 "file": "1.0 — immediate notes/albums i listened to.base",
                 "viewName": "all albums"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "albums i listened to"
             }
           },
           {
-            "id": "28a0087a471e34a6",
+            "id": "7ab07a5f933c3037",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5.1 — images stockpile/art/2012/2012 - hatsune mikuo & hatsune miku.jpeg"
+                "file": "1.2 — life data/2025/daily notes (2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "2012 - hatsune mikuo & hatsune miku"
+              "icon": "lucide-file",
+              "title": "daily notes (2025)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5.1 — images stockpile/art/2012/2012 - hatsune mikuo & hatsune miku.jpeg",
+            "file": "1.0 — immediate notes/albums i listened to.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -8272,6 +8284,36 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "49a16f6c317b7830",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "38620276aaeaf3ac",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "13c8e7503c60ded9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -8304,46 +8346,46 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "28a0087a471e34a6",
+  "active": "5b67a39de68ff985",
   "lastOpenFiles": [
-    "0.1 — flash notes/post art on socmed.md",
-    "5.1 — images stockpile/art/2012/2012 - hatsune mikuo & hatsune miku.jpeg",
-    "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/monoquin songs.md",
-    "1.0 — immediate notes/albums i listened to.base",
-    "5.8 — database/albums/The Campfire Headphase.md",
-    "5.8 — database/albums/Geogaddi.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-08-20.md",
     "1.2 — life data/2022/media/albums i listened to (2022).md",
-    "5.8 — database/albums/Music Has the Right to Children.md",
+    "1.0 — immediate notes/albums i listened to.base",
+    "5.8 — database/albums/Nurture.md",
+    "5.8 — database/albums/Worlds.md",
+    "5.8 — database/albums/Thank Your Lucky Stars.md",
+    "5.8 — database/albums/Once Twice Melody.md",
+    "5.8 — database/albums/Depression Cherry.md",
+    "5.8 — database/albums/7.md",
+    "5.8 — database/albums/Teen Dream.md",
+    "5.8 — database/albums/Bloom.md",
+    "5.8 — database/albums/Devotion.md",
+    "5.8 — database/albums/Beach House.md",
+    "5.8 — database/albums/Tomorrow's Harvest.md",
+    "5.8 — database/albums/The Campfire Headphase.md",
     "5.8 — database/albums/Twoism.md",
+    "5.8 — database/albums/Music Has the Right to Children.md",
+    "5.8 — database/albums/Geogaddi.md",
+    "5.8 — database/albums/American Football.md",
     "5.8 — database/albums/American Football (LP3).md",
     "5.8 — database/albums/American Football (LP2).md",
-    "5.8 — database/albums/American Football.md",
-    "5.8 — database/albums/Music Has The Right to Children.md",
-    "1.0 — immediate notes/actual templates/album template.md",
-    "1.0 — immediate notes/actual templates/ultimate playlist template.md",
-    "5.8 — database/the ultimate playlist of my life/Never Meant.md",
-    "0.1 — flash notes/DIPPY AI TEST VIDEO.md",
+    "5.1 — images stockpile/album covers/american football (LP2) - american football.jpg",
+    "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/album covers/teen dream - beach house.jpg",
+    "5.1 — images stockpile/album covers/worlds - porter robinson.jpg",
+    "5.1 — images stockpile/album covers/thank your lucky stars - beach house.jpg",
+    "5.1 — images stockpile/album covers/once twice melody - beach house.jpg",
+    "5.1 — images stockpile/album covers/depression cherry - beach house.jpg",
+    "5.1 — images stockpile/album covers/7 - beach house.jpg",
+    "5.1 — images stockpile/album covers/bloom - beach house.jpg",
+    "5.1 — images stockpile/album covers/devotion - beach house.jpg",
+    "5.1 — images stockpile/album covers/tomorrow's harvest - boards of canada.jpg",
+    "6.0 — all tasks/study japanese.md",
+    "0.1 — flash notes/post art on socmed.md",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/monoquin songs.md",
     "5.8 — database/albums",
-    "5.8 — database/Untitled.md",
-    "5.8 — database/a quest of finding the most fucked up film to ever exist/The Human Centipede (First Sequence) (2009) dir. Tom Six.md",
-    "1.2 — life data/2025/daily tracker (2025).md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/dailies/2025-08-19.md",
-    "5.0 — everything else/the ultimate playlist of my life.md",
-    "5.8 — database/the ultimate playlist of my life/Six.md",
-    "5.8 — database/the ultimate playlist of my life/ピアス.md",
-    "5.8 — database/the ultimate playlist of my life/Teenage Dirtbag.md",
-    "5.8 — database/the ultimate playlist of my life/I Am Not Alive.md",
-    "5.1 — images stockpile/genre iceberg legend.jpg",
-    "5.1 — images stockpile/art/2012/2012 - miku with pikachu len and rin.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - lavi from d.gray-man.jpeg",
-    "5.1 — images stockpile/art/2012/journal 3 - tomoki sakurai from sora no otoshimono.jpeg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 65.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 64.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 63.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 62.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 61.jpg",
     "5.1 — images stockpile/art/2012",
     "2.2 — creative projects/raven's brain/songwriting",
     "5.1 — images stockpile/art/2011",

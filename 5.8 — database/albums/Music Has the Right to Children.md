@@ -12,4 +12,7 @@ dateListened: 2022-01-01
 language: english
 typeofRelease: LP
 rating: 9
+complete_instances:
+  - 2022-01-01
+image: "[[music has the right to children - boards of canada.jpg]]"
 ---

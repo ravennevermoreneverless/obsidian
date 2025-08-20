@@ -15,4 +15,7 @@ dateListened: 2022-01-01
 language: english
 typeofRelease: LP
 rating: 8
+complete_instances:
+  - 2022-01-01
+image: "[[geogaddi - boards of canada.jpg]]"
 ---
