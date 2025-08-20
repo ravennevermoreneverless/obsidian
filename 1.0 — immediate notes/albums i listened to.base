@@ -1,0 +1,60 @@
+properties:
+  file.name:
+    displayName: albumTitle
+  note.dateReleased:
+    displayName: dateReleased
+  note.musicGenre:
+    displayName: musicGenres
+  note.dateListened:
+    displayName: dateListened
+  note.rating:
+    displayName: rating
+  note.artist:
+    displayName: artist
+views:
+  - type: table
+    name: all albums
+    filters:
+      and:
+        - file.inFolder("5.8 — database/albums")
+    order:
+      - file.name
+      - typeofRelease
+      - artist
+      - dateReleased
+      - primaryMusicGenre
+      - secondaryMusicGenre
+      - dateListened
+      - language
+      - rating
+    sort:
+      - property: dateListened
+        direction: ASC
+    columnSize:
+      file.name: 188
+      note.artist: 200
+      note.primaryMusicGenre: 243
+      note.secondaryMusicGenre: 297
+      note.dateListened: 94
+      note.language: 113
+      note.typeofRelease: 102
+  - type: table
+    name: "2022"
+    filters:
+      and:
+        - file.inFolder("5.8 — database/albums")
+        - dateListened >= "2022-01-01"
+        - dateListened <= "2022-12-31"
+    order:
+      - file.name
+      - artist
+      - dateReleased
+      - musicGenre
+      - dateListened
+      - rating
+    columnSize:
+      file.name: 290
+      note.artist: 200
+      note.dateReleased: 100
+      note.musicGenre: 360
+      note.dateListened: 94

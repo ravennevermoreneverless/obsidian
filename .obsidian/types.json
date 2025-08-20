@@ -24,6 +24,12 @@
     "ankiDeck": "checkbox",
     "": "number",
     "minutes": "text",
-    "seconds": "text"
+    "seconds": "text",
+    "yearReleased": "date",
+    "dateReleased": "date",
+    "musicGenre": "multitext",
+    "dateListened": "date",
+    "rating": "number",
+    "secondaryMusicGenre": "multitext"
   }
 }
