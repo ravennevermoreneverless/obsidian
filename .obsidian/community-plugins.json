@@ -3,5 +3,6 @@
   "lazy-plugins",
   "custom-font-loader",
   "tasknotes",
-  "remember-cursor-position"
+  "remember-cursor-position",
+  "obsidian-git"
 ]
