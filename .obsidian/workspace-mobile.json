@@ -8455,6 +8455,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ba26bd6d95dc7f18",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a7c673445908c595",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -8486,7 +8506,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b8e97954a8ce4cb6",
+  "active": "a7c673445908c595",
   "lastOpenFiles": [
     "5.8 — database/albums/American Football (LP3).md",
     "5.9 — bases/albums i listened to.base",
