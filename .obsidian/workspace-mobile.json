@@ -72,13 +72,24 @@
             "id": "b8e97954a8ce4cb6",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "5.9 — bases/albums i listened to.base",
-                "viewName": "all albums"
+                "file": "5.5 — galleries/2019 gallery.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "albums i listened to"
+              "icon": "lucide-file",
+              "title": "2019 gallery"
             }
           }
         ],
@@ -5233,8 +5244,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "review-queue-list-view"
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
         }
       },
       {
@@ -8475,6 +8486,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8ee46a340193be94",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -8506,10 +8527,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a7c673445908c595",
+  "active": "b8e97954a8ce4cb6",
   "lastOpenFiles": [
-    "5.8 — database/albums/American Football (LP3).md",
+    "5.5 — galleries/2018 gallery.md",
+    "5.5 — galleries/2012 gallery.md",
+    "5.5 — galleries/2011 gallery.md",
+    "5.5 — galleries/2nd journal gallery.md",
+    "5.5 — galleries/1st journal gallery.md",
+    "5.5 — galleries/3rd journal gallery.md",
     "5.9 — bases/albums i listened to.base",
+    "5.8 — database/albums/American Football (LP3).md",
     "5.9 — bases/every transaction.base",
     "5.9 — bases/all the kanji.base",
     "5.8 — database/transactions/transaction1.md",
@@ -8532,12 +8559,6 @@
     "1.2 — life data/journaling/2018/2018 ★ You'll never know when you'll last see a place or person.md",
     "1.2 — life data/journaling/2018/2018 ★ IDEAL LIFE.md",
     "3.0 — tags/life.md",
-    "4.0 — indexes/life (index).md",
-    "3.0 — tags/grief.md",
-    "4.0 — indexes/grief (index).md",
-    "1.2 — life data/journaling/2018/2018 ★ SOULMATES.md",
-    "5.0 — everything else/everything about you, chai..md",
-    "1.2 — life data/journaling/2018/28th of March, 2018 — 4.09 (Wed) ★ adrian and the almost (feeling nauseous).md",
     "5.1 — images stockpile/kanji/金.jpg",
     "5.1 — images stockpile/kanji/火.jpg",
     "5.1 — images stockpile/kanji/水.jpg",

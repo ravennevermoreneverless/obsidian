@@ -62,6 +62,9 @@
       },
       "hledger-notes": {
         "startupType": "instant"
+      },
+      "obsidian-image-gallery": {
+        "startupType": "short"
       }
     }
   }

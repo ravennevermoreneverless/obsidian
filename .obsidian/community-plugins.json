@@ -3,6 +3,5 @@
   "lazy-plugins",
   "custom-font-loader",
   "tasknotes",
-  "remember-cursor-position",
-  "obsidian-image-gallery"
+  "remember-cursor-position"
 ]
