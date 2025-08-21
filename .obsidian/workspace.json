@@ -16,8 +16,46 @@
               "icon": "calendar-clock",
               "title": "Agenda"
             }
+          },
+          {
+            "id": "5cb3db8a91d115c1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "5.9 — bases/albums i listened to.base",
+                "viewName": "all albums"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "albums i listened to"
+            }
+          },
+          {
+            "id": "7a16b80f95bcf57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 — life data/2022/media/albums i listened to (2022).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "albums i listened to (2022)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,25 +240,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "852570accae63d52",
+  "active": "5cb3db8a91d115c1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "6.0 — all tasks/convert everything to bases.md",
-    "5.5 — galleries/2019 gallery.md",
-    "5.5 — galleries/2018 gallery.md",
-    "5.5 — galleries/2012 gallery.md",
-    "5.5 — galleries/2011 gallery.md",
-    "5.5 — galleries/3rd journal gallery.md",
-    "5.5 — galleries/2nd journal gallery.md",
-    "5.5 — galleries/1st journal gallery.md",
-    "1.2 — life data/playlists/the morbid, ugly, depressing side of reality.md",
-    "1.2 — life data/playlists/sounds pretty gay but okay.md",
-    "1.2 — life data/playlists/scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit.md",
-    "1.2 — life data/playlists/marceline abadeer would probably like these songs.md",
-    "1.2 — life data/playlists/in a teen coming-of-age film where the main character's finally ready for the next chapter.md",
-    "1.2 — life data/playlists/first 30 seconds mini melodic orgasms.md",
-    "1.2 — life data/playlists/cris🅱️y songs.md",
-    "1.2 — life data/playlists/a collection of narrative songs to transport you to a different world.md",
+    "5.8 — database/albums/Filth.md",
+    "5.9 — bases/albums i listened to.base",
+    "5.8 — database/albums/Whirlpool.md",
+    "5.8 — database/albums/Girl With Basket of Fruit.md",
+    "5.8 — database/albums/Plays the Music of Twin Peaks.md",
+    "5.8 — database/albums/INVU.md",
+    "5.8 — database/albums/The Air Force.md",
+    "5.8 — database/albums/La forêt.md",
+    "5.8 — database/albums/Knife Play.md",
+    "5.8 — database/albums/Fabulous Muscles.md",
+    "5.8 — database/albums/A Promise.md",
+    "5.8 — database/albums/The Taste of TG. A Beginner's Guide to the Music of Throbbing Gristle.md",
+    "5.8 — database/albums/Heathen Earth.md",
+    "5.8 — database/albums/Thirty-Second Annual Report.md",
+    "5.8 — database/albums/The Second Annual Report.md",
+    "5.8 — database/albums/D.o.A. The Third and Final Report of Throbbing Gristle.md",
+    "5.8 — database/albums/20 Jazz Funk Greats.md",
+    "5.8 — database/albums/m b v.md",
+    "5.8 — database/albums/Loveless.md",
+    "5.8 — database/albums/Laurel Hell.md",
+    "5.8 — database/albums/Glider.md",
+    "5.8 — database/albums/Isn't Anything.md",
+    "5.8 — database/albums/Ecstasy.md",
+    "5.8 — database/albums/This Is Your Bloody Valentine.md",
+    "5.8 — database/albums/The New Record by My Bloody Valentine.md",
+    "5.8 — database/albums/Ghosts VI, Locusts.md",
+    "5.8 — database/albums/Geek!.md",
+    "5.1 — images stockpile/album covers/loveless - my bloody valentine.jpg",
+    "5.1 — images stockpile/album covers/m b v - my bloody valentine.jpg",
+    "5.1 — images stockpile/album covers/the second annual report - throbbing gristle.jpg",
+    "5.1 — images stockpile/album covers/thirty-second annual report - throbbing gristle.jpg",
+    "5.1 — images stockpile/album covers/d.o.a. the third and final report of throbbing gristle - throbbing gristle.jpg",
+    "5.1 — images stockpile/album covers/20 jazz funk greats - throbbing gristle.jpg",
+    "5.1 — images stockpile/album covers/heathen earth - throbbing gristle.jpg",
+    "5.1 — images stockpile/album covers/the taste of tg. a beginner's guide to the music of throbbing gristle - throbbing gristle.jpg",
+    "5.1 — images stockpile/album covers/knife play - xiu xiu.jpg",
+    "5.1 — images stockpile/album covers/a promise - xiu xiu.jpg",
     "1.2 — life data/journaling/dream journal",
     "1.2 — life data/journaling/2025",
     "1.2 — life data/journaling/2024",
@@ -229,16 +287,6 @@
     "1.2 — life data/journaling/2020",
     "1.2 — life data/journaling/2018",
     "1.2 — life data/journaling/2017",
-    "1.2 — life data/2025/the demon (2025) (discontinued).md",
-    "1.2 — life data/2025/media",
-    "1.2 — life data/2025/daily tracker (2025).md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "1.2 — life data/2025/annual cash flow (2025).md",
-    "1.2 — life data/2024/media",
-    "1.2 — life data/2024/daily notes (2024).md",
-    "1.2 — life data/2024/annual cash flow (2024).md",
-    "1.2 — life data/2023/daily notes (2023).md",
-    "1.2 — life data/2022/daily notes (2022).md",
-    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md"
+    "1.2 — life data/2025/media"
   ]
 }
