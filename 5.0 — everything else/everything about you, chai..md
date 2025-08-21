@@ -211,7 +211,7 @@ tags: [[chai]] [[relationship]] [[love]] [[yea]]
     
 - sting (red) & cigarettes (10 max.)
     
-- the "zonrox as hand soap" incident
+- the "zonrox as hand soap" incident inside an alcohol bottle
     
 - she loves "your call" by secondhand serenade (she can name all their songs)
     
@@ -362,7 +362,7 @@ tags: [[chai]] [[relationship]] [[love]] [[yea]]
     
 - she likes weird food combinations: ketchup on pancit bihon, ketchup on sinigang, sopas with toyo, champorado with siomai
     
-- favorite J.Co donut flavors: green tease, avocado dicaprio, mr. mokacha, oreology, mylosaurus, berry toffee, ms. green tea, coco loco
+- favorite J.Co donut flavors: green tease, avocado dicaprio, mr. mokacha, oreology, mylosaurus, berry toffee, mr. green tea, coco loco
     
 - pizza preference: all meats, cheesy burger, aloha, hawaiian, with olives and bell pepper (not: creamy spinach)
     

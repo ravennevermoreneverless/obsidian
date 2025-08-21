@@ -1,0 +1,4 @@
+status: #baby 
+tags: [[journal]] [[grief]] [[optimism]]
+
+This thought somehow brings an immense feeling of sentiment or... nostalgia, or something similar to that. It's what keeps me going. It makes me stick to a mindset that one day, something will change, something will just disappear... eventually, you'll lose that something. So, apparently, I have to make every second count. Every thought and moment I have, I'd have to cherish it. May it be a tragic moment, traumatizing, embarrassing, and blissful event, make it count. Every step along the way with someone, especially someone who's important to you, cherish it. You'll never know if tomorrow, they'd be gone... forever. You'll never know if this'll be the last time you'll be spending time with them. It's the same with places. Live for that morning sunrise you see during crisp mornings. Taste that salty sea water as if it's your last. Live for every minute. Make it count.

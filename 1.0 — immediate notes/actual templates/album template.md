@@ -1,11 +1,12 @@
 ---
-albumTitle: "{{title}}"
+typeofRelease:
 artist:
 dateReleased:
 primaryMusicGenre:
 secondaryMusicGenre:
 dateListened:
-rating:
-typeofRelease:
 language:
+rating:
+complete_instances:
+image:
 ---
