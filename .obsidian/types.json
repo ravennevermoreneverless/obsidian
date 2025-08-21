@@ -31,6 +31,9 @@
     "dateListened": "date",
     "rating": "number",
     "secondaryMusicGenre": "multitext",
-    "language": "multitext"
+    "language": "multitext",
+    "kanjiMeaning": "text",
+    "amount": "number",
+    "dateTranspired": "date"
   }
 }

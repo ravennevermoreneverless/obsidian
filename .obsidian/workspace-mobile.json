@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "calendar-clock",
-              "title": "Agenda"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-agenda-view"
             }
           },
           {
@@ -32,7 +32,20 @@
             }
           },
           {
-            "id": "c83b5fac40ae3a9c",
+            "id": "3713af87648d39cf",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "5.9 — bases/albums i listened to.base",
+                "viewName": "all albums"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "albums i listened to"
+            }
+          },
+          {
+            "id": "abe94c009319cf23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,44 +69,20 @@
             }
           },
           {
-            "id": "5b67a39de68ff985",
+            "id": "b8e97954a8ce4cb6",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "1.0 — immediate notes/albums i listened to.base",
+                "file": "5.9 — bases/albums i listened to.base",
                 "viewName": "all albums"
               },
               "icon": "lucide-layout-grid",
               "title": "albums i listened to"
             }
-          },
-          {
-            "id": "7ab07a5f933c3037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2025/daily notes (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "daily notes (2025)"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +173,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.0 — immediate notes/albums i listened to.base",
+            "file": "5.9 — bases/all the kanji.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -5239,24 +5228,6 @@
         }
       },
       {
-        "id": "0aea8e0d17098ef8",
-        "type": "leaf",
-        "state": {
-          "type": "calculite",
-          "state": {
-            "previousResult": null,
-            "previousOperator": null,
-            "previousInput": null,
-            "currentResult": null,
-            "currentOperator": null,
-            "currentInput": null,
-            "currentError": null
-          },
-          "icon": "lucide-calculator",
-          "title": "Calculite"
-        }
-      },
-      {
         "id": "80e3cc7c7cd6c835",
         "type": "leaf",
         "state": {
@@ -8314,12 +8285,182 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8a7cf4bee841313e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "fc6e7dfc879c8d9a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "42fabcef05a7c744",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e24c0899819edb60",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "12a6c378ca58097b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6656c1410971eb9e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1b11502f5de990ed",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "01ae43bf33145391",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f0b9af78f5bb3e42",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e6cb6ef4b95328ac",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9026a16f078926b6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e5b7e846476f8c01",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "df6eccf091ec4cff",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "50ddc2707fe4e67d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "475ff91f0dbab9cb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ff5d68c257f9709f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "da726a525cc007a8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 493
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -8342,57 +8483,56 @@
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
       "tasknotes:Create new task": false,
-      "calculite:Show calculator": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5b67a39de68ff985",
+  "active": "b8e97954a8ce4cb6",
   "lastOpenFiles": [
-    "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/dailies/2025-08-20.md",
-    "1.2 — life data/2022/media/albums i listened to (2022).md",
-    "1.0 — immediate notes/albums i listened to.base",
-    "5.8 — database/albums/Nurture.md",
-    "5.8 — database/albums/Worlds.md",
-    "5.8 — database/albums/Thank Your Lucky Stars.md",
-    "5.8 — database/albums/Once Twice Melody.md",
-    "5.8 — database/albums/Depression Cherry.md",
-    "5.8 — database/albums/7.md",
-    "5.8 — database/albums/Teen Dream.md",
-    "5.8 — database/albums/Bloom.md",
-    "5.8 — database/albums/Devotion.md",
-    "5.8 — database/albums/Beach House.md",
-    "5.8 — database/albums/Tomorrow's Harvest.md",
-    "5.8 — database/albums/The Campfire Headphase.md",
-    "5.8 — database/albums/Twoism.md",
-    "5.8 — database/albums/Music Has the Right to Children.md",
-    "5.8 — database/albums/Geogaddi.md",
-    "5.8 — database/albums/American Football.md",
     "5.8 — database/albums/American Football (LP3).md",
-    "5.8 — database/albums/American Football (LP2).md",
-    "5.1 — images stockpile/album covers/american football (LP2) - american football.jpg",
-    "1.0 — immediate notes/file cooker.md",
-    "5.1 — images stockpile/album covers/teen dream - beach house.jpg",
-    "5.1 — images stockpile/album covers/worlds - porter robinson.jpg",
-    "5.1 — images stockpile/album covers/thank your lucky stars - beach house.jpg",
-    "5.1 — images stockpile/album covers/once twice melody - beach house.jpg",
-    "5.1 — images stockpile/album covers/depression cherry - beach house.jpg",
-    "5.1 — images stockpile/album covers/7 - beach house.jpg",
-    "5.1 — images stockpile/album covers/bloom - beach house.jpg",
-    "5.1 — images stockpile/album covers/devotion - beach house.jpg",
-    "5.1 — images stockpile/album covers/tomorrow's harvest - boards of canada.jpg",
-    "6.0 — all tasks/study japanese.md",
-    "0.1 — flash notes/post art on socmed.md",
-    "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/monoquin songs.md",
-    "5.8 — database/albums",
-    "5.1 — images stockpile/art/2012",
-    "2.2 — creative projects/raven's brain/songwriting",
-    "5.1 — images stockpile/art/2011",
-    "5.1 — images stockpile/notes/2019",
-    "5.1 — images stockpile/art/2019",
-    "5.1 — images stockpile/journals/3rd journal (2019)",
-    "1.5 — japanese/study notes/genki I",
-    "1.5 — japanese/study notes"
+    "5.9 — bases/albums i listened to.base",
+    "5.9 — bases/every transaction.base",
+    "5.9 — bases/all the kanji.base",
+    "5.8 — database/transactions/transaction1.md",
+    "1.0 — immediate notes/2025-08-21.md",
+    "1.0 — immediate notes/actual templates/transactions template.md",
+    "1.0 — immediate notes/actual templates/playlist template.md",
+    "1.0 — immediate notes/actual templates/new movie template.md",
+    "1.2 — life data/2022/media/albums i listened to (2022).md",
+    "1.2 — life data/2025/media/films i watched (2025).md",
+    "5.8 — database/dailies/2025-08-21.md",
+    "1.0 — immediate notes/actual templates/day template.md",
+    "1.0 — immediate notes/2025-08-22.md",
+    "1.0 — immediate notes/actual templates/daily note template.md",
+    "1.2 — life data/journaling/2018/4th of April, 2018 — 18.44 (Wed) ★ cordelia codd.md",
+    "1.2 — life data/journaling/2018/3rd of April, 2018 — 00.20 (Tue) ★ highly illogical behavior by john corey whaley.md",
+    "3.0 — tags/job.md",
+    "1.0 — immediate notes/Recording 20250821172107.m4a",
+    "1.2 — life data/journaling/2018/2nd of April, 2018 — 18.57 (Mon) ★ please just stop.md",
+    "1.2 — life data/journaling/2018/2018 ★ MUSIC is my EVERYTHING.md",
+    "1.2 — life data/journaling/2018/2018 ★ You'll never know when you'll last see a place or person.md",
+    "1.2 — life data/journaling/2018/2018 ★ IDEAL LIFE.md",
+    "3.0 — tags/life.md",
+    "4.0 — indexes/life (index).md",
+    "3.0 — tags/grief.md",
+    "4.0 — indexes/grief (index).md",
+    "1.2 — life data/journaling/2018/2018 ★ SOULMATES.md",
+    "5.0 — everything else/everything about you, chai..md",
+    "1.2 — life data/journaling/2018/28th of March, 2018 — 4.09 (Wed) ★ adrian and the almost (feeling nauseous).md",
+    "5.1 — images stockpile/kanji/金.jpg",
+    "5.1 — images stockpile/kanji/火.jpg",
+    "5.1 — images stockpile/kanji/水.jpg",
+    "5.1 — images stockpile/kanji/木.jpg",
+    "5.1 — images stockpile/kanji/月.jpg",
+    "5.1 — images stockpile/kanji/曜.jpg",
+    "5.1 — images stockpile/kanji/日.jpg",
+    "5.1 — images stockpile/kanji/土.jpg",
+    "5.1 — images stockpile/kanji",
+    "5.8 — database/kanji",
+    "5.1 — images stockpile/art/2012/vocaloid fanart - meiko, luka, rin, miku, len, kaito.jpeg",
+    "5.8 — database/transactions",
+    "6.5 — transactions/transactions.ledger",
+    "6.5 — transactions/ledger.ledger",
+    "6.5 — transactions/hledger",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 75.jpg"
   ]
 }

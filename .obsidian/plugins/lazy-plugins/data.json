@@ -16,7 +16,7 @@
         "startupType": "long"
       },
       "colored-text": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "remember-cursor-position": {
         "startupType": "instant"
@@ -58,6 +58,9 @@
         "startupType": "instant"
       },
       "obsidian-rewarder": {
+        "startupType": "instant"
+      },
+      "hledger-notes": {
         "startupType": "instant"
       }
     }

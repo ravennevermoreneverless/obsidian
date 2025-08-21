@@ -16,7 +16,7 @@ views:
     name: all albums
     filters:
       and:
-        - file.folder == "ravenowsky/5.8 — database/albums"
+        - file.inFolder("5.8 — database/albums")
     order:
       - file.name
       - typeofRelease
@@ -41,7 +41,7 @@ views:
     image: note.image
     cardSize: 120
     imageAspectRatio: 1
-  - type: table
+  - type: cards
     name: "2022"
     filters:
       and:
@@ -55,9 +55,14 @@ views:
       - musicGenre
       - dateListened
       - rating
+    sort:
+      - property: dateListened
+        direction: ASC
     columnSize:
       file.name: 290
       note.artist: 200
       note.dateReleased: 100
       note.musicGenre: 360
       note.dateListened: 94
+    image: note.image
+    cardSize: 140

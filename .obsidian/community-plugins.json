@@ -3,7 +3,5 @@
   "lazy-plugins",
   "custom-font-loader",
   "tasknotes",
-  "dataview",
-  "calculite",
   "remember-cursor-position"
 ]

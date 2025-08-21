@@ -8,4 +8,4 @@
 - [x] tumblr
 - [x] substack
 - [x] discord
-- [x] add on obsidian
+- [ ] add on obsidian

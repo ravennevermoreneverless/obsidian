@@ -1,0 +1,18 @@
+views:
+  - type: cards
+    name: study mode
+    filters:
+      and:
+        - file.folder == "5.8 — database/kanji"
+    order:
+      - file.name
+      - level
+      - onYomi
+      - kunYomi
+      - kanjiMeaning
+      - image
+    cardSize: 150
+    image: note.image
+    imageAspectRatio: 1
+    columnSize:
+      file.name: 21

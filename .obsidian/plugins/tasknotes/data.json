@@ -196,7 +196,7 @@
     "isRunning": false,
     "timeRemaining": 1500
   },
-  "lastPomodoroDate": "2025-08-10",
+  "lastPomodoroDate": "2025-08-20",
   "pomodoroHistory": [
     {
       "id": "1753856584085",
@@ -219,5 +219,13 @@
   "taskPropertyName": "",
   "taskPropertyValue": "",
   "enableNotifications": true,
-  "notificationType": "system"
+  "notificationType": "system",
+  "moveArchivedTasks": false,
+  "archiveFolder": "TaskNotes/Archive",
+  "subtaskChevronPosition": "right",
+  "viewsButtonAlignment": "right",
+  "enableAPI": false,
+  "apiPort": 8080,
+  "apiAuthToken": "",
+  "webhooks": []
 }
