@@ -5244,8 +5244,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       },
       {
@@ -8492,6 +8492,16 @@
       },
       {
         "id": "8ee46a340193be94",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "583a6e1d146db661",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
