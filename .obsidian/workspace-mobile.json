@@ -8506,8 +8506,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       }
     ],
@@ -8515,6 +8515,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
@@ -8533,8 +8534,7 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "tasknotes:Create new task": false
     }
   },
   "active": "b8e97954a8ce4cb6",

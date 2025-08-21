@@ -65,6 +65,9 @@
       },
       "obsidian-image-gallery": {
         "startupType": "short"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
       }
     }
   }
