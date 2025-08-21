@@ -3,7 +3,7 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 11,
+  "baseFontSize": 14,
   "cssTheme": "Red-Shadow",
   "enabledCssSnippets": [
     "fonts"
