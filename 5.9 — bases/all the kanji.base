@@ -1,6 +1,6 @@
 views:
   - type: cards
-    name: Table
+    name: study mode
     filters:
       and:
         - file.folder == "5.8 — database/kanji"

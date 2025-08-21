@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "5.8 — database/transactions"
+    order:
+      - dateTranspired
+      - amount
+      - transactionDescription
+    columnSize:
+      note.dateTranspired: 110
+    rowHeight: medium
