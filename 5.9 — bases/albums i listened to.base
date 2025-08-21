@@ -27,8 +27,6 @@ views:
       - dateListened
       - language
       - rating
-      - complete_instances
-      - image
     sort:
       - property: dateListened
         direction: ASC
