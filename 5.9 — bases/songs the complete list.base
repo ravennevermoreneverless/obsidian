@@ -1,0 +1,34 @@
+views:
+  - type: table
+    name: general
+    filters:
+      and:
+        - file.folder == "5.8 — database/songs"
+    order:
+      - file.name
+      - artist
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    columnSize:
+      file.name: 322
+      note.artist: 186
+      note.minutes: 80
+  - type: table
+    name: a collection of narrative songs to transport you to a different world
+    filters:
+      and:
+        - file.folder == "5.8 — database/songs"
+        - playlists.contains("a collection of narrative songs to transport you to a different world")
+    order:
+      - file.name
+      - artist
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    columnSize:
+      file.name: 322
+      note.artist: 186
+      note.minutes: 80

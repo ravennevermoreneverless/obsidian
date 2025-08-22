@@ -50,7 +50,9 @@
     "note-composer:split-file",
     "note-composer:extract-heading",
     "bookmarks:bookmark-current-section",
-    "bookmarks:bookmark-current-heading"
+    "bookmarks:bookmark-current-heading",
+    "fast-text-color:change-text-color",
+    "fast-text-color:remove-text-color"
   ],
   "trashOption": "local",
   "showInlineTitle": true,

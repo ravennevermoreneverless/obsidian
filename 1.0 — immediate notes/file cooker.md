@@ -1,1 +1,0 @@
-[[journal 3 - page 66.jpg]][[journal 3 - page 67.jpg]][[journal 3 - page 68.jpg]][[journal 3 - page 69.jpg]][[journal 3 - page 70.jpg]][[journal 3 - page 71.jpg]][[journal 3 - page 72.jpg]][[journal 3 - page 73.jpg]][[journal 3 - page 74.jpg]][[journal 3 - page 75.jpg]]

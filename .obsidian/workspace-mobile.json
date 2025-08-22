@@ -32,68 +32,44 @@
             }
           },
           {
-            "id": "3713af87648d39cf",
+            "id": "bee65f43f91c1f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.8 — database/playlists/a collection of narrative songs to transport you to a different world.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "a collection of narrative songs to transport you to a different world"
+            }
+          },
+          {
+            "id": "f78e9e0adf279a28",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "5.9 — bases/albums i listened to.base",
-                "viewName": "all albums"
+                "file": "5.9 — bases/songs the complete list.base",
+                "viewName": "a collection of narrative songs to transport you to a different world"
               },
-              "icon": "lucide-layout-grid",
-              "title": "albums i listened to"
-            }
-          },
-          {
-            "id": "abe94c009319cf23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2022/media/albums i listened to (2022).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "albums i listened to (2022)"
-            }
-          },
-          {
-            "id": "b8e97954a8ce4cb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.5 — galleries/2019 gallery.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2019 gallery"
+              "icon": "lucide-table",
+              "title": "songs the complete list"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -8509,6 +8485,96 @@
           "icon": "lucide-ghost",
           "title": "review-queue-list-view"
         }
+      },
+      {
+        "id": "0db4ae8081db63db",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "833fa23501acad1e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d9f2599875fc2be7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c936d96543f2414b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e09bf34a6e9901ac",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "338466e765e3a216",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e3d329cb5aa25779",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "fc7ce2f9b0dfcac4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "83446aa8f8f01ce6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
       }
     ],
     "currentTab": 493
@@ -8534,56 +8600,56 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Create new task": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b8e97954a8ce4cb6",
+  "active": "83446aa8f8f01ce6",
   "lastOpenFiles": [
-    "5.5 — galleries/2018 gallery.md",
+    "1.0 — immediate notes/actual templates/song template.md",
+    "5.8 — database/playlists/a collection of narrative songs to transport you to a different world.md",
+    "5.9 — bases/songs the complete list.base",
+    "5.8 — database/songs/Daniel Cowman.md",
+    "5.9 — bases/all my playlists.base",
+    "5.9 — bases/albums i listened to.base",
+    "1.0 — immediate notes/actual templates/ultimate playlist template.md",
+    "1.0 — immediate notes/actual templates/playlist template.md",
+    "5.8 — database/songs",
+    "5.8 — database/playlists/marceline abadeer would probably like these songs.md",
+    "1.2 — life data/2022/media/albums i listened to (2022).md",
+    "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/notes/2021/2021 - notes 1.jpg",
+    "5.1 — images stockpile/notes/2021",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 84.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 80.jpg",
+    "5.1 — images stockpile/notes/2019/2019 - notes 1.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 83.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 82.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 81.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 79.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 78.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 77.jpg",
     "5.5 — galleries/2012 gallery.md",
+    "0.1 — flash notes/post art on socmed.md",
+    "5.0 — everything else/monoquin songs.md",
+    "5.5 — galleries/2019 gallery.md",
+    "5.5 — galleries/2018 gallery.md",
     "5.5 — galleries/2011 gallery.md",
     "5.5 — galleries/2nd journal gallery.md",
     "5.5 — galleries/1st journal gallery.md",
     "5.5 — galleries/3rd journal gallery.md",
-    "5.9 — bases/albums i listened to.base",
     "5.8 — database/albums/American Football (LP3).md",
     "5.9 — bases/every transaction.base",
     "5.9 — bases/all the kanji.base",
     "5.8 — database/transactions/transaction1.md",
     "1.0 — immediate notes/2025-08-21.md",
     "1.0 — immediate notes/actual templates/transactions template.md",
-    "1.0 — immediate notes/actual templates/playlist template.md",
     "1.0 — immediate notes/actual templates/new movie template.md",
-    "1.2 — life data/2022/media/albums i listened to (2022).md",
     "1.2 — life data/2025/media/films i watched (2025).md",
     "5.8 — database/dailies/2025-08-21.md",
     "1.0 — immediate notes/actual templates/day template.md",
-    "1.0 — immediate notes/2025-08-22.md",
-    "1.0 — immediate notes/actual templates/daily note template.md",
-    "1.2 — life data/journaling/2018/4th of April, 2018 — 18.44 (Wed) ★ cordelia codd.md",
-    "1.2 — life data/journaling/2018/3rd of April, 2018 — 00.20 (Tue) ★ highly illogical behavior by john corey whaley.md",
-    "3.0 — tags/job.md",
     "1.0 — immediate notes/Recording 20250821172107.m4a",
-    "1.2 — life data/journaling/2018/2nd of April, 2018 — 18.57 (Mon) ★ please just stop.md",
-    "1.2 — life data/journaling/2018/2018 ★ MUSIC is my EVERYTHING.md",
-    "1.2 — life data/journaling/2018/2018 ★ You'll never know when you'll last see a place or person.md",
-    "1.2 — life data/journaling/2018/2018 ★ IDEAL LIFE.md",
-    "3.0 — tags/life.md",
-    "5.1 — images stockpile/kanji/金.jpg",
-    "5.1 — images stockpile/kanji/火.jpg",
-    "5.1 — images stockpile/kanji/水.jpg",
-    "5.1 — images stockpile/kanji/木.jpg",
-    "5.1 — images stockpile/kanji/月.jpg",
-    "5.1 — images stockpile/kanji/曜.jpg",
-    "5.1 — images stockpile/kanji/日.jpg",
-    "5.1 — images stockpile/kanji/土.jpg",
     "5.1 — images stockpile/kanji",
-    "5.8 — database/kanji",
-    "5.1 — images stockpile/art/2012/vocaloid fanart - meiko, luka, rin, miku, len, kaito.jpeg",
-    "5.8 — database/transactions",
-    "6.5 — transactions/transactions.ledger",
-    "6.5 — transactions/ledger.ledger",
-    "6.5 — transactions/hledger",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 75.jpg"
+    "5.8 — database/kanji"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 playlistNumber: "4"
-playlistName: "{{file.link}}"
+playlistDescription: songs that tell a story; events that are mostly in chronological order
 duplicated: "👍🏻"
 onSpotify: "👍🏻"
 listenedTo: "👍🏻"
@@ -8,9 +8,8 @@ enhanced: "👍🏻"
 addedOnRYM: "👍🏻"
 sharedOnReddit: "👍🏻"
 sharedOnMonoquin: "👍🏻"
+image: "[[image — a collection of narrative songs to transport you to a different world (profile).jpg]]"
 ---
-
-
 status: #child 
 tags: [[playlist]] [[music]] [[storytelling]] 
 

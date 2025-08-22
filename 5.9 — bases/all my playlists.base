@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: card
+    filters:
+      and:
+        - file.folder == "5.8 — database/playlists"
+    order:
+      - file.name
+      - playlistNumber
+      - playlistDescription
+      - image
+    cardSize: 220
+    image: note.image

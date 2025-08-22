@@ -34,6 +34,8 @@
     "language": "multitext",
     "kanjiMeaning": "text",
     "amount": "number",
-    "dateTranspired": "date"
+    "dateTranspired": "date",
+    "playlists": "multitext",
+    "image": "text"
   }
 }
