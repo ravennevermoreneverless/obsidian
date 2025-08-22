@@ -1,20 +1,21 @@
 ---
 playlistNumber: "1"
-playlistName: "{{file.link}}"
-duplicated: "👍🏻"
-onSpotify: "👍🏻"
-listenedTo: "👍🏻"
-enhanced: "👍🏻"
-addedOnRYM: "👍🏻"
-sharedOnReddit: "👍🏻"
-sharedOnMonoquin: "👍🏻"
+playlistDescription: favorite people series ep. 1
+duplicated: yes
+onSpotify: yes
+listenedTo: yes
+enhanced: yes
+addedOnRYM: yes
+sharedOnReddit: yes
+sharedOnMonoquin: yes
+image: "[[image — marceline abadeer would probably like these songs.png]]"
 ---
 
 status: #child 
 tags: [[playlist]] [[music]] [[adventure time]] 
 
 ![[image — marceline abadeer would probably like these songs.png]]
-*favorite people series ep. 1*
+
 1. <span style="color:rgb(255, 0, 0)"><b><i>Black Sheep (Brie Larson Vocal Version)</b></i></span> — Metric, Brie Larson ★★★★★
 2. <span style="color:rgb(164, 194, 244)"><b><i>Townie</b></i></span> — Mitski ★★★½
 3. <span style="color:rgb(255, 229, 153)"><b><i>Better Than Me</b></i></span> — The Brobecks ★★★

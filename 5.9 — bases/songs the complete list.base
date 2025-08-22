@@ -32,7 +32,30 @@ views:
       - seconds
       - rating
       - playlists
+    sort:
+      - property: file.ctime
+        direction: ASC
     columnSize:
       file.name: 322
       note.artist: 186
+      note.minutes: 80
+  - type: table
+    name: marceline abadeer would probably like these songs
+    filters:
+      and:
+        - file.folder == "5.8 — database/songs"
+        - playlists.contains("marceline abadeer would probably like these songs")
+    order:
+      - file.name
+      - artist
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.name: 322
+      note.artist: 288
       note.minutes: 80
