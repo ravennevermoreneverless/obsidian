@@ -14,7 +14,7 @@ views:
         direction: ASC
     cardSize: 220
     image: note.image
-  - type: table
+  - type: cards
     name: not listened to
     filters:
       and:
@@ -23,3 +23,4 @@ views:
     sort:
       - property: playlistNumber
         direction: ASC
+    image: note.image

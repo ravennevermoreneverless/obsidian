@@ -8,12 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28fb0e70d05c511f",
+            "id": "adb68ef948ee9884",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-agenda-view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Agenda"
+            }
+          },
+          {
+            "id": "b244eb10a66ea32b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "5.9 — bases/all my playlists.base",
+                "viewName": "general"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "all my playlists"
+            }
+          },
+          {
+            "id": "04af55cfddcd1176",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 — immediate notes/actual templates/playlist template.md",
+                "file": "5.8 — database/playlists/liberal college art hoe starter pack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,20 +51,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "playlist template"
-            }
-          },
-          {
-            "id": "b244eb10a66ea32b",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "5.9 — bases/all my playlists.base",
-                "viewName": "general"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "all my playlists"
+              "title": "liberal college art hoe starter pack"
             }
           }
         ],
@@ -252,16 +262,22 @@
   },
   "active": "b244eb10a66ea32b",
   "lastOpenFiles": [
+    "5.8 — database/playlists/liberal college art hoe starter pack.md",
+    "5.9 — bases/all my playlists.base",
+    "5.1 — images stockpile/playlists/liberal college art hoe starter pack.jpg",
+    "5.8 — database/playlists/nastiest breakdowns.md",
+    "5.9 — bases/songs the complete list.base",
+    "5.8 — database/playlists/i murder you in my sleep sometimes.md",
+    "5.1 — images stockpile/playlists/nastiest breakdowns.jpg",
+    "5.1 — images stockpile/playlists/i murder you in my sleep sometimes.jpg",
     "5.8 — database/playlists/the morbid, ugly, depressing side of reality.md",
     "1.0 — immediate notes/actual templates/playlist template.md",
-    "5.9 — bases/all my playlists.base",
     "5.8 — database/playlists/cris🅱️y songs.md",
     "5.8 — database/playlists/first 30 seconds mini melodic orgasms.md",
     "5.8 — database/playlists/in a teen coming-of-age film where the main character's finally ready for the next chapter.md",
     "5.8 — database/playlists/a collection of narrative songs to transport you to a different world.md",
     "5.8 — database/playlists/sounds pretty gay but okay.md",
     "5.8 — database/playlists/scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit.md",
-    "5.9 — bases/songs the complete list.base",
     "5.8 — database/playlists/marceline abadeer would probably like these songs.md",
     "1.0 — immediate notes/marceline abadeer would probably like these songs (1).md",
     "1.0 — immediate notes/marceline abadeer would probably like these songs.md",
@@ -272,8 +288,6 @@
     "5.1 — images stockpile/playlists/marceline abadeer would probably like these songs.png",
     "5.1 — images stockpile/playlists/scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit.png",
     "5.1 — images stockpile/playlists/sounds pretty gay but okay.png",
-    "5.1 — images stockpile/playlists/the morbid, ugly, depressing side of reality.jpg",
-    "5.1 — images stockpile/playlists/ここは痛みのない世界だと思ってた.jpg",
     "5.8 — database/songs/Black Sheep (Brie Larson Vocal Version).md",
     "5.8 — database/songs/Black Sheep (Brie Larson Vocal Version).md",
     "5.8 — database/songs/Frou-frou Foxes in Midsummer Fires.md",
@@ -285,14 +299,9 @@
     "5.8 — database/songs/Townie.md",
     "5.8 — database/dailies/2025-08-22.md",
     "1.2 — life data/journaling/2018/5th of April, 2018 — 18.51 (Thu) ★.md",
-    "1.2 — life data/journaling/2018/4th of April, 2018 — 23.58 (Wed) ★ I SHOULD BE BETTER OFF DEAD.md",
-    "1.2 — life data/journaling/2018/4th of April, 2018 — 21.44 (Wed) ★ you're not bound to be in the void.md",
-    "1.0 — immediate notes/7th of April, 2018 — 00.35 (Sat) ★.md",
-    "5.8 — database/songs/Sleep Patterns.md",
     "5.9 — bases/albums i listened to.base",
     "5.8 — database/songs",
     "5.8 — database/playlists",
-    "5.1 — images stockpile/notes/2021/2021 - notes 1.jpg",
     "5.1 — images stockpile/notes/2021",
     "1.2 — life data/journaling/dream journal",
     "1.2 — life data/journaling/2025",
