@@ -8,50 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "852570accae63d52",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-agenda-view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Agenda"
-            }
-          },
-          {
             "id": "5cb3db8a91d115c1",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "5.9 — bases/albums i listened to.base",
-                "viewName": "all albums"
+                "file": "5.9 — bases/all my playlists.base",
+                "viewName": "card"
               },
               "icon": "lucide-layout-grid",
-              "title": "albums i listened to"
+              "title": "all my playlists"
             }
           },
           {
-            "id": "7a16b80f95bcf57c",
+            "id": "341747b06a7516e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1.2 — life data/2022/media/albums i listened to (2022).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "5.9 — bases/songs the complete list.base",
+                "viewName": "general"
               },
-              "icon": "lucide-file",
-              "title": "albums i listened to (2022)"
+              "icon": "lucide-table",
+              "title": "songs the complete list"
             }
           }
         ],
@@ -203,12 +182,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "0f9770fc70b16164",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -236,57 +225,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5cb3db8a91d115c1",
+  "active": "341747b06a7516e4",
   "lastOpenFiles": [
-    "5.8 — database/albums/Filth.md",
+    "5.9 — bases/all my playlists.base",
+    "5.8 — database/playlists/a collection of narrative songs to transport you to a different world.md",
+    "5.9 — bases/songs the complete list.base",
+    "5.8 — database/songs/Sleep Patterns.md",
+    "5.8 — database/songs/104 Degrees.md",
+    "5.8 — database/songs/Children's Story.md",
+    "5.8 — database/songs/The Homecoming Queen’s Got a Gun.md",
+    "5.8 — database/songs/Dark Lady.md",
+    "5.8 — database/songs/Hazard.md",
+    "5.8 — database/songs/Same Old Lang Syne.md",
+    "5.8 — database/songs/The Killing of Georgie (Pt. I and II).md",
+    "5.8 — database/songs/The Deeper In.md",
+    "5.8 — database/songs/Coat of Many Colors.md",
+    "5.8 — database/songs/All I Wanna Do Is Make Love To You.md",
+    "5.8 — database/songs/BLOOD..md",
+    "5.8 — database/songs/Spaceship 71.md",
+    "5.8 — database/songs/Wicked Will.md",
+    "5.8 — database/songs/Brainwash.md",
+    "5.8 — database/songs/Never Relaxed.md",
+    "5.8 — database/songs/A Little Story.md",
+    "5.8 — database/songs/Gloria.md",
+    "5.8 — database/songs/The Dead Flag Blues.md",
+    "5.8 — database/songs/Good Morning, Captain.md",
+    "5.8 — database/songs/The First Big Weekend.md",
+    "5.8 — database/songs/Magda.md",
+    "5.8 — database/songs/I Have A Special Plan For This World.md",
+    "5.8 — database/songs/You Grew Up.md",
     "5.9 — bases/albums i listened to.base",
-    "5.8 — database/albums/Whirlpool.md",
-    "5.8 — database/albums/Girl With Basket of Fruit.md",
-    "5.8 — database/albums/Plays the Music of Twin Peaks.md",
-    "5.8 — database/albums/INVU.md",
-    "5.8 — database/albums/The Air Force.md",
-    "5.8 — database/albums/La forêt.md",
-    "5.8 — database/albums/Knife Play.md",
-    "5.8 — database/albums/Fabulous Muscles.md",
-    "5.8 — database/albums/A Promise.md",
-    "5.8 — database/albums/The Taste of TG. A Beginner's Guide to the Music of Throbbing Gristle.md",
-    "5.8 — database/albums/Heathen Earth.md",
-    "5.8 — database/albums/Thirty-Second Annual Report.md",
-    "5.8 — database/albums/The Second Annual Report.md",
-    "5.8 — database/albums/D.o.A. The Third and Final Report of Throbbing Gristle.md",
-    "5.8 — database/albums/20 Jazz Funk Greats.md",
-    "5.8 — database/albums/m b v.md",
-    "5.8 — database/albums/Loveless.md",
-    "5.8 — database/albums/Laurel Hell.md",
-    "5.8 — database/albums/Glider.md",
-    "5.8 — database/albums/Isn't Anything.md",
-    "5.8 — database/albums/Ecstasy.md",
-    "5.8 — database/albums/This Is Your Bloody Valentine.md",
-    "5.8 — database/albums/The New Record by My Bloody Valentine.md",
-    "5.8 — database/albums/Ghosts VI, Locusts.md",
-    "5.8 — database/albums/Geek!.md",
-    "5.1 — images stockpile/album covers/loveless - my bloody valentine.jpg",
-    "5.1 — images stockpile/album covers/m b v - my bloody valentine.jpg",
-    "5.1 — images stockpile/album covers/the second annual report - throbbing gristle.jpg",
-    "5.1 — images stockpile/album covers/thirty-second annual report - throbbing gristle.jpg",
-    "5.1 — images stockpile/album covers/d.o.a. the third and final report of throbbing gristle - throbbing gristle.jpg",
-    "5.1 — images stockpile/album covers/20 jazz funk greats - throbbing gristle.jpg",
-    "5.1 — images stockpile/album covers/heathen earth - throbbing gristle.jpg",
-    "5.1 — images stockpile/album covers/the taste of tg. a beginner's guide to the music of throbbing gristle - throbbing gristle.jpg",
-    "5.1 — images stockpile/album covers/knife play - xiu xiu.jpg",
-    "5.1 — images stockpile/album covers/a promise - xiu xiu.jpg",
+    "5.8 — database/songs",
+    "5.8 — database/playlists",
+    "5.1 — images stockpile/notes/2021/2021 - notes 1.jpg",
+    "5.1 — images stockpile/notes/2021",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 84.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 83.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 82.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 81.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 80.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 79.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 78.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 77.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 76.jpg",
     "1.2 — life data/journaling/dream journal",
     "1.2 — life data/journaling/2025",
     "1.2 — life data/journaling/2024",
-    "1.2 — life data/journaling/2023",
-    "1.2 — life data/journaling/2022",
-    "1.2 — life data/journaling/2020",
-    "1.2 — life data/journaling/2018",
-    "1.2 — life data/journaling/2017",
-    "1.2 — life data/2025/media"
+    "1.2 — life data/journaling/2023"
   ]
 }

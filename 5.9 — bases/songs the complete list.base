@@ -11,10 +11,14 @@ views:
       - seconds
       - rating
       - playlists
+    sort:
+      - property: file.ctime
+        direction: ASC
     columnSize:
-      file.name: 322
-      note.artist: 186
+      file.name: 401
+      note.artist: 283
       note.minutes: 80
+      note.rating: 82
   - type: table
     name: a collection of narrative songs to transport you to a different world
     filters:
