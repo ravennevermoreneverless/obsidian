@@ -61,5 +61,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "1.0 — immediate notes",
   "attachmentFolderPath": "1.0 — immediate notes",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "promptDelete": false
 }

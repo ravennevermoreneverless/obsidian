@@ -11,30 +11,40 @@
             "id": "5cb3db8a91d115c1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "5.9 — bases/all my playlists.base",
-                "viewName": "card"
+                "file": "5.8 — database/playlists/marceline abadeer would probably like these songs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "all my playlists"
+              "icon": "lucide-file",
+              "title": "marceline abadeer would probably like these songs"
             }
           },
           {
-            "id": "341747b06a7516e4",
+            "id": "b244eb10a66ea32b",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
                 "file": "5.9 — bases/songs the complete list.base",
-                "viewName": "general"
+                "viewName": "marceline abadeer would probably like these songs"
               },
               "icon": "lucide-table",
               "title": "songs the complete list"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,12 +202,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "d807937fed39b92f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -229,11 +249,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "341747b06a7516e4",
+  "active": "5cb3db8a91d115c1",
   "lastOpenFiles": [
+    "5.9 — bases/songs the complete list.base",
+    "5.8 — database/playlists/marceline abadeer would probably like these songs.md",
     "5.9 — bases/all my playlists.base",
     "5.8 — database/playlists/a collection of narrative songs to transport you to a different world.md",
-    "5.9 — bases/songs the complete list.base",
+    "5.8 — database/songs/Black Sheep (Brie Larson Vocal Version).md",
+    "5.8 — database/songs/Frou-frou Foxes in Midsummer Fires.md",
+    "5.8 — database/songs/Thursday.md",
+    "5.8 — database/songs/Honey I'm Home.md",
+    "5.8 — database/songs/Blah Blah Blah.md",
+    "5.8 — database/songs/It's Only Sex.md",
+    "5.8 — database/songs/Better Than Me.md",
+    "5.8 — database/songs/Townie.md",
+    "5.8 — database/dailies/2025-08-22.md",
+    "1.2 — life data/journaling/2018/5th of April, 2018 — 18.51 (Thu) ★.md",
+    "1.2 — life data/journaling/2018/4th of April, 2018 — 23.58 (Wed) ★ I SHOULD BE BETTER OFF DEAD.md",
+    "1.2 — life data/journaling/2018/4th of April, 2018 — 21.44 (Wed) ★ you're not bound to be in the void.md",
+    "1.0 — immediate notes/7th of April, 2018 — 00.35 (Sat) ★.md",
     "5.8 — database/songs/Sleep Patterns.md",
     "5.8 — database/songs/104 Degrees.md",
     "5.8 — database/songs/Children's Story.md",
@@ -244,20 +278,6 @@
     "5.8 — database/songs/The Killing of Georgie (Pt. I and II).md",
     "5.8 — database/songs/The Deeper In.md",
     "5.8 — database/songs/Coat of Many Colors.md",
-    "5.8 — database/songs/All I Wanna Do Is Make Love To You.md",
-    "5.8 — database/songs/BLOOD..md",
-    "5.8 — database/songs/Spaceship 71.md",
-    "5.8 — database/songs/Wicked Will.md",
-    "5.8 — database/songs/Brainwash.md",
-    "5.8 — database/songs/Never Relaxed.md",
-    "5.8 — database/songs/A Little Story.md",
-    "5.8 — database/songs/Gloria.md",
-    "5.8 — database/songs/The Dead Flag Blues.md",
-    "5.8 — database/songs/Good Morning, Captain.md",
-    "5.8 — database/songs/The First Big Weekend.md",
-    "5.8 — database/songs/Magda.md",
-    "5.8 — database/songs/I Have A Special Plan For This World.md",
-    "5.8 — database/songs/You Grew Up.md",
     "5.9 — bases/albums i listened to.base",
     "5.8 — database/songs",
     "5.8 — database/playlists",
