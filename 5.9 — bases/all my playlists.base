@@ -1,6 +1,6 @@
 views:
   - type: cards
-    name: card
+    name: general
     filters:
       and:
         - file.folder == "5.8 — database/playlists"
@@ -14,3 +14,12 @@ views:
         direction: ASC
     cardSize: 220
     image: note.image
+  - type: table
+    name: not listened to
+    filters:
+      and:
+        - file.folder == "5.8 — database/playlists"
+        - listenedTo == "no"
+    sort:
+      - property: playlistNumber
+        direction: ASC

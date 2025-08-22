@@ -1,19 +1,19 @@
 ---
 playlistNumber: "7"
-playlistName: "{{file.link}}"
-duplicated: "👍🏻"
-onSpotify: "👍🏻"
-listenedTo: "👍🏻"
-enhanced: "👍🏻"
-addedOnRYM: "👍🏻"
-sharedOnReddit: "👍🏻"
-sharedOnMonoquin: "👍🏻"
+playlistDescription: deep fried music // introduction to noise music
+duplicated: yes
+onSpotify: yes
+listenedTo: yes
+enhanced: yes
+addedOnRYM: yes
+sharedOnReddit: yes
+sharedOnMonoquin: yes
+image: "[[cris🅱️y songs.jpg]]"
 ---
 status: #child 
 tags: [[playlist]] [[music]] [[noise]] 
 
-![[image — cris🅱️y songs.jpg]]
-*deep fried music // introduction to noise music*
+![[cris🅱️y songs.jpg]]
 
 1. <b><i><span style="color:#E2F086">Holland, 1945</span></b></i> — Neutral Milk Hotel ★★★★★
 2. <b><i><span style="color:#809A8D">salvia plath</span></b></i> — Teen Suicide ★★★★
@@ -46,3 +46,5 @@ tags: [[playlist]] [[music]] [[noise]]
 29. <b><i><span style="color:#1000C6">CHERRY BOMB</span></b></i> — Tyler, The Creator ★★★½
 30. <b><i><span style="color:#FF8900">Click</span></b></i> — Charli XCX, Kim Petras, Tommy Cash ★★★★ 
 31. <b><i><span style="color:#A5EFF5">metal</span></b></i> — food house, Gupi, Fraxiom ★★★
+---
+32. 

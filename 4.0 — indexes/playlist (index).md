@@ -11,4 +11,4 @@
 - [[first 30 seconds mini melodic orgasms]]
 - [[cris🅱️y songs]]
 ### favorite people series
-- [[marceline abadeer would probably like these songs]] 
+- [[5.8 — database/playlists/marceline abadeer would probably like these songs]] 

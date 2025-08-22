@@ -28,7 +28,7 @@
 - [[first 30 seconds mini melodic orgasms]]
 - [[cris🅱️y songs]]
 ##### favorite people series
-- [[marceline abadeer would probably like these songs]] 
+- [[5.8 — database/playlists/marceline abadeer would probably like these songs]] 
 ### songs : the complete list
 - [[Black Sheep (Brie Larson Vocal Version) — Metric]]
 - [[It's Only Sex — Car Seat Headrest]]

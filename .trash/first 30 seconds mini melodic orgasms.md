@@ -1,19 +1,23 @@
 ---
 playlistNumber: "6"
-playlistDescription: approximately 30-second song intros that will melodically ascend you to heaven (>25secs, <35secs)(rated by intro satisfaction)
-duplicated: yes
-onSpotify: yes
-listenedTo: yes
-enhanced: yes
-addedOnRYM: yes
-sharedOnReddit: yes
-sharedOnMonoquin: yes
-image: "[[first 30 seconds mini melodic orgasms.jpg]]"
+playlistName: "{{file.link}}"
+duplicated: "👍🏻"
+onSpotify: "👍🏻"
+listenedTo: "👍🏻"
+enhanced: "👍🏻"
+addedOnRYM: "👍🏻"
+sharedOnReddit: "👍🏻"
+sharedOnMonoquin: "👍🏻"
 ---
-status: #child 
-tags: [[playlist]] [[music]]
+
+
+
 
 ![[first 30 seconds mini melodic orgasms.jpg]]
+
+
+
+
 
 1. <b><i><span style="color:#DBBA49">I Can’t Handle Change</span></b></i> — Roar ★★★★½
 2. <b><i><span style="color:#6C8665">Tongue Tied</span></b></i> — Grouplove ★★★★
@@ -76,5 +80,3 @@ tags: [[playlist]] [[music]]
 59. <b><i><span style="color:#6C9356">Life Worth Missing</span></b></i> — Car Seat Headrest ★★★★
 60. <b><i><span style="color:#868686">夢の中で [In A Dream]</span></b></i> — Cornelius ★★★
 61. <b><i><span style="color:#8D7CA1">Papi Pacify</span></b></i> — FKA Twigs ★★★★
----
-62. 

@@ -1,19 +1,19 @@
 ---
 playlistNumber: "8"
-playlistName: "{{file.link}}"
-duplicated: "👍🏻"
-onSpotify: "👍🏻"
-listenedTo: ❌
-enhanced: ❌
-addedOnRYM: ❌
-sharedOnReddit: ❌
-sharedOnMonoquin: ❌
+playlistDescription: war, obsession, suicide, drugs, corruption, genocide, rape, abuse, insanity—humanity is a disease that we should eradicate.
+duplicated: yes
+onSpotify: yes
+listenedTo: no
+enhanced: no
+addedOnRYM: no
+sharedOnReddit: no
+sharedOnMonoquin: no
+image: "[[the morbid, ugly, depressing side of reality.jpg]]"
 ---
 status: #child 
 tags: [[playlist]] [[music]] [[humanity]] [[pessimism]] 
 
-![[image — the morbid, ugly, depressing side of reality.jpg]]
-*war, obsession, suicide, drugs, corruption, genocide, rape, abuse, insanity—humanity is a disease that we should eradicate.*
+![[the morbid, ugly, depressing side of reality.jpg]]
 
 1. <b><i><span style="color:#825519">Messed Up Kids</span></b></i> — Jake Bugg ★★★
 2. <b><i><span style="color:#D777D3">Tag, You’re It</span></b></i> — Melanie Martinez ★★½

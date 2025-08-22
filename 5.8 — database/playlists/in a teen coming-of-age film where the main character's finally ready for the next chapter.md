@@ -1,19 +1,19 @@
 ---
 playlistNumber: "5"
-playlistName: "{{file.link}}"
-duplicated: "👍🏻"
-onSpotify: "👍🏻"
-listenedTo: "👍🏻"
-enhanced: "👍🏻"
-addedOnRYM: "👍🏻"
-sharedOnReddit: "👍🏻"
-sharedOnMonoquin: "👍🏻"
+playlistDescription: she looked back for the last time and took a heavy sigh—she knew it’ll never be the same again.
+duplicated: yes
+onSpotify: yes
+listenedTo: yes
+enhanced: yes
+addedOnRYM: yes
+sharedOnReddit: yes
+sharedOnMonoquin: yes
+image: "[[in a teen coming-of-age film where the main character's finally ready for the next chapter.jpg]]"
 ---
 
 mstatus: #child 
 tags: [[playlist]] [[music]] [[coming-of-age]] [[teenage]] 
-![[image — in a teen coming-of-age film where the main character's finally ready for the next chapter.jpg]]
-*she looked back for the last time and took a heavy sigh—she knew it’ll never be the same again.*
+![[in a teen coming-of-age film where the main character's finally ready for the next chapter.jpg]]
 
 1. <b><i><span style="color:#9E2900">Never Coming Home</span></b></i> — Scruffpuppie ★★★★
 2. <b><i><span style="color:#AF7FCA">Drag</span></b></i> — Day Wave ★★★★½
@@ -51,3 +51,5 @@ tags: [[playlist]] [[music]] [[coming-of-age]] [[teenage]]
 34. <b><i><span style="color:#77247D">Dazzle</span></b></i> — Siouxsie and the Banshees ★★★★
 35. <b><i><span style="color:#08570F">Mercury</span></b></i> — Glaze ★★★½
 36. <b><i><span style="color:#8E397E">Far from Home</span></b></i> — Deer Watching ★★★
+---
+37. 

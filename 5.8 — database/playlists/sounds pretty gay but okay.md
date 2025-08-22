@@ -1,21 +1,21 @@
 ---
 playlistNumber: "3"
-playlistName: "{{file.link}}"
-duplicated: "👍🏻"
-onSpotify: "👍🏻"
-listenedTo: "👍🏻"
-enhanced: "👍🏻"
-addedOnRYM: "👍🏻"
-sharedOnReddit: "👍🏻"
-sharedOnMonoquin: "👍🏻"
+playlistDescription: this one's for the mlm & wlw frens out there
+duplicated: yes
+onSpotify: yes
+listenedTo: yes
+enhanced: yes
+addedOnRYM: yes
+sharedOnReddit: yes
+sharedOnMonoquin: yes
+image: "[[sounds pretty gay but okay.png]]"
 ---
 
 
 status: #child 
 tags: [[playlist]] [[music]] [[lgbt]] [[gay]] 
 
-![[image — sounds pretty gay but okay.png]]
-*this one's for the mlm & wlw frens out there*
+![[sounds pretty gay but okay.png]]
 
 1. <span style="color:#f1c232"><b><i>Jesus Christ 2005 God Bless America</i></b></span> — The 1975 ★★★½
 2. <span style="color:#ff00ff"><b><i>Boys / Girls</b></i></span> — Torrey Mercer ★★½

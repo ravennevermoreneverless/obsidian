@@ -11,4 +11,4 @@ sharedOnMonoquin:
 image:
 ---
 status: #child 
-tags: [[playlist]] [[music]]
+tags: [[playlist]] [[music]] 

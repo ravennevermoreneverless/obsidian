@@ -8,13 +8,12 @@ enhanced: yes
 addedOnRYM: yes
 sharedOnReddit: yes
 sharedOnMonoquin: yes
-image: "[[image — a collection of narrative songs to transport you to a different world (profile).jpg]]"
+image: "[[a collection of narrative songs to transport you to a different world.jpg]]"
 ---
 status: #child 
 tags: [[playlist]] [[music]] [[storytelling]] 
 
-![[image — a collection of narrative songs to transport you to a different world (profile).jpg]]
-*songs that tell a story; events that are mostly in chronological order*
+![[a collection of narrative songs to transport you to a different world.jpg]]
 
 1. <span style="color:#57AEEE"><b><i>Daniel Cowman</b></i></span> — Regina Spektor ★★★
 2. <span style="color:#1D4156"><b><i>Words</b></i></span> — Passenger ★★★★
