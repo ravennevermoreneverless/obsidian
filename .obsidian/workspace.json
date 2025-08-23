@@ -219,12 +219,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "1a3e97281557a6af",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -256,7 +266,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e3ae8251e426ff62",
+  "active": "1a3e97281557a6af",
   "lastOpenFiles": [
     "5.9 — bases/all my playlists.base",
     "conflict-files-obsidian-git.md",
