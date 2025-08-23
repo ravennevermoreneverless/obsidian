@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2 — life data/2025/media/films i watched (2025).md",
+                "file": "0.1 — flash notes/GAG cooking event recipes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "films i watched (2025)"
+              "title": "GAG cooking event recipes"
             }
           }
         ],
@@ -8707,6 +8707,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5aae2954aff54557",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -8739,8 +8749,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f034434a7ee3ac0e",
+  "active": "a1bb85335153f8c6",
   "lastOpenFiles": [
+    "1.2 — life data/2025/media/films i watched (2025).md",
     "0.1 — flash notes/GAG cooking event recipes.md",
     "5.0 — everything else/Rock (DEEP DIVE).md",
     "2.0 — source materials/wiki/Rock (WIKI).md",
@@ -8781,7 +8792,6 @@
     "5.1 — images stockpile/notes/2021",
     "5.5 — galleries/2019 gallery.md",
     "5.5 — galleries/2018 gallery.md",
-    "5.5 — galleries/2011 gallery.md",
     "5.9 — bases/every transaction.base",
     "5.9 — bases/all the kanji.base",
     "1.0 — immediate notes/Recording 20250821172107.m4a",
