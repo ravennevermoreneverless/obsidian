@@ -144,19 +144,12 @@
 ‎1x Giant Pinecone
 ‎1x Tomato
 ‎
-4x Beanstalk
-1x Jalapeño
+==4x Beanstalk==
+==1x Jalapeño==
 
 2x Giant Pinecone
 2x Bone Blossom
 1x Bell Pepper
-‎
-‎1x Beanstalk
-1x Pineapple
-
-3x Bamboo
-1x Sugar Apple
-1x Beanstalk
 ‎
 ## Waffle
 ‎
@@ -248,14 +241,11 @@
 ‎
 ‎
 ## Sandwich
-‎
-‎x2 Tomato
-‎x1 Corn
-‎
-‎
-‎
-‎
-‎
+
+==x3 Giant Pinecone==
+==x1 Tomato==
+==x1 Corn==
+
 ## Soup
 ‎
 ‎Anything Different Fruits
