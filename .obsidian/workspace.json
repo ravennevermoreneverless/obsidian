@@ -198,12 +198,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "513ae987969cbd72",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -235,10 +245,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e3ae8251e426ff62",
+  "active": "513ae987969cbd72",
   "lastOpenFiles": [
-    "5.8 — database/playlists/the angel and the devil—secretly they get along.md",
+    "5.5 — galleries/3rd journal gallery.md",
     "5.9 — bases/all my playlists.base",
+    "5.8 — database/playlists/the angel and the devil—secretly they get along.md",
     "3.0 — tags/devil.md",
     "3.0 — tags/angel.md",
     "5.1 — images stockpile/playlists/the angel and the devil—secretly they get along.jpg",
