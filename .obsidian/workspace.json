@@ -11,13 +11,24 @@
             "id": "e3ae8251e426ff62",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "5.9 — bases/all my playlists.base",
-                "viewName": "general"
+                "file": "0.1 — flash notes/GAG cooking event recipes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "all my playlists"
+              "icon": "lucide-file",
+              "title": "GAG cooking event recipes"
             }
           }
         ]
@@ -198,12 +209,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "513ae987969cbd72",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -237,8 +258,10 @@
   },
   "active": "e3ae8251e426ff62",
   "lastOpenFiles": [
-    "5.8 — database/playlists/the angel and the devil—secretly they get along.md",
     "5.9 — bases/all my playlists.base",
+    "conflict-files-obsidian-git.md",
+    "5.5 — galleries/3rd journal gallery.md",
+    "5.8 — database/playlists/the angel and the devil—secretly they get along.md",
     "3.0 — tags/devil.md",
     "3.0 — tags/angel.md",
     "5.1 — images stockpile/playlists/the angel and the devil—secretly they get along.jpg",
@@ -271,8 +294,6 @@
     "5.8 — database/playlists/pov. you never really had the best relationship with your family.md",
     "5.8 — database/playlists/people. what a bunch of bastards..md",
     "5.8 — database/playlists/to all the daydreamers, wishful thinkers, and escapists.md",
-    "4.0 — indexes/escapism (index).md",
-    "3.0 — tags/escapism.md",
     "5.9 — bases/albums i listened to.base",
     "5.9 — bases/songs the complete list.base",
     "5.8 — database/songs",
