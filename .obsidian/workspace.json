@@ -8,54 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adb68ef948ee9884",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-agenda-view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Agenda"
-            }
-          },
-          {
             "id": "e3ae8251e426ff62",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "5.9 — bases/albums i listened to.base",
-                "viewName": "all albums"
+                "file": "5.9 — bases/all my playlists.base",
+                "viewName": "general"
               },
               "icon": "lucide-layout-grid",
-              "title": "albums i listened to"
-            }
-          },
-          {
-            "id": "d79808d0d58ae0c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2022/media/albums i listened to (2022).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "albums i listened to (2022)"
+              "title": "all my playlists"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,12 +188,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "caebc1a7ba132ed7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -262,44 +237,44 @@
   },
   "active": "e3ae8251e426ff62",
   "lastOpenFiles": [
-    "5.8 — database/albums/The Rubinstein Collection, Vol. 17. Piano Concertos Nos. 1 & 2.md",
-    "5.9 — bases/albums i listened to.base",
-    "5.8 — database/albums/The Chopin Scherzos.md",
-    "5.8 — database/albums/The Chopin Ballades.md",
-    "5.8 — database/albums/The Mazurkas.md",
-    "5.8 — database/albums/憂鬱.md",
-    "5.8 — database/albums/Valses.md",
-    "5.8 — database/albums/The Nocturnes.md",
-    "5.8 — database/albums/Logo.md",
-    "5.8 — database/albums/leaving meaning..md",
-    "5.8 — database/albums/8 polonaises; 4 impromptus.md",
-    "5.8 — database/albums/The Glowing Man.md",
-    "5.8 — database/albums/To Be Kind.md",
-    "5.8 — database/albums/The Seer.md",
-    "5.8 — database/albums/My Father Will Guide Me up a Rope to the Sky.md",
-    "5.8 — database/albums/White Light From the Mouth of Infinity.md",
-    "5.8 — database/albums/Soundtracks for the Blind.md",
-    "5.8 — database/albums/Children of God.md",
-    "5.8 — database/albums/Cop.md",
-    "5.1 — images stockpile/album covers/leaving meaning. - swans.jpg",
-    "5.1 — images stockpile/album covers/the glowing man - swans.jpg",
-    "5.1 — images stockpile/album covers/to be kind - swans.jpg",
-    "5.1 — images stockpile/album covers/the seer - swans.jpg",
-    "5.1 — images stockpile/album covers/my father will guide me up a rope to the sky - swans.jpg",
-    "5.1 — images stockpile/album covers/soundtracks for the blind - swans.jpg",
-    "5.1 — images stockpile/album covers/white light from the mouth of infinity - swans.jpg",
-    "5.1 — images stockpile/album covers/children of god - swans.jpg",
-    "5.1 — images stockpile/album covers/cop - swans.jpg",
-    "5.1 — images stockpile/album covers/the rubinstein collection, vol. 17 - piano concertos nos. 1 & 2 - alfred wallenstein, william steinberg, arthur rubinstein.jpg",
-    "1.2 — life data/2022/media/albums i listened to (2022).md",
-    "5.0 — everything else/Rock music (DEEP DIVE).md",
-    "6.0 — all tasks/duplicate all spotify playlists.md",
-    "5.5 — galleries/1st journal gallery.md",
+    "5.8 — database/playlists/the angel and the devil—secretly they get along.md",
     "5.9 — bases/all my playlists.base",
-    "5.8 — database/playlists/liberal college art hoe starter pack.md",
-    "5.8 — database/playlists/nastiest breakdowns.md",
+    "3.0 — tags/devil.md",
+    "3.0 — tags/angel.md",
+    "5.1 — images stockpile/playlists/the angel and the devil—secretly they get along.jpg",
+    "5.8 — database/playlists/gusto ko na mag-banda tangina.md",
+    "5.8 — database/playlists/we're still underwater.md",
+    "5.8 — database/playlists/LSA. the longass song awards.md",
+    "5.8 — database/playlists/bonnie&marcy.md",
+    "5.8 — database/playlists/another painting in a museum to admire.md",
+    "5.1 — images stockpile/playlists/LSA. the longass song awards.jpg",
+    "5.1 — images stockpile/playlists/bonnie&marcy.jpg",
+    "5.1 — images stockpile/playlists/gusto ko na mag-banda tangina.jpg",
+    "3.0 — tags/aquatic.md",
+    "5.1 — images stockpile/playlists/we're still underwater.jpg",
+    "5.8 — database/playlists/is there even a god at this point.md",
+    "3.0 — tags/agnosticism.md",
+    "5.1 — images stockpile/playlists/is there even a god at this point.jpg",
+    "5.8 — database/playlists/accents with songs.md",
+    "5.1 — images stockpile/playlists/accents with songs.jpg",
+    "5.8 — database/playlists/lyricism done right.md",
+    "3.0 — tags/lyricism.md",
+    "3.0 — tags/lyrics.md",
+    "5.1 — images stockpile/playlists/lyricism done right.jpg",
+    "5.8 — database/playlists/get a load of this simp.md",
+    "5.1 — images stockpile/playlists/get a load of this simp.png",
+    "5.8 — database/playlists/they're just talking.md",
+    "3.0 — tags/communication.md",
+    "5.1 — images stockpile/playlists/they're just talking.jpg",
+    "5.8 — database/playlists/the feminine urge to let out a visceral scream.md",
+    "5.8 — database/playlists/virāgō.md",
+    "5.8 — database/playlists/pov. you never really had the best relationship with your family.md",
+    "5.8 — database/playlists/people. what a bunch of bastards..md",
+    "5.8 — database/playlists/to all the daydreamers, wishful thinkers, and escapists.md",
+    "4.0 — indexes/escapism (index).md",
+    "3.0 — tags/escapism.md",
+    "5.9 — bases/albums i listened to.base",
     "5.9 — bases/songs the complete list.base",
-    "5.8 — database/playlists/i murder you in my sleep sometimes.md",
     "5.8 — database/songs",
     "5.8 — database/playlists",
     "5.1 — images stockpile/notes/2021",
