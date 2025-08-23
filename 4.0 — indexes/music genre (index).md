@@ -2,6 +2,6 @@
 - [[genre iceberg]] 
 ### overview
 ###### articles
-- [[Rock music (WIKI)]] 
+- [[Rock (WIKI)]] 
 ###### deep dive
-- [[Rock music (DEEP DIVE)]]
+- [[Rock (DEEP DIVE)]]

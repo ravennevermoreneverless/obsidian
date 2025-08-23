@@ -5,9 +5,9 @@ contexts:
   - albums
   - music
 timeEstimate: 100000
-recurrence: FREQ=DAILY;INTERVAL=1
+recurrence: DTSTART:20250722T003730Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-22T00:37:30.917+08:00
-dateModified: 2025-08-20T22:35:47.355+08:00
+dateModified: 2025-08-23T04:32:42.276+08:00
 tags:
   - albums
   - music
@@ -38,7 +38,9 @@ complete_instances:
   - 2025-08-01
   - 2025-08-04
   - 2025-08-08
+  - 2025-08-23
 projects: []
+scheduled: 2025-08-24
 ---
 
 wiki / deep dive

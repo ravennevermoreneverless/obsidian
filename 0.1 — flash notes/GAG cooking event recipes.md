@@ -139,21 +139,24 @@
 ‎
 ‎
 ## Salad
+
 ‎
-‎2x Tomato
-‎
-‎
-‎Mythical:
-==‎1x Giant Pinecone==
-==‎1x Tomato==
-‎
-‎
-‎Prismatic:
-‎4x Bone Blossom
+‎1x Giant Pinecone
 ‎1x Tomato
 ‎
+4x Beanstalk
+1x Jalapeño
+
+2x Giant Pinecone
+2x Bone Blossom
+1x Bell Pepper
 ‎
-‎
+‎1x Beanstalk
+1x Pineapple
+
+3x Bamboo
+1x Sugar Apple
+1x Beanstalk
 ‎
 ## Waffle
 ‎

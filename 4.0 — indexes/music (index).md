@@ -4,14 +4,14 @@
 - [[songs to cover or record]] 
 ### overview
 #### articles
-- [[Rock music (WIKI)]] 
+- [[Rock (WIKI)]] 
 
 ### trackers/lists
 - [[all of my playlists]] 
 - [[other people's playlists]] 
 - [[songs. the complete list]]
 #### genre deep dives
-- [[Rock music (DEEP DIVE)]]
+- [[Rock (DEEP DIVE)]]
 #### challenge
 - [[30-day song challenge]]
 - [[raven's 31-day song challenge pt. 2]]

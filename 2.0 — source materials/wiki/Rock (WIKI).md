@@ -61,8 +61,25 @@ tags: [[rock]] [[music]] [[music genre]] [[wikipedia]]
 - ***Blonde on Blonde*** — *Bob Dylan* (US-based)
 ### Blues Rock
 
+ — the second wave of bands drew inspiration directly from American blues (some examples would be *The Rolling Stones* and *The Yardbirds*) 
+ — the acoustic playing of *Lead Belly* and *Robert Johnson* have been huge influences with the Skiffle craze and among British blues musicians in the late 1950s and early 1960s. — after the tour of ***Britain*** by *Muddy Waters* in 1958 and the influence of the Chicago blues, it prompted two young men to form a band called *Blues Incorporated*. 
+ — this particular band inspired many of the British blues bands, like members of *The Rolling Stones* ans *Cream*, combining blues standards with rock instrumentations 
+— John Mayall formed *Bluesbreakers*, along with Eric Clapton (after he left *The Yardbirds*) and then Peter Green
+- ***Blues Breakers with Eric Clapton (Beano)*** (1966) : considered one of the seminal British blues recordings which sound emulated in both British and United States
+— Eric Clapton created *Cream*, *Blind Faith*, *Derek and the Dominos*, then a successful
+solo career
+— Peter Green, the *Bluesbreakers*' rhythm sections Mick Fleetwood and John McVie formed *Fleetwood Mac*
+— Jeff Beck, also part of *Yardbirds*, turned blues rock to heavy rock with his band, the *Jeff Beck Group*
+— the last *Yardbirds* guitarist was Jimmy Page, who went on to form *The New Yardbirds*, which turned into *Led Zeppelin*, in which many of their first releases features expansions on traditional blues songs
+— meanwhile in the US, Lonnie Mack pioneered blues rock in the early 1960s but the genre boomed in mid-1960s because of: *Paul Butterfield*, *Canned Heat*, *Jefferson Airplane*, *Janis Joplin*, *Johnny Winter*, the *J. Geils Band*, the *Jimi Hendrix Experience*, *Band of Gypsys*
+— in the southern US states, *Allman Brothers Band*, *Lynyrd Skynyrd*, *ZZ Top* incorporated country elements to blues rock to produce Southern rock
+
+— blues rock often emulated jazz, with long improvisations, which would later be an element of progressive rock. 
+— from about 1967, bands like Cream and Jimi Hendrix Experience will leave blues-based music to psychedelia
+— by 1970s, blues rock will become heavier and more riff-based, by the examples of Led Zeppelin and Deep Purple, wherein it blurs the line of blues rock and hard rock
+— though the blues rock genre will be continued on by *George Thorogood* and *Pat Travers*, particularly in the British scene, the genre shifted into heavy metal, leaving blues rock totally behind the mainstream
 
 
 ---
 ### related links:
-- [[Rock music (DEEP DIVE)]]
+- [[Rock (DEEP DIVE)]]

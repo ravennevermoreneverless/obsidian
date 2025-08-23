@@ -1,3 +1,3 @@
 ### music
 #### genres
-- [[Rock music (WIKI)]] 
+- [[Rock (WIKI)]] 

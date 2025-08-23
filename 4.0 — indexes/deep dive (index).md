@@ -1,3 +1,3 @@
 ## music
 #### genres
-- [[Rock music (DEEP DIVE)]]
+- [[Rock (DEEP DIVE)]]
