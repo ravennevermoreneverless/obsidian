@@ -1323,8 +1323,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1293. Deep Down I'm Really Kirk Van Houten — Crywank : August 21, 2025
 1294. Teenager — Deftones : August 22, 2025
 1295. Complicated System — Sokoninaru : August 23, 2025
-
-1296 ν August 24, 2025
+1296. Transatlanticism — Death Cab for Cutie : August 24, 2025
 
 1297 ν August 25, 2025
 

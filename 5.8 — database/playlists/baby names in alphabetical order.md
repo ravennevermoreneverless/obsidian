@@ -3,7 +3,7 @@ playlistNumber: "13"
 playlistDescription: choose a baby name for your infant human child
 duplicated: yes
 onSpotify: yes
-listenedTo: non
+listenedTo: no
 enhanced: no
 addedOnRYM: no
 sharedOnReddit: no
