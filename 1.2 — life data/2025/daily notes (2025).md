@@ -438,3 +438,5 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==19 - 22:27== I worked on the Digital Artist (Tik Tok/Instagram) test video for the entire day. I bought food for Chai and I (shawarma and fries) as well as her medicine. Someonen is trying to commission me on Tumblr but I'm not sure if it's a scam. 
 
 ==20 - 21:55== It's Chai and I's anniversary. Nothing much happened but my love for her is still overflowing. She's still sick and I still took care of her. We slept a lot and played 99 Nights on ROBLOX. 
+
+==24 - 23:59== I tried to break up with Chai in the evening. We had an argument in the chats while she's in the bathroom. We didn't push through with it. I went out to buy her medicines and snacks. I was sleepy the entire day. I don't know where this will lead us or if it makes us love each other more.

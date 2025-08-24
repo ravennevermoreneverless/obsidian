@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "calendar-clock",
-              "title": "Agenda"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-agenda-view"
             }
           },
           {
@@ -32,12 +32,25 @@
             }
           },
           {
-            "id": "821fd6fbea97bb7f",
+            "id": "76b2ebc94ebbb523",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "5.9 — bases/all my playlists.base",
+                "viewName": "general"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "all my playlists"
+            }
+          },
+          {
+            "id": "1aa4254d0096ed3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 — source materials/wiki/Rock (WIKI).md",
+                "file": "1.2 — life data/2022/media/albums i listened to (2022).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +65,72 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rock (WIKI)"
+              "title": "albums i listened to (2022)"
             }
           },
           {
-            "id": "76b2ebc94ebbb523",
+            "id": "f0581b889d73027d",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "5.9 — bases/all my playlists.base",
-                "viewName": "general"
+                "file": "5.9 — bases/albums i listened to.base",
+                "viewName": "all albums"
               },
               "icon": "lucide-layout-grid",
-              "title": "all my playlists"
+              "title": "albums i listened to"
+            }
+          },
+          {
+            "id": "0473994c675f8b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 — life data/journaling/2025/24th of August, 2025 — 18.52 (Sun) ★ i'm not okay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "24th of August, 2025 — 18.52 (Sun) ★ i'm not okay"
+            }
+          },
+          {
+            "id": "bf00182619d5195f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/file cooker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "file cooker"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -8741,8 +8803,128 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e194cdedb3c42680",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "50f8ce8fe3c4f1e3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7d1c7eb4a44bf115",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f8fc7a044594e01a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cd38e8ddbffbd40f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6193bcf8e95a6a55",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "31c64891f0ea47e2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "39410139c4072f3f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d1fa37b6a3708dad",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7ebd9304a99297a9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9b2194e81844b995",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1dbef64ddff7b525",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       }
     ],
@@ -8769,52 +8951,51 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "tasknotes:Create new task": false
     }
   },
-  "active": "7acdb4fc68e599e4",
+  "active": "bf00182619d5195f",
   "lastOpenFiles": [
-    "5.8 — database/playlists/it’s only sex.md",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 117.jpg",
+    "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 116.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 115.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 114.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 113.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 112.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 111.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 110.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 109.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 108.jpg",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 107.jpg",
+    "1.2 — life data/journaling/2025/24th of August, 2025 — 18.52 (Sun) ★ i'm not okay.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-08-24.md",
+    "5.9 — bases/every transaction.base",
+    "5.8 — database/transactions/transaction3.md",
+    "6.0 — all tasks/cut fingernails.md",
+    "0.1 — flash notes/post art on socmed.md",
+    "5.9 — bases/albums i listened to.base",
+    "5.8 — database/albums/Magdalene.md",
+    "5.8 — database/albums/M3LL155X.md",
+    "5.8 — database/albums/LP1.md",
+    "5.8 — database/albums/EP2.md",
+    "5.8 — database/albums/Caprisongs.md",
     "5.9 — bases/all my playlists.base",
-    "5.1 — images stockpile/playlists/it’s only sex.jpg",
+    "5.8 — database/playlists/performed live heck yeah.md",
+    "1.2 — life data/2022/media/albums i listened to (2022).md",
+    "5.8 — database/albums/EP.md",
+    "5.8 — database/albums/Miroirs; Jeux d'eau; Pavane pour une infante défunte.md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "5.8 — database/playlists/women of idiosyncrasy.md",
+    "5.8 — database/playlists/mewo meow meow mwarrh ming meorrwh meow.md",
+    "5.8 — database/playlists/it’s only sex.md",
     "5.8 — database/playlists/freshly butchered human remains marketplace (FOR SALE!).md",
     "3.0 — tags/gore.md",
-    "5.1 — images stockpile/playlists/freshly butchered human remains marketplace (FOR SALE!).jpg",
     "5.8 — database/playlists/riff goes so hard i’m shitting my pants.md",
     "5.8 — database/playlists/to luna, for luna.md",
     "3.0 — tags/moon.md",
-    "5.1 — images stockpile/playlists/to luna, for luna.jpg",
-    "5.8 — database/playlists/i'm being ritually sacrificed to the gods by evil ceremonial witches.md",
-    "5.1 — images stockpile/playlists/i'm being ritually sacrificed to the gods by evil ceremonial witches.jpg",
-    "5.8 — database/playlists/mewo meow meow mwarrh ming meorrwh meow.md",
-    "5.1 — images stockpile/playlists/mewo meow meow mwarrh ming meorrwh meow.jpg",
-    "5.8 — database/playlists/fly too high and you'll burn from the sun, drop too low and you'll drown in the ocean.md",
-    "5.1 — images stockpile/playlists/fly too high and you'll burn from the sun, drop too low and you'll drown in the ocean.jpg",
-    "5.8 — database/playlists/artificial intelligence.md",
-    "3.0 — tags/A.I..md",
-    "5.1 — images stockpile/playlists/artificial intelligence.jpg",
-    "5.8 — database/playlists/gender isn’t real.md",
-    "3.0 — tags/gender.md",
-    "5.8 — database/playlists/performed live heck yeah.md",
-    "3.0 — tags/live.md",
-    "5.8 — database/playlists/what's the point of living if it's not for chasing earthly pleasures until you die.md",
-    "3.0 — tags/hedonism.md",
-    "5.1 — images stockpile/playlists/what's the point of living if it's not for chasing earthly pleasures until you die.jpg",
-    "5.8 — database/playlists/women of idiosyncrasy.md",
-    "3.0 — tags/feminism.md",
-    "5.1 — images stockpile/playlists/women of idiosyncrasy.jpg",
-    "5.8 — database/playlists/LOVE ME OR DIE <3.md",
-    "3.0 — tags/sadism.md",
-    "5.1 — images stockpile/playlists/LOVE ME OR DIE <3.jpg",
-    "5.8 — database/playlists/when will i grow up.md",
-    "5.8 — database/playlists/god is dead, we killed him.md",
-    "3.0 — tags/atheism.md",
-    "5.8 — database/playlists/baby names in alphabetical order.md",
-    "5.8 — database/playlists/songs with reverse effects.md",
-    "5.9 — bases/every transaction.base",
     "5.9 — bases/songs the complete list.base",
-    "5.9 — bases/albums i listened to.base",
     "5.8 — database/songs",
     "5.1 — images stockpile/notes/2021",
     "5.9 — bases/all the kanji.base",
