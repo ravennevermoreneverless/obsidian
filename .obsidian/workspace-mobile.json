@@ -82,55 +82,19 @@
             }
           },
           {
-            "id": "0473994c675f8b44",
+            "id": "36a590f84bbd64dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1.2 — life data/journaling/2025/24th of August, 2025 — 18.52 (Sun) ★ i'm not okay.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "5.1 — images stockpile/art/2012/2012 - misaka mikoto from toaru kagaku no railgun.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "24th of August, 2025 — 18.52 (Sun) ★ i'm not okay"
-            }
-          },
-          {
-            "id": "bf00182619d5195f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 — immediate notes/file cooker.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "file cooker"
+              "icon": "lucide-image",
+              "title": "2012 - misaka mikoto from toaru kagaku no railgun"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -8926,6 +8890,46 @@
           "icon": "lucide-ghost",
           "title": "review-queue-list-view"
         }
+      },
+      {
+        "id": "444e87ebddd582b2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0ecd00c7a9b666d7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c3ebde40bb188c23",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2d0eddb1d2b6bf37",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
       }
     ],
     "currentTab": 493
@@ -8951,13 +8955,24 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Create new task": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bf00182619d5195f",
+  "active": "36a590f84bbd64dc",
   "lastOpenFiles": [
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 117.jpg",
+    "0.1 — flash notes/post art on socmed.md",
+    "5.1 — images stockpile/art/2012/2012 - misaka mikoto from toaru kagaku no railgun.jpeg",
+    "5.0 — everything else/monoquin songs.md",
+    "5.9 — bases/albums i listened to.base",
+    "1.2 — life data/journaling/2025/24th of August, 2025 — 18.52 (Sun) ★ i'm not okay.md",
+    "1.0 — immediate notes/copy paste.md",
+    "1.0 — immediate notes/templates/songs the complete list RYM list format.md",
+    "1.0 — immediate notes/templates/the ultimate playlist of my life IG caption format.md",
+    "1.0 — immediate notes/templates/songs the complete list IG caption.md",
+    "1.0 — immediate notes/templates/album review RYM format.md",
     "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 117.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 116.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 115.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 114.jpg",
@@ -8966,16 +8981,11 @@
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 111.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 110.jpg",
     "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 109.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 108.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 107.jpg",
-    "1.2 — life data/journaling/2025/24th of August, 2025 — 18.52 (Sun) ★ i'm not okay.md",
     "1.2 — life data/2025/daily notes (2025).md",
     "5.8 — database/dailies/2025-08-24.md",
     "5.9 — bases/every transaction.base",
     "5.8 — database/transactions/transaction3.md",
     "6.0 — all tasks/cut fingernails.md",
-    "0.1 — flash notes/post art on socmed.md",
-    "5.9 — bases/albums i listened to.base",
     "5.8 — database/albums/Magdalene.md",
     "5.8 — database/albums/M3LL155X.md",
     "5.8 — database/albums/LP1.md",
@@ -8989,12 +8999,6 @@
     "1.2 — life data/2025/media/albums i listened to (2025).md",
     "5.8 — database/playlists/women of idiosyncrasy.md",
     "5.8 — database/playlists/mewo meow meow mwarrh ming meorrwh meow.md",
-    "5.8 — database/playlists/it’s only sex.md",
-    "5.8 — database/playlists/freshly butchered human remains marketplace (FOR SALE!).md",
-    "3.0 — tags/gore.md",
-    "5.8 — database/playlists/riff goes so hard i’m shitting my pants.md",
-    "5.8 — database/playlists/to luna, for luna.md",
-    "3.0 — tags/moon.md",
     "5.9 — bases/songs the complete list.base",
     "5.8 — database/songs",
     "5.1 — images stockpile/notes/2021",

@@ -6,7 +6,7 @@ contexts:
   - personal
 recurrence: DTSTART:20250804T235629Z;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-08-04T23:56:29.212+08:00
-dateModified: 2025-08-23T12:39:13.836+08:00
+dateModified: 2025-08-25T02:32:36.833+08:00
 tags:
   - task
 complete_instances:
@@ -19,7 +19,8 @@ complete_instances:
   - 2025-08-21
   - 2025-08-22
   - 2025-08-23
+  - 2025-08-25
 projects: []
-scheduled: 2025-08-24
+scheduled: 2025-08-26
 ---
 
