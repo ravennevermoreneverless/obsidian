@@ -8,12 +8,12 @@ enhanced: no
 addedOnRYM: no
 sharedOnReddit: no
 sharedOnMonoquin: no
-image: "[[LOVE ME OR DIE <3.jpg]]"
+image: "[[LOVE ME OR DIE.jpg]]"
 ---
 status: #child 
 tags: [[playlist]] [[music]] [[sadism]] 
 
-![[LOVE ME OR DIE <3.jpg]]
+![[LOVE ME OR DIE.jpg]]
 
 Shame - Mitski ★★★★
 Liking All Your Posts - Oscar Lang ★★★
