@@ -45,7 +45,92 @@
             }
           },
           {
-            "id": "1aa4254d0096ed3c",
+            "id": "df13fc8e5554c685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.0 — source materials/wiki/Rock (WIKI).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rock (WIKI)"
+            }
+          },
+          {
+            "id": "cb57acda31c897c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.0 — everything else/Rock (DEEP DIVE).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rock (DEEP DIVE)"
+            }
+          },
+          {
+            "id": "d4af4cd57240351b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 — life data/2025/media/albums i listened to (2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "albums i listened to (2025)"
+            }
+          },
+          {
+            "id": "8853e406af5f34da",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "5.9 — bases/albums i listened to.base",
+                "viewName": "all albums"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "albums i listened to"
+            }
+          },
+          {
+            "id": "6dd4c864025aa588",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,67 +151,6 @@
               },
               "icon": "lucide-file",
               "title": "albums i listened to (2022)"
-            }
-          },
-          {
-            "id": "f0581b889d73027d",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "5.9 — bases/albums i listened to.base",
-                "viewName": "all albums"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "albums i listened to"
-            }
-          },
-          {
-            "id": "36a590f84bbd64dc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "5.1 — images stockpile/art/2012/2012 - misaka mikoto from toaru kagaku no railgun.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "2012 - misaka mikoto from toaru kagaku no railgun"
-            }
-          },
-          {
-            "id": "4c8a97353e360178",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "5.1 — images stockpile/playlists/LOVE ME OR DIE.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "LOVE ME OR DIE"
-            }
-          },
-          {
-            "id": "1b97456099f10f29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.8 — database/playlists/LOVE ME OR DIE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LOVE ME OR DIE"
             }
           }
         ],
@@ -8973,6 +8997,186 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1b5d8ba1d1c7bab4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1776a74d0c9ded6f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cae32cf8b9d87654",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "39450d8d4e4ea224",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b627af53259fff3e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "33b79f7d9d455270",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f065c7c3739fd817",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d7d41d2afd34c8a4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ee75658b889c8f51",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "70d31451f6494345",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6e41f2ac7a3cf2d3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3be5d870c12a338a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "53929b3285cac185",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "05f75526dce9b5a8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2b4513906b928a1f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "14303aff3ff0a837",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "25b3546a35f6f281",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "330693d64622c337",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -9005,53 +9209,52 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b97456099f10f29",
+  "active": "330693d64622c337",
   "lastOpenFiles": [
-    "5.1 — images stockpile/playlists/LOVE ME OR DIE.jpg",
-    "5.1 — images stockpile/art/2012/2012 - misaka mikoto from toaru kagaku no railgun.jpeg",
-    "0.1 — flash notes/post art on socmed.md",
-    "5.0 — everything else/monoquin songs.md",
     "5.9 — bases/albums i listened to.base",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "6.0 — all tasks/make a painting of cheesecake (dog).md",
+    "6.0 — all tasks/get meds at NCMH.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-08-26.md",
+    "4.0 — indexes/chords (index).md",
+    "5.0 — everything else/fin the long and untold story of how i know it's meant to be — Origami Angel (chords).md",
+    "5.0 — everything else/All My Heart — Sleeping With Sirens (chords).md",
+    "5.0 — everything else/A Twist In My Story — Secondhand Serenade (chords).md",
+    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
+    "1.0 — immediate notes/lyrics i thought of randomly.md",
+    "5.0 — everything else/monoquin songs.md",
+    "5.1 — images stockpile/art/2012/2012 - coconut tree.jpeg",
+    "0.1 — flash notes/post art on socmed.md",
+    "5.0 — everything else/Rock (DEEP DIVE).md",
+    "5.5 — galleries/4th journal gallery.md",
+    "5.5 — galleries/3rd journal gallery.md",
+    "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 9.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 8.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 7.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 6.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 5.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 4.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 3.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 2.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 1.jpg",
+    "2.0 — source materials/wiki/Rock (WIKI).md",
+    "5.1 — images stockpile/journals/4th journal (2023)",
+    "5.8 — database/dailies/2025-08-25.md",
+    "5.8 — database/transactions/transaction4.md",
+    "1.2 — life data/2022/media/albums i listened to (2022).md",
+    "1.2 — life data/2025/media/films i watched (2025).md",
+    "5.8 — database/playlists/LOVE ME OR DIE.md",
     "1.2 — life data/journaling/2025/24th of August, 2025 — 18.52 (Sun) ★ i'm not okay.md",
     "1.0 — immediate notes/copy paste.md",
-    "1.0 — immediate notes/templates/songs the complete list RYM list format.md",
-    "1.0 — immediate notes/templates/the ultimate playlist of my life IG caption format.md",
-    "1.0 — immediate notes/templates/songs the complete list IG caption.md",
-    "1.0 — immediate notes/templates/album review RYM format.md",
-    "1.0 — immediate notes/file cooker.md",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 117.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 116.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 115.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 114.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 113.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 112.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 111.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 110.jpg",
-    "5.1 — images stockpile/journals/3rd journal (2019)/journal 3 - page 109.jpg",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/dailies/2025-08-24.md",
     "5.9 — bases/every transaction.base",
-    "5.8 — database/transactions/transaction3.md",
-    "6.0 — all tasks/cut fingernails.md",
-    "5.8 — database/albums/Magdalene.md",
-    "5.8 — database/albums/M3LL155X.md",
-    "5.8 — database/albums/LP1.md",
-    "5.8 — database/albums/EP2.md",
-    "5.8 — database/albums/Caprisongs.md",
     "5.9 — bases/all my playlists.base",
-    "5.8 — database/playlists/performed live heck yeah.md",
-    "1.2 — life data/2022/media/albums i listened to (2022).md",
-    "5.8 — database/albums/EP.md",
-    "5.8 — database/albums/Miroirs; Jeux d'eau; Pavane pour une infante défunte.md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
-    "5.8 — database/playlists/women of idiosyncrasy.md",
-    "5.8 — database/playlists/mewo meow meow mwarrh ming meorrwh meow.md",
     "5.9 — bases/songs the complete list.base",
     "5.8 — database/songs",
     "5.1 — images stockpile/notes/2021",
     "5.9 — bases/all the kanji.base",
     "1.0 — immediate notes/Recording 20250821172107.m4a",
-    "5.1 — images stockpile/kanji",
-    "5.8 — database/kanji"
+    "5.1 — images stockpile/kanji"
   ]
 }

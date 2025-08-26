@@ -154,7 +154,9 @@
   "hideCompletedFromOverdue": true,
   "icsIntegration": {
     "defaultNoteTemplate": "",
-    "defaultNoteFolder": ""
+    "defaultNoteFolder": "",
+    "icsNoteFilenameFormat": "title",
+    "customICSNoteFilenameTemplate": "{title}"
   },
   "savedViews": [
     {
@@ -196,7 +198,7 @@
     "isRunning": false,
     "timeRemaining": 1500
   },
-  "lastPomodoroDate": "2025-08-20",
+  "lastPomodoroDate": "2025-08-25",
   "pomodoroHistory": [
     {
       "id": "1753856584085",
@@ -227,5 +229,8 @@
   "enableAPI": false,
   "apiPort": 8080,
   "apiAuthToken": "",
-  "webhooks": []
+  "webhooks": [],
+  "singleClickAction": "edit",
+  "doubleClickAction": "openNote",
+  "userFields": []
 }

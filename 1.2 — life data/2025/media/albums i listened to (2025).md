@@ -80,3 +80,6 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 77. ***Pet Sounds*** (1966) — *The Beach Boys* : Baroque Pop • 8/8/2025 
 78. ***Blonde on Blonde*** (1966) — *Bob Dylan* : Folk Rock, Singer-Songwriter • 8/9/2025
 79. ***Lush*** (2018) — *Snail Mail* : Indie Rock, Indie Pop • 8/10/2025
+80. ***Crusade*** (1967) — *John Mayall's Bluesbreakers* : Blues Rock, British Blues • 8/25/2025
+81. ***Between the Buttons*** (1967) — *The Rolling Stones* : Pop Rock • 8/25/2025 
+82. ***Little Games*** (1967) — *The Yardbirds* : Psychedelic Rock, Blues Rock • 8/26/2025

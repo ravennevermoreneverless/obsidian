@@ -177,3 +177,4 @@ tags: [[raven]] [[spreadsheet]] [[films]]
 174. ***It's Not You, It's Me*** (2013) dir. Matt Spicer • 8/14/2025
 175. ***28 Years Later*** (2025) dir. Danny Boyle • 8/21/2025
 176. ***The Borderlands [Final Prayer]*** (2013) dir. Elliot Goldner • 8/23/2025
+177. ***Kpop Demon Hunters*** (2025) dir. Chris Appelhans, Maggie Kang • 8/25/2025

@@ -440,3 +440,7 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==20 - 21:55== It's Chai and I's anniversary. Nothing much happened but my love for her is still overflowing. She's still sick and I still took care of her. We slept a lot and played 99 Nights on ROBLOX. 
 
 ==24 - 23:59== I tried to break up with Chai in the evening. We had an argument in the chats while she's in the bathroom. We didn't push through with it. I went out to buy her medicines and snacks. I was sleepy the entire day. I don't know where this will lead us or if it makes us love each other more.
+
+==25 - 23:13== Chai and I played ROBLOX in the afternoon. Then, Chai, my sister, and I watched ***Kpop Demon Hunters*** (2025) in the evening while eating chips. 
+
+==26 - 22:44== Chai and I played *Drop a Poop* in the morning. Then we ate lunch, and I fell asleep until late afternoon. Then we ate dinner. I tried to produce music today but it's difficult. I played guitar in the evening with Chai. 

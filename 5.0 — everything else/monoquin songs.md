@@ -1325,8 +1325,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1295. Complicated System — Sokoninaru : August 23, 2025
 1296. Transatlanticism — Death Cab for Cutie : August 24, 2025
 1297. Never Let This Go — Paramore : August 25, 2025
-
-1298 ν August 26, 2025
+1298. Yoake — Hello Sleepwalkers : August 26, 2025
 
 1299 ν August 27, 2025
 
