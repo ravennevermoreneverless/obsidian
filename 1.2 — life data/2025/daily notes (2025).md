@@ -444,3 +444,5 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==25 - 23:13== Chai and I played ROBLOX in the afternoon. Then, Chai, my sister, and I watched ***Kpop Demon Hunters*** (2025) in the evening while eating chips. 
 
 ==26 - 22:44== Chai and I played *Drop a Poop* in the morning. Then we ate lunch, and I fell asleep until late afternoon. Then we ate dinner. I tried to produce music today but it's difficult. I played guitar in the evening with Chai. 
+
+==27 - 22:16== I finished the song, but I was close to feeling insane and unwell early morning. Dad got angry at my older brother and he was shouting and all while my brother spoke calmly. Chai was terrified. A lot of people went into the bathroom so Chai and I left the house to get my meds by 3 in the afternoon. We were in the middle of traffic when Chai was hungry so I insisted we eat at Jollibee first. We ate, took photos, then went straight home by a MoveIt ride because Chai wasn't feeling well (I didn't get my meds nor drink any today and yesterday). It rained pretty harshly, Chai and I got mad wet so we went and took a shower. We'll go home to QC tomorrow. 

@@ -9177,6 +9177,106 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "bfd3dde031e2a687",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d8136c4830574bea",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8e226fa3903140da",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "54c90114e6173a3e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b5279327259535f0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b89ff3296e5b920b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b1f8e339caa6e96d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "4f5918a5a2aecad9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "36f719c32fc35319",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8f1fff9066de79c3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -9209,23 +9309,30 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "330693d64622c337",
+  "active": "6dd4c864025aa588",
   "lastOpenFiles": [
-    "5.9 — bases/albums i listened to.base",
+    "5.8 — database/dailies/transaction6.md",
+    "5.8 — database/transactions/transaction7.md",
+    "1.2 — life data/2022/media/albums i listened to (2022).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/transactions/transaction5.md",
+    "5.8 — database/dailies/2025-08-27.md",
+    "5.1 — images stockpile/art/2012/2012 - playground in the park during fall.jpeg",
+    "0.1 — flash notes/post art on socmed.md",
+    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
+    "5.0 — everything else/monoquin songs.md",
+    "1.0 — immediate notes/flashcards/japanese flashcards.md",
     "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "5.9 — bases/albums i listened to.base",
     "6.0 — all tasks/make a painting of cheesecake (dog).md",
     "6.0 — all tasks/get meds at NCMH.md",
-    "1.2 — life data/2025/daily notes (2025).md",
     "5.8 — database/dailies/2025-08-26.md",
     "4.0 — indexes/chords (index).md",
     "5.0 — everything else/fin the long and untold story of how i know it's meant to be — Origami Angel (chords).md",
     "5.0 — everything else/All My Heart — Sleeping With Sirens (chords).md",
     "5.0 — everything else/A Twist In My Story — Secondhand Serenade (chords).md",
-    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
     "1.0 — immediate notes/lyrics i thought of randomly.md",
-    "5.0 — everything else/monoquin songs.md",
     "5.1 — images stockpile/art/2012/2012 - coconut tree.jpeg",
-    "0.1 — flash notes/post art on socmed.md",
     "5.0 — everything else/Rock (DEEP DIVE).md",
     "5.5 — galleries/4th journal gallery.md",
     "5.5 — galleries/3rd journal gallery.md",
@@ -9238,16 +9345,10 @@
     "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 4.jpg",
     "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 3.jpg",
     "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 2.jpg",
-    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 1.jpg",
     "2.0 — source materials/wiki/Rock (WIKI).md",
     "5.1 — images stockpile/journals/4th journal (2023)",
     "5.8 — database/dailies/2025-08-25.md",
     "5.8 — database/transactions/transaction4.md",
-    "1.2 — life data/2022/media/albums i listened to (2022).md",
-    "1.2 — life data/2025/media/films i watched (2025).md",
-    "5.8 — database/playlists/LOVE ME OR DIE.md",
-    "1.2 — life data/journaling/2025/24th of August, 2025 — 18.52 (Sun) ★ i'm not okay.md",
-    "1.0 — immediate notes/copy paste.md",
     "5.9 — bases/every transaction.base",
     "5.9 — bases/all my playlists.base",
     "5.9 — bases/songs the complete list.base",

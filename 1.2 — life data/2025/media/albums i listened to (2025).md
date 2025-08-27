@@ -83,3 +83,4 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 80. ***Crusade*** (1967) — *John Mayall's Bluesbreakers* : Blues Rock, British Blues • 8/25/2025
 81. ***Between the Buttons*** (1967) — *The Rolling Stones* : Pop Rock • 8/25/2025 
 82. ***Little Games*** (1967) — *The Yardbirds* : Psychedelic Rock, Blues Rock • 8/26/2025
+83. ***Kpop Demon Hunters*** (2025) — *Various Artists* : K-Pop, Film Soundtrack • 8/26/2025
