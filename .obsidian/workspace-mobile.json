@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "calendar-clock",
-              "title": "Agenda"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-agenda-view"
             }
           },
           {
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "df13fc8e5554c685",
+            "id": "b2ed9100d19dc317",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 — source materials/wiki/Rock (WIKI).md",
+                "file": "1.0 — immediate notes/file cooker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,132 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rock (WIKI)"
-            }
-          },
-          {
-            "id": "cb57acda31c897c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.0 — everything else/Rock (DEEP DIVE).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rock (DEEP DIVE)"
-            }
-          },
-          {
-            "id": "d4af4cd57240351b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2025/media/albums i listened to (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "albums i listened to (2025)"
-            }
-          },
-          {
-            "id": "8853e406af5f34da",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "5.9 — bases/albums i listened to.base",
-                "viewName": "all albums"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "albums i listened to"
-            }
-          },
-          {
-            "id": "6dd4c864025aa588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2022/media/albums i listened to (2022).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "albums i listened to (2022)"
-            }
-          },
-          {
-            "id": "b02335c25a095bf8",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "5.9 — bases/all my playlists.base",
-                "viewName": "general"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "all my playlists"
-            }
-          },
-          {
-            "id": "7ec3b18301cfc286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.0 — everything else/monoquin songs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "monoquin songs"
+              "title": "file cooker"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -9410,6 +9289,86 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "175e88f6c118432c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6d5d6d2176f80e30",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0ea4c622e70f4902",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "4bbaba541ca2cabb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9df4e692cf619bd6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e2d4d9e6149dcc08",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3d40facc79fc48ec",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "869652e95d2f7f54",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -9442,51 +9401,52 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7acdb4fc68e599e4",
+  "active": "b2ed9100d19dc317",
   "lastOpenFiles": [
-    "5.1 — images stockpile/art/2012/2012 - lucky star characters holding ema (traced).jpeg",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/dailies/2025-08-28.md",
-    "5.8 — database/transactions/transaction6.md",
-    "5.8 — database/dailies/2025-08-24.md",
-    "0.1 — flash notes/post art on socmed.md",
-    "5.0 — everything else/monoquin songs.md",
-    "5.8 — database/playlists/mozart's dinner plate🎻.md",
-    "5.1 — images stockpile/playlists/mozart's dinner plate🎻.jpg",
-    "5.9 — bases/all my playlists.base",
-    "5.8 — database/playlists/in the theatre halls.md",
-    "5.1 — images stockpile/playlists/in the theatre halls.jpg",
-    "5.8 — database/playlists/omnipresent hardwired teenage angst.md",
-    "5.1 — images stockpile/playlists/omnipresent hardwired teenage angst.jpg",
-    "5.8 — database/playlists/there's vomit on his sweater already, mom's spaghetti.md",
-    "5.1 — images stockpile/playlists/there's vomit on his sweater already, mom's spaghetti.jpg",
-    "5.8 — database/playlists/\"bet you haven't heard of these, they're like super indie\".md",
-    "5.1 — images stockpile/playlists/\"bet you haven't heard of these, they're like super indie\".jpg",
-    "5.8 — database/playlists/rock mega playlist (but really it's just mostly hard rock or watered down metal).md",
-    "5.1 — images stockpile/playlists/rock mega playlist (but really it's just mostly hard rock or watered down metal).jpg",
-    "5.8 — database/playlists/moshing. violence with etiquette.md",
-    "5.1 — images stockpile/playlists/moshing. violence with etiquette.jpg",
-    "5.8 — database/playlists/and then there’s the bass drop.md",
-    "5.1 — images stockpile/playlists/and then there’s the bass drop.jpg",
-    "5.8 — database/playlists/thank you adventure time.md",
-    "5.1 — images stockpile/playlists/thank you adventure time.jpg",
-    "5.8 — database/playlists/i would literally die for evangelion.md",
-    "5.8 — database/playlists/𝘵𝘩𝘦𝘳𝘦 𝘸𝘢𝘴 𝘰𝘯𝘤𝘦 𝘢 𝘭𝘰𝘯𝘦𝘭𝘺 𝘰𝘤𝘦𝘭𝘰𝘵 𝘭𝘰𝘴𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘧𝘰𝘳𝘦𝘴𝘵.md",
-    "5.8 — database/playlists/the hitchhiker's guide to the galaxy.md",
-    "5.8 — database/playlists/riff goes so hard i’m shitting my pants.md",
-    "1.0 — immediate notes/lo-fi chill hip hop beats to wank.cry.hate yourself to.md",
-    "5.8 — database/playlists/it’s only sex.md",
-    "1.2 — life data/2022/media/albums i listened to (2022).md",
-    "5.0 — everything else/all of my playlists.md",
-    "2.0 — source materials/wiki/Rock (WIKI).md",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 29.jpg",
+    "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 28.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 27.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 26.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 25.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 24.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 23.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 22.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 20.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 21.jpg",
+    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 19.jpg",
+    "1.2 — life data/journaling/2018/7th of April, 2018 — 23.25 (Sat) ★ finding out i have bipolar, the mundane and forgetting how a body part works.md",
+    "1.2 — life data/journaling/2018/7th of April, 2018 — 00.35 (Sat) ★ my problem.md",
+    "5.9 — bases/all the kanji.base",
+    "5.8 — database/kanji/円.md",
+    "5.8 — database/kanji/数.md",
+    "5.8 — database/kanji/半.md",
+    "5.8 — database/kanji/マン.md",
+    "5.8 — database/kanji/千.md",
+    "5.8 — database/kanji/百.md",
+    "5.8 — database/kanji/十.md",
+    "5.8 — database/kanji/九.md",
+    "5.8 — database/kanji/八.md",
+    "5.8 — database/kanji/七.md",
+    "5.8 — database/kanji/六.md",
+    "5.8 — database/kanji/五.md",
+    "5.8 — database/kanji/四.md",
+    "5.8 — database/kanji/三.md",
+    "5.8 — database/kanji/二.md",
+    "5.8 — database/kanji/一.md",
+    "1.0 — immediate notes/favorites rating system.md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
     "5.0 — everything else/Rock (DEEP DIVE).md",
+    "1.2 — life data/2022/media/albums i listened to (2022).md",
+    "1.0 — immediate notes/flashcards/japanese flashcards.md",
     "5.9 — bases/albums i listened to.base",
+    "5.9 — bases/all my playlists.base",
     "5.1 — images stockpile/journals/4th journal (2023)",
     "5.9 — bases/every transaction.base",
     "5.9 — bases/songs the complete list.base",
     "5.8 — database/songs",
     "5.1 — images stockpile/notes/2021",
-    "5.9 — bases/all the kanji.base",
     "1.0 — immediate notes/Recording 20250821172107.m4a",
     "5.1 — images stockpile/kanji"
   ]

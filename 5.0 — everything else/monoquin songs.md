@@ -1329,11 +1329,9 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1299. Agoraphobia — Autoheart : August 27, 2025
 1300. The Young Boy and the Black Right Arm — Panucci's Pizza : August 28, 2025
 
-Xi (1301 - 1400)
+## Xi (1301 - 1400) — ξ
 
-day song artist date
-
-1301 ξ Aug 29, 2025
+1301. Golden — HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast : Aug 29, 2025
 
 1302 ξ Aug 30, 2025
 

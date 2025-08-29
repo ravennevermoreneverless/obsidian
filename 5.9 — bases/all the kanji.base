@@ -11,6 +11,9 @@ views:
       - kunYomi
       - kanjiMeaning
       - image
+    sort:
+      - property: file.ctime
+        direction: ASC
     cardSize: 150
     image: note.image
     imageAspectRatio: 1

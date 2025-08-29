@@ -56,3 +56,5 @@
 	- Tears in My Eyes
 - ***Between the Buttons*** (1967) — *The Rolling Stones* • <span style="color:#831100">there wasn't much hint of blues rock here from this time, probably because the bluesbreakers are still spreading their influence throughout britain and rolling stones just so happened to release an album at the same time</span>
 - ***Little Games*** (1967) — *The Yardbirds* • <span style="color:#831100">i can't believe there were so many influential musicians here; eric clapton, jeff beck, jimmy page? well, well, well, rock classics. </span>
+- ***Canned Heat*** (1967) — *Canned Heat* • <span style="color:#831100">blues and country influence? sounds like this came FROM an influence and not the influence themselves...</span>
+- 
