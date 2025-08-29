@@ -84,3 +84,4 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 81. ***Between the Buttons*** (1967) — *The Rolling Stones* : Pop Rock • 8/25/2025 
 82. ***Little Games*** (1967) — *The Yardbirds* : Psychedelic Rock, Blues Rock • 8/26/2025
 83. ***Kpop Demon Hunters*** (2025) — *Various Artists* : K-Pop, Film Soundtrack • 8/26/2025
+84. ***The Wham of That Memphis Man!*** (1963) — *Lonnie Mack* : Rhythm & Blues, Blues Rock • 8/27/2025 ★ ==4==

@@ -1327,8 +1327,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1297. Never Let This Go — Paramore : August 25, 2025
 1298. Yoake — Hello Sleepwalkers : August 26, 2025
 1299. Agoraphobia — Autoheart : August 27, 2025
-
-1300 ν August 28, 2025
+1300. The Young Boy and the Black Right Arm — Panucci's Pizza : August 28, 2025
 
 Xi (1301 - 1400)
 

@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "tasknotes-agenda-view"
+              "icon": "calendar-clock",
+              "title": "Agenda"
             }
           },
           {
@@ -29,19 +29,6 @@
               "pinned": true,
               "icon": "lucide-ghost",
               "title": "tasknotes-task-list-view"
-            }
-          },
-          {
-            "id": "76b2ebc94ebbb523",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "5.9 — bases/all my playlists.base",
-                "viewName": "general"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "all my playlists"
             }
           },
           {
@@ -152,9 +139,45 @@
               "icon": "lucide-file",
               "title": "albums i listened to (2022)"
             }
+          },
+          {
+            "id": "b02335c25a095bf8",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "5.9 — bases/all my playlists.base",
+                "viewName": "general"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "all my playlists"
+            }
+          },
+          {
+            "id": "7ec3b18301cfc286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.0 — everything else/monoquin songs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "monoquin songs"
+            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -9277,6 +9300,116 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c4bf86802cac6111",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a6f2d55ee6ab0148",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f2319b4c459de6f2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5ea01784d49f7d2f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "38177609faeb65cf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "03a40760c396cc83",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ae375768bd9f6ec0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "08b4a72787b97e51",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "265f32a9c973599c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "58c34e4d45909b0e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "88bf2fc59b183d9a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -9309,48 +9442,47 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6dd4c864025aa588",
+  "active": "7acdb4fc68e599e4",
   "lastOpenFiles": [
-    "5.8 — database/dailies/transaction6.md",
-    "5.8 — database/transactions/transaction7.md",
-    "1.2 — life data/2022/media/albums i listened to (2022).md",
+    "5.1 — images stockpile/art/2012/2012 - lucky star characters holding ema (traced).jpeg",
     "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/transactions/transaction5.md",
-    "5.8 — database/dailies/2025-08-27.md",
-    "5.1 — images stockpile/art/2012/2012 - playground in the park during fall.jpeg",
+    "5.8 — database/dailies/2025-08-28.md",
+    "5.8 — database/transactions/transaction6.md",
+    "5.8 — database/dailies/2025-08-24.md",
     "0.1 — flash notes/post art on socmed.md",
-    "1.0 — immediate notes/kdkkskkdkdkdkdk.md",
     "5.0 — everything else/monoquin songs.md",
-    "1.0 — immediate notes/flashcards/japanese flashcards.md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
-    "5.9 — bases/albums i listened to.base",
-    "6.0 — all tasks/make a painting of cheesecake (dog).md",
-    "6.0 — all tasks/get meds at NCMH.md",
-    "5.8 — database/dailies/2025-08-26.md",
-    "4.0 — indexes/chords (index).md",
-    "5.0 — everything else/fin the long and untold story of how i know it's meant to be — Origami Angel (chords).md",
-    "5.0 — everything else/All My Heart — Sleeping With Sirens (chords).md",
-    "5.0 — everything else/A Twist In My Story — Secondhand Serenade (chords).md",
-    "1.0 — immediate notes/lyrics i thought of randomly.md",
-    "5.1 — images stockpile/art/2012/2012 - coconut tree.jpeg",
-    "5.0 — everything else/Rock (DEEP DIVE).md",
-    "5.5 — galleries/4th journal gallery.md",
-    "5.5 — galleries/3rd journal gallery.md",
-    "1.0 — immediate notes/file cooker.md",
-    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 9.jpg",
-    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 8.jpg",
-    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 7.jpg",
-    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 6.jpg",
-    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 5.jpg",
-    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 4.jpg",
-    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 3.jpg",
-    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 2.jpg",
-    "2.0 — source materials/wiki/Rock (WIKI).md",
-    "5.1 — images stockpile/journals/4th journal (2023)",
-    "5.8 — database/dailies/2025-08-25.md",
-    "5.8 — database/transactions/transaction4.md",
-    "5.9 — bases/every transaction.base",
+    "5.8 — database/playlists/mozart's dinner plate🎻.md",
+    "5.1 — images stockpile/playlists/mozart's dinner plate🎻.jpg",
     "5.9 — bases/all my playlists.base",
+    "5.8 — database/playlists/in the theatre halls.md",
+    "5.1 — images stockpile/playlists/in the theatre halls.jpg",
+    "5.8 — database/playlists/omnipresent hardwired teenage angst.md",
+    "5.1 — images stockpile/playlists/omnipresent hardwired teenage angst.jpg",
+    "5.8 — database/playlists/there's vomit on his sweater already, mom's spaghetti.md",
+    "5.1 — images stockpile/playlists/there's vomit on his sweater already, mom's spaghetti.jpg",
+    "5.8 — database/playlists/\"bet you haven't heard of these, they're like super indie\".md",
+    "5.1 — images stockpile/playlists/\"bet you haven't heard of these, they're like super indie\".jpg",
+    "5.8 — database/playlists/rock mega playlist (but really it's just mostly hard rock or watered down metal).md",
+    "5.1 — images stockpile/playlists/rock mega playlist (but really it's just mostly hard rock or watered down metal).jpg",
+    "5.8 — database/playlists/moshing. violence with etiquette.md",
+    "5.1 — images stockpile/playlists/moshing. violence with etiquette.jpg",
+    "5.8 — database/playlists/and then there’s the bass drop.md",
+    "5.1 — images stockpile/playlists/and then there’s the bass drop.jpg",
+    "5.8 — database/playlists/thank you adventure time.md",
+    "5.1 — images stockpile/playlists/thank you adventure time.jpg",
+    "5.8 — database/playlists/i would literally die for evangelion.md",
+    "5.8 — database/playlists/𝘵𝘩𝘦𝘳𝘦 𝘸𝘢𝘴 𝘰𝘯𝘤𝘦 𝘢 𝘭𝘰𝘯𝘦𝘭𝘺 𝘰𝘤𝘦𝘭𝘰𝘵 𝘭𝘰𝘴𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘧𝘰𝘳𝘦𝘴𝘵.md",
+    "5.8 — database/playlists/the hitchhiker's guide to the galaxy.md",
+    "5.8 — database/playlists/riff goes so hard i’m shitting my pants.md",
+    "1.0 — immediate notes/lo-fi chill hip hop beats to wank.cry.hate yourself to.md",
+    "5.8 — database/playlists/it’s only sex.md",
+    "1.2 — life data/2022/media/albums i listened to (2022).md",
+    "5.0 — everything else/all of my playlists.md",
+    "2.0 — source materials/wiki/Rock (WIKI).md",
+    "5.0 — everything else/Rock (DEEP DIVE).md",
+    "5.9 — bases/albums i listened to.base",
+    "5.1 — images stockpile/journals/4th journal (2023)",
+    "5.9 — bases/every transaction.base",
     "5.9 — bases/songs the complete list.base",
     "5.8 — database/songs",
     "5.1 — images stockpile/notes/2021",

@@ -13,6 +13,10 @@
 - ***Sugar and Spice*** (1963) — *The Searchers* • <span style="color:#831100">oh this is something i'd unironically listen to while on a road trip somewhere on the countryside by the time summer arrives</span> 
 	- Don't Cha Know
 - ***I Want to Hold Your Hand*** (1963) — *The Beatles* : was their first number one hit on the Billboard top 100 • <span style="color:#831100">no wonder this became a hit, it's very "common listener" friendly and it has a replayable value in it — really catchy</span>
+- ***The Wham of That Memphis Man!*** (1963) — *Lonnie Mack* : meanwhile in the US, blues rock was already brewing, and this kickstarted some of the big influences of the rock genre • <span style="color:#831100">i never thought i'd rate another album again, let alone a 4, for christ's sake! AND after a k-pop album, too. my ears are very much cleansed. and this was the reason, a blues album. probably will be one of my blues favorites.</span>
+	- Where There's a Will
+	- Why
+	- Down In The Dumps
 - ***You Were Mad For Me*** (1964) — *Freddie & The Dreamers* • <span style="color:#831100">listening to this while playing roblox grow a garden seems surreal</span> 
 	- It Doesn't Matter Anymore
 	- Tell Me When
