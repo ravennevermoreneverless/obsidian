@@ -4,9 +4,9 @@ priority: normal
 contexts:
   - game
 timeEstimate: 480
-recurrence: FREQ=WEEKLY;BYDAY=SU,SA
+recurrence: DTSTART:20250722T002816Z;FREQ=WEEKLY;BYDAY=SU,SA
 dateCreated: 2025-07-22T00:28:16.166+08:00
-dateModified: 2025-08-20T22:34:57.856+08:00
+dateModified: 2025-08-30T21:44:19.549+08:00
 tags:
   - game
   - task
@@ -29,7 +29,9 @@ complete_instances:
   - 2025-08-08
   - 2025-08-10
   - 2025-08-11
+  - 2025-08-30
 projects: []
+scheduled: 2025-08-31
 ---
 
 finish this shittttttt

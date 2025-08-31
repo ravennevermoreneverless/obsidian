@@ -4,8 +4,8 @@
 - [x] tiktok
 - [x] twitter
 - [x] pinterest
-- [ ] reddit
-- [ ] tumblr
-- [ ] substack
-- [ ] discord
+- [x] reddit
+- [x] tumblr
+- [x] substack
+- [x] discord
 - [ ] add on obsidian

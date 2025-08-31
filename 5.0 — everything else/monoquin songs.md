@@ -1332,10 +1332,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 ## Xi (1301 - 1400) — ξ
 
 1301. Golden — HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast : Aug 29, 2025
-
-1302 ξ Aug 30, 2025
-
-1303 ξ Aug 31, 2025
+1302. Strobe — Armlock : Aug 30, 2025
+1303. Punching In A Dream — The Naked And Famous : Aug 31, 2025
 
 1304 ξ Sep 1, 2025
 

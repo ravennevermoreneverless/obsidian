@@ -448,3 +448,7 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==27 - 22:16== I finished the song, but I was close to feeling insane and unwell early morning. Dad got angry at my older brother and he was shouting and all while my brother spoke calmly. Chai was terrified. A lot of people went into the bathroom so Chai and I left the house to get my meds by 3 in the afternoon. We were in the middle of traffic when Chai was hungry so I insisted we eat at Jollibee first. We ate, took photos, then went straight home by a MoveIt ride because Chai wasn't feeling well (I didn't get my meds nor drink any today and yesterday). It rained pretty harshly, Chai and I got mad wet so we went and took a shower. We'll go home to QC tomorrow. 
 
 ==28 - --== Chai and I went to NCMH to get my meds (I got it). Then, we went home to QC. It was raining very hard again. 
+
+==29 - 22:02== Chai's grandma kind of collapsed earlier in the afternoon. And Chai got very angry and was screaming at their uncle. Then a fight broke out and her sister and grandpa joined in, too, and everyone was screaming. One object was thrown. Their mom got home and calmed everything down but Chai called the police. The police came and can do nothing about it. Chai cried. My heart was pounding. But it subsided. 
+
+==30 - 21:25== Chai and I went to the doctor's today. She got prescribed meds and we bought meds under the pouring rain. She has GERD and hyperacidity. I was sleepy the entire day. I slept for 3 hours in the early evening. 
