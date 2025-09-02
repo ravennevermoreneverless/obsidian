@@ -1,0 +1,4 @@
+status: #child 
+tags: [[journal]] [[death]]
+
+I was just chilling, checking my social media accounts when news hit me. My friend, Hazel Montes, just died during a heart operation this morning. Damn. It was like only just yesterday when we rode the same jeepney on the way home together. I had no idea she was suffering a heart disease. Hazel was one of those decent people that I've met during 8th grade that I still kept in touch with. Hazel was a good kid. I remember those times when she would flaunt her new iPhone 6, pinch my side at the hallways, greet me at Capitol 8, ate at Bentelog together, talked about school stuff together and then in a flash, you're gone. It's true. You'll never know when you'll last see a person. Everything happens so fast. Condolences to her family, a moment of silence for a fallen friend. I wish she is happy wherever she is right now.

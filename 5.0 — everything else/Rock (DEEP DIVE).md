@@ -51,10 +51,11 @@
 	- Wouldn't It Be Nice
 	- I Just Wasn't Made For These Times
 - ***Blonde on Blonde*** (1966) — *Bob Dylan* • <span style="color:#831100">bob dylan is a big name in the music industry but this sounds like a random country blues album from the south</span>
+- ***Jefferson Airplane Takes Off*** (1966) — *Jefferson Airplane* • <span style="color:#831100">what a stupid name. jefferson airplane? what's he gonna do? take off a plane? what? haha</span>
 - ***Crusade*** (1967) — *John Mayall's Bluesbreakers* • <span style="color:#831100">this took me 4 whole days to listen to because i was always so sleepy</span>
 	- Oh, Pretty Woman
 	- Tears in My Eyes
 - ***Between the Buttons*** (1967) — *The Rolling Stones* • <span style="color:#831100">there wasn't much hint of blues rock here from this time, probably because the bluesbreakers are still spreading their influence throughout britain and rolling stones just so happened to release an album at the same time</span>
 - ***Little Games*** (1967) — *The Yardbirds* • <span style="color:#831100">i can't believe there were so many influential musicians here; eric clapton, jeff beck, jimmy page? well, well, well, rock classics. </span>
 - ***Canned Heat*** (1967) — *Canned Heat* • <span style="color:#831100">blues and country influence? sounds like this came FROM an influence and not the influence themselves...</span>
-- 
+- ***Big Brother & The Holding Company*** (1967) — *Big Brother & The Holding Company, Janis Joplin* • <span style="color:#831100">i was fully expecting janis joplin to be this kind of blues goddess due to nina simone but well, i guess it sounded ordinary.</span>

@@ -141,7 +141,7 @@
 --
 君は「さようなら」って言ってくれて欲しい。
 --
-discordは孤独な人たちでいっぱい。誰にも他の人に知り合いたくない。
+==discordは孤独な人たちでいっぱい。誰にも他の人に知り合いたくない。==
 --
 僕は絶対にひとりぼっちだね？ もう誰にもいない。
 --
@@ -247,7 +247,7 @@ loving music—not in a music critic, album reviewer, song analyst type of way o
 --
 i beat the shit out of myself in my mind everytime i forget a crucial fact about someone
 --
-i will always grieve for the infinite lives i didn't choose but i won't ever regret this one life i chose
+==i will always grieve for the infinite lives i didn't choose but i won't ever regret this one life i chose==
 --
 am i stupid or do i just need a lot of time to think about things first before settling with a thought or am i actually stupid
 --

@@ -1,6 +1,6 @@
 tags: [[raven]] [[spreadsheet]] [[finance]] [[tracker]]
 
-## <span style="color:#29A833">₱1,288.00</span>
+## <span style="color:#29A833">₱349</span>
 
 ## <span style="color:#FFF37B">₱ 0.00</span>
 

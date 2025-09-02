@@ -11,7 +11,7 @@ views:
       - image
     sort:
       - property: playlistNumber
-        direction: ASC
+        direction: DESC
     cardSize: 220
     image: note.image
   - type: cards

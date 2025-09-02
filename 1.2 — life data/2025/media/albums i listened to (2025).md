@@ -86,3 +86,5 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 83. ***Kpop Demon Hunters*** (2025) — *Various Artists* : K-Pop, Film Soundtrack • 8/26/2025
 84. ***The Wham of That Memphis Man!*** (1963) — *Lonnie Mack* : Rhythm & Blues, Blues Rock • 8/27/2025 ★ ==4==
 85. ***Canned Heat*** (1967) — *Canned Heat* : Blues Rock, Electric Blues • 8/29/2025 
+86. ***Jefferson Airplane Takes Off*** (1966) — *Jefferson Airplane* : Psychedelic Rock, Folk Rock • 8/31/2025
+87. ***Big Brother & The Holding Company*** (1967) — *Big Brother & The Holding Company, Janis Joplin* : Blues Rock, Psychedelic Rock • 8/31/2025

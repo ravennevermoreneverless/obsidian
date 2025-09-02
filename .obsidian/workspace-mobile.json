@@ -25,8 +25,32 @@
               "type": "tasknotes-task-list-view",
               "state": {},
               "pinned": true,
-              "icon": "check-square",
-              "title": "Tasks"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-task-list-view"
+            }
+          },
+          {
+            "id": "d28afc50790206f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/flashcards/japanese flashcards.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "japanese flashcards"
             }
           }
         ]
@@ -9502,6 +9526,366 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "216eb0b1653124b8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "696c6b84774a47cd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "834c04cf6a26ab36",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c824274f5472e818",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "bba34df53dcd3570",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a55fcbb3cb428ea9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9775cd11dd2f7ac7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0b15aa7abaecdfa8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "639be612ffe51ca4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "bce168df1e71ab82",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "621580235f0e4bd5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a11b4f1202bdc19a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7c66d951b7611cb0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9117552b887f64fe",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "4e62994071b7bc9e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "63d776f28f41e489",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e200b53e893eb2fe",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6dac47fe15ef58bc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e77f4cad150120fd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "64d274d44f916a8e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cbc28ba30fddda82",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cdfe545427f33078",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b9f104c4603bc55e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e7165712620773dd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3cc57cbcd41c8670",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c9cbc908f601f9d4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "dc54a7838c3bc855",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "655b9915b4136bb8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "981521e1f76113d6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "90986194c400010a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "30adb1dbaf87c4e5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0f9e369c80dccd3f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "856f7fd479f9d632",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "29349939073e0d10",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c0556869ac8fa28e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b5ec574fd7c5083a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -9534,52 +9918,52 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "93cd81f151d50591",
+  "active": "7acdb4fc68e599e4",
   "lastOpenFiles": [
-    "5.0 — everything else/monoquin songs.md",
-    "1.0 — immediate notes/file cooker.md",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid oliver.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid big al.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid yohioloid.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid leon.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid lola.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid miriam.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid prima.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid sonika.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid tonio.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - vocaloid avanna.jpeg",
-    "1.0 — immediate notes/copy paste.md",
-    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
-    "0.1 — flash notes/post art on socmed.md",
+    "1.2 — life data/2025/annual cash flow (2025).md",
+    "5.9 — bases/every transaction.base",
+    "1.0 — immediate notes/flashcards/japanese flashcards.md",
+    "5.8 — database/transactions/transaction8.md",
+    "5.8 — database/transactions/transaction9.md",
     "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/dailies/2025-08-30.md",
+    "5.8 — database/dailies/2025-09-02.md",
+    "5.1 — images stockpile/art/2013/2013 - luffy (big six).jpeg",
+    "5.1 — images stockpile/art/2013/2013 - naruto uzumaki (big six).jpeg",
+    "5.1 — images stockpile/art/2013/2013 - tsunayoshi sawada (big six).jpeg",
+    "5.1 — images stockpile/art/2013/2013 - ichigo kurosaki (big six).jpeg",
+    "5.1 — images stockpile/art/2013/2013 - natsu dragneel (big six).jpeg",
+    "0.1 — flash notes/post art on socmed.md",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/monoquin songs.md",
+    "0.1 — flash notes/nxkakmsmamamamma.md",
+    "1.0 — immediate notes/book about bipolar.md",
+    "0.1 — flash notes/new obsidian system.md",
+    "2.2 — creative projects/raven's brain/poems/a poem about dissociation.md",
+    "5.8 — database/dailies/2025-09-01.md",
+    "1.2 — life data/journaling/dream journal/Dream Journal — 13th of April, 2018 — 22.27 (Fri) ★ Ma'am Balleta's Enigma.md",
+    "1.0 — immediate notes/2013 - natsu dragneel.jpeg",
     "5.9 — bases/all my playlists.base",
-    "1.2 — life data/2025/daily tracker (2025).md",
-    "5.8 — database/dailies/2025-08-29.md",
-    "1.2 — life data/journaling/2018/7th of April, 2018 — 23.25 (Sat) ★ finding out i have bipolar, the mundane and forgetting how a body part works.md",
-    "1.2 — life data/journaling/2018/7th of April, 2018 — 00.35 (Sat) ★ my problem.md",
+    "5.8 — database/playlists/rhythmic sweaty flailing limbs.md",
+    "5.8 — database/playlists/just pretend i'm living in an old cabin on the countryside.md",
+    "5.8 — database/playlists/the antichrist’s mixtape.md",
+    "5.8 — database/playlists/socially acceptable music (S.A.M.).md",
+    "5.8 — database/playlists/Æ̷̛͈̃́̃͘ß̶̨̹̻̘̦̪̣̒̓̽͑͝œ̴͇̠̻̦͖̲͚͆̈̌͋̀͑̀ł̴͔͎̘̖̦̓̍́̈́ż̵̹͙̹̽͒̏̾ͅË̶͎̲̻͙͐͂̽̋̂͝.md",
+    "5.8 — database/playlists/blast from the 80's but make it futuristic.md",
+    "5.8 — database/playlists/i accidentally took LSD and now i'm seeing multiple folds of dimensions at once.md",
+    "5.8 — database/playlists/i was born to be a rockstar from the 80's.md",
+    "5.8 — database/playlists/what once was a civilization.md",
+    "5.8 — database/playlists/empty land of consumer capitalism and abandoned corporate skyscrapers.md",
+    "5.1 — images stockpile/playlists/Æ̷̛͈̃́̃͘ß̶̨̹̻̘̦̪̣̒̓̽͑͝œ̴͇̠̻̦͖̲͚͆̈̌͋̀͑̀ł̴͔͎̘̖̦̓̍́̈́ż̵̹͙̹̽͒̏̾ͅË̶͎̲̻͙͐͂̽̋̂͝.jpg",
+    "5.1 — images stockpile/playlists/rhythmic sweaty flailing limbs.jpg",
+    "5.1 — images stockpile/playlists/just pretend i'm living in an old cabin on the countryside.jpg",
+    "5.1 — images stockpile/playlists/the antichrist’s mixtape.jpg",
+    "5.1 — images stockpile/art/2023",
+    "5.1 — images stockpile/art/2013",
     "5.9 — bases/all the kanji.base",
-    "5.8 — database/kanji/円.md",
-    "5.8 — database/kanji/数.md",
-    "5.8 — database/kanji/半.md",
-    "5.8 — database/kanji/マン.md",
-    "5.8 — database/kanji/千.md",
-    "5.8 — database/kanji/百.md",
-    "5.8 — database/kanji/十.md",
-    "5.8 — database/kanji/九.md",
-    "5.8 — database/kanji/八.md",
-    "5.8 — database/kanji/七.md",
-    "5.8 — database/kanji/六.md",
-    "5.8 — database/kanji/五.md",
-    "5.8 — database/kanji/四.md",
-    "5.8 — database/kanji/三.md",
     "5.9 — bases/albums i listened to.base",
     "5.1 — images stockpile/journals/4th journal (2023)",
-    "5.9 — bases/every transaction.base",
     "5.9 — bases/songs the complete list.base",
     "5.8 — database/songs",
-    "5.1 — images stockpile/notes/2021",
-    "1.0 — immediate notes/Recording 20250821172107.m4a",
-    "5.1 — images stockpile/kanji"
+    "5.1 — images stockpile/notes/2021"
   ]
 }

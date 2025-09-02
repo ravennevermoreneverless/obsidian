@@ -452,3 +452,11 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==29 - 22:02== Chai's grandma kind of collapsed earlier in the afternoon. And Chai got very angry and was screaming at their uncle. Then a fight broke out and her sister and grandpa joined in, too, and everyone was screaming. One object was thrown. Their mom got home and calmed everything down but Chai called the police. The police came and can do nothing about it. Chai cried. My heart was pounding. But it subsided. 
 
 ==30 - 21:25== Chai and I went to the doctor's today. She got prescribed meds and we bought meds under the pouring rain. She has GERD and hyperacidity. I was sleepy the entire day. I slept for 3 hours in the early evening. 
+
+==31 - 22:49== I did most of my to-dos today while Chai watched a film. I listened to an entire playlist, too. Her aunt came by today and stayed for the night. We didn't get to wash our faces in the morning but we did so in the evening. It seemed like such a long day. 
+
+## September
+
+==1 (Mon) - 19:34== I did most of my to-dos even before I went to sleep so I slept pretty late. But Chai woke me up at 10 AM to eat. We showered in the afternoon, had sex in the shower and on the bed in the afternoon. We had dinner together with her family, we were all smiles and laughs. But in the middle of everything, I was feeling really really shitty. Like something's rotting inside me. Every terrible thought passed through my brain like haywire. I also got grounded by the bathroom light's plug wire. I thought I was gonna die.
+
+==2 (Tue) — 22:28== I was about to go home today. Mom sent me money for me to go home. I already told Chai's mom I'm going home. But Chai had a meltdown. We both had a meltdown. We cried so hard and revealed our feelings and what truly hurts us and what we want. Turns out, we both want each other because we love each other that we can't let go. We were okay then. Then we had steaming hot sex while her family is gone. We tried scissoring again, this time halfway successful. We whispered affections while laying on top of each other half-naked. Then we ate dinner, I had spaghetti, she got boiled eggs. We shat, too. 

@@ -6,7 +6,7 @@ contexts:
 timeEstimate: 480
 recurrence: DTSTART:20250722T002816Z;FREQ=WEEKLY;BYDAY=SU,SA
 dateCreated: 2025-07-22T00:28:16.166+08:00
-dateModified: 2025-08-30T21:44:19.549+08:00
+dateModified: 2025-08-31T12:43:55.041+08:00
 tags:
   - game
   - task
@@ -30,8 +30,9 @@ complete_instances:
   - 2025-08-10
   - 2025-08-11
   - 2025-08-30
+  - 2025-08-31
 projects: []
-scheduled: 2025-08-31
+scheduled: 2025-09-06
 ---
 
 finish this shittttttt

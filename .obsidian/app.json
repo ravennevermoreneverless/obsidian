@@ -59,8 +59,8 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "1.0 — immediate notes",
-  "attachmentFolderPath": "1.0 — immediate notes",
+  "newFileFolderPath": "0.1 — flash notes",
+  "attachmentFolderPath": "0.1 — flash notes",
   "propertiesInDocument": "visible",
-  "promptDelete": false
+  "promptDelete": true
 }

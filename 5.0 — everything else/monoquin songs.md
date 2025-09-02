@@ -1333,11 +1333,9 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 
 1301. Golden — HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast : Aug 29, 2025
 1302. Strobe — Armlock : Aug 30, 2025
-1303. Punching In A Dream — The Naked And Famous : Aug 31, 2025
-
-1304 ξ Sep 1, 2025
-
-1305 ξ Sep 2, 2025
+1303. Punching In A Dream — The Naked And Famous : Aug 31, 202
+1304. Identification — Infinity Frequencies : Sep 1, 2025
+1305. if we never met — rosevile sucks : Sep 2, 2025
 
 1306 ξ Sep 3, 2025
 
