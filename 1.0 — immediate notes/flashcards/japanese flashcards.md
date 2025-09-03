@@ -963,100 +963,272 @@ DVD (ディーブィディー)::DVD
 水色::light blue *みずいろ*
 金色/ゴールド::gold *きんいろ*
 ##### 冬休みの予定
-秋::fall あき
-医者::doctor いしゃ
-駅::station えき
-お金持ち::rich person おかねもち
-季節::season きせつ
-牛乳::milk ぎゅうにゅう
+秋::fall *あき*
+医者::doctor *いしゃ*
+駅::station *えき*
+お金持ち::rich person *おかねもち*
+季節::season *きせつ*
+牛乳::milk *ぎゅうにゅう*
 クレジットカード::credit card
 ケーキ::cake
 サッカー::soccer 
 シャツ::shirt
-新幹線::Shinkansen; "Bullet Train" しんかんせん
+新幹線::Shinkansen; "Bullet Train" *しんかんせん*
 すし::sushi
-生活::life; living せいかつ
-世界::world せかい
-地下鉄::subway ちかてつ
-手袋::gloves てぶくろ
-天ぷら::tempura てんぷら
-床屋::barber's とこや
-春::spring はる
+生活::life; living *せいかつ*
+世界::world *せかい*
+地下鉄::subway *ちかてつ*
+手袋::gloves *てぶくろ*
+天ぷら::tempura *てんぷら*
+床屋::barber's *とこや*
+春::spring *はる*
 パンツ::pants
-美容院::beauty parlor びよういん
-便::flight びん
-船::ship; boat ふね
-野球::baseball やきゅう
-有名人::celebrity ゆうめいじん
-予約::reservation よやく
-来学期::next semester らいがっき
+美容院::beauty parlor *びよういん*
+便::flight *びん*
+船::ship; boat *ふね*
+野球::baseball *やきゅう*
+有名人::celebrity *ゆうめいじん*
+予約::reservation *よやく*
+来学期::next semester *らいがっき*
 りんご::apple
-暖かい::warm あたたかい
-遅い::slow; late おそい
-涼しい::cool (weather—not used for things) すずしい
-冷たい::cool (things/people) つめたい
-眠い::sleepy ねむい
-簡単(な)::easy; simple かんたん(な)
+暖かい::warm *あたたかい*
+遅い::slow; late *おそい*
+涼しい::cool (weather—not used for things) *すずしい*
+冷たい::cool (things/people) *つめたい*
+眠い::sleepy *ねむい*
+簡単(な)::easy; simple *かんたん(な)*
 かかる::to take (amount of time/money) (no particle)
-泊まる::to stay (at a hotel, etc.) (~に) とまる
+泊まる::to stay (at a hotel, etc.) (~に) *とまる*
 なる::to become
-払う::to pay (~を) はらう
-決める::to decide (~を) きめる
-旅行する::to travel りょこうする
-練習する::to practice (~を) れんしゅうする
-歩いて::on foot あるいて
-一番::best いちばん
+払う::to pay (~を) *はらう*
+決める::to decide (~を) *きめる*
+旅行する::to travel *りょこうする*
+練習する::to practice (~を) *れんしゅうする*
+歩いて::on foot *あるいて*
+一番::best *いちばん*
 ~か~::or
 ~ヶ月::for...months
-~後::in...time; after... ~ご
+~後::in...time; after... *~ご*
 このごろ::these days
-~週間::for...weeks ~しゅうかん
+~週間::for...weeks *~しゅうかん*
 ~で::by (means of transportation); with (a tool)
 どうやって::how; by what means
 どちら::which
 どっち::which
 どのぐらい::how much; how long
-~年::..years ~ねん
-早く／速く::(do something) early; fast はやく
-普通::local 
-急行::express
-特急::super express
-~行き::bound for...
-~方面::serving...areas
-乗車券::(boarding) ticket
-回数券::coupons
-定期券::commuter's pass
-学割::student discount
-指定席::reserved seat
-自由席::general admission seat
-禁煙車::nonsmoking car
-一号車::Car No.1 
-往復::round trip
-片道::one way
-~番線::track number...
-切符売り場::ticket vending area
-改札::gate
+~年::..years *~ねん*
+早く／速く::(do something) early; fast *はやく*
+普通::local *ふつう*
+急行::express *きゅうこう*
+特急::super express *とっきゅう*
+~行き::bound for... 
+~方面::serving...areas *~ほうめん*
+乗車券::(boarding) ticket *じょうしゃけん*
+回数券::coupons *かいすうけん*
+定期券::commuter's pass *ていきけん*
+学割::student discount *がくわり*
+指定席::reserved seat *していせき*
+自由席::general admission seat *じゆうせき*
+禁煙車::nonsmoking car *きんえんしゃ*
+一号車::Car No.1 *いちごうしゃ*
+往復::round trip *おうふく*
+片道::one way *かたみち*
+~番線::track number... *~ばんせん*
+切符売り場::ticket vending area *きっぷうりば*
+改札::gate *かいさつ*
 ホーム::platform
-売店::shop; stand
-出口::exit
-入り口::entrance
-階段::stairs
-いちばん前::first car; front end
-いちばん後ろ::last car; tail end
-乗り換え::transfer
-次は~::next (stop)...
-先発::departing first
-次発::departing second
-終電::last train
-まもなく発車します::We will be leaving soon.
-電車が参ります::A train is arriving.
-次は~に止まります::Next (we'll stop at)...
-ドアが閉まります。ご注意ください。::The doors are closing. Please be careful.
-この電車は秋葉原に止まりますか::Does this train stop at Akihabara?
-終電は何時ですか::What time is the last train?
-東京までの指定席を一枚お願いします::One reserved ticket to Tokyo, please.
-学割が使えますか::Can I get a student discount?
-鎌倉位行きの電車はどれですか::Which one is the train bound for Kamakura?
-二番線です::Track number two
+売店::shop; stand *ばいてん*
+出口::exit *でぐち*
+入り口::entrance *いりぐち*
+階段::stairs *かいだん*
+いちばん前::first car; front end *いちばんまえ*
+いちばん後ろ::last car; tail end *いちばんうしろ*
+乗り換え::transfer *のりかえ*
+次は~::next (stop)... 
+先発::departing first *せんぱつ*
+次発::departing second *じはつ*
+終電::last train *しゅうでん*
+まもなく発車します::We will be leaving soon. *まもなくはっしゃします*
+電車が参ります::A train is arriving. *でんしゃがまいります*
+次は~に止まります::Next (we'll stop at)... 
+ドアが閉まります。ご注意ください。::The doors are closing. Please be careful. *ドアがしまります。ごちゅういください。*
+この電車は秋葉原に止まりますか::Does this train stop at Akihabara? *このでんしゃはあきはばらにとまりますか*
+終電は何時ですか::What time is the last train? *しゅうでんはなんじですか*
+東京までの指定席を一枚お願いします::One reserved ticket to Tokyo, please. *とうきょうまでのしていせきをいちまいおねがいします*
+学割が使えますか::Can I get a student discount? *がくわりがつかえますか*
+鎌倉位行きの電車はどれですか::Which one is the train bound for Kamakura? *かまくらいきのでんしゃはどれですか*
+二番線です::Track number two *にばんせんです*
 ##### 休みの後
+お菓子::snack; sweets *おかし*
+お正月::New Year's *おしょうがつ*
+男の子::boy *おとこのこ*
+お祭り::festival *おまつり*
+おもちゃ::toy
+温泉::spa; hot spring *おんせん*
+女の子::girl *おんなのこ*
+外国::foreign country *がいこく*
+歌手::singer *かしゅ*
+川::river *かわ*
+キャンプ::camp
+こちら::this person (polite)
+今学期::this semester *こんがっき*
+社長::president of a company *しゃちょう*
+授業::class *じゅぎょう*
+将来::future *しょうらい*
+神社::shrine *じんじゃ*
+つり::fishing
+ドライブ::drive
+ビール::beer
+美術館::art museum *びじゅつかん*
+ホストファミリー::host family
+湖::lake *みずうみ*
+山::mountain *やま*
+夢::dream *ゆめ*
+ルームメート::roommate
+うそをつく::to tell a lie
+おなかがすく::to become hungry
+飼う::to own (a pet) (~を) *かう*
+サボる::to cut (classes) (~を)
+取る::to take (a class); to get (a grade) (~を) *とる*
+習う::to learn (~を) *ならう*
+登る::to climb (place に) *のぼる*
+働く::to work *はたらく*
+疲れる::to get tired *つかれる*
+やめる::to quit (~を)
+けんかする::to have a fight; to quarrel
+紹介する::to introduce (person に person を) *しょうかいする*
+ダイエットする::to go on a diet
+遅刻する::to be late (for an appointment) (~に) *ちこくする*
+留学する::to study abroad (place に) *りゅうがくする*
+出身::coming from (place の) *しゅっしん*
+そして::and then
+~だけ::just...; only...
+~てん::...points
+ひさしぶり::it has been a long time
+まあまあ::okay; so-so
+もっと::more
+作家::writer *さっか*
+ジャーナリスト::journalist
+警察官::police officer *けいさつかん*
+俳優::actor; actress *はいゆう*
+宇宙飛行士::astronaut *うちゅうひこうし*
+野球選手::baseball player *やきゅうせんしゅ*
+大統領::president of a country ==だいとうりょう==
+女優::actress *じょゆう*
+看護師::nurse *かんごし*
+消防士::firefighter *しょうぼうし*
+漫画家::cartoonist *まんがか*
+どちらでもいいです::Both are fine 
+同じです::Same thing *おなじです*
+だいたい同じです::More or less the same *だいたいおなじです*
+ちょっと違います::A little different *ちょっとちがいます*
+使えません::Can't use it *つかえません*
+だめです::No good
+手をあげてください::Raise your hand
+読んできてください::Read it before coming to class
+宿題を出してください::Hand in the homework
+教科書を閉じてください::Close the textbook 
+となりの人に聞いてください::Ask the person sitting next to you
+やめてください::Please stop
+今日はこれで終わります::That's it for today
+宿題::homework *しゅくだい*
+しめきり::deadline
+練習::exercise *れんしゅう*
+意味::meaning *いみ*
+発音::pronunciation はつおん
+文法::grammar *ぶんぽう*
+質問::question *しつもん*
+答::answer *こたえ*
+例::example *れい*
+かっこ::( ) (parenthesis)
+まる::○ (correct)
+ばつ::✖︎ (wrong)
+くだけた言い方::colloquial expression
+かたい言い方::bookish expression
+ていねいな言い方::polite expression
+方言::dialect *ほうげん*
+標準語::standard Japanese *ひょうじゅんご*
+たとえば::for example
+ほかに::anything else
+~番::number...
+~ページ::page number...
+~行目::line number... *~ぎょうめ*
+二人ずつ::two people each *ふたりずつ*
 ##### 病気
+お手洗い::restroom *おてあらい*
+風邪::cold *かぜ*
+彼女::girlfriend *かのじょ*
+彼::boyfriend *かれ*
+気温::temperature(weather—not used for things) *きおん*
+曇り::cloudy weather *くもり*
+試合::match; game *しあい*
+ジュース::juice
+成績::grade (on a test, etc.) *せいせき*
+せき::cough *せき*
+のど::throat
+花::flower *はな*
+晴れ::sunny weather *はれ*
+服::clothes *ふく*
+二日酔い::hangover *ふつかよい*
+プレゼント::present
+ホームシック::homesickness
+マイナス::minus
+物::thing (concrete object) *もの*
+雪::snow *ゆき*
+用事::business to take care of *ようじ*
+甘い::sweet *あまい*
+痛い::hurt; painful *いたい*
+多い::there are many... *おおい*
+狭い::narrow; not spacious *せまい*
+都合が悪い::inconvenient; to have a scheduling conflict *つごうがわるい*
+悪い::bad *わるい*
+素敵(な)::nice *すてき(な)*
+歩く::to walk *あるく*
+風邪をひく::to catch a cold *かぜをひく*
+興味がある::to be interested(in...) (topic に) *きょうみがある*
+なくす::to lose (~を) 
+熱がある::to have a fever *ねつがある*
+のどが乾く::to become thirsty *のどがかわく*
+せきが出る::to cough 
+別れる::to break up; to separate (person と) *わかれる*
+緊張する::to get nervous *きんちょうする*
+心配する::to worry *しんぱいする*
+お大事に::Get well soon *おだいじに*
+元気がない::don't look well *げんきがない*
+多分::probably; maybe *たぶん*
+できるだけ::as much as possible
+~でしょう::probably;...right? 
+~度::...degrees(temperature)
+二三日::for two to three days
+~ので::because...
+初めて::for the first time *はじめて*
+もうすぐ::very soon; in a few moments/days
+下痢です::I have diarrhea *げりです*
+便秘です::I am constipated *べんぴです*
+生理です::I have my period *せいりです*
+花粉症です::I have hay fever *かふんしょうです*
+(~に)アレルギーがあります::I have an allergy to..
+虫歯があります::I have a bad tooth *はしばがあります*
+くしゃみが出ます::I sneeze *くしゃみげ出ます*
+鼻水が出ます::I have a runny nose *はなみずが出ます*
+背中がかゆいです::My back itches *せなかがかゆいです*
+発疹があります::I have rashes *はっしんがあります*
+めまいがします::I feel dizzy
+吐きました::I threw up *はきました*
+気分が悪いです::I am not feeling well *きぶんがわるいです*
+やけどをしました::I burned myself
+足の骨を折りました::I broke my leg *あしのほねをおりました*
+けがをしました::I hurt myself 
+内科::physician *ないか*
+皮膚科::dermatologist *ひふか*
+外科::surgeon *げか*
+産婦人科::obstetrician and gynecologist　*さんふじんか*
+整形外科::orthopedic surgeon *せいけいげか*
+眼科::ophthalmologist *がんか*
+歯科::dentist *しか*
+耳鼻科::otorhinolaryngologist; ENT doctor *じびか*
+抗生物質::antibiotic *こうせいぶっしつ*
+レンドゲン::X-ray
+手術::operation *しゅじゅつ*
+注射::injection *ちゅうしゃ*
+体温計::thermometer *たいおんけい*

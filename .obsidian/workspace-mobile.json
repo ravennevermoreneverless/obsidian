@@ -30,27 +30,16 @@
             }
           },
           {
-            "id": "d28afc50790206f6",
+            "id": "e9eb2cc33afa116a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1.0 — immediate notes/flashcards/japanese flashcards.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "5.9 — bases/all my playlists.base",
+                "viewName": "general"
               },
-              "icon": "lucide-file",
-              "title": "japanese flashcards"
+              "icon": "lucide-layout-grid",
+              "title": "all my playlists"
             }
           }
         ]
@@ -9886,6 +9875,136 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2d3f4ad7648e85fb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8039fc6b7b798c71",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8ae14bcc40471092",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f51a2dd1559fd6c6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a3c3ce98f550a5cf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "51f25c12b741bc7f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d1965decd82d20b4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3a46cf4aec912cb1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "34fc36be1513fc82",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e60fa29b1a7dd450",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "41ec9ab28537ae2a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5c4be3c82c4a5a69",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "08f881f70aeda362",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -9920,46 +10039,47 @@
   },
   "active": "7acdb4fc68e599e4",
   "lastOpenFiles": [
-    "1.2 — life data/2025/annual cash flow (2025).md",
-    "5.9 — bases/every transaction.base",
-    "1.0 — immediate notes/flashcards/japanese flashcards.md",
-    "5.8 — database/transactions/transaction8.md",
-    "5.8 — database/transactions/transaction9.md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/dailies/2025-09-02.md",
-    "5.1 — images stockpile/art/2013/2013 - luffy (big six).jpeg",
-    "5.1 — images stockpile/art/2013/2013 - naruto uzumaki (big six).jpeg",
-    "5.1 — images stockpile/art/2013/2013 - tsunayoshi sawada (big six).jpeg",
-    "5.1 — images stockpile/art/2013/2013 - ichigo kurosaki (big six).jpeg",
-    "5.1 — images stockpile/art/2013/2013 - natsu dragneel (big six).jpeg",
-    "0.1 — flash notes/post art on socmed.md",
-    "1.0 — immediate notes/tweets.md",
-    "5.0 — everything else/monoquin songs.md",
-    "0.1 — flash notes/nxkakmsmamamamma.md",
-    "1.0 — immediate notes/book about bipolar.md",
-    "0.1 — flash notes/new obsidian system.md",
-    "2.2 — creative projects/raven's brain/poems/a poem about dissociation.md",
-    "5.8 — database/dailies/2025-09-01.md",
-    "1.2 — life data/journaling/dream journal/Dream Journal — 13th of April, 2018 — 22.27 (Fri) ★ Ma'am Balleta's Enigma.md",
-    "1.0 — immediate notes/2013 - natsu dragneel.jpeg",
+    "5.8 — database/playlists/bubblegum bass.md",
     "5.9 — bases/all my playlists.base",
-    "5.8 — database/playlists/rhythmic sweaty flailing limbs.md",
-    "5.8 — database/playlists/just pretend i'm living in an old cabin on the countryside.md",
-    "5.8 — database/playlists/the antichrist’s mixtape.md",
-    "5.8 — database/playlists/socially acceptable music (S.A.M.).md",
-    "5.8 — database/playlists/Æ̷̛͈̃́̃͘ß̶̨̹̻̘̦̪̣̒̓̽͑͝œ̴͇̠̻̦͖̲͚͆̈̌͋̀͑̀ł̴͔͎̘̖̦̓̍́̈́ż̵̹͙̹̽͒̏̾ͅË̶͎̲̻͙͐͂̽̋̂͝.md",
-    "5.8 — database/playlists/blast from the 80's but make it futuristic.md",
-    "5.8 — database/playlists/i accidentally took LSD and now i'm seeing multiple folds of dimensions at once.md",
-    "5.8 — database/playlists/i was born to be a rockstar from the 80's.md",
-    "5.8 — database/playlists/what once was a civilization.md",
-    "5.8 — database/playlists/empty land of consumer capitalism and abandoned corporate skyscrapers.md",
-    "5.1 — images stockpile/playlists/Æ̷̛͈̃́̃͘ß̶̨̹̻̘̦̪̣̒̓̽͑͝œ̴͇̠̻̦͖̲͚͆̈̌͋̀͑̀ł̴͔͎̘̖̦̓̍́̈́ż̵̹͙̹̽͒̏̾ͅË̶͎̲̻͙͐͂̽̋̂͝.jpg",
-    "5.1 — images stockpile/playlists/rhythmic sweaty flailing limbs.jpg",
-    "5.1 — images stockpile/playlists/just pretend i'm living in an old cabin on the countryside.jpg",
-    "5.1 — images stockpile/playlists/the antichrist’s mixtape.jpg",
+    "5.8 — database/playlists/there must be something more to life than this.md",
+    "5.8 — database/playlists/that rave party.md",
+    "5.8 — database/playlists/MY HEART, I LOVED HER 💔.md",
+    "5.8 — database/playlists/band practice in my parent's garage @ 2.30 after class.md",
+    "5.8 — database/playlists/ball-scratchin' music.md",
+    "5.8 — database/playlists/work fidget work code code fidget fidget code code fidget work.md",
+    "5.8 — database/playlists/music for fucking.md",
+    "5.8 — database/playlists/we’re everywhere..md",
+    "5.1 — images stockpile/playlists/we're everywhere..jpg",
+    "0.1 — flash notes/we're everywhere.jpg.md",
+    "5.8 — database/playlists/no, actually this is lo-fi.md",
+    "5.8 — database/playlists/actually good non-repetitive non-formulaic bedroom pop songs.md",
+    "5.8 — database/playlists/space rocks.md",
+    "5.8 — database/playlists/recorded inside a pyramid.md",
+    "5.8 — database/playlists/what the hell is “art rock”.md",
+    "5.8 — database/playlists/calling of the skies.md",
+    "5.8 — database/playlists/grooooovy.md",
+    "1.2 — life data/journaling/2018/8th of February, 2018 — 23.30 (Thu) ★ spring rolls and childhood memories with my mom.md",
+    "5.8 — database/playlists/who left the boombox on the sidewalk?.md",
+    "5.8 — database/playlists/mad mad mad mad mad.md",
+    "5.8 — database/playlists/pop level 2.md",
+    "5.8 — database/playlists/drowning out the tinnitus (or making it worse).md",
+    "5.8 — database/playlists/internet download manager.md",
+    "5.8 — database/playlists/BAGPIPES!!!!!!.md",
+    "5.8 — database/playlists/shitcore.md",
+    "5.8 — database/playlists/manic depressive hyperdrive (unmedicated edition).md",
+    "5.1 — images stockpile/playlists/bubblegum bass.jpg",
+    "5.1 — images stockpile/playlists/there must be something more to life than this.jpg",
+    "5.1 — images stockpile/playlists/MY HEART, I LOVED HER 💔.jpg",
+    "5.1 — images stockpile/playlists/band practice in my parent's garage @ 2.30 after class.jpg",
+    "5.1 — images stockpile/playlists/ball-scratchin' music.jpg",
+    "5.1 — images stockpile/playlists/work fidget work code code fidget fidget code code fidget work.jpg",
+    "5.1 — images stockpile/playlists/music for fucking.jpg",
+    "5.1 — images stockpile/playlists/no, actually this is lo-fi.jpg",
+    "5.1 — images stockpile/playlists/actually good non-repetitive non-formulaic bedroom pop songs.jpg",
+    "5.9 — bases/all the kanji.base",
+    "5.9 — bases/every transaction.base",
     "5.1 — images stockpile/art/2023",
     "5.1 — images stockpile/art/2013",
-    "5.9 — bases/all the kanji.base",
     "5.9 — bases/albums i listened to.base",
     "5.1 — images stockpile/journals/4th journal (2023)",
     "5.9 — bases/songs the complete list.base",
