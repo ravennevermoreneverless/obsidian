@@ -253,20 +253,20 @@ am i stupid or do i just need a lot of time to think about things first before s
 --
 being content doesn't necessarily mean the future doesn't matter. it's that whether you have a tomorrow or not, whatever happens today should be enough.
 --
-it pains me to remember that most people don't hold the same amount of compassion and patience for everyone else
+==it pains me to remember that most people don't hold the same amount of compassion and patience for everyone else==
 
-it pains me to remember that some people will always have ill intent for others for their own benefit
+==it pains me to remember that some people will always have ill intent for others for their own benefit==
 
-all these unnecessary hate and suffering
+==all these unnecessary hate and suffering==
 
-it doesn't have to be this way
+==it doesn't have to be this way==
 
-when i encounter shitty people with shitty lives making shitty decisions, it's hard to feel anger. i can only feel a profound sense of sadness.
+==when i encounter shitty people with shitty lives making shitty decisions, it's hard to feel anger. i can only feel a profound sense of sadness.==
 
-i know they didn't choose the path to malice. nobody wants to live a life like that. they hurt because they're hurt—but that doesn't make it okay, still. i don't accept their behavior but i UNDERSTAND.
+==i know they didn't choose the path to malice. nobody wants to live a life like that. they hurt because they're hurt—but that doesn't make it okay, still. i don't accept their behavior but i UNDERSTAND.==
 
 --
-omw to become an enlightened being
+==omw to become an enlightened being==
 --
 my art style is whatever the fuck happens when i make art
 --

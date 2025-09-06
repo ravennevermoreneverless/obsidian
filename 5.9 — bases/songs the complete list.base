@@ -5,8 +5,11 @@ views:
       and:
         - file.folder == "5.8 — database/songs"
     order:
-      - file.name
+      - favoritesTrackNumber
+      - songTitle
       - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
       - minutes
       - seconds
       - rating
@@ -15,8 +18,10 @@ views:
       - property: file.ctime
         direction: ASC
     columnSize:
-      file.name: 401
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
       note.artist: 283
+      note.primaryMusicGenre: 349
       note.minutes: 80
       note.rating: 82
   - type: table

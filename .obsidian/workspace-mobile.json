@@ -30,16 +30,40 @@
             }
           },
           {
-            "id": "e9eb2cc33afa116a",
+            "id": "669cbcd48a2e357c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.8 — database/playlists/marceline abadeer would probably like these songs.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "marceline abadeer would probably like these songs"
+            }
+          },
+          {
+            "id": "6bc0201f552d4e9e",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "5.9 — bases/all my playlists.base",
+                "file": "5.9 — bases/songs the complete list.base",
                 "viewName": "general"
               },
-              "icon": "lucide-layout-grid",
-              "title": "all my playlists"
+              "icon": "lucide-table",
+              "title": "songs the complete list"
             }
           }
         ]
@@ -10005,6 +10029,466 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0224643b5cebf6c2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f64c8a03523ce415",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e41baf3de522c31a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "79fbccb1ffb64d13",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ee20f184add6109c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0bf97b0bc8948184",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a331d162571493c1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d400104eac272dcb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "785db7309067406c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7578b1c027867312",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a2319cee4599d823",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6a93ebcf3dcdd6dc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "fa766e0076d981ca",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "fb8f16d6973f5836",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d43e3450c7a1d304",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d3b38e60890e2584",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9c7a71090507b06c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3c2aa58dd433317f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "08ba74ac50912b09",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0df6b267522b4d42",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d974c42717033fda",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3f839092782a35ed",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ba76b753d26324f1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "dd86fd79edf62423",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "bd3bd247ca320eb1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f4cc3c7af0b579f2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6b244d9932bb3ddf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8aa350ca9b8daa75",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1e34d5150da64195",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5ae305a2013f1688",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c00ab0f5d440bdc1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d2bf33eebddb6479",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c6f217d80ae8cdaf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "011f148b25527755",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c0791eba47d507dc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8574d668d0f02cf0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6801e9dacab53482",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "09d35fda3e2b2ef7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9df4edaef37b7f30",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c9bdd9143d0ed9a4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cd5e23fb5a991844",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3fe52948d688da69",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7d84da315b1f5700",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d99b22a4352a19d6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b84d302d96dc461d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b10b5d67766a01f6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -10039,51 +10523,51 @@
   },
   "active": "7acdb4fc68e599e4",
   "lastOpenFiles": [
-    "5.8 — database/playlists/bubblegum bass.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-09-06.md",
+    "5.9 — bases/songs the complete list.base",
+    "5.8 — database/songs/It’s Only Sex — Car Seat Headrest ★★★★.md",
+    "5.0 — everything else/It's Only Sex — Car Seat Headrest.md",
+    "5.8 — database/playlists/marceline abadeer would probably like these songs.md",
+    "5.8 — database/songs/Black Sheep (Brie Larson Vocal Version) — Metric, Brie Larson ★★★★★.md",
+    "5.8 — database/songs/Better Than Me — The Brobecks ★★★.md",
+    "5.8 — database/songs/Townie — Mitski ★★★½.md",
+    "5.8 — database/songs/Black Sheep (Brie Larson Vocal Version) — Metric.md",
+    "1.0 — immediate notes/actual templates/song template.md",
+    "5.8 — database/the ultimate playlist of my life/Bitter Sweet Symphony.md",
+    "5.8 — database/songs",
     "5.9 — bases/all my playlists.base",
-    "5.8 — database/playlists/there must be something more to life than this.md",
-    "5.8 — database/playlists/that rave party.md",
-    "5.8 — database/playlists/MY HEART, I LOVED HER 💔.md",
-    "5.8 — database/playlists/band practice in my parent's garage @ 2.30 after class.md",
-    "5.8 — database/playlists/ball-scratchin' music.md",
-    "5.8 — database/playlists/work fidget work code code fidget fidget code code fidget work.md",
-    "5.8 — database/playlists/music for fucking.md",
-    "5.8 — database/playlists/we’re everywhere..md",
-    "5.1 — images stockpile/playlists/we're everywhere..jpg",
-    "0.1 — flash notes/we're everywhere.jpg.md",
-    "5.8 — database/playlists/no, actually this is lo-fi.md",
-    "5.8 — database/playlists/actually good non-repetitive non-formulaic bedroom pop songs.md",
-    "5.8 — database/playlists/space rocks.md",
-    "5.8 — database/playlists/recorded inside a pyramid.md",
-    "5.8 — database/playlists/what the hell is “art rock”.md",
-    "5.8 — database/playlists/calling of the skies.md",
-    "5.8 — database/playlists/grooooovy.md",
-    "1.2 — life data/journaling/2018/8th of February, 2018 — 23.30 (Thu) ★ spring rolls and childhood memories with my mom.md",
-    "5.8 — database/playlists/who left the boombox on the sidewalk?.md",
-    "5.8 — database/playlists/mad mad mad mad mad.md",
-    "5.8 — database/playlists/pop level 2.md",
-    "5.8 — database/playlists/drowning out the tinnitus (or making it worse).md",
-    "5.8 — database/playlists/internet download manager.md",
-    "5.8 — database/playlists/BAGPIPES!!!!!!.md",
-    "5.8 — database/playlists/shitcore.md",
-    "5.8 — database/playlists/manic depressive hyperdrive (unmedicated edition).md",
-    "5.1 — images stockpile/playlists/bubblegum bass.jpg",
-    "5.1 — images stockpile/playlists/there must be something more to life than this.jpg",
-    "5.1 — images stockpile/playlists/MY HEART, I LOVED HER 💔.jpg",
-    "5.1 — images stockpile/playlists/band practice in my parent's garage @ 2.30 after class.jpg",
-    "5.1 — images stockpile/playlists/ball-scratchin' music.jpg",
-    "5.1 — images stockpile/playlists/work fidget work code code fidget fidget code code fidget work.jpg",
-    "5.1 — images stockpile/playlists/music for fucking.jpg",
-    "5.1 — images stockpile/playlists/no, actually this is lo-fi.jpg",
-    "5.1 — images stockpile/playlists/actually good non-repetitive non-formulaic bedroom pop songs.jpg",
+    "5.8 — database/playlists/the ultimate playlist of my life.md",
+    "5.8 — database/playlists/this is. raven.md",
+    "5.8 — database/playlists/frisson at first listen.md",
+    "5.8 — database/playlists/OSTs made for me.md",
+    "5.8 — database/playlists/my kind of christmas.md",
+    "5.8 — database/playlists/the jukebox from another lifetime.md",
+    "5.8 — database/playlists/it's a crime that i'm not a 90's kid.md",
+    "5.8 — database/playlists/hello. it's the 2000's calling and they said you need to go back.md",
+    "5.8 — database/playlists/\"roads. where we're going we don't need roads\".md",
+    "5.8 — database/playlists/音楽を通して日本語を学ぶ.md",
+    "5.8 — database/playlists/san mo to nhanap.md",
+    "5.8 — database/playlists/san mo to nhanap.md",
+    "5.8 — database/playlists/日本の音楽へのディープダイブ.md",
+    "5.8 — database/playlists/not k-pop.md",
+    "5.8 — database/playlists/music of africa.md",
+    "5.1 — images stockpile/playlists/ここは痛みのない世界だと思ってた.jpg",
+    "5.1 — images stockpile/playlists/ここは痛みのない世界だと思ってた 1.jpg",
+    "5.1 — images stockpile/playlists/this is. raven.jpg",
+    "5.1 — images stockpile/playlists/frisson at first listen.jpg",
+    "5.1 — images stockpile/playlists/OSTs made for me.jpg",
+    "5.1 — images stockpile/playlists/my kind of christmas.jpg",
+    "5.1 — images stockpile/playlists/the jukebox from another lifetime.jpg",
+    "5.1 — images stockpile/playlists/it's a crime that i'm not a 90's kid.jpg",
+    "5.1 — images stockpile/playlists/hello.it's the 2000's calling and they said you need to go back.jpg",
+    "5.1 — images stockpile/playlists/\"roads. where we're going we don't need roads\".jpg",
     "5.9 — bases/all the kanji.base",
     "5.9 — bases/every transaction.base",
     "5.1 — images stockpile/art/2023",
     "5.1 — images stockpile/art/2013",
     "5.9 — bases/albums i listened to.base",
     "5.1 — images stockpile/journals/4th journal (2023)",
-    "5.9 — bases/songs the complete list.base",
-    "5.8 — database/songs",
-    "5.1 — images stockpile/notes/2021"
+    "5.8 — database/songs"
   ]
 }

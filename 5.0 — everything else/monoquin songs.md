@@ -1337,10 +1337,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1304. Identification — Infinity Frequencies : Sep 1, 2025
 1305. if we never met — rosevile sucks : Sep 2, 2025
 1306. Leach — Cryogeyser : Sep 3, 2025
-
-1307 ξ Sep 4, 2025
-
-1308 ξ Sep 5, 2025
+1307. 0 — oomool : Sep 4, 2025
+1308. Taxi's Here — Tame Impala : Sep 5, 2025
 
 1309 ξ Sep 6, 2025
 

@@ -5,7 +5,7 @@
 - [x] twitter
 - [x] pinterest
 - [x] reddit
-- [x] tumblr
-- [x] substack
-- [x] discord
+- [ ] tumblr
+- [ ] substack
+- [ ] discord
 - [ ] add on obsidian

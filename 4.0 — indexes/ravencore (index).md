@@ -1,5 +1,5 @@
 ### playlists
-- [[the ultimate playlist of my life]] 
+- [[5.0 — everything else/the ultimate playlist of my life]] 
 - [[songs. the complete list]]
 
 ### books

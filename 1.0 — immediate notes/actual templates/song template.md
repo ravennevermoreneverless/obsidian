@@ -1,7 +1,11 @@
 ---
+songTitle:
 artist:
 minutes:
 seconds:
 rating:
 playlists:
+favoritesTrackNumber:
+primaryMusicGenre:
+secondaryMusicGenre:
 ---

@@ -1,8 +1,8 @@
 ### personal
-- [[the ultimate playlist of my life]] 
+- [[5.0 — everything else/the ultimate playlist of my life]] 
 - [[songs. the complete list]]
 ### languages
-- [[ここは痛みのない世界だと思ってた]]
+- [[1.0 — immediate notes/ここは痛みのない世界だと思ってた]]
 ### specific themes
 - [[scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit]] 
 - [[sounds pretty gay but okay]]
