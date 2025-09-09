@@ -179,3 +179,4 @@ tags: [[raven]] [[spreadsheet]] [[films]]
 176. ***The Borderlands [Final Prayer]*** (2013) dir. Elliot Goldner • 8/23/2025
 177. ***Kpop Demon Hunters*** (2025) dir. Chris Appelhans, Maggie Kang • 8/25/2025
 178. ***Memories of Murder*** (2003) dir. Bong Joon-Ho • 8/31/2025
+179. ***Weapons*** (2025) dir. Zach Cregger • 9/8/202 

@@ -15,6 +15,31 @@ views:
       - rating
       - playlists
     sort:
+      - property: favoritesTrackNumber
+        direction: ASC
+    columnSize:
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
+      note.artist: 283
+      note.primaryMusicGenre: 349
+      note.minutes: 80
+      note.rating: 82
+  - type: table
+    name: marceline abadeer would probably like these songs
+    filters:
+      and:
+        - playlists.contains(link("marceline abadeer would probably like these songs"))
+    order:
+      - favoritesTrackNumber
+      - songTitle
+      - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    sort:
       - property: file.ctime
         direction: ASC
     columnSize:
@@ -25,34 +50,42 @@ views:
       note.minutes: 80
       note.rating: 82
   - type: table
-    name: a collection of narrative songs to transport you to a different world
+    name: if nobody got me, i know my music got me
     filters:
       and:
         - file.folder == "5.8 — database/songs"
-        - playlists.contains("a collection of narrative songs to transport you to a different world")
+        - "!favoritesTrackNumber.isEmpty()"
     order:
-      - file.name
+      - favoritesTrackNumber
+      - songTitle
       - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
       - minutes
       - seconds
       - rating
       - playlists
     sort:
-      - property: file.ctime
+      - property: favoritesTrackNumber
         direction: ASC
     columnSize:
-      file.name: 322
-      note.artist: 186
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
+      note.artist: 283
+      note.primaryMusicGenre: 349
       note.minutes: 80
+      note.rating: 82
   - type: table
-    name: marceline abadeer would probably like these songs
+    name: scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit
     filters:
       and:
-        - file.folder == "5.8 — database/songs"
-        - playlists.contains("marceline abadeer would probably like these songs")
+        - playlists.contains(link("scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit"))
     order:
-      - file.name
+      - favoritesTrackNumber
+      - songTitle
       - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
       - minutes
       - seconds
       - rating
@@ -61,6 +94,34 @@ views:
       - property: file.ctime
         direction: ASC
     columnSize:
-      file.name: 322
-      note.artist: 288
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
+      note.artist: 283
+      note.primaryMusicGenre: 349
       note.minutes: 80
+      note.rating: 82
+  - type: table
+    name: sounds pretty gay but okay
+    filters:
+      and:
+        - playlists.contains(link("sounds pretty gay but okay"))
+    order:
+      - favoritesTrackNumber
+      - songTitle
+      - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
+      note.artist: 283
+      note.primaryMusicGenre: 349
+      note.minutes: 80
+      note.rating: 82

@@ -1339,14 +1339,10 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1306. Leach — Cryogeyser : Sep 3, 2025
 1307. 0 — oomool : Sep 4, 2025
 1308. Taxi's Here — Tame Impala : Sep 5, 2025
-
-1309 ξ Sep 6, 2025
-
-1310 ξ Sep 7, 2025
-
-1311 ξ Sep 8, 2025
-
-1312 ξ Sep 9, 2025
+1309. Sleep Walkin' — Modest Mouse : Sep 6, 2025
+1310. Hamburger Lady — Throbbing Gristle : Sep 7, 2025
+1311. The Waxen Pith — Aphex Twin : Sep 8, 2025
+1312. Sex and Violence — The Exploited : Sep 9, 2025
 
 1313 ξ Sep 10, 2025
 
