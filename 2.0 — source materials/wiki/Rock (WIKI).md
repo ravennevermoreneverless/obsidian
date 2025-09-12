@@ -79,6 +79,19 @@ solo career
 — by 1970s, blues rock will become heavier and more riff-based, by the examples of *Led Zeppelin* and *Deep Purple*, wherein it blurs the line of blues rock and hard rock
 — though the blues rock genre will be continued on by *George Thorogood* and *Pat Travers*, particularly in the British scene, the genre shifted into heavy metal, leaving blues rock totally behind the mainstream
 
+### Garage Rock
+
+— garage rock is kind of like a raw form of rock music, widespread in North America in the mid-1960s 
+— the name is that way because it was said that the music sounds like it was rehearsed in a suburban family garage
+— garage rock songs often revolved around the traumas of high school life, "lying girls" and unfair social circumstances
+— the lyrics and delivery tend to be more aggressive, often with growled or shouted vocals that dissolved into incoherent screaming
+- ***Tall Cool One*** (1958) — *The Wailers* : early garage rock
+- ***Louie Louie*** (1963 version) — *The Kingsmen* : mainstream example of the genre in its formative stages
+by 1963, garage band singles were creeping into the national charts in greater numbers, including *Paul Revere and the Raiders*, the *Trashmen*, the *Rivieras*, and the *Sonics*. 
+
+— the British invasion greatly influenced garage bands, providing them with a national audience, leading many to adopt a British influence and encouraging more groups to form
+— despite the number of garage bands being signed to major regional labels, most were commercial failures
+— garage rock peaked commercially and artistically around 1966 and by 1968, the style largely fell off the national charts and the local level
 
 ---
 ### related links:

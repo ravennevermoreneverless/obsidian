@@ -157,7 +157,10 @@
     "defaultNoteTemplate": "",
     "defaultNoteFolder": "",
     "icsNoteFilenameFormat": "title",
-    "customICSNoteFilenameTemplate": "{title}"
+    "customICSNoteFilenameTemplate": "{title}",
+    "enableAutoExport": false,
+    "autoExportPath": "tasknotes-calendar.ics",
+    "autoExportInterval": 60
   },
   "savedViews": [
     {
@@ -199,7 +202,7 @@
     "isRunning": false,
     "timeRemaining": 1500
   },
-  "lastPomodoroDate": "2025-09-05",
+  "lastPomodoroDate": "2025-09-09",
   "pomodoroHistory": [
     {
       "id": "1753856584085",
@@ -245,5 +248,18 @@
     "contexts",
     "tags"
   ],
-  "maintainDueDateOffsetInRecurring": false
+  "maintainDueDateOffsetInRecurring": false,
+  "nlpLanguage": "en",
+  "projectAutosuggest": {
+    "enableFuzzy": false,
+    "rows": [
+      "{title|n(Title)}",
+      "{aliases|n(Aliases)}",
+      "{file.path|n(Path)}"
+    ],
+    "showAdvanced": false,
+    "requiredTags": [],
+    "includeFolders": []
+  },
+  "enableBases": true
 }

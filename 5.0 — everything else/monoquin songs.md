@@ -1343,12 +1343,9 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1310. Hamburger Lady — Throbbing Gristle : Sep 7, 2025
 1311. The Waxen Pith — Aphex Twin : Sep 8, 2025
 1312. Sex and Violence — The Exploited : Sep 9, 2025
-
-1313 ξ Sep 10, 2025
-
-1314 ξ Sep 11, 2025
-
-1315 ξ Sep 12, 2025
+1313. Rather Be — Clean Bandit, Jess Glynne : Sep 10, 2025
+1314. Do It Now Remember It Later — Sleepin with Sirens : Sep 11, 2025
+1315. FANCY - TWICE : Sep 12, 2025
 
 1316 ξ Sep 13, 2025
 

@@ -88,3 +88,5 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 85. ***Canned Heat*** (1967) — *Canned Heat* : Blues Rock, Electric Blues • 8/29/2025 
 86. ***Jefferson Airplane Takes Off*** (1966) — *Jefferson Airplane* : Psychedelic Rock, Folk Rock • 8/31/2025
 87. ***Big Brother & The Holding Company*** (1967) — *Big Brother & The Holding Company, Janis Joplin* : Blues Rock, Psychedelic Rock • 8/31/2025
+88. ***White Hot Blues*** (1969) — *Johnny Winter* : Blues, Blues Rock • 9/10/2025
+89. ***Electric Ladyland*** (1968) — *The Jimi Hendrix Experience* : Blues Rock, Psychedelic Rock, Acid Rock • 9/10/2025

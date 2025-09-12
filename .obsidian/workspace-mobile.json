@@ -10,88 +10,16 @@
           {
             "id": "7acdb4fc68e599e4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "tasknotes-agenda-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-agenda-view"
-            }
-          },
-          {
-            "id": "e014c8169f1e1661",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "tasknotes-task-list-view",
-              "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "tasknotes-task-list-view"
-            }
-          },
-          {
-            "id": "6bc0201f552d4e9e",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "5.9 — bases/songs the complete list.base",
-                "viewName": "sounds pretty gay but okay"
-              },
-              "icon": "lucide-table",
-              "title": "songs the complete list"
-            }
-          },
-          {
-            "id": "cd3de6a83a15d4bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.8 — database/playlists/sounds pretty gay but okay.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sounds pretty gay but okay"
-            }
-          },
-          {
-            "id": "019240c34f1fac30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2025/daily notes (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "daily notes (2025)"
+              "icon": "calendar-clock",
+              "title": "Agenda"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -5242,8 +5170,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "review-queue-list-view"
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
         }
       },
       {
@@ -10854,6 +10782,426 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a56b86fc8f03e907",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "02f88cbe7c5aacf2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "edd5dbfea31b78e2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ace572a507e888f8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b01f01aa478b3c47",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9e12f7a5b75d91c1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ebf91a0d22993952",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5fb276fea3299bfe",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "bcdaef6a09f52a14",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c2625245ad989d7c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "397839aba9d57c14",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b4400df91922c09b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c44168507a8f77c2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6d79d19d040d601a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0252d435e00557ed",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b331898aeacf022c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "29866410da25c748",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d9d8037014d9a93d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "523dbae5e41d564f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b068436d322b0a4d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "98520c3ca37e79bb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0bd07b80d63ae24e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "97b2179aea6ba0a8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0271397c6ff7bc2e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5a303a183089f6cc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6aeec1a38a134e5e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2b104fe892c0e9d0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "44f31cb59dbe1e3d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a5816a1ee2f81997",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d7b5b36994c0b6ff",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "04c0d401b8b1293f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e4f5086d27abdcef",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "764e3ad75b43e2d7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0bd7ba9150ae7aff",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1f20d6fffcdc79a5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7f55c21bfb019a85",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3eb59d63a9674acd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d8d6401acab438d1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a8e136a3c9f7c9bf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "be5dbb2b1b03e7c3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "be6c59928f4cfbda",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b2352e349bbbe6fb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -10886,53 +11234,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "019240c34f1fac30",
+  "active": "7acdb4fc68e599e4",
   "lastOpenFiles": [
-    "5.8 — database/dailies/2025-09-09.md",
-    "5.8 — database/playlists/sounds pretty gay but okay.md",
-    "5.8 — database/songs/HEAVEN — Troye Sivan, Betty Who ★★★★.md",
-    "5.8 — database/songs/Strawberries & Cigarettes — Troye Sivan ★★★.md",
-    "5.8 — database/songs/Heather — Conan Gray ★★★½.md",
-    "5.8 — database/songs/Strangers — Halsey, Lauren Jauregui ★★★.md",
-    "5.8 — database/songs/Peach Trees — Rufus Wainwright ★★½.md",
-    "5.8 — database/songs/watch you sleep. — girl in red ★★★.md",
-    "5.8 — database/songs/we fell in love in october — girl in red ★★★½.md",
-    "5.8 — database/songs/i wanna be your girlfriend — girl in red ★★★.md",
-    "5.8 — database/songs/Honey — Kehlani ★★★½.md",
-    "5.8 — database/songs/I Wanna Boi — PWR BTTM ★★★.md",
-    "5.9 — bases/songs the complete list.base",
-    "5.8 — database/songs/Girls Like Girls — Hayley Kiyoko ★★★½.md",
-    "5.8 — database/songs/Curious — Hayley Kiyoko ★★★½.md",
-    "5.8 — database/songs/Sofia — Clairo ★★½.md",
-    "5.8 — database/songs/Sick of Losing Soulmates — dodie ★★★★.md",
-    "5.8 — database/songs/Tim I Wish You Were Born a Girl — of Montreal ★★★★.md",
-    "5.8 — database/songs/girls — girl in red ★★★½.md",
-    "5.8 — database/songs/Mystery of Love — Sufjan Stevens ★★★½.md",
-    "5.8 — database/songs/My Boy (Twin Fantasy) — Car Seat Headrest ★★★½.md",
-    "5.8 — database/songs/Boys . Girls — Torrey Mercer ★★½.md",
-    "Boys /Girls — Torrey Mercer ★★½.md",
-    "Boys ",
-    "5.8 — database/songs/Jesus Christ 2005 God Bless America — The 1975 ★★★½.md",
-    "1.5 — japanese/study notes/genki I/第1回.あたらしいともだち New Friends (げんきI).md",
-    "1.5 — japanese/study notes/genki I/第2回.かいもの Shopping (げんきI).md",
+    "0.1 — flash notes/routine (maybe).md",
+    "2.0 — source materials/wiki/Rock (WIKI).md",
+    "1.2 — life data/journaling/2018/28th of April, 2018 — 19.09 (Sat) ★ the reality of fifth harmony and ending my delusions.md",
+    "1.2 — life data/journaling/dream journal/Dream Journal — 28th of April, 2018 — 15.07 (Sat) ★ the wobbly roof and the werewolf plus the staring.md",
+    "1.2 — life data/journaling/2018/27th of April, 2018 — 19.58 (Fri) ★ coldplay, feeling annoying, and anger issues.md",
+    "1.2 — life data/journaling/2018/25th of April, 2018 — 18.24 (Wed) ★ each religion possesses part of the truth.md",
+    "5.0 — everything else/Rock (DEEP DIVE).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-09-12.md",
+    "1.2 — life data/journaling/2023/23rd of August, 2023 — 21.23 (Wed) ★ NCMH on my own, death as an integral part of life.md",
+    "5.8 — database/songs/Violet — Hole ★★½.md",
+    "2.2 — creative projects/raven's brain/prose/her pt. 3 (original version) (and more).md",
+    "3.0 — tags/aquatic.md",
+    "1.2 — life data/journaling/2018/15th of March, 2018 — 20.46 (Thu) ★ the forgotten books and a fucking pissed off day.md",
+    "4.0 — indexes/unlucky (index).md",
+    "5.0 — everything else/that one film idea (with lou) while manic.md",
+    "1.0 — immediate notes/tweets.md",
+    "5.1 — images stockpile/art/2014/2014 - zankyou no terror.jpeg",
+    "0.1 — flash notes/post art on socmed.md",
     "5.0 — everything else/monoquin songs.md",
-    "5.1 — images stockpile/art/2013/2013 - me and my friends as vocaloid characters.jpeg",
-    "5.1 — images stockpile/art/2013/2013 - vocaloid chibi.jpeg",
+    "5.8 — database/dailies/2025-09-11.md",
+    "1.2 — life data/journaling/2018/23rd of April, 2018 — 23.17 (Mon) ★ together we form the greatest team of fucking up a bomb.md",
+    "0.1 — flash notes/Two Girls Kissing — Swirlies ★★★.md",
+    "1.2 — life data/journaling/2018/23rd of April, 2018 — 22.44 (Mon) ★ I'll just let her happily hoppity fuck off my life like a prancing dick-bunny..md",
+    "5.9 — bases/songs the complete list.base",
+    "5.8 — database/playlists/sounds pretty gay but okay.md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "5.9 — bases/all the kanji.base",
+    "5.8 — database/kanji/広.md",
+    "5.1 — images stockpile/kanji/広.jpg",
+    "5.1 — images stockpile/kanji/低.jpg",
+    "5.1 — images stockpile/kanji/安.jpg",
+    "5.1 — images stockpile/kanji/高.jpg",
+    "5.1 — images stockpile/kanji/少.jpg",
+    "5.1 — images stockpile/kanji/多.jpg",
+    "5.1 — images stockpile/kanji/小.jpg",
+    "5.1 — images stockpile/kanji/大.jpg",
+    "5.1 — images stockpile/kanji/表.jpg",
+    "5.1 — images stockpile/art/2014",
+    "Boys ",
     "somgs",
-    "0.1 — flash notes/photo-output 1.jpeg",
-    "5.1 — images stockpile/art/2013/2013 - anime's ACTUAL big six.jpeg",
-    "5.1 — images stockpile/art/2013/2013 - the fairy tail guild members.jpeg",
     "5.8 — database/songs",
     "5.9 — bases/all my playlists.base",
-    "5.1 — images stockpile/playlists/ここは痛みのない世界だと思ってた.jpg",
-    "5.1 — images stockpile/playlists/ここは痛みのない世界だと思ってた 1.jpg",
-    "5.1 — images stockpile/playlists/this is. raven.jpg",
-    "5.1 — images stockpile/playlists/frisson at first listen.jpg",
-    "5.1 — images stockpile/playlists/OSTs made for me.jpg",
-    "5.9 — bases/all the kanji.base",
     "5.9 — bases/every transaction.base",
     "5.1 — images stockpile/art/2023",
-    "5.1 — images stockpile/art/2013",
-    "5.9 — bases/albums i listened to.base"
+    "5.1 — images stockpile/art/2013"
   ]
 }

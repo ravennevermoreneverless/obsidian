@@ -365,7 +365,7 @@ i have one single person i'm in love with and who loves me and will stay with me
 
 i might kill myself anytime soon or not but until then i will hug my girlfriend as she sleeps i will dream of a life and a family with her and i will yearn to create every single day because goddamnit if not for that then what is it all for
 --
-i might not be who i expect myself to be and i should stop pretending to be someone i'm not who am i? i don't know and i havent known this for as long as i can remember i have a lifetime of finding this out
+==i might not be who i expect myself to be and i should stop pretending to be someone i'm not who am i? i don't know and i havent known this for as long as i can remember i have a lifetime of finding this out==
 --
 not one single shitface can predict what i'll do next not even myself
 --
@@ -482,4 +482,12 @@ everything that chatgpt knows i already know inside my mind and soul
 --
 
 harmony korine please release a new film oh please harmony korine i'm begging you harmony korine korine harmonics empathy-person wisdom man please oh please
+--
+
+==run, errand boy, and never look back.== 
+--
+
+me when he says "i can smell yr fart from here"
+--
+together we form the greatest team of fucking up a bomb
 --

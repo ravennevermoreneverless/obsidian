@@ -3,9 +3,9 @@
 - [x] instagram 
 - [x] tiktok
 - [x] twitter
-- [x] pinterest
-- [x] reddit
-- [x] tumblr
-- [x] substack
-- [x] discord
+- [ ] pinterest
+- [ ] reddit
+- [ ] tumblr
+- [ ] substack
+- [ ] discord
 - [ ] add on obsidian

@@ -9,6 +9,7 @@ playlists:
   - "[[marceline abadeer would probably like these songs]]"
   - "[[virāgō]]"
   - "[[the genre(s) that people should listen to more]]"
+  - "[[sounds pretty gay but okay]]"
 favoritesTrackNumber: "17"
 primaryMusicGenre:
   - indie rock
