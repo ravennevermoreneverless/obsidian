@@ -18,8 +18,35 @@
               "icon": "calendar-clock",
               "title": "Agenda"
             }
+          },
+          {
+            "id": "0fb03ea5fd2f9e7d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1 — flash notes/september plans(maybe).md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "september plans(maybe)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -5170,8 +5197,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       },
       {
@@ -11202,6 +11229,126 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7d63e42f7fe7af1a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "de36f6f8a5778b3e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "52289f52e6b02571",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5655d028f3db5d8a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "69ece94e918de7ac",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "aaf53de5eb02d541",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "dd03d62b6c225917",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ecba7230f8265d95",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8a84e936bf4312d6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d96f3953c15072a6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "bc36cb9827d860b2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7fe44d2217f0ec8a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -11234,8 +11381,33 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7acdb4fc68e599e4",
+  "active": "0fb03ea5fd2f9e7d",
   "lastOpenFiles": [
+    "5.9 — bases/all my playlists.base",
+    "0.1 — flash notes/september plans(maybe).md",
+    "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 76.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 75.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 74.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 73.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 72.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 71.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 70.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 69.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 68.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)/journal 4 - page 67.jpg",
+    "6.0 — all tasks/genki chapter 7 + 20 kanji.md",
+    "0.1 — flash notes/post art on socmed.md",
+    "1.0 — immediate notes/tweets.md",
+    "5.0 — everything else/monoquin songs.md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-09-12 1.md",
+    "5.9 — bases/all the kanji.base",
+    "1.0 — immediate notes/flashcards/japanese flashcards.md",
+    "0.1 — flash notes/第5回.沖縄旅行 A Trip to Okinawa (げんきI).md",
+    "1.5 — japanese/study notes/genki I/第3回.デートの約束 Making a Date (げんきI).md",
+    "1.5 — japanese/study notes/genki I/第4回.初めてのデート The First Date (げんきI).md",
+    "0.1 — flash notes/nxkakmsmamamamma.md",
     "0.1 — flash notes/routine (maybe).md",
     "2.0 — source materials/wiki/Rock (WIKI).md",
     "1.2 — life data/journaling/2018/28th of April, 2018 — 19.09 (Sat) ★ the reality of fifth harmony and ending my delusions.md",
@@ -11243,42 +11415,16 @@
     "1.2 — life data/journaling/2018/27th of April, 2018 — 19.58 (Fri) ★ coldplay, feeling annoying, and anger issues.md",
     "1.2 — life data/journaling/2018/25th of April, 2018 — 18.24 (Wed) ★ each religion possesses part of the truth.md",
     "5.0 — everything else/Rock (DEEP DIVE).md",
-    "1.2 — life data/2025/daily notes (2025).md",
     "5.8 — database/dailies/2025-09-12.md",
     "1.2 — life data/journaling/2023/23rd of August, 2023 — 21.23 (Wed) ★ NCMH on my own, death as an integral part of life.md",
     "5.8 — database/songs/Violet — Hole ★★½.md",
     "2.2 — creative projects/raven's brain/prose/her pt. 3 (original version) (and more).md",
     "3.0 — tags/aquatic.md",
-    "1.2 — life data/journaling/2018/15th of March, 2018 — 20.46 (Thu) ★ the forgotten books and a fucking pissed off day.md",
-    "4.0 — indexes/unlucky (index).md",
-    "5.0 — everything else/that one film idea (with lou) while manic.md",
-    "1.0 — immediate notes/tweets.md",
-    "5.1 — images stockpile/art/2014/2014 - zankyou no terror.jpeg",
-    "0.1 — flash notes/post art on socmed.md",
-    "5.0 — everything else/monoquin songs.md",
-    "5.8 — database/dailies/2025-09-11.md",
-    "1.2 — life data/journaling/2018/23rd of April, 2018 — 23.17 (Mon) ★ together we form the greatest team of fucking up a bomb.md",
-    "0.1 — flash notes/Two Girls Kissing — Swirlies ★★★.md",
-    "1.2 — life data/journaling/2018/23rd of April, 2018 — 22.44 (Mon) ★ I'll just let her happily hoppity fuck off my life like a prancing dick-bunny..md",
     "5.9 — bases/songs the complete list.base",
-    "5.8 — database/playlists/sounds pretty gay but okay.md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
-    "5.9 — bases/all the kanji.base",
-    "5.8 — database/kanji/広.md",
-    "5.1 — images stockpile/kanji/広.jpg",
-    "5.1 — images stockpile/kanji/低.jpg",
-    "5.1 — images stockpile/kanji/安.jpg",
-    "5.1 — images stockpile/kanji/高.jpg",
-    "5.1 — images stockpile/kanji/少.jpg",
-    "5.1 — images stockpile/kanji/多.jpg",
-    "5.1 — images stockpile/kanji/小.jpg",
-    "5.1 — images stockpile/kanji/大.jpg",
-    "5.1 — images stockpile/kanji/表.jpg",
     "5.1 — images stockpile/art/2014",
     "Boys ",
     "somgs",
     "5.8 — database/songs",
-    "5.9 — bases/all my playlists.base",
     "5.9 — bases/every transaction.base",
     "5.1 — images stockpile/art/2023",
     "5.1 — images stockpile/art/2013"

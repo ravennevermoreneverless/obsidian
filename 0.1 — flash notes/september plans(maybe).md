@@ -1,0 +1,37 @@
+- [ ] move houses (week 3)
+- [ ] may journal entries
+	- [ ] week 1
+	- [ ] week 2
+	- [ ] week 3
+	- [ ] week 4
+- [ ] genki 1
+	- [ ] chapter 6
+	- [ ] chapter 7
+	- [ ] chapter 8
+	- [ ] chapter 9
+	- [ ] chapter 11
+	- [ ] chapter 12
+- [ ] genki 2
+	- [ ] chapter 13
+	- [ ] chapter 14
+	- [ ] chapter 15
+	- [ ] chapter 16
+	- [ ] chapter 17
+	- [ ] chapter 18
+	- [ ] chapter 19
+	- [ ] chapter 20
+	- [ ] chapter 21
+	- [ ] chapter 22
+	- [ ] chapter 23
+- [ ] level 0 book
+- [ ] level 0(2) book
+- [ ] level 1 book
+- [ ] finish duplicating playlists
+	- [ ] sounds pretty gay
+	- [ ] a collection of narrative
+	- [ ] in a teen coming-of-age
+	- [ ] first 30 seconds
+	- [ ] cris🅱️y songs
+- [ ] 320 kanji
+- [ ] 1,442 vocabulary
+- [ ] corpse party

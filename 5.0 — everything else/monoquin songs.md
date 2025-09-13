@@ -1346,8 +1346,7 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1313. Rather Be — Clean Bandit, Jess Glynne : Sep 10, 2025
 1314. Do It Now Remember It Later — Sleepin with Sirens : Sep 11, 2025
 1315. FANCY - TWICE : Sep 12, 2025
-
-1316 ξ Sep 13, 2025
+1316. Message in the Wind — キャロル&チースデイ(Vo.Nai Br.XX&Celeina Ann) : Sep 13, 2025
 
 1317 ξ Sep 14, 2025
 
