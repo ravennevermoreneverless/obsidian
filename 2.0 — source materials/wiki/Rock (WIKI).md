@@ -92,6 +92,33 @@ by 1963, garage band singles were creeping into the national charts in greater n
 — the British invasion greatly influenced garage bands, providing them with a national audience, leading many to adopt a British influence and encouraging more groups to form
 — despite the number of garage bands being signed to major regional labels, most were commercial failures
 — garage rock peaked commercially and artistically around 1966 and by 1968, the style largely fell off the national charts and the local level
+### Folk rock
+
+— in the 1960s, the scene that had developed out of the american folk music revival had grown to a major movement, using traditional music and new compositions in a traditional style, usually on acoustic instruments
+— pioneered by *Woody Guthrie* and *Pete Seeger*
+— *Joan Baez* and *Bob Dylan* started out as singer-songwriters and while they begin to influence each other, rock and folk music were still very much separated
+
+— early attempts to combine elements of rock and folk:
+- ***House of the Rising Sun*** (1964) — *Animals* : first commercially successful folk song to be recorded with rock and roll instrumentation
+- ***I'm a Loser*** (1964) — *The Beatles* : the first Beatles song to be influenced directly by Dylan
+- ***Mr. Tambourine Man*** (1965) — *The Byrds* : folk rock movement took off with this recording of Dylan's
+- ***Like a Rolling Stone*** (1965) — *Bob Dylan* : US hit single which enraged folk fans because Dylan adopted electric instruments
+
+— folk rock particularly took off in California, where it led acts like:
+- *The Mamas & The Papas*, *Crosby, Stills, and Nash*
+- in New York spawned: *The Lovin' Spoonful*, *Simon and Garfunkel*'s ***The Sounds of Silence*** (1965) : being remixed with rock instruments to be the first of many hits
+— these acts directly influenced british performers like *Donovan* and *Fairport Convention*; which later ditched American covers to play traditional English folk music on electric instruments
+— British folk-rock music was now taken up by bands like:
+- *Pentangle*
+- *Steeleye Span*
+- *The Albion Band*
+— which in turn prompted Irish groups like *Horslips*
+— Scottish acts like *JSD Band*, *Spencer's Feat*
+
+— folk-rock reached its peak of commercial popularity during 1967-1968 before many acts moved on to different genres, like the Byrds and Dylan who went off to country rock instead
+— the hybridization of folk and rock has been seen as having a major influnce on the development of rock, bringing in elements of psychedelia, and helping to develop the ideas of the singer-songwriter, the protest song, and concepts of "authenticity"
+
+
 
 ---
 ### related links:

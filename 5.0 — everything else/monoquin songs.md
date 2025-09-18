@@ -1347,16 +1347,11 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1314. Do It Now Remember It Later — Sleepin with Sirens : Sep 11, 2025
 1315. FANCY - TWICE : Sep 12, 2025
 1316. Message in the Wind — キャロル&チースデイ(Vo.Nai Br.XX&Celeina Ann) : Sep 13, 2025
-
-1317 ξ Sep 14, 2025
-
-1318 ξ Sep 15, 2025
-
-1319 ξ Sep 16, 2025
-
-1320 ξ Sep 17, 2025
-
-1321 ξ Sep 18, 2025
+1317. Punisher — Phoebe Bridgers : Sep 14, 2025
+1318. You Make Me Feel... — Cobra Starship, Sabi : Sep 15, 2025
+1319. MANTRA — Bring Me The Horizon : Sep 16, 2025
+1320. blown a wish — my bloody valentine : Sep 17, 2025
+1321. Pop Star - Chaeyoung Remix — Coco & Clair Clair, CHAEYOUNG : Sep 18, 2025
 
 1322 ξ Sep 19, 2025
 

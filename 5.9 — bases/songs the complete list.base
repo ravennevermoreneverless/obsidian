@@ -125,3 +125,53 @@ views:
       note.primaryMusicGenre: 349
       note.minutes: 80
       note.rating: 82
+  - type: table
+    name: a collection of narrative songs to transport you to a different world
+    filters:
+      and:
+        - playlists.contains(link("a collection of narrative songs to transport you to a different world"))
+    order:
+      - favoritesTrackNumber
+      - songTitle
+      - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
+      note.artist: 283
+      note.primaryMusicGenre: 349
+      note.minutes: 80
+      note.rating: 82
+  - type: table
+    name: in a teen coming-of-age film where the main character's finally ready for the next chapter
+    filters:
+      and:
+        - playlists.contains(link("in a teen coming-of-age film where the main character's finally ready for the next chapter"))
+    order:
+      - favoritesTrackNumber
+      - songTitle
+      - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
+      note.artist: 283
+      note.primaryMusicGenre: 349
+      note.minutes: 80
+      note.rating: 82

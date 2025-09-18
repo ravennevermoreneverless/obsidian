@@ -3,7 +3,7 @@ status: in-progress
 priority: low
 recurrence: DTSTART:20250820;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-08-09T05:17:00.963+08:00
-dateModified: 2025-09-13T23:40:48.032+08:00
+dateModified: 2025-09-18T22:43:53.484+08:00
 tags:
   - task
 complete_instances:
@@ -24,7 +24,9 @@ complete_instances:
   - 2025-09-05
   - 2025-09-09
   - 2025-09-13
-scheduled: 2025-09-14
+  - 2025-09-15
+  - 2025-09-18
+scheduled: 2025-09-19
 contexts: []
 projects: []
 ---

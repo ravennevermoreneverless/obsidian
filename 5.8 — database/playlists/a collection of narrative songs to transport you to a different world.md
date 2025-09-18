@@ -46,7 +46,7 @@ tags: [[playlist]] [[music]] [[storytelling]]
 29. <span style="color:#7C86C8"><b><i>The Man Who Married A Robot / Love Theme</b></i></span> — The 1975 ★★★
 30. <span style="color:#4E3378"><b><i>Ross Capicchioni</i></b></span> — Joyner Lucas ★★★★
 31. <span style="color:#20224B"><b><i>As The World Turns</i></b></span> — Eminem ★★★
-32. <span style="color:#C7AD4E"> <b><i>Guilty Conscious</i></b></span> — Eminem, Dr. Dre ★★★★
+32. <span style="color:#C7AD4E"> <b><i>Guilty Conscience</i></b></span> — Eminem, Dr. Dre ★★★★
 33. <span style="color:#8CB55C"><b><i>Brain Damage</i></b></span> — Eminem ★★★½
 34. <span style="color:#536B31"><b><i>Walang Nangyari</i></b></span> — Parokya ni Edgar ★★★★
 35. <span style="color:#74560B"><b><i>The Ballad of Hamantha</b></i></span> — Jack Stauber’s Micropop ★★★
@@ -61,7 +61,7 @@ tags: [[playlist]] [[music]] [[storytelling]]
 44. <b><i><span style="color:#C96B00">Never Relaxed</span></b></i> — Daniel Johnston ★★★½
 45. <b><i><span style="color:#33E200">Brainwash</span></b></i> — Daniel Johnston ★★★½
 46. <b><i><span style="color:#E6B45D">Wicked Will</span></b></i> — Daniel Johnston ★★★
-47. <b><i><span style="color:#227915">Spaceship 71</span></b></i> — The Radioactive Sago Project ★★★½
+47. <b><i><span style="color:#227915">Spaceship 711</span></b></i> — The Radioactive Sago Project ★★★½
 48. <b><i><span style="color:#9F1F1F">BLOOD.</span></b></i> — Kendrick Lamar ★★★
 ---
 49. <b><i><span style="color:#6B2295">All I Wanna Do Is Make Love To You</span></b></i> — Heart ★★★½

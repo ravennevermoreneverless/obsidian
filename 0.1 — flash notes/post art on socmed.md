@@ -3,6 +3,7 @@
 - [x] instagram 
 - [x] tiktok
 - [x] twitter
+- [ ] youtube post
 - [ ] pinterest
 - [ ] reddit
 - [ ] tumblr

@@ -5,9 +5,9 @@
 	- [ ] week 3
 	- [ ] week 4
 - [ ] genki 1
-	- [ ] chapter 6
-	- [ ] chapter 7
-	- [ ] chapter 8
+	- [x] chapter 6
+	- [x] chapter 7
+	- [x] chapter 8
 	- [ ] chapter 9
 	- [ ] chapter 11
 	- [ ] chapter 12
@@ -23,12 +23,12 @@
 	- [ ] chapter 21
 	- [ ] chapter 22
 	- [ ] chapter 23
-- [ ] level 0 book
+- [x] level 0 book
 - [ ] level 0(2) book
 - [ ] level 1 book
 - [ ] finish duplicating playlists
-	- [ ] sounds pretty gay
-	- [ ] a collection of narrative
+	- [x] sounds pretty gay
+	- [x] a collection of narrative
 	- [ ] in a teen coming-of-age
 	- [ ] first 30 seconds
 	- [ ] cris🅱️y songs

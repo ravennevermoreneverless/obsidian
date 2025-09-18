@@ -214,17 +214,17 @@ what the hell does that even mean????????
 --
 literally lied my ass off on the roblox therapy xDD i feel bad she was so serious about it too
 --
-the fact that i've never considered myself a "gamer" just because i barely owned any console like ps4 or xbox or nintendo ds etc, i just had a phone, tablet, and pc. even though i've been playing games for as long as i can remember and have been obsessed for most of my life
+==the fact that i've never considered myself a "gamer" just because i barely owned any console like ps4 or xbox or nintendo ds etc, i just had a phone, tablet, and pc. even though i've been playing games for as long as i can remember and have been obsessed for most of my life==
 
-i dont play RDR, overwatch, elden ring, dark souls, etc or what "gamers" usually play which is stupid that that has been my idea of being a "real" gamer.. i just play what i have at the moment and be addicted at that
+==i dont play RDR, overwatch, elden ring, dark souls, etc or what "gamers" usually play which is stupid that that has been my idea of being a "real" gamer.. i just play what i have at the moment and be addicted at that==
 
-i have been addicted to: pokemon, osu, roblox, flash games (on y8 mostly and newgrounds, armorgames), simulation games (sims, mobile tycoons, etc), rpgs (like spiral knights, dragon nest, etc), facebook games, dating sims, wii, tekken, plants va zombies, RHYTHM GAMES ETC ETC
+==i have been addicted to: pokemon, osu, roblox, flash games (on y8 mostly and newgrounds, armorgames), simulation games (sims, mobile tycoons, etc), rpgs (like spiral knights, dragon nest, etc), facebook games, dating sims, wii, tekken, plants va zombies, RHYTHM GAMES ETC ETC==
 
-although i have played popular PC games too like slenderman, left for dead, GTA, minecraft, starcraft, DOTA etc. oh as well as card games irl like yugioh, bakugan, and duel masters i even joined guilds n shit. i played some stuff on psp too like fairy tail, project diva, etcetc
+==although i have played popular PC games too like slenderman, left for dead, GTA, minecraft, starcraft, DOTA etc. oh as well as card games irl like yugioh, bakugan, and duel masters i even joined guilds n shit. i played some stuff on psp too like fairy tail, project diva, etcetc==
 
-ive played a lot of shit in my life and i've loved games for as long as i can remember idk why that died out and i lost motivation to even START a game even though no one has judged me at all, its just my own perception lol
+==ive played a lot of shit in my life and i've loved games for as long as i can remember idk why that died out and i lost motivation to even START a game even though no one has judged me at all, its just my own perception lol==
 
-tho now i play D&D too :3 which is super fun and i dont plan on quitting soon
+==tho now i play D&D too :3 which is super fun and i dont plan on quitting soon==
 
 --
 「混乱の永遠」という僕の最高の日本語の本
@@ -243,7 +243,7 @@ i remember when i was an elementary (and middle school) kid, my family had enoug
 --
 ==normal-looking people and their very normal relationships==
 --
-loving music—not in a music critic, album reviewer, song analyst type of way or a perfect pitch, violinist, music theory, playing in a band type of way or even a song recommender, radio DJ, lyric-memorizing type of way—but in my strange esoteric in-my-own-world type of way.
+==loving music—not in a music critic, album reviewer, song analyst type of way or a perfect pitch, violinist, music theory, playing in a band type of way or even a song recommender, radio DJ, lyric-memorizing type of way—but in my strange esoteric in-my-own-world type of way.==
 --
 i beat the shit out of myself in my mind everytime i forget a crucial fact about someone
 --
@@ -330,7 +330,7 @@ my own personal comfort machine telling me "it's gonna be okay"
 grandpa escaped the cellar, what should we do?
 --
 random persom who wan ts to Finger paint:: i want to finger pant Guy named Paint: D:
-<!--SR:!2025-06-11,4,270-->
+<!--SR:!2025-09-29,15,290-->
 --
 when iw was posted on the wanted list the cops just looked at me reaL chillf and said "u know u can just be free right?" and honestly thay was the Most profoundest thing wver said to me
 --
