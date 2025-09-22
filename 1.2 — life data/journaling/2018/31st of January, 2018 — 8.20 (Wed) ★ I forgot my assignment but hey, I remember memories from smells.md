@@ -1,8 +1,16 @@
-status: #adult 
-tags: [[journal]] [[memories]] 
-
+---
+growth: "[[adult]]"
+entryTitle: I forgot my assignment but hey, I remember memories from smells
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[memories]]"
+dateCreated: 2018-01-31
+dayCreated: Wednesday
+timeCreated: 08:20
+---
 Kinda pissed today. I forgot my printed assignment in Health. I put my hardwork and money on that and I forgot it at home. Maybe it's because of our cat's poop, me forgetting my perfume, or mom forgetting our school allowance, I don't know. Here I am, cooking fried chicken for our lab report, but I'm still pissed. I hope our teacher have mercy on me; because I honestly forgot my homework. 
 
 --
 
-You know those times when you just smell something or someone, certain memories suddenly comes into your mind? It's 8:29 PM and I'm having these thoughts. Sorry, I couldn't use the blue sign pen since the back of the paper has ink prints on it caused by the sign pen. So no blue pen for now :( sad. Anyway, as I was saying, certain smells trigger memories. Like the smell of old books, it reminds me of my grandmother's old little library in her house at Antipolo. Or like those smells that you can only find on Balikbayam boxes. Smell of old shoes (I mean new), new clothes, new books, new houses. Or that certain perfume that reminds me of this certain 'someone'. It brings flashbacks that I didn't want go remember and it takes me back to everything we have done together (happy or sad memories) when we were still together. It kinda sucks yet it's awesome at the same time because one, it sucks because it brings unwanted memories and cool because my brain automatically functions and functions in a millisecond the moment the smell enters my nose. Heck, even certain poope have certain smells (or stink, perhaps). I'm waiting for time to become 9:29 PM exactly, it's the peak of the "super blood blue moon lunar eclipse" and I'm gonna stare at it directly because I want to go blind and YOLO, right? Anyway, I'm gonna miss my blue pen :'(
+You know those times when you just smell something or someone, certain memories suddenly comes into your mind? It's 8:29 PM and I'm having these thoughts. Sorry, I couldn't use the blue sign pen since the back of the paper has ink prints on it caused by the sign pen. So no blue pen for now :( sad. Anyway, as I was saying, certain smells trigger memories. Like the smell of old books, it reminds me of my grandmother's old little library in her house at Antipolo. Or like those smells that you can only find on Balikbayam boxes. Smell of old shoes (I mean new), new clothes, new books, new houses. Or that certain perfume that reminds me of this certain 'someone'. It brings flashbacks that I didn't want go remember and it takes me back to everything we have done together (happy or sad memories) when we were still together. It kinda sucks yet it's awesome at the same time because one, it sucks because it brings unwanted memories and cool because my brain automatically functions and functions in a millisecond the moment the smell enters my nose. Heck, even certain poop have certain smells (or stink, perhaps). I'm waiting for time to become 9:29 PM exactly, it's the peak of the "super blood blue moon lunar eclipse" and I'm gonna stare at it directly because I want to go blind and YOLO, right? Anyway, I'm gonna miss my blue pen :'(

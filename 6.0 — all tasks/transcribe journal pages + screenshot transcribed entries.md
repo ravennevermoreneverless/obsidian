@@ -2,7 +2,7 @@
 status: open
 priority: high
 dateCreated: 2025-08-09T00:40:52.715+08:00
-dateModified: 2025-09-18T22:43:56.205+08:00
+dateModified: 2025-09-19T23:27:03.449+08:00
 tags:
   - task
 contexts: []
@@ -24,6 +24,7 @@ complete_instances:
   - 2025-09-12
   - 2025-09-15
   - 2025-09-18
-scheduled: 2025-09-19
+  - 2025-09-19
+scheduled: 2025-09-20
 ---
 

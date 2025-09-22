@@ -180,3 +180,5 @@ tags: [[raven]] [[spreadsheet]] [[films]]
 177. ***Kpop Demon Hunters*** (2025) dir. Chris Appelhans, Maggie Kang • 8/25/2025
 178. ***Memories of Murder*** (2003) dir. Bong Joon-Ho • 8/31/2025
 179. ***Weapons*** (2025) dir. Zach Cregger • 9/8/202 
+180. ***カルト [Cult]*** (2013) dir. Koji Shiraishi • 9/19/2025
+181. ***Mary Last Seen*** (2010) dir. Sean Durkin • 9/22/2025

@@ -19,3 +19,22 @@ views:
     imageAspectRatio: 1
     columnSize:
       file.name: 21
+  - type: table
+    name: spaced repetition
+    filters:
+      and:
+        - file.folder == "5.8 — database/kanji"
+    order:
+      - level
+      - onYomi
+      - kunYomi
+      - kanjiMeaning
+      - image
+    sort: []
+    cardSize: 150
+    image: note.image
+    imageAspectRatio: 1
+    columnSize:
+      note.onYomi: 144
+      note.kunYomi: 211
+    rowHeight: tall

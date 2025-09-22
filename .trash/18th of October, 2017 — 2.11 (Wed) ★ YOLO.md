@@ -1,0 +1,3 @@
+status: #adult 
+tags: [[journal]]
+

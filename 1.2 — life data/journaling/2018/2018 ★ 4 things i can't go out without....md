@@ -1,8 +1,16 @@
-status: #child 
-tags: [[journal]] [[prompts]]
-
+---
+growth: "[[child]]"
+entryTitle: 4 things i can't go without...
+tagLinks:
+  - "[[journal]]"
+  - "[[prompts]]"
+  - "[[2018]]"
+dateCreated: "2018"
+dayCreated:
+timeCreated:
+---
 ### MY OLD TRUSTY PHONE.
-Well, most of the people in this generation can't be separated from their phone, much more when going out for a while. Phone is an essential item these days. It's a necessity and I'm not an exception. Even though my phone is a piece of cracked junk with glass, it still works! It has been more than a year now, I think, but it still works and is alive than ever! This phone helped me so much, I treasure it and I trust it so much, I can't go anywhere without it. I hope I can find a replacement soon enough because it's all won out but I hope until that time comes, it will continue doing its job well. 
+Well, most of the people in this generation can't be separated from their phone, much more when going out for a while. Phone is an essential item these days. It's a necessity and I'm not an exception. Even though my phone is a piece of cracked junk with glass, it still works! It has been more than a year now, I think, but it still works and is alive than ever! This phone helped me so much, I treasure it and I trust it so much, I can't go anywhere without it. I hope I can find a replacement soon enough because it's all worn out but I hope until that time comes, it will continue doing its job well. 
 
 ### MY PURSE.
 Should I ask for more? This flowery purse holds all my valuable items (not really). My flash drives, earphones, money, hairbands, liptints, powder, miscellaneous and even a smaller purse! (Identical to this bigger purse but tiny). Sure, it's somewhat girly for me but hey, it's trusty and easy to carry anywhere.

@@ -1,7 +1,18 @@
-status: #child 
-tags: [[journal]] [[self]] [[introspection]]
-
-Well, today, for some reason, I wanna talk about *insert drum roll please* ... me. *insert cheers and applauds*. Who am I? Who was I? Who will I be? Who I really am. What have I become? What am I capable of?
+---
+growth: "[[child]]"
+entryTitle: my problem
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[self]]"
+  - "[[introspection]]"
+  - "[[identity]]"
+  - "[[truth]]"
+dateCreated: 2018-04-07
+dayCreated: Saturday
+timeCreated: 00:35
+---
+Well, today, for some reason, I wanna talk about insert drum roll please ... me. insert cheers and applauds. Who am I? Who was I? Who will I be? Who I really am. What have I become? What am I capable of?
 
 I'm gonna describe myself. Truthfully. And very very honest. I know that I know myself. Nobody knows me more than I do. So, here I go. First of all, I'm a pessimist. So, don't go all gasping on me with all these negative descriptions (I'm kidding). I KNOW I'm not a good person. I am selfish, jealous, psychotic, insane, crazy, self-centered, superior, manic, and a coward. Self-centered and egocentric are probably my most active traits. Like, I really REALLY think of myself first than anybody else. My focus is only on me, my worries are only on me (heck, this entry is mainly about me) and I could care less for anybody. A jerk, I know. But the thing is, I hate people full of ego. I mean people who flaunts their achievements and talents. It disgusts me. I mean, I'm like that but I keep it controlled. Yeah, sometimes it shows but only bits of it. On the brigher side (I'm trying), I actually care for people. I don't think I have possible good traits but yeah, at least I still have "some" heart left. I am sometimes a perfectionist and has this weird superiority complex thinking I'm better than everybody else but I won't let it show because I know it's not true. I have a knack of thinking I'm different, unique, and rare than everybody else. But again, that's just another negative trait I have. 
 

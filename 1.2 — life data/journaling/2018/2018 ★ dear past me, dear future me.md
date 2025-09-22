@@ -1,6 +1,14 @@
-status: #adult 
-tags: [[journal]] [[prompts]] 
-
+---
+growth: "[[adult]]"
+entryTitle: dear past me, dear future me
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[prompts]]"
+dateCreated: "2018"
+dayCreated:
+timeCreated:
+---
 ## Dear Past me...
 I just want you to know that **you're a fucking rockstar** (this is your 16-year-old self speaking, btw.) You're a perfect little kid that everyone loves. It's such a shame you weren't "that" popular, but yeah, you're one of the cool kids. I just want you to know that you're better; much much better than me now although I'm more mature (cuz yea, you're a kid). My only wish is to relive back those days with you and feel like a child again. Although I hate you for letting A LOT of opportunities past, I still owe you so much for putting time and effort on things you like and look at how cool I am now (they say) (with an extra emotional and depressed baggage). 
 

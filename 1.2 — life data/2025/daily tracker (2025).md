@@ -305,6 +305,7 @@ renderHeatmapCalendar(this.container, calendarData)
 
 ```
 
+
 ```dataviewjs
 dv.span("songs daily")
 

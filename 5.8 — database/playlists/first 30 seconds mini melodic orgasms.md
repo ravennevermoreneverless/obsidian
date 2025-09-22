@@ -17,7 +17,7 @@ tags: [[playlist]] [[music]]
 
 1. <b><i><span style="color:#DBBA49">I Can’t Handle Change</span></b></i> — Roar ★★★★½
 2. <b><i><span style="color:#6C8665">Tongue Tied</span></b></i> — Grouplove ★★★★
-3. <b><i><span style="color:#3C6029">Never Meant</span></b></8> — American Football ★★★★
+3. <b><i><span style="color:#3C6029">Never Meant</span></b></i> — American Football ★★★★
 4. <b><i><span style="color:#F95FB2">Sweet Disposition</span></b></i> — The Temper Trap ★★★★½
 5. <b><i><span style="color:#856FAC">Muli</span></b></i> — Parokya ni Edgar ★★★★
 6. <b><i><span style="color:#2C40E7">Daisy</span></b></i> — STEREO DIVE FOUNDATION ★★★½
@@ -65,7 +65,7 @@ tags: [[playlist]] [[music]]
 48. <b><i><span style="color:#A9B073">When the Sun Hits</span></b></i> — Slowdive ★★★½
 49. <b><i><span style="color:#A93F28">Captivated</span></b></i> — IV Of Spades ★★★
 50. <b><i><span style="color:#4A6661">Do I Wanna Know?</span></b></i> — Arctic Monkeys ★★★
-51. <b><i><span style="color:#648D73">Song 2</span></!b></i> — Blur ★★★
+51. <b><i><span style="color:#648D73">Song 2</span></b></i> — Blur ★★★
 52. <b><i><span style="color:#FDD94B">Wait</span></b></i> — M83 ★★★★
 53. <b><i><span style="color:#9A9FA2">So Here We Are</span></b></i> — Bloc Party ★★★½
 54. <b><i><span style="color:#027CC6">Not My Baby</span></b></i> — Alvvays ★★★½

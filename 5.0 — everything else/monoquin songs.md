@@ -1352,16 +1352,11 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1319. MANTRA — Bring Me The Horizon : Sep 16, 2025
 1320. blown a wish — my bloody valentine : Sep 17, 2025
 1321. Pop Star - Chaeyoung Remix — Coco & Clair Clair, CHAEYOUNG : Sep 18, 2025
-
-1322 ξ Sep 19, 2025
-
-1323 ξ Sep 20, 2025
-
-1324 ξ Sep 21, 2025
-
-1325 ξ Sep 22, 2025
-
-1326 ξ Sep 23, 2025
+1322. Lighters — Bad Meets Evil, Bruno Mars : Sep 19, 2025
+1323. 척 Love is a lie — WINNER : Sep 20, 2025
+1324. Cigarette Daydreams — Cage The Elephant : Sep 21, 2025
+1325. The Spangle Maker — Cocteau Twins : Sep 22, 2025
+1326. Wolf — EXO : Sep 23, 2025
 
 1327 ξ Sep 24, 2025
 

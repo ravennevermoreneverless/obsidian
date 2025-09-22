@@ -1,0 +1,11 @@
+### personal anecdotes
+- [[4th of January, 2022 ★ Caring less and less about school]]
+- [[4th of March, 2022 ★ sofia and raul esparza's company (unfinished)]]
+- [[6th of August, 2022 ★ graduation day and being bitter]]
+- [[7th of January, 2022 ★ presenting a philosophy speech anxiously, how to never be tired]]
+- [[24th of January 2022 ★ ditching two classes because of van gogh, DLSU aggressive email reply, romanticizing a starving artist life]]
+- [[25th of January 2022 ★ crippling anxiety, underperforming, insomnia, and I want to write a book]]
+- [[31st of January 2022 ★ it's monday and i'm going on fast forward]] 
+- [[5th of February, 2018 — 21.59 (Mon) ★ brilliant and beautiful, i ain't got you at the stalls, the beetle at flag ceremony]]
+- [[1.2 — life data/journaling/2017/27th of April, 2017 — 4.17 (Thu) ★  future]]
+- [[15th of February, 2018 — 20.44 (Thu) ★ long day at school and long talk with my parents]]

@@ -37,6 +37,7 @@
     "dateTranspired": "date",
     "playlists": "multitext",
     "image": "text",
-    "tagLinks": "multitext"
+    "tagLinks": "multitext",
+    "dateCreated": "text"
   }
 }

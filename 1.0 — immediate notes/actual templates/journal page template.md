@@ -1,3 +1,8 @@
-status:
-tags: [[journal]] 
-
+---
+growth:
+entryTitle:
+tagLinks:
+dateCreated:
+dayCreated:
+timeCreated:
+---

@@ -70,5 +70,8 @@ tags: [[rock]] [[music]] [[music genre]] [[list]] [[deep dive]]
 37. ***Canned Heat*** (1967) — *Canned Heat* • <span style="color:#831100">blues and country influence? sounds like this came FROM an influence and not the influence themselves...</span>
 38. ***Big Brother & The Holding Company*** (1967) — *Big Brother & The Holding Company, Janis Joplin* • <span style="color:#831100">i was fully expecting janis joplin to be this kind of blues goddess due to nina simone but well, i guess it sounded ordinary.</span>
 39. ***Electric Ladyland*** (1968) — *The Jimi Hendrix Experience* • <span style="color:#831100">listening to this album, looking at the album cover, it looks like i'm listening to a very premium classic album from the 60's. which at some parts, may be true for most music goers, but for me, it's just okay.</span>
-40. ***White Hot Blues*** (1969) — *Johnny Winter* • <span style="color:#831100">i now understand why blues was such a huge thing in the anime beck when it was an anime about rock. i could easily recognize and understand why blues became integral in the development of rock as a music genre and also as a culture. this is huge.</span>
+40. ***The Papas & The Mamas*** (1968) — *The Mamas & The Papas* • <span style="color:#831100">this reminds me so much of chungking express</span>
+	- Dream a Little Dream Of Me
+41. ***White Hot Blues*** (1969) — *Johnny Winter* • <span style="color:#831100">i now understand why blues was such a huge thing in the anime beck when it was an anime about rock. i could easily recognize and understand why blues became integral in the development of rock as a music genre and also as a culture. this is huge.</span>
 	- Memory Pain
+42. ***Crosby, Stills & Nash*** (1969) — *Crosby, Stills & Nash* • <span style="color:#831100">i was studying when this song came on</span>

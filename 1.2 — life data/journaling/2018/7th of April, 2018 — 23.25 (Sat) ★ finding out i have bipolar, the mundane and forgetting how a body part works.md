@@ -1,6 +1,16 @@
-status: #adult 
-tags: [[journal]] [[mundane]] [[bipolar]]
-
+---
+growth: "[[adult]]"
+entryTitle: finding out i have bipolar, the mundane and forgetting how a body part works
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[mundane]]"
+  - "[[bipolar]]"
+  - "[[autism]]"
+dateCreated: 2018-04-07
+dayCreated: Saturday
+timeCreated: 23:25
+---
 Today is an "👌🏻" day because it is better than the past few days. We went out to my aunt's house to celebrate me, my brother and my cousin's graduations/moving up. We ate after waiting for 2 hours while watching an anime movie called ***The Shape of Your Voice***. Sure, I feel shitty after finding out I had bipolar depression, but I handled it, I guess. I nearly had panic attack "homesickness" but I kept it in. And I had flashes of irritation and annoyance but I didn't let it show. Wow, I'm actually good at this. I've come to the agreement that I'll live with this disorder until I grow up. I've come to accept that it's now a part of me, and I'll hold onto it whether I (they) like it or not. 
 
 Now, I'm listening to *Secondhand Serenade* songs on speaker while (after) drinking coffee. I've started reading the encyclopedia and damn, I'm learning so much lol. I should read more of this in the future. And I think I'm gonna read more later but I wanna discuss a few things that's on my mind. 

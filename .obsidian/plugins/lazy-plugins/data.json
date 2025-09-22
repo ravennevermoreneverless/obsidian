@@ -68,6 +68,12 @@
       },
       "obsidian-git": {
         "startupType": "instant"
+      },
+      "obsidian-recall": {
+        "startupType": "instant"
+      },
+      "improved-random-note": {
+        "startupType": "instant"
       }
     }
   }

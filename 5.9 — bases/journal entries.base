@@ -1,0 +1,55 @@
+views:
+  - type: table
+    name: entries
+    filters:
+      and:
+        - file.inFolder("1.2 — life data/journaling")
+    order:
+      - growth
+      - entryTitle
+      - dayCreated
+      - dateCreated
+      - timeCreated
+      - tagLinks
+    sort:
+      - property: dateCreated
+        direction: ASC
+    columnSize:
+      note.entryTitle: 332
+    rowHeight: medium
+  - type: table
+    name: 2017 entries
+    filters:
+      and:
+        - tagLinks.contains(link("2017"))
+        - file.inFolder("1.2 — life data/journaling/2017")
+    order:
+      - growth
+      - entryTitle
+      - dayCreated
+      - dateCreated
+      - timeCreated
+      - tagLinks
+    sort: []
+    columnSize:
+      note.entryTitle: 332
+    rowHeight: medium
+  - type: table
+    name: 2018 entries
+    filters:
+      and:
+        - tagLinks.contains(link("2018"))
+        - file.inFolder("1.2 — life data/journaling/2018")
+    order:
+      - growth
+      - entryTitle
+      - dayCreated
+      - dateCreated
+      - timeCreated
+      - tagLinks
+    sort:
+      - property: dateCreated
+        direction: ASC
+    columnSize:
+      note.entryTitle: 332
+    rowHeight: medium

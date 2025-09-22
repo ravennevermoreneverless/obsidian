@@ -492,3 +492,11 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==17 (Wed) — 22:05== I studied an entire chapter of Japanese today despite all the disturbances and I'm kind of proud of how I handled it. I was irritated a lot and was out of it because of the disruptions but I managed to keep it in. My dad got his money today. And we didn't go to the other house to clean because it was raining. 
 
 ==18 (Thu) — 22:41== I woke up early to make breakfast for Chai and to start studying Japanese. I managed to finish my entire routine, and more, plus some errands. We didn't go to the other house today again to clean. Chai ate a lot today. We also bought her meds with dad's money. I told her a bedtime story. 
+
+==19 (Fri) — 23:20== I studied Japanese from start to finish and more. We didn't go to the house again because mom was tired. Chai and I had an argument about @psychetine and then we watched ***Cult*** (2013) while I ate samosa rolls. Then I slipped on water and my leg hurt so Chai massaged it.
+
+==20 (Sat) — 23:48== It's Chai and I's monthsary. I could barely sleep so I just edited a bunch of posts. I just did Japanese immersion today, notes and nothing else. We cleaned the other house today. Well, Chai did and my mom — I just stood around and lifted some stuff. Then we went to Puregold to eat and buy groceries. We went home to rest, back to the house to kill mosquitoes, then went home and showered. 
+
+==21 (Sun) — 21:55== I thought we'll move houses today but we didn't, we just ended up packing things up again—and it rained heavily. I gained $5 from HeyCash for answering surveys. We ate soup and biscuits and bread for most of the day. Chai made me guess some songs on my Spotify. 
+
+==22 (Mon) — 22:34== I just spent most of my day converting my playlists to bases. Chai and I cleaned the cupboards in the other house. It was raining pretty hard. We ate adobo and oatmeal. I practiced kanji. Then we stayed outside the house in the corridors watching the rain and her showing me photos in her gallery. I got overstimulated that I fell asleep while watching ASMR. 

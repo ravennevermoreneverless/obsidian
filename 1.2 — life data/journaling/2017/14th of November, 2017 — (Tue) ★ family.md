@@ -1,5 +1,16 @@
-status: #adult 
-tags: [[journal]] [[family]] [[psychoanalysis]] [[yea]]
+---
+entryTitle: family
+growth: "[[adult]]"
+tagLinks:
+  - "[[journal]]"
+  - "[[family]]"
+  - "[[psychoanalysis]]"
+  - "[[yea]]"
+  - "[[2017]]"
+dateCreated: 2017-11-14
+dayCreated: Tuesday
+timeCreated:
+---
 
 Confused. Empty. Blank stares. Cold floor tiles. Lonely Nights.
 

@@ -1,3 +1,17 @@
+---
+growth: "[[adult]]"
+entryTitle: together we form the greatest team of fucking up a bomb
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[friendship]]"
+  - "[[conflict]]"
+  - "[[psychoanalysis]]"
+  - "[[truth]]"
+dateCreated: 2018-04-23
+dayCreated: Monday
+timeCreated: 23:17
+---
 So, you know how I drank coffee, right? And then I thought about things... especially the friendship issue with us 4; me, IC, Kristine, and Jellai. And I fucking analyzed it (I mean, I've analyzed this wayyy back the start of school year and this is the only time it all connects and in comes the supporting details). I don't know if I've figured it out or I just over-analyzed things but here we go. 
 
 It all started with that fake-ass scumbag who gullible-ized me. I think DISHONESTY and SELFISHNESS are the roots of this crumbling excuse of a friendship. I know it's obvious that there's an undeniably big barrier that we put up and still haven't broken down that stops this friendship to be completely called a "friendship". The tension is there, we don't say anything about it because we're dishonest, we don't solve it because we're selfish then it leads to distrust. Let me explain one by one.

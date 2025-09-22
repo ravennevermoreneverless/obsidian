@@ -1,4 +1,13 @@
-status: #baby 
-tags: [[journal]] [[individuality]] 
-
+---
+growth: "[[baby]]"
+entryTitle: How do you stand out from the crowd?
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[individuality]]"
+  - "[[confidence]]"
+dateCreated: "2018"
+dayCreated:
+timeCreated:
+---
 You know, for a fun fact, I don't stand out from a crowd of people. I'm just like everybody else, I think. I'm a commoner; just another citizen that lives life normally; in the most normal way possible. I don't have the most vibrant sex appeal, nor the most beautiful eyes and the prettiest face. Not even a voluptuous curve on my body and a single curl on my hair. When you pass by me at a hallway, you won't even spend (spare) a second glance. That's right. Appearance-wise, I'm not very much pleasing to anyone's eyes. And personality-wise? I'm just like any boyish girl in high school that likes music. I can be kind yet with a sprinkle of selfishness. But you know what they say? I'm like a zucchini in a sea of cucumbers. I try so hard to blend in, to be normal, but is it really a good thing? If you look closely, I am very different. My eyes shine the most unique shade of black, my face the most unique shape of oval. My body the most unique proportion and my hair the most unique type of silk. The most unique 4D personality; the right amount of goofiness, matureness, and good morals. Wiser and intelligent, in its own unique way. Believing in infinite possibilities in the world, and the gift of wisdom and openness. I may look like them, but if you look closer, you will see. Know me better and I'll stand out. I am the zucchini in the room full of cucumbers. They say "You're crazy," "You're different and you don't belong here." I look at them, smiling gently and say, "I know."

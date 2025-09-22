@@ -95,3 +95,5 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 92. ***Let's Have a Party*** (1964) — *The Rivieras* : Surf Rock, Frat Rock • 9/18/2025
 93. ***Here Are the Sonics*** (1965) — *The Sonics* : Garage Rock, Proto-Punk • 9/18/2025
 94. ***Virgin*** (2025) — *Lorde* : Alt-Pop, Electronic • 9/19/2925
+95. ***The Papas & The Mamas*** (1968) — *The Mamas & The Papas* : Sunshine Pop, Vocal Group • 9/19/2025
+96. ***Crosby, Stills & Nash*** (1969) — *Crosby, Stills & Nash* : Folk Rock • 9/19/2025

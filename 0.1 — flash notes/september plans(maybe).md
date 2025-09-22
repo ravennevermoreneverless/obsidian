@@ -8,7 +8,7 @@
 	- [x] chapter 6
 	- [x] chapter 7
 	- [x] chapter 8
-	- [ ] chapter 9
+	- [x] chapter 9
 	- [ ] chapter 11
 	- [ ] chapter 12
 - [ ] genki 2
@@ -24,14 +24,17 @@
 	- [ ] chapter 22
 	- [ ] chapter 23
 - [x] level 0 book
-- [ ] level 0(2) book
+- [x] level 0(2) book
 - [ ] level 1 book
 - [ ] finish duplicating playlists
 	- [x] sounds pretty gay
 	- [x] a collection of narrative
-	- [ ] in a teen coming-of-age
-	- [ ] first 30 seconds
+	- [x] in a teen coming-of-age
+	- [x] first 30 seconds
 	- [ ] cris🅱️y songs
 - [ ] 320 kanji
 - [ ] 1,442 vocabulary
-- [ ] corpse party
+- [ ] weekly recording (japanese)
+	- [ ] third saturday
+	- [ ] fourth saturday
+- [ ] guitar song - frou frou song cover (sept 28)

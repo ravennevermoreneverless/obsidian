@@ -1,4 +1,14 @@
-status: #adult 
-tags: [[journal]]
-
+---
+growth: "[[adult]]"
+entryTitle: complimented countless times
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[compliment]]"
+  - "[[confidence]]"
+  - "[[weird]]"
+dateCreated: 2018-02-07
+dayCreated: Wednesday
+timeCreated: 15:47
+---
 Today is an odd day, indeed. I got complimented countless of times. I think 5? Them saying I was beautiful. And the other complimenting my drawing skills. It's weird because I got noticed a lot of times. It felt like I was a celebrity. And today, I felt really chill and laidback, kind of confident. Something was different from me and I couldn't quite get a grasp of it. I had a hard time finding a jeep transport to home. Which is odd because it is only 2 PM that time. And by the time I got home, cats are looking at me weirdly. One was wide-eyed and ran away from me. Something's not right, and I'll try not to think of it too much. For now, let's just concentrate on the boatloads of work (assignments) dumped on us due tomorrow. God, it's gonna be a long week. 

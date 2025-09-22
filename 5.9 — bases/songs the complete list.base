@@ -175,3 +175,78 @@ views:
       note.primaryMusicGenre: 349
       note.minutes: 80
       note.rating: 82
+  - type: table
+    name: ここは痛みのない世界だと思ってた
+    filters:
+      and:
+        - playlists.contains(link("ここは痛みのない世界だと思ってた"))
+    order:
+      - favoritesTrackNumber
+      - songTitle
+      - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
+      note.artist: 283
+      note.primaryMusicGenre: 349
+      note.minutes: 80
+      note.rating: 82
+  - type: table
+    name: first 30 seconds mini melodic orgasms
+    filters:
+      and:
+        - playlists.contains(link("first 30 seconds mini melodic orgasms"))
+    order:
+      - favoritesTrackNumber
+      - songTitle
+      - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
+      note.artist: 283
+      note.primaryMusicGenre: 349
+      note.minutes: 80
+      note.rating: 82
+  - type: table
+    name: "cris🅱️y songs"
+    filters:
+      and:
+        - "playlists.contains(link(\"cris🅱️y songs\"))"
+    order:
+      - favoritesTrackNumber
+      - songTitle
+      - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      note.favoritesTrackNumber: 29
+      note.songTitle: 389
+      note.artist: 283
+      note.primaryMusicGenre: 349
+      note.minutes: 80
+      note.rating: 82

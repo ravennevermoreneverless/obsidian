@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "calendar-clock",
-              "title": "Agenda"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-agenda-view"
             }
           },
           {
@@ -72,49 +72,12 @@
             }
           },
           {
-            "id": "c8b06937877299de",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "5.9 — bases/songs the complete list.base",
-                "viewName": "in a teen coming-of-age film where the main character's finally ready for the next chapter"
-              },
-              "icon": "lucide-table",
-              "title": "songs the complete list"
-            }
-          },
-          {
-            "id": "8a644f7d77a4e0a7",
+            "id": "abb2d07935b4cb9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.8 — database/playlists/in a teen coming-of-age film where the main character's finally ready for the next chapter.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "in a teen coming-of-age film where the main character's finally ready for the next chapter"
-            }
-          },
-          {
-            "id": "c3bec4b9487b53db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.0 — source materials/wiki/Rock (WIKI).md",
+                "file": "0.1 — flash notes/autism symptoms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -129,34 +92,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rock (WIKI)"
+              "title": "autism symptoms"
             }
           },
           {
-            "id": "9daed9746b9b488c",
+            "id": "164dd86e9efacbfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 — life data/2025/media/albums i listened to (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "albums i listened to (2025)"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +121,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byCreatedTimeReverse",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -184,7 +134,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "post",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -11959,6 +11909,446 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "72d1f369638200ac",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0be74e09bbf90866",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c51a2ac800c73362",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c28aed85eb8ab0a4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ea457c640b63d575",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d622d4cf3731a34b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "21a0185e249bdd47",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1f71d3409916afc0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "aac51b6753921470",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b91658757c1c4571",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f5e5e36cef928a6e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "74f714d81edcd991",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5066ab6b4bd8d996",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b3a06a1bf4c2dc1b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "691152a20e849e20",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c206f55481a76de1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "30e9564a220dcb1f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "33bb7084c26097c2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5a7a6747c8f041e5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c9ef90aecdf598cc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6e0cb079bef6de0a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f3e94283e78342dc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5b2ee11d1435ecaa",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2b5bdf72732019f3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a6e2f6ac2a08dfa8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "091c8d59d62f2f7f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7dff3285b70c1f4b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ba9e1d1eab0a9bb6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9103d0944ed0fd78",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2adaee3142753fb5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "53498990873072b3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9cd4ceed39958023",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "df250dfd11b230a2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f34e33e4f5b87c2c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "43a09da696027951",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0e738080158691cd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d0e97a2494b68395",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "55965873fdb72ba3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d3250d69c8cd3076",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "435b61f40a6185c8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f1d72d6afd68ae2f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "51b90c8e326cb561",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ab5f62473fd81a47",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6a398122c024cbae",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -11991,53 +12381,52 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7acdb4fc68e599e4",
+  "active": "164dd86e9efacbfb",
   "lastOpenFiles": [
-    "2.0 — source materials/wiki/Rock (WIKI).md",
-    "5.8 — database/playlists/in a teen coming-of-age film where the main character's finally ready for the next chapter.md",
+    "0.1 — flash notes/autism symptoms.md",
+    "5.9 — bases/journal entries.base",
+    "1.2 — life data/journaling/2018/29th of April, 2018 — 23.05 (Sun) ★ the moon on top of the bunk bed and my thoughts.md",
+    "3.0 — tags/profundity.md",
+    "3.0 — tags/night.md",
+    "1.2 — life data/journaling/2018/28th of April, 2018 — 19.09 (Sat) ★ the reality of fifth harmony and ending my delusions.md",
+    "3.0 — tags/reality.md",
+    "1.2 — life data/journaling/2018/27th of April, 2018 — 19.58 (Fri) ★ coldplay, feeling annoying, and anger issues.md",
+    "1.2 — life data/journaling/2018/25th of April, 2018 — 18.24 (Wed) ★ each religion possesses part of the truth.md",
+    "1.2 — life data/journaling/2018/23rd of April, 2018 — 23.17 (Mon) ★ together we form the greatest team of fucking up a bomb.md",
+    "1.2 — life data/journaling/2018/23rd of April, 2018 — 22.44 (Mon) ★ I'll just let her happily hoppity fuck off my life like a prancing dick-bunny..md",
+    "1.2 — life data/journaling/2018/22nd of April, 2018 — 23.31 (Sun) ★ finding Rafa, the loud knock and my anxiety attack.md",
+    "1.2 — life data/journaling/2018/22nd of April, 2018 — 20.25 (Sun) ★ i need you, jaime.md",
+    "3.0 — tags/sadness.md",
+    "1.2 — life data/journaling/2018/22nd of April, 2018 — 20.03 (Sun) ★ turning down offers to go outside.md",
+    "1.2 — life data/journaling/2018/18th of April, 2018 — 19.52 (Wed) ★ photorealism is not for me.md",
+    "1.2 — life data/journaling/2018/17th of April, 2018 — 22.19 (Tue) ★ This is what it feels like to be alone and isolated.md",
+    "3.0 — tags/isolation.md",
+    "1.2 — life data/journaling/2018/16th of April, 2018 — 21.26 (Mon) ★ the last 10-dollar bill.md",
+    "3.0 — tags/irritability.md",
+    "1.2 — life data/journaling/2018/12th of April, 2018 — 22.19 (Thu) ★ hazel montes and everyone being gone eventually.md",
+    "1.2 — life data/journaling/2018/12th of April, 2018 — 18.51 (Thu) ★ neither happy nor sad, just... neutral.md",
+    "1.2 — life data/journaling/dream journal/Dream Journal — 14th of April, 2018 — 17.20 (Sat) ★ dreams are continuations but the twins were cremated.md",
+    "3.0 — tags/neutrality.md",
+    "1.2 — life data/journaling/2018/11th of April, 2018 — 1.43 (Wed) ★ MIDNIGHT FRIED RICE.md",
+    "3.0 — tags/independence.md",
+    "5.1 — images stockpile/art/2014/2014 - anime protagonist vs dragon.jpeg",
     "5.9 — bases/songs the complete list.base",
-    "0.1 — flash notes/september plans(maybe).md",
-    "5.8 — database/playlists/a collection of narrative songs to transport you to a different world.md",
-    "5.8 — database/songs/Sleep Patterns — Merchant Ships ★★★★½.md",
-    "5.8 — database/songs/104 Degrees — Slaughter Beach, Dog ★★★½.md",
-    "5.8 — database/songs/Children’s Story — Slick Rick ★★★.md",
-    "5.8 — database/songs/The Homecoming Queen’s Got a Gun — Julie Brown ★★★★.md",
-    "5.8 — database/songs/The Homecoming Queen’s Got a Gun — Julie Brown ★★★★.md",
-    "5.8 — database/songs/Dark Lady — Cher ★★★.md",
-    "5.8 — database/songs/Hazard — Richard Marx ★★★.md",
-    "5.8 — database/songs/Same Old Lang Syne — Dan Fogelberg ★★★½.md",
-    "5.8 — database/songs/The Killing of Georgie (Pt. I and II) — Rod Stewart ★★★★.md",
-    "5.8 — database/songs/The Deeper In — Drive-By Truckers ★★★½.md",
-    "5.8 — database/songs/Coat of Many Colors — Dolly Parton ★★★.md",
-    "5.8 — database/songs/All I Wanna Do Is Make Love To You — Heart ★★★½.md",
-    "5.8 — database/songs/BLOOD. — Kendrick Lamar ★★★.md",
-    "5.8 — database/songs/Spaceship 711 — The Radioactive Sago Project ★★★½.md",
-    "5.8 — database/songs/Wicked Will — Daniel Johnston ★★★.md",
-    "0.1 — flash notes/Wicked Will — Daniel Johnston ★★★.md",
-    "5.8 — database/songs/Brainwash — Daniel Johnston ★★★½.md",
-    "5.8 — database/songs/Never Relaxed — Daniel Johnston ★★★½.md",
-    "5.8 — database/songs/A Little Story — Daniel Johnston ★★★½.md",
-    "5.8 — database/songs/Gloria — Henry Jamison ★★★★.md",
-    "5.8 — database/songs/The Dead Flag Blues — Godspeed You! Black Emperor ★★★★.md",
-    "5.8 — database/songs/Good Morning, Captain — Slint ★★★½.md",
-    "songa",
-    "5.1 — images stockpile/art/2014/2014 - natsu dragneel.jpeg",
     "5.9 — bases/all the kanji.base",
-    "5.1 — images stockpile/kanji/校.jpg",
-    "5.1 — images stockpile/kanji/家.jpg",
-    "5.1 — images stockpile/kanji/泣.jpg",
-    "5.1 — images stockpile/kanji/泳.jpg",
-    "5.1 — images stockpile/kanji/座.jpg",
-    "5.1 — images stockpile/kanji/急.jpg",
-    "5.1 — images stockpile/kanji/忙.jpg",
-    "5.1 — images stockpile/kanji/降.jpg",
-    "5.1 — images stockpile/kanji/乗.jpg",
+    "5.1 — images stockpile/art/2014/2014 - pewdiepie amnesia.jpeg",
     "5.9 — bases/all my playlists.base",
+    "5.1 — images stockpile/art/2014/2014 - smosh ian and anthony.jpeg",
+    "5.1 — images stockpile/art/2014/2014 - naruto uzumaki.jpeg",
+    "tracked_files.json",
+    "5.1 — images stockpile/kanji/発.jpg",
+    "5.1 — images stockpile/kanji/帰.jpg",
+    "5.1 — images stockpile/kanji/来.jpg",
+    "5.1 — images stockpile/kanji/行.jpg",
+    "5.1 — images stockpile/kanji/園.jpg",
+    "5.1 — images stockpile/kanji/庭.jpg",
+    "songa",
     "5.1 — images stockpile/art/2014",
     "Boys ",
     "somgs",
-    "5.8 — database/songs",
-    "5.9 — bases/every transaction.base",
-    "5.1 — images stockpile/art/2023"
+    "5.8 — database/songs"
   ]
 }

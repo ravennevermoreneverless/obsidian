@@ -1,3 +1,16 @@
+---
+growth: "[[adult]]"
+entryTitle: the reality of fifth harmony and ending my delusions
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[guilt]]"
+  - "[[music]]"
+  - "[[reality]]"
+dateCreated: 2018-04-28
+dayCreated: Saturday
+timeCreated: 19:09
+---
 The guilt in giving presents. You know that feeling when you feel guilty because your present may not be good enough or someone's gift may be better than yours? That feeling never does vanish. And I think it's the suckiest feeling ever. 
 
 Each of my favorite song has a significance in my lifetime. Like 2012, I have a certain set of songs. 2013, 2014, 2015, and until now. It's like a Pop Dathology of my life. It's hard to keep up and remember all of them but I'm trying my best. You know it's illegal to download music without buying it, right? For me, it's really unfair (or it's just my selfish self speaking.) Music is a beautiful thing that can be enjoyed and shared with everybody for free. It's crazy how people see this as a form of business then make profit out of it just because everyone enjoys it. It's crazy how nothing is for free now. Even being yourself isn't free, you still have a price to pay. Not even freedom of expression or freedom of being accepted. My only crime I've ever done in my whole life (and probably continue doing it until the day I die) is illegally download music. I'll forever find a way to do that. 

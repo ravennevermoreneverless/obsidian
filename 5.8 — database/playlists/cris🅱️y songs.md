@@ -30,7 +30,7 @@ tags: [[playlist]] [[music]] [[noise]]
 13. <b><i><span style="color:#72D828">Punk Weight</span></b></i> — Death Grips ★★★★
 14. <b><i><span style="color:#451212">Heart Attack</span></b></i> — Scarlxrd ★★★★
 15. <b><i><span style="color:#45038F">WHY AM I STILL IN LA</span></b></i> — Joji, D33J, Shlohmo ★★★½ 
-16. <b><i><span style="color:#8733CD">cop graveyard</span></b></8> — Teen Suicide ★★★
+16. <b><i><span style="color:#8733CD">cop graveyard</span></b></i> — Teen Suicide ★★★
 17. <b><i><span style="color:#919059">The Glow, Pt. 2</span></b></i> — The Microphones ★★★★
 18. <b><i><span style="color:#53FF2E">Environment</span></b></i> — Andrew Goes to Hell ★★★★
 19. <b><i><span style="color:#9AAF96">Crash Jam</span></b></i> — Dan Deacon ★★★

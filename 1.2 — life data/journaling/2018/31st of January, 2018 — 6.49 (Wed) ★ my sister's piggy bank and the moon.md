@@ -1,6 +1,15 @@
-status: #adult 
-tags: [[journal]]
-
+---
+growth: "[[adult]]"
+entryTitle: my sister's piggy bank and the moon
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[finance]]"
+  - "[[moon]]"
+dateCreated: 2018-01-31
+dayCreated: Wednesday
+timeCreated: 06:49
+---
 Another glass of Swiss Miss hot chocolate calms my nerves today. My mom went to work without leaving us school allowance, can't you believe that? I had laboratory report today, passing notebooks and assignments; the passing of report card is later. Even though I was so tempted to not go to school, I have to. I was planning to use the money of my classmates but good thing we opened up my sister's piggy bank which had 140 pesos. My sister saved the day. It saved me from being deep in debt, but I still got a lot to pay though. Maybe around 100+? Perhaps I should go and try to have a money saver as well. I can't buy the things I need (maybe the things I want as well). Now it's 5:54 AM and I can't be late today. Later, if I got time, I'll come back and let's talk about the moon, yeah?
 
 --

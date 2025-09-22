@@ -1,5 +1,3 @@
-## ***290 days to N1 JLPT!!!*** 
-
 ### ==GOAL==
 #### N1 JLPT, 2500 kanji, 12,050 vocabulary
 
@@ -8,7 +6,7 @@
 - [ ] Genki I
 	- [x] chapter 7
 	- [x] chapter 8
-	- [ ] chapter 9
+	- [x] chapter 9
 	- [ ] chapter 10
 	- [ ] chapter 11
 	- [ ] chapter 12
@@ -43,7 +41,7 @@
 - [ ] 1,050 kanji
 - [ ] 5,990 words
 - [x] Level 0
-- [ ] Level 0(II)
+- [x] Level 0(II)
 - [ ] Level 1
 - [ ] Level 2
 - [ ] Level 3

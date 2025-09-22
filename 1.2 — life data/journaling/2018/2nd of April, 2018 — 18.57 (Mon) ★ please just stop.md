@@ -1,6 +1,17 @@
-status: #adult 
-tags: [[journal]] [[school]]
-
+---
+growth: "[[adult]]"
+entryTitle: please just stop
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[school]]"
+  - "[[conflict]]"
+  - "[[family]]"
+  - "[[trauma]]"
+dateCreated: 2018-04-02
+dayCreated: Monday
+timeCreated: 18:57
+---
 It's been a long day. I only slept for like an hour and 4 AM? Then woke up by 5 for the practice. The practice started late and we were outside and for the first time in history (in a long time), the clique was complete (well, except for Kristine, Francesca, and Richard) but oh well, you get me. It was surprising because Jaime went near to us and he went to Louie... maybe it's because Faria and Erika were also there with us but oh well, he hates my guts.. nothing changes. Things went by smoothly because I was in a good mood due to the strong coffee (Kopiko 78) I consumed, making me hyperactive and palpitating (I only had 2 to 3 sips, wtf right?) So yeah, I was pretty crazy, talkative and all laughs. 
 
 And boy, I was sitting next to my ex-girl crush Eliza De Guzman. We were laughing and joking like we were friends for so long and our faces were so close and she kept touching my face and my hands and she KEPT STARING AT MY LIPS. LIKE SERIOUSLY. The tension was so thick, it almost made me uncomfortable (Almost). And we took pictures (she insisted) so I took her number. I know, I'm a tiger, aren't I? (wtf bro) So yeah the practice went okay and we had to stay for a little hot while for some orientation shit for the recognition like I'm gonna attend that bullsh. Oh yeah and I borrowed 4 books (1 pending and the Stephen King one is one thick boiiii). 

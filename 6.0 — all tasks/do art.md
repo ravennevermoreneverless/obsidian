@@ -6,13 +6,15 @@ contexts:
   - personal
 timeEstimate: 30
 dateCreated: 2025-07-23T00:23:19.435+08:00
-dateModified: 2025-09-19T00:33:42.263+08:00
+dateModified: 2025-09-19T23:27:24.011+08:00
 tags:
   - art
   - task
 projects: []
-recurrence: FREQ=DAILY;INTERVAL=1
+recurrence: DTSTART:20250723T002319Z;FREQ=DAILY;INTERVAL=1
 complete_instances:
   - 2025-07-31
+  - 2025-09-19
+scheduled: 2025-09-20
 ---
 

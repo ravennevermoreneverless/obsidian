@@ -1,4 +1,12 @@
-status: #adult 
-tags: [[journal]]
-
+---
+growth: "[[adult]]"
+entryTitle: the woman who stares
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[weird]]"
+dateCreated: "2018"
+dayCreated:
+timeCreated:
+---
 There was once a strange woman in a jeep that I rode home. This was some time last year, there was a school event and I went home by 3 PM after buying a smoothie and a cookie at a convenience store. I rode that extra spacey jeep when I saw "her." Her piercing and intimdating gaze is the first thing I noticed. She was dressed like a middle-aged business woman. Typical black hair, office blazer and slacks, sandals, silver watch and handbag. But one thing was strange.. she kept looking at me. She kept looking at me with those cold scrutinizing stare as if she's gazing right through you, judging every part of your bone. I was very uncomfortable and so I put my cookie inside the bag and just sipped on my smoothie from time to time. I was very anxious and uncomfortable throughout the ride. That's when I saw it. She rolled her eyes at me. Okay, whay the fuck? A slight tinge of annoyance popped in my head. Okay, what is her deal, what is her problem with me and what did I ever do to her? Do I look like a fucking bad person or a delinquent to her? Did I steal one of her golden neckalces in our past life? This woman is mental, I say. It's almost as if she was familiar to me. At first, I thought she's like this psychic shit that reads minds or an alien disguised as a human or a ghost that only I could see. But the last thing I thought was "this some crazy bitch that don't have anything to do with life but hate on youth nowadays." The ride was filled with anxiousness, uncomfortable seat and judgmental stares... and annoyance. It was more awkward when we have the same stop and same street, almost as if she was following me, but she didn't. Or did she? I was kinda scared or paanoid by that. And thankfully, I never saw her again. Okay, well, maybe two or three times I saw her at Ministop near my school. Crazy bitch. 

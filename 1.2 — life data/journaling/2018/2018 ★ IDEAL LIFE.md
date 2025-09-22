@@ -1,4 +1,14 @@
-status: #baby 
-tags: [[journal]] [[life]] [[optimism]]
-
+---
+growth: "[[baby]]"
+entryTitle: IDEAL LIFE
+tagLinks:
+  - "[[journal]]"
+  - "[[2018]]"
+  - "[[life]]"
+  - "[[optimism]]"
+  - "[[future]]"
+dateCreated: "2018"
+dayCreated:
+timeCreated:
+---
 I always ALWAYS picture myself in the future, having my "ideal life" (I guess that makes it a "minus" factor from being depressed, huh?) Like I'd have my own apartment, which I had a fun time decorating. It's what I've been doing all the time, planning to decorate my future apartment. I'd have a stable job, that I'm really passionate about and I love doing. I see myself as an independent individual, paying my own bills, doing grocery shopping, planning my expenses and cooking. I know being an adult has its perks and set of troubles, it might be quite bothersome and I'd be regretful at times... but I just can't wait to experience it. Sometime ago, I don't, never, see my family in the picture... But they're slowly coming into the picture, hopefully, as time goes by, they'd be in it. I mean, they are a huge part of my life, right? But I'd like to be independent, thank you very much. It's something to think about, one of my dreams and goals, perhaps, something to achieve. I hope I become successful with it, with my life. I want to be happy... Not to rich, not too poor. Not too famous, not too anonymous. Just pure.. old.. me. A happy and better me.
