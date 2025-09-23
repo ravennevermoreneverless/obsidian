@@ -131,9 +131,19 @@
               "icon": "lucide-table",
               "title": "japanese content"
             }
+          },
+          {
+            "id": "91d81415425a2b1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -12518,6 +12528,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b01620f5b23ce4b6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -12550,11 +12570,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f53df3c6952e27c7",
+  "active": "91d81415425a2b1b",
   "lastOpenFiles": [
+    "5.9 — bases/japanese content.base",
+    "5.0 — everything else/As a youth, what can I do to make the world a better place.md",
+    "5.1 — images stockpile/playlists/\"bet you haven't heard of these, they're like super indie.jpg",
+    "5.8 — database/songs/Hello Goodbye — waveform ★★★★.md",
+    "5.1 — images stockpile/playlists/roads. where we're going we don't need roads.jpg",
+    "5.8 — database/playlists/roads. where we're going we don't need roads.md",
+    "5.8 — database/playlists/bet you haven't heard of these, they're like super indie.md",
+    "2.2 — creative projects/raven's brain/poems/POEM for HER that I never had the chance to show.md",
+    "1.5 — japanese/personal works/poems/2024年5日10日(金) — 和歌25.md",
     "1.5 — japanese/personal works/poems/ももは.md",
     "1.5 — japanese/personal works/poems/何をしてもぜんぜん成長しない。.md",
-    "5.9 — bases/japanese content.base",
     "3.0 — tags/art.md",
     "1.5 — japanese/personal works/poems/普通の秘密.md",
     "3.0 — tags/abstract.md",
@@ -12572,13 +12600,6 @@
     "1.5 — japanese/personal works/poems/笑と怒 ; 同じ人.md",
     "1.5 — japanese/personal works/poems/猫があった世界.md",
     "3.0 — tags/postmodern.md",
-    "1.5 — japanese/personal works/poems/お正月に.md",
-    "1.5 — japanese/personal works/poems/姫さまと犬.md",
-    "3.0 — tags/ambiguity.md",
-    "1.5 — japanese/personal works/poems/君は死んだ.md",
-    "3.0 — tags/minimalism.md",
-    "3.0 — tags/absurdism.md",
-    "1.5 — japanese/personal works/poems/生活の目的は何.md",
     "5.1 — images stockpile/album covers/Everything and You (2019) — Dreams We've Had.jpg",
     "5.9 — bases/journal entries.base",
     "5.1 — images stockpile/art/2014/2014 - anime protagonist vs dragon.jpeg",
@@ -12592,8 +12613,6 @@
     "5.1 — images stockpile/kanji/発.jpg",
     "5.1 — images stockpile/kanji/帰.jpg",
     "5.1 — images stockpile/kanji/来.jpg",
-    "5.1 — images stockpile/kanji/行.jpg",
-    "5.1 — images stockpile/kanji/園.jpg",
     "songa",
     "5.1 — images stockpile/art/2014",
     "Boys ",

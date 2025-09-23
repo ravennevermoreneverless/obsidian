@@ -8,7 +8,7 @@ playlists:
   - "[[let's fake our deaths and run away together]]"
   - "[[first 30 seconds mini melodic orgasms]]"
   - "[[if, on a cosmic scale, none of it matters, does that really fucking matter]]"
-  - "[[\"bet you haven't heard of these, they're like super indie\"]]"
+  - "[[bet you haven't heard of these, they're like super indie]]"
   - "[[an attempt to an optimistic state of mind]]"
 favoritesTrackNumber:
 primaryMusicGenre:

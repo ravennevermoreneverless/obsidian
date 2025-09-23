@@ -9,7 +9,7 @@ playlists:
   - "[[people. what a bunch of bastards.]]"
   - "[[raven's old mp3 player circa 2009 reimagined]]"
   - "[[first 30 seconds mini melodic orgasms]]"
-  - "[[\"roads. where we're going we don't need roads\"]]"
+  - "[[roads. where we're going we don't need roads]]"
 favoritesTrackNumber:
 primaryMusicGenre:
   - new wave

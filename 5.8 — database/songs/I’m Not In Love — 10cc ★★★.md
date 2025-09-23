@@ -6,7 +6,7 @@ seconds: "6"
 rating: 6
 playlists:
   - "[[first 30 seconds mini melodic orgasms]]"
-  - "[[\"roads. where we're going we don't need roads\"]]"
+  - "[[roads. where we're going we don't need roads]]"
 favoritesTrackNumber:
 primaryMusicGenre:
   - art pop

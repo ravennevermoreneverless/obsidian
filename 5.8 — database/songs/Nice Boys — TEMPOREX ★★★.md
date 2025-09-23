@@ -7,7 +7,7 @@ rating: 6
 playlists:
   - "[[actually good non-repetitive non-formulaic bedroom pop songs]]"
   - "[[first 30 seconds mini melodic orgasms]]"
-  - "[[\"bet you haven't heard of these, they're like super indie\"]]"
+  - "[[bet you haven't heard of these, they're like super indie]]"
 favoritesTrackNumber:
 primaryMusicGenre:
   - bedroom pop

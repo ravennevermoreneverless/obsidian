@@ -8,12 +8,12 @@ enhanced: no
 addedOnRYM: no
 sharedOnReddit: no
 sharedOnMonoquin: no
-image: "[[\"roads. where we're going we don't need roads\".jpg]]"
+image: "[[roads. where we're going we don't need roads.jpg]]"
 ---
 status: #child 
 tags: [[playlist]] [[music]] 
 
-![["roads. where we're going we don't need roads".jpg]]
+![[roads. where we're going we don't need roads.jpg]]
 
 I’m Not In Love - 10cc ★★★★
 Build Me Up Buttercup - The Foundations ★★★★

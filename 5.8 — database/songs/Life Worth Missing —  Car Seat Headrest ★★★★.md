@@ -8,7 +8,7 @@ playlists:
   - "[[first 30 seconds mini melodic orgasms]]"
   - "[[scorpio-infj-4w5; a tale of unlimited emotional introspection and arcane bullshit]]"
   - "[[obsessed with nostalgia]]"
-  - "[[\"bet you haven't heard of these, they're like super indie\"]]"
+  - "[[bet you haven't heard of these, they're like super indie]]"
   - "[[car ride back home at midnight]]"
   - "[[and somehow we'll be okay]]"
 favoritesTrackNumber:

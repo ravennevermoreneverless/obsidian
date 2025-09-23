@@ -7,7 +7,7 @@ rating: 7
 playlists:
   - "[[to all the daydreamers, wishful thinkers, and escapists]]"
   - "[[first 30 seconds mini melodic orgasms]]"
-  - "[[\"roads. where we're going we don't need roads\"]]"
+  - "[[roads. where we're going we don't need roads]]"
   - "[[oh fuck, i've fallen in love, haven't i]]"
 favoritesTrackNumber:
 primaryMusicGenre:

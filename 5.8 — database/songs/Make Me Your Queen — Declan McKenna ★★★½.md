@@ -8,7 +8,7 @@ playlists:
   - "[[gender isn’t real]]"
   - "[[sounds pretty gay but okay]]"
   - "[[hanahaki disease]]"
-  - "[[\"bet you haven't heard of these, they're like super indie\"]]"
+  - "[[bet you haven't heard of these, they're like super indie]]"
 favoritesTrackNumber:
 primaryMusicGenre:
   - indie rock

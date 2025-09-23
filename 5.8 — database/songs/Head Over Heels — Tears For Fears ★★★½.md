@@ -6,7 +6,7 @@ seconds:
 rating: 7
 playlists:
   - "[[first 30 seconds mini melodic orgasms]]"
-  - "[[\"roads. where we're going we don't need roads\"]]"
+  - "[[roads. where we're going we don't need roads]]"
 favoritesTrackNumber:
 primaryMusicGenre:
   - synthpop

@@ -7,7 +7,7 @@ rating: 7
 playlists:
   - "[[marceline abadeer would probably like these songs]]"
   - "[[graveyard romance]]"
-  - "[[\"roads. where we're going we don't need roads\"]]"
+  - "[[roads. where we're going we don't need roads]]"
 favoritesTrackNumber: "16"
 primaryMusicGenre:
   - gothic rock

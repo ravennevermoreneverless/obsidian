@@ -10,7 +10,7 @@ playlists:
   - "[[i'll still be here if ever you decide to come back]]"
   - "[[musical embodiment of loneliness]]"
   - "[[slow dance with you]]"
-  - "[[\"roads. where we're going we don't need roads\"]]"
+  - "[[roads. where we're going we don't need roads]]"
   - "[[i have bad news for you; it's gonna hurt... a lot]]"
 favoritesTrackNumber: "22"
 primaryMusicGenre:

@@ -7,7 +7,7 @@ rating: 6
 playlists:
   - "[[marceline abadeer would probably like these songs]]"
   - "[[graveyard romance]]"
-  - "[[\"roads. where we're going we don't need roads\"]]"
+  - "[[roads. where we're going we don't need roads]]"
 favoritesTrackNumber:
 primaryMusicGenre:
   - post-punk
