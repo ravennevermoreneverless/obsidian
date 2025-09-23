@@ -1,0 +1,11 @@
+---
+growth:
+artworkTitle:
+dateCreated:
+artDescription:
+tagLinks:
+artType:
+artStyle:
+mediumUsed:
+image:
+---

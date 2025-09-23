@@ -1,0 +1,50 @@
+views:
+  - type: table
+    name: japanese database
+    filters:
+      and:
+        - tagLinks.contains(link("japanese"))
+    sort:
+      - property: dateCreated
+        direction: ASC
+  - type: table
+    name: japanese journal entries
+    filters:
+      and:
+        - tagLinks.contains(link("japanese"))
+        - tagLinks.contains(link("journal"))
+    order:
+      - growth
+      - entryTitle
+      - file.name
+      - dateCreated
+      - dayCreated
+      - timeCreated
+      - tagLinks
+    sort:
+      - property: dateCreated
+        direction: ASC
+    columnSize:
+      note.entryTitle: 280
+      note.timeCreated: 54
+  - type: table
+    name: japanese artworks
+    filters:
+      and:
+        - tagLinks.containsAll(link("japanese"), link("art"))
+    order:
+      - artworkTitle
+      - artDescription
+      - dateCreated
+      - artType
+      - mediumUsed
+      - artStyle
+      - tagLinks
+      - growth
+      - file.name
+    sort:
+      - property: dateCreated
+        direction: ASC
+    columnSize:
+      note.artworkTitle: 237
+    image: note.image

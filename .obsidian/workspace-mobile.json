@@ -96,13 +96,40 @@
             }
           },
           {
-            "id": "164dd86e9efacbfb",
+            "id": "f53df3c6952e27c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1.5 — japanese/personal works/poems/ももは.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ももは"
+            }
+          },
+          {
+            "id": "0f1aabee3e968466",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "5.9 — bases/japanese content.base",
+                "viewName": "japanese artworks"
+              },
+              "icon": "lucide-table",
+              "title": "japanese content"
             }
           }
         ],
@@ -5257,8 +5284,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       },
       {
@@ -12349,12 +12376,144 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "fd36878ce92915c2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7b0ecd7d52d14cd2",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "1.5 — japanese/personal works/poems/ももは.md"
+          },
+          "icon": "lucide-info",
+          "title": "File properties"
+        }
+      },
+      {
+        "id": "6cf84007ad81188e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5f8ca869c1c48086",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      },
+      {
+        "id": "b0beb303b12cbe65",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "fb6df7ff20da6bb6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "21a4031c0b12c9f6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "fc6fe6e470c67070",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7c7440e991013ca1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e5dd6418254f228d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cc21f01a4f5636be",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c74e2dae55e7ba19",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "dcbb3d3ff2aa8750",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
       }
     ],
-    "currentTab": 493
+    "currentTab": 1200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -12381,34 +12540,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "164dd86e9efacbfb",
+  "active": "f53df3c6952e27c7",
   "lastOpenFiles": [
-    "0.1 — flash notes/autism symptoms.md",
+    "1.5 — japanese/personal works/poems/何をしてもぜんぜん成長しない。.md",
+    "5.9 — bases/japanese content.base",
+    "3.0 — tags/art.md",
+    "1.5 — japanese/personal works/poems/普通の秘密.md",
+    "3.0 — tags/abstract.md",
+    "1.5 — japanese/personal works/poems/ザ•メタル•マン.md",
+    "1.5 — japanese/personal works/poems/白鷺 — 忘れないで.md",
+    "3.0 — tags/narrative.md",
+    "3.0 — tags/allegory.md",
+    "3.0 — tags/fable.md",
+    "1.5 — japanese/personal works/poems/猿のように.md",
+    "3.0 — tags/society.md",
+    "1.5 — japanese/personal works/poems/残業の男.md",
+    "3.0 — tags/japanese.md",
+    "3.0 — tags/satire.md",
+    "1.5 — japanese/personal works/poems/去年の怪我.md",
+    "1.5 — japanese/personal works/poems/笑と怒 ; 同じ人.md",
+    "1.5 — japanese/personal works/poems/猫があった世界.md",
+    "3.0 — tags/postmodern.md",
+    "1.5 — japanese/personal works/poems/お正月に.md",
+    "1.5 — japanese/personal works/poems/姫さまと犬.md",
+    "3.0 — tags/ambiguity.md",
+    "1.5 — japanese/personal works/poems/君は死んだ.md",
+    "3.0 — tags/minimalism.md",
+    "3.0 — tags/absurdism.md",
+    "1.5 — japanese/personal works/poems/生活の目的は何.md",
+    "5.1 — images stockpile/album covers/Everything and You (2019) — Dreams We've Had.jpg",
     "5.9 — bases/journal entries.base",
-    "1.2 — life data/journaling/2018/29th of April, 2018 — 23.05 (Sun) ★ the moon on top of the bunk bed and my thoughts.md",
-    "3.0 — tags/profundity.md",
-    "3.0 — tags/night.md",
-    "1.2 — life data/journaling/2018/28th of April, 2018 — 19.09 (Sat) ★ the reality of fifth harmony and ending my delusions.md",
-    "3.0 — tags/reality.md",
-    "1.2 — life data/journaling/2018/27th of April, 2018 — 19.58 (Fri) ★ coldplay, feeling annoying, and anger issues.md",
-    "1.2 — life data/journaling/2018/25th of April, 2018 — 18.24 (Wed) ★ each religion possesses part of the truth.md",
-    "1.2 — life data/journaling/2018/23rd of April, 2018 — 23.17 (Mon) ★ together we form the greatest team of fucking up a bomb.md",
-    "1.2 — life data/journaling/2018/23rd of April, 2018 — 22.44 (Mon) ★ I'll just let her happily hoppity fuck off my life like a prancing dick-bunny..md",
-    "1.2 — life data/journaling/2018/22nd of April, 2018 — 23.31 (Sun) ★ finding Rafa, the loud knock and my anxiety attack.md",
-    "1.2 — life data/journaling/2018/22nd of April, 2018 — 20.25 (Sun) ★ i need you, jaime.md",
-    "3.0 — tags/sadness.md",
-    "1.2 — life data/journaling/2018/22nd of April, 2018 — 20.03 (Sun) ★ turning down offers to go outside.md",
-    "1.2 — life data/journaling/2018/18th of April, 2018 — 19.52 (Wed) ★ photorealism is not for me.md",
-    "1.2 — life data/journaling/2018/17th of April, 2018 — 22.19 (Tue) ★ This is what it feels like to be alone and isolated.md",
-    "3.0 — tags/isolation.md",
-    "1.2 — life data/journaling/2018/16th of April, 2018 — 21.26 (Mon) ★ the last 10-dollar bill.md",
-    "3.0 — tags/irritability.md",
-    "1.2 — life data/journaling/2018/12th of April, 2018 — 22.19 (Thu) ★ hazel montes and everyone being gone eventually.md",
-    "1.2 — life data/journaling/2018/12th of April, 2018 — 18.51 (Thu) ★ neither happy nor sad, just... neutral.md",
-    "1.2 — life data/journaling/dream journal/Dream Journal — 14th of April, 2018 — 17.20 (Sat) ★ dreams are continuations but the twins were cremated.md",
-    "3.0 — tags/neutrality.md",
-    "1.2 — life data/journaling/2018/11th of April, 2018 — 1.43 (Wed) ★ MIDNIGHT FRIED RICE.md",
-    "3.0 — tags/independence.md",
     "5.1 — images stockpile/art/2014/2014 - anime protagonist vs dragon.jpeg",
     "5.9 — bases/songs the complete list.base",
     "5.9 — bases/all the kanji.base",
@@ -12422,11 +12583,9 @@
     "5.1 — images stockpile/kanji/来.jpg",
     "5.1 — images stockpile/kanji/行.jpg",
     "5.1 — images stockpile/kanji/園.jpg",
-    "5.1 — images stockpile/kanji/庭.jpg",
     "songa",
     "5.1 — images stockpile/art/2014",
     "Boys ",
-    "somgs",
-    "5.8 — database/songs"
+    "somgs"
   ]
 }

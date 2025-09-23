@@ -74,6 +74,9 @@
       },
       "improved-random-note": {
         "startupType": "instant"
+      },
+      "chronology": {
+        "startupType": "disabled"
       }
     }
   }

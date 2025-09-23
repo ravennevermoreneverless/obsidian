@@ -1,0 +1,7 @@
+- life data
+- japanese
+- source materials
+- creative projects
+- tags
+- everything else
+- galleries
