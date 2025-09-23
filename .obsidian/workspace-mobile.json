@@ -136,10 +136,12 @@
             "id": "91d81415425a2b1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "5.1 — images stockpile/playlists/bet you haven't heard of these, they're like super indie.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "bet you haven't heard of these, they're like super indie"
             }
           }
         ],
@@ -12538,8 +12540,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       }
     ],
@@ -12566,15 +12568,14 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "tasknotes:Create new task": false
     }
   },
   "active": "91d81415425a2b1b",
   "lastOpenFiles": [
     "5.9 — bases/japanese content.base",
     "5.0 — everything else/As a youth, what can I do to make the world a better place.md",
-    "5.1 — images stockpile/playlists/\"bet you haven't heard of these, they're like super indie.jpg",
+    "5.1 — images stockpile/playlists/bet you haven't heard of these, they're like super indie.jpg",
     "5.8 — database/songs/Hello Goodbye — waveform ★★★★.md",
     "5.1 — images stockpile/playlists/roads. where we're going we don't need roads.jpg",
     "5.8 — database/playlists/roads. where we're going we don't need roads.md",

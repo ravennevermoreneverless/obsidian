@@ -8,12 +8,12 @@ enhanced: no
 addedOnRYM: no
 sharedOnReddit: no
 sharedOnMonoquin: no
-image: "[[\"bet you haven't heard of these, they're like super indie.jpg]]"
+image: "[[bet you haven't heard of these, they're like super indie.jpg]]"
 ---
 status: #child 
 tags: [[playlist]] [[music]] 
 
-![["bet you haven't heard of these, they're like super indie.jpg]]
+![[bet you haven't heard of these, they're like super indie.jpg]]
 
 
 Renee - SALES ★★★★
