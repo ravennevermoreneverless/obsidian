@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.5 — japanese/personal works/poems/ももは.md",
+                "file": "1.5 — japanese/personal works/poems/2024年5日10日(金) — 和歌25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ももは"
+              "title": "2024年5日10日(金) — 和歌25"
             }
           },
           {
@@ -12508,6 +12508,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c3aad4f912c8432c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -12542,6 +12552,7 @@
   },
   "active": "f53df3c6952e27c7",
   "lastOpenFiles": [
+    "1.5 — japanese/personal works/poems/ももは.md",
     "1.5 — japanese/personal works/poems/何をしてもぜんぜん成長しない。.md",
     "5.9 — bases/japanese content.base",
     "3.0 — tags/art.md",
