@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba40482159e83c00",
+        "id": "1c5ef49f5888d1ec",
         "type": "tabs",
         "children": [
           {
-            "id": "e3ae8251e426ff62",
+            "id": "c1910ec96a1a720e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1 — flash notes/GAG cooking event recipes.md",
+                "file": "1.5 — japanese/personal works/poems/木の拒否.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GAG cooking event recipes"
+              "title": "木の拒否"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -229,12 +229,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "513f42feb30bc4c9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "d9b4b5340495eb8f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "8dfec031e46550a7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -266,53 +296,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e3ae8251e426ff62",
+  "active": "c1910ec96a1a720e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "0.1 — flash notes/GAG cooking event recipes.md",
+    "3.0 — tags/poetry.md",
+    "1.5 — japanese/personal works/poems/木の拒否.md",
+    "0.1 — flash notes/free verse.md",
+    "3.0 — tags/free verse.md",
+    "0.1 — flash notes/poetry.md",
+    "tracked_files.json",
+    "6.0 — all tasks/get meds at NCMH.md",
+    "6.0 — all tasks/genki chapter 7 + 20 kanji.md",
+    "5.9 — bases/journal entries.base",
+    "5.9 — bases/japanese content.base",
+    "5.8 — database/transactions/transaction9.md",
+    "5.8 — database/transactions/transaction8.md",
+    "5.8 — database/transactions/transaction7.md",
+    "5.8 — database/transactions/transaction6.md",
+    "5.8 — database/transactions/transaction5.md",
+    "5.8 — database/transactions/transaction4.md",
+    "5.8 — database/songs/青い血 Aoi Chi (Blue Blood) — Galileo Galilei ★★★½.md",
+    "5.8 — database/songs/明日へ Asu e (For Tomorrow) — Galileo Galilei ★★★★.md",
+    "5.8 — database/songs/夢の中で (In A Dream) — Cornelius ★★★.md",
+    "5.8 — database/songs/グッドバイ -album version- — toe ★★★★.md",
+    "5.8 — database/songs/girls — girl in red ★★★½.md",
+    "5.8 — database/songs/girls girls girls — FLETCHER ★★★.md",
+    "5.8 — database/songs/could this be love — saturn 17 ★★★.md",
+    "5.8 — database/songs/cellophane — FKA Twigs ★★★★★.md",
+    "5.8 — database/songs/bless ur heart — serpentwithfeet ★★★.md",
+    "5.8 — database/songs/balaclava — cauboi ★★★.md",
+    "5.8 — database/songs/Zombie — The Cranberries ★★★★.md",
+    "5.8 — database/songs/Zak and Sara — Ben Folds ★★★.md",
+    "5.8 — database/songs/Yuk Foo — Wolf Alice ★★★.md",
+    "5.1 — images stockpile/playlists/𝘵𝘩𝘦𝘳𝘦 𝘸𝘢𝘴 𝘰𝘯𝘤𝘦 𝘢 𝘭𝘰𝘯𝘦𝘭𝘺 𝘰𝘤𝘦𝘭𝘰𝘵 𝘭𝘰𝘴𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘧𝘰𝘳𝘦𝘴𝘵.jpg",
+    "5.1 — images stockpile/playlists/音楽を通して日本語を学ぶ.jpg",
+    "5.1 — images stockpile/playlists/激しいハードコア トレーニング モード 9999999.jpg",
+    "5.1 — images stockpile/playlists/アイドルヘル.jpg",
+    "5.1 — images stockpile/playlists/Æ̷̛͈̃́̃͘ß̶̨̹̻̘̦̪̣̒̓̽͑͝œ̴͇̠̻̦͖̲͚͆̈̌͋̀͑̀ł̴͔͎̘̖̦̓̍́̈́ż̵̹͙̹̽͒̏̾ͅË̶͎̲̻͙͐͂̽̋̂͝.jpg",
+    "5.1 — images stockpile/playlists/you're miles away from me but we're still under the same sky.jpg",
+    "5.1 — images stockpile/playlists/yearning bading.jpg",
+    "5.1 — images stockpile/playlists/ya like jazz.jpg",
+    "5.1 — images stockpile/playlists/work fidget work code code fidget fidget code code fidget work.jpg",
+    "5.1 — images stockpile/playlists/who left the boombox on the sidewalk.jpg",
+    "5.1 — images stockpile/journals/4th journal (2023)",
+    "5.1 — images stockpile/journals/3rd journal (2019, 2020, 2021, 2022)",
+    "5.1 — images stockpile/art/2023",
+    "5.1 — images stockpile/art/2014",
+    "5.1 — images stockpile/art/2013",
     "5.9 — bases/all my playlists.base",
-    "5.5 — galleries/3rd journal gallery.md",
-    "5.8 — database/playlists/the angel and the devil—secretly they get along.md",
-    "3.0 — tags/devil.md",
-    "3.0 — tags/angel.md",
-    "5.1 — images stockpile/playlists/the angel and the devil—secretly they get along.jpg",
-    "5.8 — database/playlists/gusto ko na mag-banda tangina.md",
-    "5.8 — database/playlists/we're still underwater.md",
-    "5.8 — database/playlists/LSA. the longass song awards.md",
-    "5.8 — database/playlists/bonnie&marcy.md",
-    "5.8 — database/playlists/another painting in a museum to admire.md",
-    "5.1 — images stockpile/playlists/LSA. the longass song awards.jpg",
-    "5.1 — images stockpile/playlists/bonnie&marcy.jpg",
-    "5.1 — images stockpile/playlists/gusto ko na mag-banda tangina.jpg",
-    "3.0 — tags/aquatic.md",
-    "5.1 — images stockpile/playlists/we're still underwater.jpg",
-    "5.8 — database/playlists/is there even a god at this point.md",
-    "3.0 — tags/agnosticism.md",
-    "5.1 — images stockpile/playlists/is there even a god at this point.jpg",
-    "5.8 — database/playlists/accents with songs.md",
-    "5.1 — images stockpile/playlists/accents with songs.jpg",
-    "5.8 — database/playlists/lyricism done right.md",
-    "3.0 — tags/lyricism.md",
-    "3.0 — tags/lyrics.md",
-    "5.1 — images stockpile/playlists/lyricism done right.jpg",
-    "5.8 — database/playlists/get a load of this simp.md",
-    "5.1 — images stockpile/playlists/get a load of this simp.png",
-    "5.8 — database/playlists/they're just talking.md",
-    "3.0 — tags/communication.md",
-    "5.1 — images stockpile/playlists/they're just talking.jpg",
-    "5.8 — database/playlists/the feminine urge to let out a visceral scream.md",
-    "5.8 — database/playlists/virāgō.md",
-    "5.8 — database/playlists/pov. you never really had the best relationship with your family.md",
-    "5.8 — database/playlists/people. what a bunch of bastards..md",
-    "5.8 — database/playlists/to all the daydreamers, wishful thinkers, and escapists.md",
-    "5.9 — bases/albums i listened to.base",
-    "5.9 — bases/songs the complete list.base",
-    "5.8 — database/songs",
-    "5.8 — database/playlists",
-    "5.1 — images stockpile/notes/2021",
-    "1.2 — life data/journaling/dream journal",
-    "1.2 — life data/journaling/2025",
-    "1.2 — life data/journaling/2024",
-    "1.2 — life data/journaling/2023"
+    "5.9 — bases/albums i listened to.base"
   ]
 }
