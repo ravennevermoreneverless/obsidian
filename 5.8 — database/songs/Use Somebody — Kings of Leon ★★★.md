@@ -1,5 +1,5 @@
 ---
-songTitle: Use Somebody
+title: Use Somebody — Kings of Leon ★★★
 artist: Kings of Leon
 minutes: "3"
 seconds: "51"

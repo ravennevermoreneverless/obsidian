@@ -1,5 +1,5 @@
 ---
-songTitle: I Wish You Were A Girl
+title: I Wish You Were A Girl — 12 RODS ★★★★★
 artist: 12 RODS
 minutes: "5"
 seconds: "37"

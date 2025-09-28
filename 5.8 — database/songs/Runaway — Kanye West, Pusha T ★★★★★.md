@@ -1,5 +1,5 @@
 ---
-songTitle: Runaway
+title: Runaway — Kanye West, Pusha T ★★★★★
 artist: Kanye West, Pusha T
 minutes: "9"
 seconds: "7"

@@ -1,5 +1,5 @@
 ---
-songTitle: Far from Home
+title: Far from Home — Deer Watching ★★★
 artist: Deer Watching
 minutes: "4"
 seconds: "4"

@@ -1,4 +1,5 @@
 ---
+title: Devotion
 typeofRelease: LP
 artist: Beach House
 dateReleased: 2008-02-26

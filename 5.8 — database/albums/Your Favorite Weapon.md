@@ -1,4 +1,5 @@
 ---
+title: Your Favorite Weapon
 typeofRelease: LP
 artist: Brand New
 dateReleased: 2001-10-09

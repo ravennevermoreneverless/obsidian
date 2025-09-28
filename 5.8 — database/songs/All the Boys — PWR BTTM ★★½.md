@@ -1,5 +1,5 @@
 ---
-songTitle: All the Boys
+title: All the Boys — PWR BTTM ★★½
 artist: PWR BTTM
 minutes: "2"
 seconds: "25"

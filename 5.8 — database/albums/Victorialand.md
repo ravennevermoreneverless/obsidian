@@ -1,4 +1,5 @@
 ---
+title: Victorialand
 typeofRelease: LP
 artist: Cocteau Twins
 dateReleased: 1986-04-14

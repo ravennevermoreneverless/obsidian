@@ -1,5 +1,5 @@
 ---
-songTitle: Two Girls Kissing
+title: Two Girls Kissing — Swirlies ★★★
 artist: Swirlies
 minutes: "6"
 seconds: "3"

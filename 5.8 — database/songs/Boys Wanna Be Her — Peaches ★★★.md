@@ -1,5 +1,5 @@
 ---
-songTitle: Boys Wanna Be Her
+title: Boys Wanna Be Her — Peaches ★★★
 artist: Peaches
 minutes: "3"
 seconds: "55"

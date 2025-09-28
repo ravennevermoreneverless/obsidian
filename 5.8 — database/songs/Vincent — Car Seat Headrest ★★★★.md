@@ -1,5 +1,5 @@
 ---
-songTitle: Vincent
+title: Vincent — Car Seat Headrest ★★★★
 artist: Car Seat Headrest
 minutes: "7"
 seconds: "45"

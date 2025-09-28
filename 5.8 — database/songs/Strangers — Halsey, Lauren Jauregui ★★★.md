@@ -1,5 +1,5 @@
 ---
-songTitle: Strangers
+title: Strangers — Halsey, Lauren Jauregui ★★★
 artist: Halsey, Lauren Jauregui
 minutes: "3"
 seconds: "41"

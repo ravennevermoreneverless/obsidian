@@ -1,4 +1,5 @@
 ---
+title: "Isn't Anything"
 typeofRelease: LP
 artist: My Bloody Valentine
 dateReleased: 1988-11-21

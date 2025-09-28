@@ -1,5 +1,5 @@
 ---
-songTitle: Better Than Me
+title: Better Than Me — The Brobecks ★★★
 artist: The Brobecks
 minutes: "4"
 seconds: "26"

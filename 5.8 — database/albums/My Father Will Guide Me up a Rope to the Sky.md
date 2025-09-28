@@ -1,4 +1,5 @@
 ---
+title: My Father Will Guide Me up a Rope to the Sky
 typeofRelease: LP
 artist: Swans
 dateReleased: 2010-09-21

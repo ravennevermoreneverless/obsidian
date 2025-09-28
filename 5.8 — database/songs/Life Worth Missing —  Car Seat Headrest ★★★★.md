@@ -1,5 +1,5 @@
 ---
-songTitle: Life Worth Missing
+title: Life Worth Missing —  Car Seat Headrest ★★★★
 artist: Car Seat Headrest
 minutes: "4"
 seconds: "53"

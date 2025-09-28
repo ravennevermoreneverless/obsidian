@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: films (general)
+    filters:
+      and:
+        - "!dateWatched.isEmpty()"
+    image: note.image

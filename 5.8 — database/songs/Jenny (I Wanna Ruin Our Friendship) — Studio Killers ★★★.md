@@ -1,5 +1,5 @@
 ---
-songTitle: Jenny (I Wanna Ruin Our Friendship)
+title: Jenny (I Wanna Ruin Our Friendship) — Studio Killers ★★★
 artist: Studio Killers
 minutes: "3"
 seconds: "35"

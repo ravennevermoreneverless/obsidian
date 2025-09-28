@@ -1,5 +1,5 @@
 ---
-songTitle: Girl Crush
+title: Girl Crush — Little Big Town ★★½
 artist: Little Big Town
 minutes: "3"
 seconds: "12"

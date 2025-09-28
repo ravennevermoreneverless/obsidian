@@ -1,5 +1,5 @@
 ---
-songTitle: Johanna
+title: Johanna — Suki Waterhouse ★★★½
 artist: Suki Waterhouse
 minutes: "2"
 seconds: "36"

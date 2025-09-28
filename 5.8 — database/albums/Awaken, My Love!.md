@@ -1,4 +1,5 @@
 ---
+title: Awaken, My Love!
 typeofRelease: LP
 artist: Childish Gambino
 dateReleased: 2016-12-02

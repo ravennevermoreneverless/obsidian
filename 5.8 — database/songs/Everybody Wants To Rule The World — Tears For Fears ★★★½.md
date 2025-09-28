@@ -1,5 +1,5 @@
 ---
-songTitle: Everybody Wants To Rule The World
+title: Everybody Wants To Rule The World — Tears For Fears ★★★½
 artist: Tears For Fears
 minutes: "4"
 seconds: "11"

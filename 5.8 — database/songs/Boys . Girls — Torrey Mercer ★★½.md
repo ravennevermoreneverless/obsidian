@@ -1,5 +1,5 @@
 ---
-songTitle: Boys / Girls
+title: Boys . Girls — Torrey Mercer ★★½
 artist: Torrey Mercer
 minutes: "3"
 seconds: "19"

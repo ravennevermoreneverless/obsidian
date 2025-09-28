@@ -1,4 +1,5 @@
 ---
+title: Ghosts VI, Locusts
 typeofRelease: LP
 artist: Nine Inch Nails
 dateReleased: 2020-03-26

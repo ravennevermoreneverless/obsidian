@@ -1,5 +1,5 @@
 ---
-songTitle: Not My Baby
+title: Not My Baby — Alvvays ★★★½
 artist: Alvvays
 minutes: "4"
 seconds: "16"

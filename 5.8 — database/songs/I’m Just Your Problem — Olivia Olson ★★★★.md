@@ -1,5 +1,5 @@
 ---
-songTitle: I'm Just Your Problem
+title: I’m Just Your Problem — Olivia Olson ★★★★
 artist: Olivia Olson
 minutes: "1"
 seconds: "56"

@@ -1,5 +1,5 @@
 ---
-songTitle: Bullet Proof..I Wish I Was
+title: Bullet Proof..I Wish I Was — Radiohead ★★★½
 artist: Radiohead
 minutes: "3"
 seconds: "29"

@@ -1,4 +1,5 @@
 ---
+title: Once Twice Melody
 typeofRelease: EP
 artist: Beach House
 dateReleased: 2021-11-10

@@ -1,5 +1,5 @@
 ---
-songTitle: Mercury
+title: Mercury — Glaze ★★★½
 artist: Glaze
 minutes: "2"
 seconds: "35"

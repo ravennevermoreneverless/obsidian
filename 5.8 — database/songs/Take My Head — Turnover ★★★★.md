@@ -1,5 +1,5 @@
 ---
-songTitle: Take My Head
+title: Take My Head — Turnover ★★★★
 artist: Turnover
 minutes: "3"
 seconds: "13"

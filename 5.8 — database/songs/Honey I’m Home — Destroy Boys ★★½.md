@@ -1,5 +1,5 @@
 ---
-songTitle: Honey I’m Home
+title: Honey I’m Home — Destroy Boys ★★½
 artist: Destroy Boys
 minutes: "3"
 seconds: "13"

@@ -1,4 +1,5 @@
 ---
+title: Kauai
 typeofRelease: EP
 artist: Childish Gambino
 dateReleased: 2014-10-03

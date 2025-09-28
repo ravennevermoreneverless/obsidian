@@ -1,5 +1,5 @@
 ---
-songTitle: TOMBOY
+title: TOMBOY — HYUKOH ★★★½
 artist: HYUKOH
 minutes: "4"
 seconds: "1"

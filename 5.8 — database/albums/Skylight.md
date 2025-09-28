@@ -1,4 +1,5 @@
 ---
+title: Skylight
 typeofRelease: LP
 artist: Pinegrove
 dateReleased: 2018-09-28

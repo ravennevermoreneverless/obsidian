@@ -1,4 +1,5 @@
 ---
+title: Tiny Dynamine
 typeofRelease: EP
 artist:
 dateReleased: 1985-11-15

@@ -1,4 +1,5 @@
 ---
+title: To Be Kind
 typeofRelease: LP
 artist: Swans
 dateReleased: 2014-05-13

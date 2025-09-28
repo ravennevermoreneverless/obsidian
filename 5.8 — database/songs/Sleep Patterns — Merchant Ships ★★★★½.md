@@ -1,5 +1,5 @@
 ---
-songTitle: Sleep Patterns
+title: Sleep Patterns — Merchant Ships ★★★★½
 artist: Merchant Ships
 minutes: "3"
 seconds: "17"

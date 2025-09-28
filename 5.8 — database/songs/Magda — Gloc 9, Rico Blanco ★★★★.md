@@ -1,5 +1,5 @@
 ---
-songTitle: Magda
+title: Magda — Gloc 9, Rico Blanco ★★★★
 artist: Gloc 9, Rico Blanco
 minutes: "5"
 seconds: "20"

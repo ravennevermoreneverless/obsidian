@@ -1,4 +1,5 @@
 ---
+title: Heaven or Las Vegas
 typeofRelease: LP
 artist: Cocteau Twins
 dateReleased: 1990-09-17

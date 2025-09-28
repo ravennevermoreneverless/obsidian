@@ -1,4 +1,5 @@
 ---
+title: EP2
 typeofRelease: EP
 artist: FKA twigs
 dateReleased: 2013-09-17

@@ -1,5 +1,5 @@
 ---
-songTitle: Fluorescent Adolescent
+title: Fluorescent Adolescent — Arctic Monkeys ★★★
 artist: Arctic Monkeys
 minutes: "3"
 seconds: "3"

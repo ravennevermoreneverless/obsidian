@@ -1,5 +1,5 @@
 ---
-songTitle: Runaway
+title: Runaway — Jack Stauber ★★★★
 artist: Jack Stauber
 minutes: "4"
 seconds: "49"

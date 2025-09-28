@@ -1,5 +1,5 @@
 ---
-songTitle: Sick of Losing Soulmates
+title: Sick of Losing Soulmates — dodie ★★★★
 artist: dodie
 minutes: "4"
 seconds: "27"

@@ -1,5 +1,5 @@
 ---
-songTitle: 104 Degrees
+title: 104 Degrees — Slaughter Beach, Dog ★★★½
 artist: Slaughter Beach, Dog
 minutes: "2"
 seconds: "39"

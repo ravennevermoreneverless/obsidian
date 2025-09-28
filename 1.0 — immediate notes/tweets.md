@@ -249,7 +249,7 @@ i beat the shit out of myself in my mind everytime i forget a crucial fact about
 --
 ==i will always grieve for the infinite lives i didn't choose but i won't ever regret this one life i chose==
 --
-am i stupid or do i just need a lot of time to think about things first before settling with a thought or am i actually stupid
+==am i stupid or do i just need a lot of time to think about things first before settling with a thought or am i actually stupid==
 --
 being content doesn't necessarily mean the future doesn't matter. it's that whether you have a tomorrow or not, whatever happens today should be enough.
 --

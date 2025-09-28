@@ -1,4 +1,5 @@
 ---
+title: Music Has the Right to Children
 artist: Boards of Canada
 dateReleased: 1998-04-20
 primaryMusicGenre:

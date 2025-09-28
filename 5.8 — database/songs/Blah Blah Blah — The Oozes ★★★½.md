@@ -1,5 +1,5 @@
 ---
-songTitle: Blah Blah Blah
+title: Blah Blah Blah — The Oozes ★★★½
 artist: The Oozes
 minutes: "3"
 seconds: "52"

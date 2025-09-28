@@ -1,5 +1,5 @@
 ---
-songTitle: Mystery of Love
+title: Mystery of Love — Sufjan Stevens ★★★½
 artist: Sufjan Stevens
 minutes: "4"
 seconds: "8"

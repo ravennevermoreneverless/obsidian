@@ -1,5 +1,5 @@
 ---
-songTitle: Do I Wanna Know?
+title: Do I Wanna Know — Arctic Monkeys ★★★
 artist: Arctic Monkeys
 minutes: "4"
 seconds: "33"

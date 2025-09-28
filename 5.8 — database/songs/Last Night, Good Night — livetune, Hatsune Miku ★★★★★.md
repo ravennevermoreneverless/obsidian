@@ -1,5 +1,5 @@
 ---
-songTitle: Last Night, Good Night
+title: Last Night, Good Night — livetune, Hatsune Miku ★★★★★
 artist: livetune, Hatsune Miku
 minutes: "6"
 seconds: "22"

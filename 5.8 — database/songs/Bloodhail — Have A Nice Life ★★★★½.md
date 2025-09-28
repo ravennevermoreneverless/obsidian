@@ -1,5 +1,5 @@
 ---
-songTitle: Bloodhail
+title: Bloodhail — Have A Nice Life ★★★★½
 artist: Have A Nice Life
 minutes: "5"
 seconds: "37"

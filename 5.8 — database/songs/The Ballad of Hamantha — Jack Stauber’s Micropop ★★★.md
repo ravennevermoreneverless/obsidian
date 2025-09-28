@@ -1,5 +1,5 @@
 ---
-songTitle: The Ballad of Hamantha
+title: The Ballad of Hamantha — Jack Stauber’s Micropop ★★★
 artist: Jack Stauber’s Micropop
 minutes: "5"
 seconds: "53"

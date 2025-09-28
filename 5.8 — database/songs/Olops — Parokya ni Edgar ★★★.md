@@ -1,5 +1,5 @@
 ---
-songTitle: Olops
+title: Olops — Parokya ni Edgar ★★★
 artist: Parokya ni Edgar
 minutes: "1"
 seconds: "39"

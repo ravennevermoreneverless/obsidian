@@ -1,5 +1,5 @@
 ---
-songTitle: When a Man Is in Love With a Man
+title: When a Man Is in Love With a Man — of Montreal ★★½
 artist: of Montreal
 minutes: "2"
 seconds: "22"

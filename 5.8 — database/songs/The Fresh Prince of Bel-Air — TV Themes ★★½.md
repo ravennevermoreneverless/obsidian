@@ -1,5 +1,5 @@
 ---
-songTitle: The Fresh Prince of Bel-Air
+title: The Fresh Prince of Bel-Air — TV Themes ★★½
 artist: TV Themes
 minutes: "1"
 seconds: "17"

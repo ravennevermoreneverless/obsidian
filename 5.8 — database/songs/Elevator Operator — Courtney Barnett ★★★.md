@@ -1,5 +1,5 @@
 ---
-songTitle: Elevator Operator
+title: Elevator Operator — Courtney Barnett ★★★
 artist: Courtney Barnett
 minutes: "3"
 seconds: "15"

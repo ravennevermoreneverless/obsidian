@@ -1,4 +1,5 @@
 ---
+title: Lullabies
 typeofRelease: EP
 artist: Cocteau Twins
 dateReleased: 1982-10-01

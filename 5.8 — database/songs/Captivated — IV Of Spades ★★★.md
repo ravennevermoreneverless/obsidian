@@ -1,5 +1,5 @@
 ---
-songTitle: Captivated
+title: Captivated — IV Of Spades ★★★
 artist: IV Of Spades
 minutes: "3"
 seconds: "37"

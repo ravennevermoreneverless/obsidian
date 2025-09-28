@@ -1,4 +1,5 @@
 ---
+title: LP1
 typeofRelease: LP
 artist: FKA twigs
 dateReleased: 2014-08-11

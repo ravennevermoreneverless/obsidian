@@ -1,5 +1,5 @@
 ---
-songTitle: I Wanna Be Your Girlfriend
+title: I Wanna Be Your Girlfriend — Ezra Furman ★★★
 artist: Ezra Furman
 minutes: "3"
 seconds: "29"

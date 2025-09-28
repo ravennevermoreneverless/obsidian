@@ -1,5 +1,5 @@
 ---
-songTitle: 明日へ
+title: 明日へ Asu e (For Tomorrow) — Galileo Galilei ★★★★
 artist: Galileo Galilei
 minutes: "5"
 seconds: "18"

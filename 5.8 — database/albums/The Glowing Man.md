@@ -1,4 +1,5 @@
 ---
+title: The Glowing Man
 typeofRelease: LP
 artist: Swans
 dateReleased: 2016-06-17

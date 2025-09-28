@@ -1,5 +1,5 @@
 ---
-songTitle: Bente
+title: Bente — BLKD ★★★½
 artist: BLKD
 minutes: "2"
 seconds: "50"

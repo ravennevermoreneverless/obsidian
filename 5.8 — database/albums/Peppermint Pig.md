@@ -1,4 +1,5 @@
 ---
+title: Peppermint Pig
 typeofRelease: EP
 artist: Cocteau Twins
 dateReleased: 1983-04-04

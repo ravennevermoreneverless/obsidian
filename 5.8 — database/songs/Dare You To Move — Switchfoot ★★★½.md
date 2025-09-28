@@ -1,5 +1,5 @@
 ---
-songTitle: Dare You To Move
+title: Dare You To Move — Switchfoot ★★★½
 artist: Switchfoot
 minutes: "4"
 seconds: "7"

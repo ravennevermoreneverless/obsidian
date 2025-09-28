@@ -1,5 +1,5 @@
 ---
-songTitle: Curious
+title: Curious — Hayley Kiyoko ★★★½
 artist: Hayley Kiyoko
 minutes: "3"
 seconds: "3"

@@ -1,5 +1,5 @@
 ---
-songTitle: Redbone
+title: Redbone — Childish Gambino ★★★★
 artist: Childish Gambino
 minutes: "5"
 seconds: "27"

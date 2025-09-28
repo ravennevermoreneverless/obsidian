@@ -1,4 +1,5 @@
 ---
+title: Garlands
 typeofRelease: LP
 artist: Cocteau Twins
 dateReleased: 1982-07-18

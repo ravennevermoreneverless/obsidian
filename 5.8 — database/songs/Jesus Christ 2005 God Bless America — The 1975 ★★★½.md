@@ -1,5 +1,5 @@
 ---
-songTitle: Jesus Christ 2005 God Bless America
+title: Jesus Christ 2005 God Bless America — The 1975 ★★★½
 artist: The 1975
 minutes: "4"
 seconds: "24"

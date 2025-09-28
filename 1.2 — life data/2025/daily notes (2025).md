@@ -500,3 +500,11 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==21 (Sun) — 21:55== I thought we'll move houses today but we didn't, we just ended up packing things up again—and it rained heavily. I gained $5 from HeyCash for answering surveys. We ate soup and biscuits and bread for most of the day. Chai made me guess some songs on my Spotify. 
 
 ==22 (Mon) — 22:34== I just spent most of my day converting my playlists to bases. Chai and I cleaned the cupboards in the other house. It was raining pretty hard. We ate adobo and oatmeal. I practiced kanji. Then we stayed outside the house in the corridors watching the rain and her showing me photos in her gallery. I got overstimulated that I fell asleep while watching ASMR. 
+
+==24 (Wed) — 23:59== I studied Japanese for a bit. I washed the dishes thrice today and cooked rice. I was editing my Evangelion overview on Obsidian. Chai and I looked through my Google Drive photos and came across some stuff. We walked outside for a bit, I got nauseous and dizzy after she stepped and scratched her foot on some styrofoam so we went back home. We went to Linear park and she took photos by 8 PM. 
+
+==25 (Thu) — 23:59== I studied Japanese for most of the day (and did chores) but I focused on making my Obsidian databases. I'm literally obsessed with organizing. We went downstairs and outside with Cheesecake. Chai and I also went to Puregold to buy ingredients for her dinner, then we cooked. I was kinda out of it during the evening but I watched ***GANTZ:O*** (2016) for immersion and Chai watched ***She's Dating the Gangster***. 
+
+==27 (Sat) — 01:29== I woke up around 1 PM, I was very sleepy. So, I studied Japanese later until 7:30 PM. I fucked up by forgetting to place the rice in the fridge the night before, but good thing it's not spoiled yet. Chai and I showered, to my contempt. We watched ***The Wailing*** and had a discussion about it until 1 AM.
+
+==27 (Sat) — 22:56== I was so sleepy in the morning but I managed to get to Chapter 5 of the grammar points in 元気 I. Until I had to do chores and stuff because we're moving houses tomorrow. Chai and I went to the other house by 7:30 PM, we cleaned the walls of each room, then went home. Chai and I showered, the last shower. 

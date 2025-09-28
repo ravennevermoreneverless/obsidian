@@ -1,5 +1,5 @@
 ---
-songTitle: King Park
+title: King Park — La Dispute ★★★★
 artist: La Dispute
 minutes: "6"
 seconds: "54"

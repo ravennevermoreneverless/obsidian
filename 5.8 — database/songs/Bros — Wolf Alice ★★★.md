@@ -1,5 +1,5 @@
 ---
-songTitle: Bros
+title: Bros — Wolf Alice ★★★
 artist: Wolf Alice
 minutes: "3"
 seconds: "45"

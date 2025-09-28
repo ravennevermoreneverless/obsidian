@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("task")
+    order:
+      - file.name
+      - scheduled
+      - due
+      - priority
+      - recurrence
+      - status
+      - timeEntries
+      - timeEstimate

@@ -1,5 +1,5 @@
 ---
-songTitle: Milky Way
+title: Milky Way — GGK(Vo. Madison McFerrin) ★★★★★
 artist: GGK(Vo. Madison McFerrin)
 minutes: "3"
 seconds: "27"

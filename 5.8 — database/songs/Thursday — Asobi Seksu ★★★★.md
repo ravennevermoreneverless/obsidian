@@ -1,5 +1,5 @@
 ---
-songTitle: Thursday
+title: Thursday — Asobi Seksu ★★★★
 artist: Asobi Seksu
 minutes: "4"
 seconds: "17"

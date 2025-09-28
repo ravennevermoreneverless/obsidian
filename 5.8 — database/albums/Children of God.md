@@ -1,4 +1,5 @@
 ---
+title: Children of God
 typeofRelease: LP
 artist: Swans
 dateReleased: 1987-10-19

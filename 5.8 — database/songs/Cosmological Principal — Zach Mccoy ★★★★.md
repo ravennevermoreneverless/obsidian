@@ -1,5 +1,5 @@
 ---
-songTitle: Cosmological Principal
+title: Cosmological Principal — Zach Mccoy ★★★★
 artist: Zach Mccoy
 minutes: "7"
 seconds: "1"

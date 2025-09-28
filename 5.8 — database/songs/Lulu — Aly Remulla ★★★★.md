@@ -1,5 +1,5 @@
 ---
-songTitle: Lulu
+title: Lulu — Aly Remulla ★★★★
 artist: Aly Remulla
 minutes: "2"
 seconds: "18"

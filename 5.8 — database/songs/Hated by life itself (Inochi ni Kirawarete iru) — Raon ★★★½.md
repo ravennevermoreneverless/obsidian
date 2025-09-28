@@ -1,5 +1,5 @@
 ---
-songTitle: Hated by life itself (Inochi ni Kirawarete iru)
+title: Hated by life itself (Inochi ni Kirawarete iru) — Raon ★★★½
 artist: Raon
 minutes: "4"
 seconds: "34"

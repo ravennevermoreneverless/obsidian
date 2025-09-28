@@ -1,5 +1,5 @@
 ---
-songTitle: Girls
+title: Girls — Beatrice Eli ★★★½
 artist: Beatrice Eli
 minutes: "3"
 seconds:

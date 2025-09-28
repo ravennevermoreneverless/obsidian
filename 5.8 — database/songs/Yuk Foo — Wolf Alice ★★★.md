@@ -1,5 +1,5 @@
 ---
-songTitle: Yuk Foo
+title: Yuk Foo — Wolf Alice ★★★
 artist: Wolf Alice
 minutes: "2"
 seconds: "13"

@@ -1,5 +1,5 @@
 ---
-songTitle: Take a Bow
+title: Take a Bow — Muse ★★★★
 artist: Muse
 minutes: "4"
 seconds: "35"

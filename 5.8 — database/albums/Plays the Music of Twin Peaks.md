@@ -1,4 +1,5 @@
 ---
+title: Plays the Music of Twin Peaks
 typeofRelease: LP
 artist: Xiu Xiu
 dateReleased: 2016-04-16

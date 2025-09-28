@@ -1,5 +1,5 @@
 ---
-songTitle: Baba O'Riley
+title: Baba O’Riley — The Who ★★★
 artist: The Who
 minutes: "4"
 seconds: "27"

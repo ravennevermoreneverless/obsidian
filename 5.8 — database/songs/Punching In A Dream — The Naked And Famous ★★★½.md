@@ -1,5 +1,5 @@
 ---
-songTitle: Punching In A Dream
+title: Punching In A Dream — The Naked And Famous ★★★½
 artist: The Naked And Famous
 minutes: "3"
 seconds: "33"

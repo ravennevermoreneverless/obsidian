@@ -1,5 +1,5 @@
 ---
-songTitle: Your Graduation
+title: Your Graduation — Modern Baseball ★★★★
 artist: Modern Baseball
 minutes: "2"
 seconds: "43"

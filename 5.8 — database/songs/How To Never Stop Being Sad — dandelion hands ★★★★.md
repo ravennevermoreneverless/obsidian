@@ -1,5 +1,5 @@
 ---
-songTitle: How To Never Stop Being Sad
+title: How To Never Stop Being Sad — dandelion hands ★★★★
 artist: dandelion hands
 minutes: "2"
 seconds: "10"

@@ -1,5 +1,5 @@
 ---
-songTitle: Gravity
+title: Gravity — John Mayer ★★★★
 artist: John Mayer
 minutes: "4"
 seconds: "5"

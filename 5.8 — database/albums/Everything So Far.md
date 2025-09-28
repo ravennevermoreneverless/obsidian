@@ -1,4 +1,5 @@
 ---
+title: Everything So Far
 typeofRelease: Compilation
 artist: Pinegrove
 dateReleased: 2015-11-20

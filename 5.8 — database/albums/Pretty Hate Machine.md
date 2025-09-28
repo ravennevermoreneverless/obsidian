@@ -1,4 +1,5 @@
 ---
+title: Pretty Hate Machine
 typeofRelease: LP
 artist: Nine Inch Nails
 dateReleased: 1989-10-20

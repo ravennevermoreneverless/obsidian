@@ -1,5 +1,5 @@
 ---
-songTitle: Youth
+title: Youth — Daughter ★★★½
 artist: Daughter
 minutes: "4"
 seconds: "13"

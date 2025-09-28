@@ -1,4 +1,5 @@
 ---
+title: Magdalene
 typeofRelease: LP
 artist: FKA twigs
 dateReleased: 2019-11-08

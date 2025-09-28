@@ -1,5 +1,5 @@
 ---
-songTitle: I Didn’t Just Kiss Her
+title: I Didn’t Just Kiss Her — Jen Foster ★★½
 artist: Jen Foster
 minutes: "3"
 seconds: "1"

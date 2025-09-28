@@ -1,5 +1,5 @@
 ---
-songTitle: Smells Like Teen Spirit
+title: Smells Like Teen Spirit — Nirvana ★★★★
 artist: Nirvana
 minutes: "5"
 seconds: "1"

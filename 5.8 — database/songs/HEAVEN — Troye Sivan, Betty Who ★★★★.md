@@ -1,5 +1,5 @@
 ---
-songTitle: HEAVEN
+title: HEAVEN — Troye Sivan, Betty Who ★★★★
 artist: Troye Sivan, Betty Who
 minutes: "4"
 seconds: "21"

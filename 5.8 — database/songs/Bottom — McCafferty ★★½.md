@@ -1,5 +1,5 @@
 ---
-songTitle: Bottom
+title: Bottom — McCafferty ★★½
 artist: McCafferty
 minutes: "3"
 seconds: "45"

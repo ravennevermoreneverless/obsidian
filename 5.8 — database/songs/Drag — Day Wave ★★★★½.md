@@ -1,5 +1,5 @@
 ---
-songTitle: Drag
+title: Drag — Day Wave ★★★★½
 artist: Day Wave
 minutes: "3"
 seconds: "8"

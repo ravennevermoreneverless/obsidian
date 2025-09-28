@@ -1,5 +1,5 @@
 ---
-songTitle: Stan
+title: Stan — Eminem, Dido ★★★★
 artist: Eminem, Dido
 minutes: "5"
 seconds: "33"

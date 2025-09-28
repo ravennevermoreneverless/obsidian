@@ -1,5 +1,5 @@
 ---
-songTitle: 青い血
+title: 青い血 Aoi Chi (Blue Blood) — Galileo Galilei ★★★½
 artist: Galileo Galilei
 minutes: "5"
 seconds: "21"

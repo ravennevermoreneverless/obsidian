@@ -1,4 +1,5 @@
 ---
+title: The New Record by My Bloody Valentine
 typeofRelease: EP
 artist: My Bloody Valentine
 dateReleased:

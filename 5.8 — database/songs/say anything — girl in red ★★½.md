@@ -1,5 +1,5 @@
 ---
-songTitle: say anything
+title: say anything — girl in red ★★½
 artist: girl in red
 minutes: "2"
 seconds: "22"

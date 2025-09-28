@@ -1,5 +1,5 @@
 ---
-songTitle: Dance with the Devil
+title: Dance with the Devil — Immortal Technique ★★★½
 artist: Immortal Technique
 minutes: "9"
 seconds: "39"

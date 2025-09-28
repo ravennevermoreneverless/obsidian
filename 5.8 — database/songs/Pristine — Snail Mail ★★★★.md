@@ -1,5 +1,5 @@
 ---
-songTitle: Pristine
+title: Pristine — Snail Mail ★★★★
 artist: Snail Mail
 minutes: "4"
 seconds: "55"

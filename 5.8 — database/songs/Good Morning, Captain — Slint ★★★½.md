@@ -1,5 +1,5 @@
 ---
-songTitle: Good Morning, Captain
+title: Good Morning, Captain — Slint ★★★½
 artist: Slint
 minutes: "7"
 seconds: "39"

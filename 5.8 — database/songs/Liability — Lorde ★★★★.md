@@ -1,5 +1,5 @@
 ---
-songTitle: Liability
+title: Liability — Lorde ★★★★
 artist: Lorde
 minutes: "2"
 seconds: "51"

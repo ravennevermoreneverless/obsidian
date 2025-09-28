@@ -1,4 +1,5 @@
 ---
+title: Déjà entendu
 typeofRelease: LP
 artist: Brand New
 dateReleased: 2003-06-17

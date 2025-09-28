@@ -1,5 +1,5 @@
 ---
-songTitle: i wanna be your girlfriend
+title: i wanna be your girlfriend — girl in red ★★★
 artist: girl in red
 minutes: "3"
 seconds: "24"

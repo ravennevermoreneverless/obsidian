@@ -1,5 +1,5 @@
 ---
-songTitle: Yoake
+title: Yoake — Hello Sleepwalkers ★★★½
 artist: Hello Sleepwalkers
 minutes: "6"
 seconds: "57"

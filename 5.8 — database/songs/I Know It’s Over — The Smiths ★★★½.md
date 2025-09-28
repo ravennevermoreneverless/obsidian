@@ -1,5 +1,5 @@
 ---
-songTitle: I Know It’s Over
+title: I Know It’s Over — The Smiths ★★★½
 artist: The Smiths
 minutes: "5"
 seconds: "49"

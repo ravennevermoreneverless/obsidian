@@ -1,5 +1,5 @@
 ---
-songTitle: I Want To Be With You
+title: I Want To Be With You — chloe moriondo ★★★½
 artist: chloe moriondo
 minutes: "2"
 seconds: "58"

@@ -1,4 +1,5 @@
 ---
+title: Aikea-Guinea
 typeofRelease: EP
 artist: Cocteau Twins
 dateReleased: 1985-03-04

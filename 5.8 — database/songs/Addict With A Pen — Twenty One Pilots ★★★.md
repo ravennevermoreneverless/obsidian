@@ -1,5 +1,5 @@
 ---
-songTitle: Addict With A Pen
+title: Addict With A Pen — Twenty One Pilots ★★★
 artist: Twenty One Pilots
 minutes: "4"
 seconds: "46"

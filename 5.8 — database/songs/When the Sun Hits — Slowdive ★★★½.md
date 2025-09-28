@@ -1,5 +1,5 @@
 ---
-songTitle: When the Sun Hits
+title: When the Sun Hits — Slowdive ★★★½
 artist: Slowdive
 minutes: "4"
 seconds: "47"

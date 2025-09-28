@@ -1,4 +1,5 @@
 ---
+title: The Seer
 typeofRelease: LP
 artist: Swans
 dateReleased: 2012-08-28

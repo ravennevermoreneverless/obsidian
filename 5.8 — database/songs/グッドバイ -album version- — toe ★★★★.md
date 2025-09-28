@@ -1,5 +1,5 @@
 ---
-songTitle: グッドバイ -album version-
+title: グッドバイ -album version- — toe ★★★★
 artist: toe
 minutes: "7"
 seconds: "5"

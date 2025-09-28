@@ -1,5 +1,5 @@
 ---
-songTitle: The First Big Weekend
+title: The First Big Weekend — Arab Strap ★★★
 artist: Arab Strap
 minutes: "4"
 seconds: "52"

@@ -1,4 +1,5 @@
 ---
+title: Bad Witch
 typeofRelease: LP
 artist: Nine Inch Nails
 dateReleased: 2018-06-22

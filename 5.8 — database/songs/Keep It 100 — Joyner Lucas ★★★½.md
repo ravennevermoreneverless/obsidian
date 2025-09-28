@@ -1,5 +1,5 @@
 ---
-songTitle: Keep It 100
+title: Keep It 100 — Joyner Lucas ★★★½
 artist: Joyner Lucas
 minutes: "6"
 seconds: "57"

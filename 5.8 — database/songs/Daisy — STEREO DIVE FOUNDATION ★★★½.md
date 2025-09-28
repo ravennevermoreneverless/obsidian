@@ -1,5 +1,5 @@
 ---
-songTitle: Daisy
+title: Daisy — STEREO DIVE FOUNDATION ★★★½
 artist: STEREO DIVE FOUNDATION
 minutes: "4"
 seconds: "34"

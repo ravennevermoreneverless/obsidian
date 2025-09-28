@@ -18,8 +18,7 @@ views:
       and:
         - file.inFolder("5.8 — database/albums")
     order:
-      - file.name
-      - typeofRelease
+      - title
       - artist
       - dateReleased
       - primaryMusicGenre
@@ -29,42 +28,18 @@ views:
       - rating
       - image
       - complete_instances
+      - typeofRelease
     sort:
-      - property: dateListened
-        direction: ASC
+      - property: file.ctime
+        direction: DESC
     columnSize:
-      file.name: 188
+      note.typeofRelease: 102
+      note.title: 298
       note.artist: 200
       note.primaryMusicGenre: 243
       note.secondaryMusicGenre: 297
       note.dateListened: 94
       note.language: 113
-      note.typeofRelease: 102
     image: note.image
     cardSize: 120
     imageAspectRatio: 1
-  - type: cards
-    name: "2022"
-    filters:
-      and:
-        - file.inFolder("5.8 — database/albums")
-        - dateListened >= "2022-01-01"
-        - dateListened <= "2022-12-31"
-    order:
-      - file.name
-      - artist
-      - dateReleased
-      - musicGenre
-      - dateListened
-      - rating
-    sort:
-      - property: dateListened
-        direction: ASC
-    columnSize:
-      file.name: 290
-      note.artist: 200
-      note.dateReleased: 100
-      note.musicGenre: 360
-      note.dateListened: 94
-    image: note.image
-    cardSize: 140

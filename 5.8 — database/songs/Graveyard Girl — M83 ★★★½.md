@@ -1,5 +1,5 @@
 ---
-songTitle: Graveyard Girl
+title: Graveyard Girl — M83 ★★★½
 artist: M83
 minutes: "4"
 seconds: "53"

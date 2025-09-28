@@ -1,5 +1,5 @@
 ---
-songTitle: Zombie
+title: Zombie — The Cranberries ★★★★
 artist: The Cranberries
 minutes: "5"
 seconds: "5"

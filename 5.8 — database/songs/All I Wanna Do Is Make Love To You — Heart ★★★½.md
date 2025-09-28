@@ -1,5 +1,5 @@
 ---
-songTitle: All I Wanna Do Is Make Love To You
+title: All I Wanna Do Is Make Love To You — Heart ★★★½
 artist: Heart
 minutes: "4"
 seconds: "29"

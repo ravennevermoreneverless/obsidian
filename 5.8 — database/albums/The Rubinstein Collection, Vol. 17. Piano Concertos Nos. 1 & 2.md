@@ -1,4 +1,5 @@
 ---
+title: The Rubinstein Collection, Vol. 17. Piano Concertos Nos. 1 & 2
 typeofRelease: Compilation
 artist: Arthur Rubinstein; Alfred Wallenstein; William Steinberg, Frédéric Chopin
 dateReleased:

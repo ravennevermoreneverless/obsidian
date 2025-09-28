@@ -1,5 +1,5 @@
 ---
-songTitle: Barracuda
+title: Barracuda — Heart ★★★
 artist: Heart
 minutes: "4"
 seconds: "20"

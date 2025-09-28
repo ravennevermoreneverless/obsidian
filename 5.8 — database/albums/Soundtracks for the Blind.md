@@ -1,4 +1,5 @@
 ---
+title: Soundtracks for the Blind
 typeofRelease: LP
 artist: Swans
 dateReleased: 1996-10-22

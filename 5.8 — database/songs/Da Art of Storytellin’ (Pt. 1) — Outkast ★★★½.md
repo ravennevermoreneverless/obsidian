@@ -1,5 +1,5 @@
 ---
-songTitle: Da Art of Storytellin’ (Pt. 1)
+title: Da Art of Storytellin’ (Pt. 1) — Outkast ★★★½
 artist: Outkast
 minutes: "3"
 seconds: "43"

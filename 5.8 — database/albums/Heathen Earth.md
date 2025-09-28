@@ -1,4 +1,5 @@
 ---
+title: Heathen Earth
 typeofRelease: LP
 artist: Throbbing Gristle
 dateReleased:

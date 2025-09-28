@@ -1,4 +1,5 @@
 ---
+title: WHEE
 typeofRelease: EP
 artist: 휘인/Whee In
 dateReleased: 2022-01-16

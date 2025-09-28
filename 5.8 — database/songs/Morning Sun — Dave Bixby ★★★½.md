@@ -1,5 +1,5 @@
 ---
-songTitle: Morning Sun
+title: Morning Sun — Dave Bixby ★★★½
 artist: Dave Bixby
 minutes: "3"
 seconds: "31"

@@ -1,5 +1,5 @@
 ---
-songTitle: Pictures of You
+title: Pictures of You — The Cure ★★★★
 artist: The Cure
 minutes: "7"
 seconds: "28"

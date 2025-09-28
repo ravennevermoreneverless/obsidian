@@ -1,5 +1,5 @@
 ---
-songTitle: Pisces
+title: Pisces — Rebecka Reinhard ★★★½
 artist: Rebecka Reinhard
 minutes: "4"
 seconds: "13"

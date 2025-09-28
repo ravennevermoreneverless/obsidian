@@ -1,4 +1,5 @@
 ---
+title: Geogaddi
 artist: Boards of Canada
 dateReleased: 2002-02-18
 primaryMusicGenre:

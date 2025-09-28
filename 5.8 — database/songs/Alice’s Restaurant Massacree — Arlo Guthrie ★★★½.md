@@ -1,5 +1,5 @@
 ---
-songTitle: Alice’s Restaurant Massacree
+title: Alice’s Restaurant Massacree — Arlo Guthrie ★★★½
 artist: Arlo Guthrie
 minutes: "18"
 seconds: "20"

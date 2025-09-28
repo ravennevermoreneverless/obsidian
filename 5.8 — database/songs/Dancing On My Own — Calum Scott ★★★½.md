@@ -1,5 +1,5 @@
 ---
-songTitle: Dancing On My Own
+title: Dancing On My Own — Calum Scott ★★★½
 artist: Calum Scott
 minutes: "4"
 seconds: "20"

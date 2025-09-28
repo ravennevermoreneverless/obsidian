@@ -1,5 +1,5 @@
 ---
-songTitle: Supercut
+title: Supercut — Lorde ★★★★★
 artist: Lorde
 minutes: "4"
 seconds: "37"

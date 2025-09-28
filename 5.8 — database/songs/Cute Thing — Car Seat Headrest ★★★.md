@@ -1,5 +1,5 @@
 ---
-songTitle: Cute Thing
+title: Cute Thing — Car Seat Headrest ★★★
 artist: Car Seat Headrest
 minutes: "5"
 seconds: "21"

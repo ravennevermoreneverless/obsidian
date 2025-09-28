@@ -1,5 +1,5 @@
 ---
-songTitle: So Here We Are
+title: So Here We Are — Bloc Party ★★★½
 artist: Bloc Party
 minutes: "3"
 seconds: "52"

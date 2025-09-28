@@ -1,5 +1,5 @@
 ---
-songTitle: Silk Chiffon
+title: Silk Chiffon — MUNA, Phoebe Bridgers ★★★½
 artist: MUNA, Phoebe Bridgers
 minutes: "3"
 seconds: "27"

@@ -1,5 +1,5 @@
 ---
-songTitle: I'm Not In Love
+title: I’m Not In Love — 10cc ★★★
 artist: 10cc
 minutes: "6"
 seconds: "6"

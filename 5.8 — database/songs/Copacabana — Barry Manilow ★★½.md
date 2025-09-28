@@ -1,5 +1,5 @@
 ---
-songTitle: Copacabana
+title: Copacabana — Barry Manilow ★★½
 artist: Barry Manilow
 minutes: "3"
 seconds: "58"

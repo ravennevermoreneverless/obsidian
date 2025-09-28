@@ -1,5 +1,5 @@
 ---
-songTitle: Naruto Themed Sexting
+title: Naruto Themed Sexting — Panucci’s Pizza ★★★★★
 artist: Panucci’s Pizza
 minutes: "3"
 seconds: "2"

@@ -1,4 +1,5 @@
 ---
+title: The Fragile
 typeofRelease: LP
 artist: Nine Inch Nails
 dateReleased: 1999-09-21

@@ -1,4 +1,5 @@
 ---
+title: The Spangle Maker
 typeofRelease: EP
 artist: Cocteau Twins
 dateReleased: 1984-04-02

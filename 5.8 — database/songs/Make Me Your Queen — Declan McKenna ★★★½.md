@@ -1,5 +1,5 @@
 ---
-songTitle: Make Me Your Queen
+title: Make Me Your Queen — Declan McKenna ★★★½
 artist: Declan McKenna
 minutes: "3"
 seconds: "24"

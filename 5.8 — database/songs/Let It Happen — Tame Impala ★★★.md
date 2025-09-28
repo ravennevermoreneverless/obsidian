@@ -1,5 +1,5 @@
 ---
-songTitle: Let It Happen
+title: Let It Happen — Tame Impala ★★★
 artist: Tame Impala
 minutes: "7"
 seconds: "49"

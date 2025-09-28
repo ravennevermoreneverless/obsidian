@@ -1,5 +1,5 @@
 ---
-songTitle: Monster
+title: Monster — Olivia Olson, Half Shy ★★★½
 artist: Olivia Olson, Half Shy
 minutes: "2"
 seconds: "51"

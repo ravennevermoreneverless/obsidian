@@ -1,5 +1,5 @@
 ---
-songTitle: You Grew Up
+title: You Grew Up — Oddisee ★★★
 artist: Oddisee
 minutes: "5"
 seconds: "5"

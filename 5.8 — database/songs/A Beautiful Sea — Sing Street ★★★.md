@@ -1,5 +1,5 @@
 ---
-songTitle: A Beautiful Sea
+title: A Beautiful Sea — Sing Street ★★★
 artist: Sing Street
 minutes: "3"
 seconds: "4"

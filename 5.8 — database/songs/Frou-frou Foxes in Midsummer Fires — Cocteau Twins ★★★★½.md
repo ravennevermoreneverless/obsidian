@@ -1,5 +1,5 @@
 ---
-songTitle: Frou-frou Foxes in Midsummer Fires
+title: Frou-frou Foxes in Midsummer Fires — Cocteau Twins ★★★★½
 artist: Cocteau Twins
 minutes: "5"
 seconds: "38"

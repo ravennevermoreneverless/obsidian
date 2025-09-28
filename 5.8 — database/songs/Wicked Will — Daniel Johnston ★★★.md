@@ -1,5 +1,5 @@
 ---
-songTitle: Wicked Will
+title: Wicked Will — Daniel Johnston ★★★
 artist: Daniel Johnston
 minutes: "1"
 seconds: "43"

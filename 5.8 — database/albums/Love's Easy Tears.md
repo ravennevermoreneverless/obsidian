@@ -1,4 +1,5 @@
 ---
+title: "Love's Easy Tears"
 typeofRelease: EP
 artist: Cocteau Twins
 dateReleased: 1986-10-13

@@ -1,5 +1,5 @@
 ---
-songTitle: Forrest Gump
+title: Forrest Gump — Frank Ocean ★★★
 artist: Frank Ocean
 minutes: "3"
 seconds: "15"

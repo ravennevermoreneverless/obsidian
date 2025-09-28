@@ -1,5 +1,5 @@
 ---
-songTitle: Violet
+title: Violet — Hole ★★½
 artist: Hole
 minutes: "3"
 seconds: "24"

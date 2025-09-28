@@ -1,5 +1,5 @@
 ---
-songTitle: Sophie
+title: Sophie — Black Polish ★★★
 artist: Black Polish
 minutes: "2"
 seconds: "19"

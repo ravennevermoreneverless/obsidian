@@ -1,0 +1,22 @@
+---
+growth: "[[adult]]"
+title: the thing
+artist: ravenowsky
+dateCreated: "2016"
+artDescription:
+tagLinks:
+  - "[[art]]"
+  - "[[personal work]]"
+  - "[[horror]]"
+  - "[[psychological horror]]"
+  - "[[2016]]"
+artType:
+  - "[[microfiction]]"
+artStyle:
+  - "[[creepypasta]]"
+mediumUsed: "[[digital]]"
+image:
+---
+# the thing
+
+I think I saw something. It's right under my bed. I don't know if they see it, or hear it, but I could. It's staring right at me through the mirror attached to my closet. I saw it smiling.I saw it signalling me to be quiet. I couldn't move. I couldn't bring myself to utter a word nor tell it to them. I'm afraid it will come to me. It will come to me, when I'm sleeping. It would creep through my blanket, slowly. Inside my blanket, it would rake its long finernails on my skin. Painfully slow. Until it's right above me. It would stare at me with its red, dark and hollow eyes full of emptiness. It would give me chills running down my spine. Then, it smiles.

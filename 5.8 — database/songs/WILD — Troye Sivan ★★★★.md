@@ -1,5 +1,5 @@
 ---
-songTitle: WILD
+title: WILD — Troye Sivan ★★★★
 artist: Troye Sivan
 minutes: "3"
 seconds: "39"

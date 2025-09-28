@@ -1,5 +1,5 @@
 ---
-songTitle: Brand New City
+title: Brand New City — Mitski ★★½
 artist: Mitski
 minutes: "2"
 seconds: "12"

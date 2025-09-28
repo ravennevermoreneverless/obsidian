@@ -1,5 +1,5 @@
 ---
-songTitle: Goodbye Copenhagen
+title: Goodbye Copenhagen — New Politics ★★★½
 artist: New Politics
 minutes: "3"
 seconds: "22"

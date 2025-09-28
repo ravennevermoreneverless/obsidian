@@ -1,4 +1,5 @@
 ---
+title: Thank Your Lucky Stars
 typeofRelease: LP
 artist: Beach House
 dateReleased: 2015-10-16

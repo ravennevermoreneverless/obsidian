@@ -1,5 +1,5 @@
 ---
-songTitle: A Boy Named Sue - Live Version
+title: A Boy Named Sue - Live Version — Johnny Cash ★★★½
 artist: Johnny Cash
 minutes: "3"
 seconds: "44"

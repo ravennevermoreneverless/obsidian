@@ -1,4 +1,5 @@
 ---
+title: Nurture
 typeofRelease: LP
 artist: Porter Robinson
 dateReleased: 2021-04-23

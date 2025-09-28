@@ -1,5 +1,5 @@
 ---
-songTitle: Never Coming Home
+title: Never Coming Home — Scruffpuppie ★★★★
 artist: Scruffpuppie
 minutes: "4"
 seconds:

@@ -1,5 +1,5 @@
 ---
-songTitle: Haunt // Bed
+title: Haunt . Bed — The 1975 ★★★
 artist: The 1975
 minutes: "5"
 seconds: "5"

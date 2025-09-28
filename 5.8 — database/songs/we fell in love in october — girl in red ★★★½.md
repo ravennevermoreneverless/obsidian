@@ -1,5 +1,5 @@
 ---
-songTitle: we fell in love in october
+title: we fell in love in october — girl in red ★★★½
 artist: girl in red
 minutes: "3"
 seconds: "4"

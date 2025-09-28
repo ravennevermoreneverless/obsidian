@@ -1,5 +1,5 @@
 ---
-songTitle: The Man Who Married A Robot / Love Theme
+title: The Man Who Married A Robot . Love Theme — The 1975 ★★★
 artist: The 1975
 minutes: "3"
 seconds: "33"

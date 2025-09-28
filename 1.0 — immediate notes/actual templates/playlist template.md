@@ -9,6 +9,8 @@ addedOnRYM:
 sharedOnReddit:
 sharedOnMonoquin:
 image:
+tagLinks:
+  - "[[playlist]]"
+  - "[[music]]"
+  - "[[personal work]]"
 ---
-status: #child 
-tags: [[playlist]] [[music]] 

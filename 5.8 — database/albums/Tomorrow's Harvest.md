@@ -1,4 +1,5 @@
 ---
+title: "Tomorrow's Harvest"
 typeofRelease: LP
 artist: Boards of Canada
 dateReleased: 2013-06-10

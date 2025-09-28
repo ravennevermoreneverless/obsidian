@@ -1,4 +1,5 @@
 ---
+title: Laurel Hell
 typeofRelease: LP
 artist: Mitski
 dateReleased: 2022-02-04

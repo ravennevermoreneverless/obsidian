@@ -1,5 +1,5 @@
 ---
-songTitle: girls
+title: girls — girl in red ★★★½
 artist: girl in red
 minutes: "3"
 seconds: "18"

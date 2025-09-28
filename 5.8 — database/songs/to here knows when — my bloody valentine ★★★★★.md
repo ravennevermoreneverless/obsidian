@@ -1,5 +1,5 @@
 ---
-songTitle: to here knows when
+title: to here knows when — my bloody valentine ★★★★★
 artist: My Bloody Valentine
 minutes: "5"
 seconds: "31"

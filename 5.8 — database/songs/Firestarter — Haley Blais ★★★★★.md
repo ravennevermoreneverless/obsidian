@@ -1,5 +1,5 @@
 ---
-songTitle: Firestarter
+title: Firestarter — Haley Blais ★★★★★
 artist: Haley Blais
 minutes: "4"
 seconds: "17"

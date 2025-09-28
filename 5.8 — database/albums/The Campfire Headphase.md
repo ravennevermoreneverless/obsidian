@@ -1,4 +1,5 @@
 ---
+title: The Campfire Headphase
 artist: Boards of Canada
 dateReleased: 2005-10-17
 primaryMusicGenre:

@@ -1,5 +1,5 @@
 ---
-songTitle: Ballad of a Teenage Queen
+title: Ballad of a Teenage Queen — Johnny Cash ★★★
 artist: Johnny Cash
 minutes: "2"
 seconds: "10"

@@ -1,5 +1,5 @@
 ---
-songTitle: Skeleton
+title: Skeleton — The Front Bottoms ★★★★½
 artist: The Front Bottoms
 minutes: "3"
 seconds: "35"

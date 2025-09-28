@@ -1,5 +1,5 @@
 ---
-songTitle: Albuquerque
+title: Albuquerque — “Weird Al” Yankovic ★★★★
 artist: “Weird Al” Yankovic
 minutes: "11"
 seconds: "22"

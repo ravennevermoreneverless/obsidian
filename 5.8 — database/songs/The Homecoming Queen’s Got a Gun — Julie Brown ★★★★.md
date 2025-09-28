@@ -1,5 +1,5 @@
 ---
-songTitle: The Homecoming Queen’s Got a Gun
+title: The Homecoming Queen’s Got a Gun — Julie Brown ★★★★
 artist: Julie Brown
 minutes: "4"
 seconds: "38"

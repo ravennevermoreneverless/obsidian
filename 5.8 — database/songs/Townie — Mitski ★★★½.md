@@ -1,5 +1,5 @@
 ---
-songTitle: Townie
+title: Townie — Mitski ★★★½
 artist: Mitski
 minutes: "3"
 seconds: "25"

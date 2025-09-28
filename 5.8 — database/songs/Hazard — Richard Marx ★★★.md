@@ -1,5 +1,5 @@
 ---
-songTitle: Hazard
+title: Hazard — Richard Marx ★★★
 artist: Richard Marx
 minutes: "5"
 seconds: "17"

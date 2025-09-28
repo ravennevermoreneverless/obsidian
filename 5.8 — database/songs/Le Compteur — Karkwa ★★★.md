@@ -1,5 +1,5 @@
 ---
-songTitle: Le Compteur
+title: Le Compteur — Karkwa ★★★
 artist: Karkwa
 minutes: "5"
 seconds: "19"

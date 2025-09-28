@@ -1,0 +1,61 @@
+views:
+  - type: cards
+    name: raven's art
+    filters:
+      and:
+        - tagLinks.containsAll(link("art"), link("personal work"))
+    order:
+      - title
+      - dateCreated
+      - artDescription
+      - artStyle
+      - artType
+      - mediumUsed
+      - tagLinks
+      - file.name
+      - growth
+      - image
+    sort:
+      - property: dateCreated
+        direction: ASC
+    columnSize:
+      note.title: 339
+      note.artist: 106
+      note.artDescription: 277
+    image: note.image
+  - type: cards
+    name: raven's art (visual gallery)
+    filters:
+      and:
+        - file.inFolder("2.2 — creative projects/raven's brain/visual")
+    order:
+      - title
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 220
+  - type: cards
+    name: "2011"
+    filters:
+      and:
+        - tagLinks.containsAll(link("2011"), link("personal work"), link("art"))
+    order:
+      - title
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 220
+  - type: cards
+    name: "2012"
+    filters:
+      and:
+        - tagLinks.containsAll(link("2012"), link("personal work"), link("art"))
+    order:
+      - title
+    sort:
+      - property: file.ctime
+        direction: DESC
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 220

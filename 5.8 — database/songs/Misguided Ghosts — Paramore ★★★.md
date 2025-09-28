@@ -1,5 +1,5 @@
 ---
-songTitle: Misguided Ghosts
+title: Misguided Ghosts — Paramore ★★★
 artist: Paramore
 minutes: "3"
 seconds: "1"

@@ -1,5 +1,5 @@
 ---
-songTitle: gold rush
+title: gold rush — Taylor Swift ★★★
 artist: Taylor Swift
 minutes: "3"
 seconds: "5"

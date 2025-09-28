@@ -1,5 +1,5 @@
 ---
-songTitle: Can't Stop
+title: Can’t Stop — Red Hot Chili Peppers ★★★½
 artist: Red Hot Chili Peppers
 minutes: "4"
 seconds: "29"

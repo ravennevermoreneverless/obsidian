@@ -1,5 +1,5 @@
 ---
-songTitle: hypochondriac
+title: hypochondriac — brakence ★★★★
 artist: brakence
 minutes: "2"
 seconds: "42"

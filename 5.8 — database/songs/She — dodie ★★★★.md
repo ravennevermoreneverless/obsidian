@@ -1,5 +1,5 @@
 ---
-songTitle: She
+title: She — dodie ★★★★
 artist: dodie
 minutes: "3"
 seconds: "33"

@@ -1,4 +1,5 @@
 ---
+title: La forêt
 typeofRelease: LP
 artist: Xiu Xiu
 dateReleased: 2005-07-12

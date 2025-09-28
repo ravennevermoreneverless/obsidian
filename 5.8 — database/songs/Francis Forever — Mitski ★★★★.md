@@ -1,5 +1,5 @@
 ---
-songTitle: Francis Forever
+title: Francis Forever — Mitski ★★★★
 artist: Mitski
 minutes: "2"
 seconds: "29"

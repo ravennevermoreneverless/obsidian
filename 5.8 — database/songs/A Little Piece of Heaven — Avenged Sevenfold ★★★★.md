@@ -1,5 +1,5 @@
 ---
-songTitle: A Little Piece of Heaven
+title: A Little Piece of Heaven — Avenged Sevenfold ★★★★
 artist: Avenged Sevenfold
 minutes: "8"
 seconds: "1"

@@ -1,5 +1,5 @@
 ---
-songTitle: The Dead Flag Blues
+title: The Dead Flag Blues — Godspeed You! Black Emperor ★★★★
 artist: Godspeed You! Black Emperor
 minutes: "6"
 seconds: "38"

@@ -1,5 +1,5 @@
 ---
-songTitle: SUMMER
+title: SUMMER — BROCKHAMPTON ★★★½
 artist: BROCKHAMPTON
 minutes: "3"
 seconds: "24"

@@ -1,5 +1,5 @@
 ---
-songTitle: Valentine
+title: Valentine — Glimmer of Blooms ★★★★
 artist: Glimmer of Blooms
 minutes: "3"
 seconds: "32"

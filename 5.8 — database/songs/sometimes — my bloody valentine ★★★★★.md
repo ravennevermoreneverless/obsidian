@@ -1,5 +1,5 @@
 ---
-songTitle: sometimes
+title: sometimes — my bloody valentine ★★★★★
 artist: My Bloody Valentine
 minutes: "5"
 seconds: "19"

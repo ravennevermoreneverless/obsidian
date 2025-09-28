@@ -1,5 +1,5 @@
 ---
-songTitle: Lava Lamp
+title: Lava Lamp — Cuco ★★★
 artist: Cuco
 minutes: "5"
 seconds: "9"

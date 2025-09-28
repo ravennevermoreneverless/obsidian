@@ -1,5 +1,5 @@
 ---
-songTitle: Escapade
+title: Escapade — Noir Disco ★★★
 artist: Noir Disco
 minutes: "5"
 seconds: "50"

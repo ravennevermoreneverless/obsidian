@@ -1,5 +1,5 @@
 ---
-songTitle: Creature
+title: Creature — It Looks Sad. ★★★
 artist: It Looks Sad.
 minutes: "4"
 seconds:

@@ -1,5 +1,5 @@
 ---
-songTitle: Something Infinite
+title: Something Infinite — Dreams We’ve Had ★★★
 artist: Dreams We’ve Had
 minutes: "4"
 seconds: "28"

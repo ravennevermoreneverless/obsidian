@@ -1,5 +1,5 @@
 ---
-songTitle: Size of the Moon
+title: Size of the Moon — Pinegrove ★★★★★
 artist: Pinegrove
 minutes: "4"
 seconds: "7"

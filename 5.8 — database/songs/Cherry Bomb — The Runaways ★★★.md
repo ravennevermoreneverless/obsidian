@@ -1,5 +1,5 @@
 ---
-songTitle: Cherry Bomb
+title: Cherry Bomb — The Runaways ★★★
 artist: The Runaways
 minutes: "2"
 seconds: "18"

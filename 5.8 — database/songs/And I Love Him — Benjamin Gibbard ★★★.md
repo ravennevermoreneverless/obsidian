@@ -1,5 +1,5 @@
 ---
-songTitle: And I Love Him
+title: And I Love Him — Benjamin Gibbard ★★★
 artist: Benjamin Gibbard
 minutes: "2"
 seconds: "43"

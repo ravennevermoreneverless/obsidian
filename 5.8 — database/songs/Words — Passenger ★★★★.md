@@ -1,5 +1,5 @@
 ---
-songTitle: Words
+title: Words — Passenger ★★★★
 artist: Passenger
 minutes: "4"
 seconds: "12"

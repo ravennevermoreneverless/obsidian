@@ -1,5 +1,5 @@
 ---
-songTitle: Somebody Else
+title: Somebody Else — The 1975 ★★★½
 artist: The 1975
 minutes: "5"
 seconds: "47"

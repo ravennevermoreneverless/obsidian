@@ -1,5 +1,5 @@
 ---
-songTitle: Can I Call You Tonight?
+title: Can I Call You Tonight — Dayglow ★★★½
 artist: Dayglow
 minutes: "4"
 seconds: "38"

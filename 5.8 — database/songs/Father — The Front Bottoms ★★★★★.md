@@ -1,5 +1,5 @@
 ---
-songTitle: Father
+title: Father — The Front Bottoms ★★★★★
 artist: The Front Bottoms
 minutes: "3"
 seconds: "49"

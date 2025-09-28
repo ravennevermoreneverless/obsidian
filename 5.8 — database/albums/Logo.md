@@ -1,4 +1,5 @@
 ---
+title: Logo
 typeofRelease:
 artist: 憂鬱/Yu-utsu
 dateReleased: 2018-08-21

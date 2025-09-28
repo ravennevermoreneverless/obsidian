@@ -1,5 +1,5 @@
 ---
-songTitle: A Different Age
+title: A Different Age — Current Joys ★★★★
 artist: Current Joys
 minutes: "6"
 seconds: "52"

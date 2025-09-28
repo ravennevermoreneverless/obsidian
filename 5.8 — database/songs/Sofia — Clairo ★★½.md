@@ -1,5 +1,5 @@
 ---
-songTitle: Sofia
+title: Sofia — Clairo ★★½
 artist: Clairo
 minutes: "3"
 seconds: "8"

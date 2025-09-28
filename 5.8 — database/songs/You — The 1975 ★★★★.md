@@ -1,5 +1,5 @@
 ---
-songTitle: You
+title: You — The 1975 ★★★★
 artist: The 1975
 minutes: "9"
 seconds: "51"

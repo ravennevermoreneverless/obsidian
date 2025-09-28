@@ -1,5 +1,5 @@
 ---
-songTitle: Who Do You Know
+title: Who Do You Know — VVOES ★★★
 artist: VVOES
 minutes: "5"
 seconds: "4"

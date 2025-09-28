@@ -1,4 +1,5 @@
 ---
+title: Blue Bell Knoll
 typeofRelease: LP
 artist: Cocteau Twins
 dateReleased: 1988-09-19

@@ -1,4 +1,5 @@
 ---
+title: Cardinal
 typeofRelease: LP
 artist: Pinegrove
 dateReleased: 2016-02-12

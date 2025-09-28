@@ -1,4 +1,5 @@
 ---
+title: Valses
 typeofRelease: LP
 artist: Arthur Rubinstein, Frédéric Chopin
 dateReleased:

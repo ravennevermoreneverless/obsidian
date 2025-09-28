@@ -1,9 +1,12 @@
 ---
 growth:
-artworkTitle:
+title:
+artist:
 dateCreated:
 artDescription:
 tagLinks:
+  - "[[art]]"
+  - "[[personal work]]"
 artType:
 artStyle:
 mediumUsed:

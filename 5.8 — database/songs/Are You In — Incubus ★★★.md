@@ -1,5 +1,5 @@
 ---
-songTitle: Are You In?
+title: Are You In — Incubus ★★★
 artist: Incubus
 minutes: "3"
 seconds: "30"

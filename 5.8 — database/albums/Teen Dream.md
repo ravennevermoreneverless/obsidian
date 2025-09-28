@@ -1,4 +1,5 @@
 ---
+title: Teen Dream
 typeofRelease: LP
 artist: Beach House
 dateReleased: 2010-01-26

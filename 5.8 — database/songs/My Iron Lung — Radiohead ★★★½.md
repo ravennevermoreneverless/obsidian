@@ -1,5 +1,5 @@
 ---
-songTitle: My Iron Lung
+title: My Iron Lung — Radiohead ★★★½
 artist: Radiohead
 minutes: "4"
 seconds: "36"

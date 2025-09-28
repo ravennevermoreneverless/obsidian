@@ -1,5 +1,5 @@
 ---
-songTitle: Sis
+title: Sis — Clairo ★★½
 artist: Clairo
 minutes: "2"
 seconds: "16"

@@ -1,4 +1,5 @@
 ---
+title: Milk & Kisses
 typeofRelease: LP
 artist: Cocteau Twins
 dateReleased: 1996-04-15

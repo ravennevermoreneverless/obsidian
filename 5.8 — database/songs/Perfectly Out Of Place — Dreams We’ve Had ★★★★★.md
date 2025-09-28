@@ -1,5 +1,5 @@
 ---
-songTitle: Perfectly Out Of Place
+title: Perfectly Out Of Place — Dreams We’ve Had ★★★★★
 artist: Dreams We’ve Had
 minutes: "4"
 seconds: "53"

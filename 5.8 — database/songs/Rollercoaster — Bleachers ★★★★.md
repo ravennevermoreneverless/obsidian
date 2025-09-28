@@ -1,5 +1,5 @@
 ---
-songTitle: Rollercoaster
+title: Rollercoaster — Bleachers ★★★★
 artist: Bleachers
 minutes: "3"
 seconds: "8"

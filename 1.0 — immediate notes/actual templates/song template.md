@@ -1,5 +1,5 @@
 ---
-songTitle:
+title:
 artist:
 minutes:
 seconds:
@@ -8,4 +8,8 @@ playlists:
 favoritesTrackNumber:
 primaryMusicGenre:
 secondaryMusicGenre:
+tagLinks:
+  - "[[song]]"
+  - "[[music]]"
+  - "[[art]]"
 ---

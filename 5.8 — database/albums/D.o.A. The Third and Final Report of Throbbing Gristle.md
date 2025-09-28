@@ -1,4 +1,5 @@
 ---
+title: D.o.A. The Third and Final Report of Throbbing Gristle
 typeofRelease: LP
 artist: Throbbing Gristle
 dateReleased: 1978-12-04

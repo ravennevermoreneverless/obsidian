@@ -1,5 +1,5 @@
 ---
-songTitle: Tongue Tied
+title: Tongue Tied — Grouplove ★★★★
 artist: Grouplove
 minutes: "3"
 seconds: "37"

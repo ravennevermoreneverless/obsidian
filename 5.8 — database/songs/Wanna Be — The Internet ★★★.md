@@ -1,5 +1,5 @@
 ---
-songTitle: Wanna Be
+title: Wanna Be — The Internet ★★★
 artist: The Internet
 minutes: "4"
 seconds: "27"

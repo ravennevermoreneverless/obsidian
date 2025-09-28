@@ -1,5 +1,5 @@
 ---
-songTitle: Tadow
+title: Tadow — Masego, FKJ ★★★★
 artist: Masego, FKJ
 minutes: "5"
 seconds: "1"

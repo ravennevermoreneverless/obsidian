@@ -1,5 +1,5 @@
 ---
-songTitle: Yr the Best!
+title: Yr the Best! — carpetgarden ★★★
 artist: carpetgarden
 minutes: "1"
 seconds: "39"

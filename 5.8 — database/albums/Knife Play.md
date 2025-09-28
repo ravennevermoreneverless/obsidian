@@ -1,4 +1,5 @@
 ---
+title: Knife Play
 typeofRelease: LP
 artist: Xiu Xiu
 dateReleased: 2002-02-19

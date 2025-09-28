@@ -1,5 +1,5 @@
 ---
-songTitle: Never Meant
+title: Never Meant — American Football ★★★★
 artist: American Football
 minutes: "4"
 seconds: "28"

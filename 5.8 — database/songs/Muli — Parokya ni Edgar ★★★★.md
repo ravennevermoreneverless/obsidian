@@ -1,5 +1,5 @@
 ---
-songTitle: Muli
+title: Muli — Parokya ni Edgar ★★★★
 artist: Parokya ni Edgar
 minutes: "4"
 seconds: "51"

@@ -1,5 +1,5 @@
 ---
-songTitle: Dental Care
+title: Dental Care — Owl City ★★½
 artist: Owl City
 minutes: "3"
 seconds: "11"

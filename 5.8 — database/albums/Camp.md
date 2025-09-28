@@ -1,4 +1,5 @@
 ---
+title: Camp
 typeofRelease: LP
 artist: Childish Gambino
 dateReleased: 2011-11-15

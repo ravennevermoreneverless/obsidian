@@ -1,5 +1,5 @@
 ---
-songTitle: We Are Sex Bob-Omb
+title: We Are Sex Bob-Omb — Sex Bob-Omb ★★★½
 artist: Sex Bob-Omb
 minutes: "2"
 seconds: "1"

@@ -1,5 +1,5 @@
 ---
-songTitle: Dazzle
+title: Dazzle — Siouxsie and the Banshees ★★★★
 artist: Siouxsie and the Banshees
 minutes: "5"
 seconds: "31"

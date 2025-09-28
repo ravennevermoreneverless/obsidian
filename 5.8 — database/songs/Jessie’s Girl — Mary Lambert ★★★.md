@@ -1,5 +1,5 @@
 ---
-songTitle: Jessie's Girl
+title: Jessie’s Girl — Mary Lambert ★★★
 artist: Mary Lambert
 minutes: "3"
 seconds: "30"
