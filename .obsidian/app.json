@@ -62,5 +62,8 @@
   "newFileFolderPath": "0.1 — flash notes",
   "attachmentFolderPath": "0.1 — flash notes",
   "propertiesInDocument": "visible",
-  "promptDelete": true
+  "promptDelete": true,
+  "userIgnoreFilters": [
+    "1.0 — immediate notes/actual templates/"
+  ]
 }

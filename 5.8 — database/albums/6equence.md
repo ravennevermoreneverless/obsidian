@@ -1,4 +1,5 @@
 ---
+title: 6equence
 typeofRelease: EP
 artist: 문별/Moonbyul
 dateReleased: 2022-01-19

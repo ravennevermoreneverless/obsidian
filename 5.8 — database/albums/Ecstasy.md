@@ -1,4 +1,5 @@
 ---
+title: Ecstasy
 typeofRelease: EP
 artist: My Bloody Valentine
 dateReleased: 1987-11-23

@@ -1,5 +1,5 @@
 ---
-songTitle: I Wanna Boi
+title: I Wanna Boi — PWR BTTM ★★★
 artist: PWR BTTM
 minutes: "2"
 seconds: "2"

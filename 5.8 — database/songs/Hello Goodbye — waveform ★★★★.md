@@ -1,5 +1,5 @@
 ---
-songTitle: Hello Goodbye
+title: Hello Goodbye — waveform ★★★★
 artist: waveform*
 minutes: "2"
 seconds: "18"

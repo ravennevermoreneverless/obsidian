@@ -1,4 +1,5 @@
 ---
+title: "Miroirs; Jeux d'eau; Pavane pour une infante défunte"
 typeofRelease: LP
 artist: André Laplante, Maurice Ravel
 dateReleased: 1995-08-14

@@ -1,5 +1,5 @@
 ---
-songTitle: 夢の中で
+title: 夢の中で (In A Dream) — Cornelius ★★★
 artist: Cornelius
 minutes: "4"
 seconds: "13"

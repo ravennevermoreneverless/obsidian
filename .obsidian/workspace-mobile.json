@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1 — flash notes/september plans(maybe).md",
-                "mode": "preview",
+                "file": "0.1 — flash notes/october plans(maybe).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -42,7 +42,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "september plans(maybe)"
+              "title": "october plans(maybe)"
             }
           },
           {
@@ -53,7 +53,7 @@
               "type": "markdown",
               "state": {
                 "file": "0.1 — flash notes/japanese goals.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -72,80 +72,68 @@
             }
           },
           {
-            "id": "abb2d07935b4cb9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1 — flash notes/autism symptoms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "autism symptoms"
-            }
-          },
-          {
-            "id": "f53df3c6952e27c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.5 — japanese/personal works/poems/2024年5日10日(金) — 和歌25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024年5日10日(金) — 和歌25"
-            }
-          },
-          {
-            "id": "0f1aabee3e968466",
+            "id": "6c0690121a05ed62",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "5.9 — bases/japanese content.base",
-                "viewName": "japanese artworks"
+                "file": "5.9 — bases/personal artworks.base",
+                "viewName": "2012"
               },
-              "icon": "lucide-table",
-              "title": "japanese content"
+              "icon": "lucide-layout-grid",
+              "title": "personal artworks"
             }
           },
           {
-            "id": "91d81415425a2b1b",
+            "id": "09c2a023d99360f6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5.1 — images stockpile/playlists/bet you haven't heard of these, they're like super indie.jpg"
+                "file": "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "bet you haven't heard of these, they're like super indie"
+              "icon": "lucide-file",
+              "title": "ここは痛みのない世界だと思ってた"
+            }
+          },
+          {
+            "id": "1328b9b8cdb535ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.5 — japanese/study notes/grammar points/Verb Types and the Present Tense (N5).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Verb Types and the Present Tense (N5)"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -12407,9 +12395,7 @@
         "type": "leaf",
         "state": {
           "type": "file-properties",
-          "state": {
-            "file": "1.5 — japanese/personal works/poems/ももは.md"
-          },
+          "state": {},
           "icon": "lucide-info",
           "title": "File properties"
         }
@@ -12430,8 +12416,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       },
       {
@@ -12543,13 +12529,952 @@
           "icon": "lucide-ghost",
           "title": "review-queue-list-view"
         }
+      },
+      {
+        "id": "45a316d57ed07ba3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f8e311dfb51992a2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5881e9b984994c34",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5258b84b2135e816",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f75289ca4957943c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b0b887bd809777d6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cad87b22e4cb9755",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "02b683670ddcc434",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f8f2a1c729ab2189",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cc7096e9d8051659",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "4f4ae8a367ae4b55",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7189736563e537be",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e0d1aa51f49f7e9b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "87a7b9fb058d2434",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "21e46e894397e311",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c2171d2879ac3498",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "59fa3875b2923034",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f4ff83056bc9447c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b5b326871a91641a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3982ca5084fea82e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2e6314f8233f0e0c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d2dcfb72e4bbfb3e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1d1280532a28e46b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c84b8d363659cbce",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "78d6aa25a2ee6e36",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f43dfe717d988832",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "20ad3870831d76c0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f880847899b63dbe",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7024d8701ddf2d47",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "940853c133bdca8f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "efe5ff8164173f51",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b7a440008a141fd7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0dd1c48810b57dcc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8b5080c422b35f6b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a0271c6fa784f6d2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "03ecfe7fab41a55c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c42a15f3b3e951ba",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "18efb47c2d1ade52",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ac4119631227362f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "75f9a8f5e3cd48d8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ff56e8fb42ed7664",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8978e02cb2ca085b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "737fafe70c7d1191",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e3051033a3b9992b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1fbca9135735034f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "afe3bb2f112f7249",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "52137401f865288f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cc6288a8fceba16d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "046d9ecb996527a0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "674ee70016762c1c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "caf53ac7d0931b47",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "80215706c7d73019",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c5453e3af0c15747",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8f1278e9e77c3e35",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2b8e64b0826b2751",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "50ef8af08b112a12",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7159d48737df4903",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3a45052779bdba34",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b115b6f971619401",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f3364267fbe9e52d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "07ed4509fe2b5b6c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5bc6319dac7e9d8c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ede5b20000b6b8c1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c9dc75e38bd0b82d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "52bd136fa60cc1ac",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9025158206f57a47",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "23ec4f985be26957",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8d145ddb18ae1562",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b0b39e2efd460d2f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6eb99871d6973991",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "28edbea3549207fd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e4d493e2fa192722",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e9ab84365f206555",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "06f2b2e20b9412ab",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0e91a4320c4cebcd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "56fe687159e2e426",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "46e3f04124a47c93",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cdca2fdfdec403c0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "310c5334c10a967e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "542ea89813918dce",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "82c7af59ac228c75",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "55a4b1acf7ec094b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "beb74fd3ab5bcefe",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9eea40394a302270",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6f600277162ab9c0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2f40ca216fb5eee7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "efc9152b0556004f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "34260f44328f2400",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2c86a97af3cb181c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0e105ac996439adb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "252823e38f06ac71",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b983d66fa568090f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f88853bec76bb46f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "18129870bdf0ab8b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
       }
     ],
     "currentTab": 1200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
@@ -12568,55 +13493,58 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Create new task": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "91d81415425a2b1b",
+  "active": "1328b9b8cdb535ac",
   "lastOpenFiles": [
+    "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
+    "1.5 — japanese/study notes/grammar points/～く or ～に (Using Adjectives as Adverbs) (N4).md",
+    "1.5 — japanese/study notes/grammar points/一週間いっしゅうかんに三回さんかい (periodにfrequency) (N4).md",
+    "1.5 — japanese/study notes/grammar points/なら (N4).md",
+    "1.5 — japanese/study notes/grammar points/～てみる (N4).md",
+    "1.5 — japanese/study notes/grammar points/～そうです (It looks like...) (N4).md",
+    "1.5 — japanese/study notes/grammar points/～し (N4).md",
+    "1.5 — japanese/study notes/grammar points/Potential Verbs (N4).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-09-30.md",
+    "5.9 — bases/personal artworks.base",
+    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
+    "1.0 — immediate notes/templates/songs the complete list RYM list format.md",
+    "0.1 — flash notes/october plans(maybe).md",
     "5.9 — bases/japanese content.base",
-    "5.0 — everything else/As a youth, what can I do to make the world a better place.md",
-    "5.1 — images stockpile/playlists/bet you haven't heard of these, they're like super indie.jpg",
-    "5.8 — database/songs/Hello Goodbye — waveform ★★★★.md",
-    "5.1 — images stockpile/playlists/roads. where we're going we don't need roads.jpg",
-    "5.8 — database/playlists/roads. where we're going we don't need roads.md",
-    "5.8 — database/playlists/bet you haven't heard of these, they're like super indie.md",
-    "2.2 — creative projects/raven's brain/poems/POEM for HER that I never had the chance to show.md",
-    "1.5 — japanese/personal works/poems/2024年5日10日(金) — 和歌25.md",
-    "1.5 — japanese/personal works/poems/ももは.md",
-    "1.5 — japanese/personal works/poems/何をしてもぜんぜん成長しない。.md",
-    "3.0 — tags/art.md",
-    "1.5 — japanese/personal works/poems/普通の秘密.md",
-    "3.0 — tags/abstract.md",
-    "1.5 — japanese/personal works/poems/ザ•メタル•マン.md",
-    "1.5 — japanese/personal works/poems/白鷺 — 忘れないで.md",
-    "3.0 — tags/narrative.md",
-    "3.0 — tags/allegory.md",
-    "3.0 — tags/fable.md",
-    "1.5 — japanese/personal works/poems/猿のように.md",
-    "3.0 — tags/society.md",
-    "1.5 — japanese/personal works/poems/残業の男.md",
-    "3.0 — tags/japanese.md",
-    "3.0 — tags/satire.md",
-    "1.5 — japanese/personal works/poems/去年の怪我.md",
-    "1.5 — japanese/personal works/poems/笑と怒 ; 同じ人.md",
-    "1.5 — japanese/personal works/poems/猫があった世界.md",
-    "3.0 — tags/postmodern.md",
-    "5.1 — images stockpile/album covers/Everything and You (2019) — Dreams We've Had.jpg",
-    "5.9 — bases/journal entries.base",
-    "5.1 — images stockpile/art/2014/2014 - anime protagonist vs dragon.jpeg",
-    "5.9 — bases/songs the complete list.base",
+    "1.5 — japanese/study notes/grammar points/～でしょう(か) (N5).md",
+    "1.5 — japanese/study notes/grammar points/～なければいけません or ～なきゃいけません (N4).md",
+    "1.5 — japanese/study notes/grammar points/～ので (N5).md",
+    "1.5 — japanese/study notes/grammar points/～ほうがいいです (N5).md",
+    "1.5 — japanese/study notes/grammar points/～すぎる (N5).md",
+    "1.5 — japanese/study notes/grammar points/～んです (N5).md",
+    "1.5 — japanese/study notes/grammar points/Noun AやNoun B (N5).md",
+    "1.5 — japanese/study notes/grammar points/～ことがある (N4).md",
+    "1.5 — japanese/study notes/grammar points/～たり～たりする (N5).md",
+    "1.5 — japanese/study notes/grammar points/～たい (N5).md",
+    "1.5 — japanese/study notes/grammar points/で (N5).md",
+    "1.5 — japanese/study notes/grammar points/どこかに-どこにも (N4).md",
+    "1.5 — japanese/study notes/grammar points/Adjective+なる (N5).md",
+    "0.1 — flash notes/all tasks.base",
+    "5.1 — images stockpile/art/2014/2014 - natau dragneel (3).jpeg",
+    "Untitled",
+    "1.5 — japanese/study notes/grammar points",
+    "5.1 — images stockpile/art/2012/2012 — vocaloid fanart - meiko, luka, rin, miku, len, kaito.jpeg",
+    "5.1 — images stockpile/art/2012/2012 - hatsune mikuo & hatsune miku.jpeg",
+    "5.9 — bases/albums i listened to.base",
+    "5.1 — images stockpile/album covers/farewell superstar (2025) — alejandro aranda.jpg",
+    "5.9 — bases/all the films i watched.base",
+    "5.1 — images stockpile/others/the wailing (2016) dir. 나홍진 na hong-jin.jpg",
     "5.9 — bases/all the kanji.base",
-    "5.1 — images stockpile/art/2014/2014 - pewdiepie amnesia.jpeg",
-    "5.9 — bases/all my playlists.base",
-    "5.1 — images stockpile/art/2014/2014 - smosh ian and anthony.jpeg",
-    "5.1 — images stockpile/art/2014/2014 - naruto uzumaki.jpeg",
-    "tracked_files.json",
-    "5.1 — images stockpile/kanji/発.jpg",
-    "5.1 — images stockpile/kanji/帰.jpg",
-    "5.1 — images stockpile/kanji/来.jpg",
-    "songa",
-    "5.1 — images stockpile/art/2014",
-    "Boys ",
-    "somgs"
+    "5.1 — images stockpile/kanji/物.jpg",
+    "5.1 — images stockpile/kanji/荷.jpg",
+    "5.1 — images stockpile/kanji/品.jpg",
+    "5.1 — images stockpile/kanji/電.jpg",
+    "5.1 — images stockpile/kanji/具.jpg",
+    "genkk",
+    "5.9 — bases/every transaction.base"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-songTitle: I Hate Everyone
+title: I Hate Everyone — Falling in Reverse ★★★
 artist: Falling in Reverse
 minutes: "3"
 seconds: "38"

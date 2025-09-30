@@ -1,5 +1,5 @@
 ---
-songTitle: watch you sleep.
+title: watch you sleep. — girl in red ★★★
 artist: girl in red
 minutes: "3"
 seconds:

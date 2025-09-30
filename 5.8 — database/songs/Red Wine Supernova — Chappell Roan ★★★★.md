@@ -1,5 +1,5 @@
 ---
-songTitle: Red Wine Supernova
+title: Red Wine Supernova — Chappell Roan ★★★★
 artist: Chappell Roan
 minutes: "3"
 seconds: "12"

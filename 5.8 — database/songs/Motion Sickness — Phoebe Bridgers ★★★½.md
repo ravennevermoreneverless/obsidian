@@ -1,5 +1,5 @@
 ---
-songTitle: Motion Sickness
+title: Motion Sickness — Phoebe Bridgers ★★★½
 artist: Phoebe Bridgers
 minutes: "3"
 seconds: "49"

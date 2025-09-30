@@ -1,5 +1,5 @@
 ---
-songTitle: President Perfect
+title: President Perfect — Caleb Hyles ★★★
 artist: Caleb Hyles
 minutes: "3"
 seconds: "20"

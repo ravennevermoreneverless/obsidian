@@ -1,5 +1,5 @@
 ---
-songTitle: Cancer
+title: Cancer — Twenty One Pilots ★★★★★
 artist: Twenty One Pilots
 minutes: "3"
 seconds: "56"

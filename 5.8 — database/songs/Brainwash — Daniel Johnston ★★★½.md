@@ -1,5 +1,5 @@
 ---
-songTitle: Brainwash
+title: Brainwash — Daniel Johnston ★★★½
 artist: Daniel Johnston
 minutes: "2"
 seconds: "37"

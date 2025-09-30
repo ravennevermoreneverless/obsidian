@@ -1,5 +1,5 @@
 ---
-songTitle: Sweet Disposition
+title: Sweet Disposition — The Temper Trap ★★★★½
 artist: The Temper Trap
 minutes: "3"
 seconds: "53"

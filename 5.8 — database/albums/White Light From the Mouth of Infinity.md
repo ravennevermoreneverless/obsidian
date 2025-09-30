@@ -1,4 +1,5 @@
 ---
+title: White Light From the Mouth of Infinity
 typeofRelease: LP
 artist: Swans
 dateReleased: 1991-06-05

@@ -1,5 +1,5 @@
 ---
-songTitle: Giant Peach
+title: Giant Peach — Wolf Alice ★★½
 artist: Wolf Alice
 minutes: "4"
 seconds: "35"

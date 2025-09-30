@@ -1,5 +1,5 @@
 ---
-songTitle: 7-eleven
+title: 7-eleven — black midi ★★★½
 artist: black midi
 minutes: "4"
 seconds: "53"

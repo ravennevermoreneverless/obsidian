@@ -1,5 +1,5 @@
 ---
-songTitle: Dark Lady
+title: Dark Lady — Cher ★★★
 artist: Cher
 minutes: "3"
 seconds: "26"

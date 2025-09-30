@@ -1,5 +1,5 @@
 ---
-songTitle: Her
+title: Her — Dizzy Fae ★★★★
 artist: Dizzy Fae
 minutes: "1"
 seconds: "59"

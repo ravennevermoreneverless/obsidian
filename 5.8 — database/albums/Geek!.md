@@ -1,4 +1,5 @@
 ---
+title: Geek!
 typeofRelease: EP
 artist: My Bloody Valentine
 dateReleased:

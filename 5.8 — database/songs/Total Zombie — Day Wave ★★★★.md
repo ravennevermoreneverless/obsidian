@@ -1,5 +1,5 @@
 ---
-songTitle: Total Zombie
+title: Total Zombie — Day Wave ★★★★
 artist: Day Wave
 minutes: "4"
 seconds: "15"

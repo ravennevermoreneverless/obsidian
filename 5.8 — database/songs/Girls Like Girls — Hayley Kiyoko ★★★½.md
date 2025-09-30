@@ -1,5 +1,5 @@
 ---
-songTitle: Girls Like Girls
+title: Girls Like Girls — Hayley Kiyoko ★★★½
 artist: Hayley Kiyoko
 minutes: "3"
 seconds: "49"

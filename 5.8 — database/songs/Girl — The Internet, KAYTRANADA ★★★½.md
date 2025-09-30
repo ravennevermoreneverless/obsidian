@@ -1,5 +1,5 @@
 ---
-songTitle: Girl
+title: Girl — The Internet, KAYTRANADA ★★★½
 artist: The Internet, KAYTRANADA
 minutes: "6"
 seconds: "55"

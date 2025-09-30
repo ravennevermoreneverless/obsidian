@@ -1,5 +1,5 @@
 ---
-songTitle: The Devil Went Down to Georgia
+title: The Devil Went Down to Georgia — The Charlie Daniels Band ★★★★
 artist: The Charlie Daniels Band
 minutes: "3"
 seconds: "35"

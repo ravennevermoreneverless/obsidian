@@ -1,6 +1,15 @@
-status: #adult 
-tags: [[3.0 — tags/japanese]] [[course]] [[study]] 
-
+---
+chapterTitle: Japanese Writing Syatem
+tagLinks:
+  - "[[2025]]"
+  - "[[japanese]]"
+  - "[[course]]"
+  - "[[study]]"
+  - "[[writing]]"
+  - "[[system]]"
+source: "Genki I: An Integrated Approach to Elementary Japanese"
+growth: "[[adult]]"
+---
 *Hiragana* and *katakana* represent sounds. *Hiragana* is used for conjugation endings, function words, and native Japanese words not covered by kanji. *Katakana* is normally used for writing loanwords and foreign names. *Kanji*, or Chinese characters, represent not just sounds but also meanings. Mostly, they are used for nouns, stems of verbs, and adjectives. 
 
 ## Hiragana

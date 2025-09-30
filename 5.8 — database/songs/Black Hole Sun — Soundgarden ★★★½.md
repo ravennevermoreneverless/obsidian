@@ -1,5 +1,5 @@
 ---
-songTitle: Black Hole Sun
+title: Black Hole Sun — Soundgarden ★★★½
 artist: Soundgarden
 minutes: "5"
 seconds: "18"

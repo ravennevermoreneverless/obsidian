@@ -1,4 +1,5 @@
 ---
+title: Head Over Heels
 typeofRelease: LP
 artist: Cocteau Twins
 dateReleased: 1983-10-24

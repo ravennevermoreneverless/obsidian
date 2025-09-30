@@ -1,5 +1,5 @@
 ---
-songTitle: And Then She Kissed Me
+title: And Then She Kissed Me — St. Vincent ★★★
 artist: St. Vincent
 minutes: "2"
 seconds: "7"

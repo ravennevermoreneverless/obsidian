@@ -1,5 +1,5 @@
 ---
-songTitle: Youuu
+title: Youuu — COIN ★★★★★
 artist: COIN
 minutes: "3"
 seconds: "55"

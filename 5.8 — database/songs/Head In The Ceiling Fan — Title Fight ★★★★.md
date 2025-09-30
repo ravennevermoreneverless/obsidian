@@ -1,5 +1,5 @@
 ---
-songTitle: Head In The Ceiling Fan
+title: Head In The Ceiling Fan — Title Fight ★★★★
 artist: Title Fight
 minutes: "3"
 seconds: "59"

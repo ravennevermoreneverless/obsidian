@@ -1,4 +1,5 @@
 ---
+title: 20 Jazz Funk Greats
 typeofRelease: LP
 artist: Throbbing Gristle
 dateReleased:

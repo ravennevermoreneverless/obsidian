@@ -1,5 +1,5 @@
 ---
-songTitle: Midnight City
+title: Midnight City — M83 ★★★½
 artist: M83
 minutes: "4"
 seconds: "3"

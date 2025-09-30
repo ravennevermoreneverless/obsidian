@@ -1,5 +1,5 @@
 ---
-songTitle: Same Old Lang Syne
+title: Same Old Lang Syne — Dan Fogelberg ★★★½
 artist: Dan Fogelberg
 minutes: "5"
 seconds: "21"

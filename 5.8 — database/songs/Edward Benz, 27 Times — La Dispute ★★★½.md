@@ -1,5 +1,5 @@
 ---
-songTitle: Edward Benz, 27 Times
+title: Edward Benz, 27 Times — La Dispute ★★★½
 artist: La Dispute
 minutes: "5"
 seconds: "44"

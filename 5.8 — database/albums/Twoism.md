@@ -1,4 +1,5 @@
 ---
+title: Twoism
 artist: Boards of Canada
 dateReleased: 1995-08-15
 primaryMusicGenre:

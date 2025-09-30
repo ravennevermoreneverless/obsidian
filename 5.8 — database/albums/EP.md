@@ -1,4 +1,5 @@
 ---
+title: EP
 typeofRelease: EP
 artist: FKA twigs
 dateReleased: 2012-12-04

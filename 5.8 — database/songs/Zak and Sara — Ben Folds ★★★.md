@@ -1,5 +1,5 @@
 ---
-songTitle: Zak and Sara
+title: Zak and Sara — Ben Folds ★★★
 artist: Ben Folds
 minutes: "3"
 seconds: "11"

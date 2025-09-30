@@ -1,5 +1,5 @@
 ---
-songTitle: Where the Girls Are
+title: Where the Girls Are — Gossip ★★½
 artist: Gossip
 minutes: "1"
 seconds: "44"

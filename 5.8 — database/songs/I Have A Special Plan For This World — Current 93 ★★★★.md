@@ -1,5 +1,5 @@
 ---
-songTitle: I Have A Special Plan For This World
+title: I Have A Special Plan For This World — Current 93 ★★★★
 artist: Current 93
 minutes: "22"
 seconds: "1"

@@ -1,5 +1,5 @@
 ---
-songTitle: Blood Bitch
+title: Blood Bitch — Cocteau Twins ★★½
 artist: Cocteau Twins
 minutes: "4"
 seconds: "34"

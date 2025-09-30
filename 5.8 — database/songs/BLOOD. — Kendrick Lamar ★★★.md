@@ -1,5 +1,5 @@
 ---
-songTitle: BLOOD.
+title: BLOOD. — Kendrick Lamar ★★★
 artist: Kendrick Lamar
 minutes: "1"
 seconds: "58"

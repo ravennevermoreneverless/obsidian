@@ -1,5 +1,5 @@
 ---
-songTitle: Formless Gift
+title: Formless Gift — Creative Self ★★★½
 artist: Creative Self
 minutes: "1"
 seconds: "55"

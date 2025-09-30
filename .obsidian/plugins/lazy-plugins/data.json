@@ -77,6 +77,9 @@
       },
       "chronology": {
         "startupType": "disabled"
+      },
+      "obsidian-linter": {
+        "startupType": "instant"
       }
     }
   }

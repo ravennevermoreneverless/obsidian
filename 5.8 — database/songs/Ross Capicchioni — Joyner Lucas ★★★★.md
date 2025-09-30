@@ -1,5 +1,5 @@
 ---
-songTitle: Ross Capicchioni
+title: Ross Capicchioni — Joyner Lucas ★★★★
 artist: Joyner Lucas
 minutes: "7"
 seconds: "41"

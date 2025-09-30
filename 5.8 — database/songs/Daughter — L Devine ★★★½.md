@@ -1,5 +1,5 @@
 ---
-songTitle: Daughter
+title: Daughter — L Devine ★★★½
 artist: L Devine
 minutes: "2"
 seconds: "42"

@@ -1,5 +1,5 @@
 ---
-songTitle: Change Your Mind
+title: Change Your Mind — CASTLEBEAT ★★★½
 artist: CASTLEBEAT
 minutes: "4"
 seconds: "57"

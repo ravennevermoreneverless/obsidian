@@ -1,5 +1,5 @@
 ---
-songTitle: True Love Waits
+title: True Love Waits — Radiohead ★★★½
 artist: Radiohead
 minutes: "4"
 seconds: "43"

@@ -1,5 +1,5 @@
 ---
-songTitle: She Plays Bass
+title: She Plays Bass — beabadoobee ★★½
 artist: beabadoobee
 minutes: "3"
 seconds: "27"

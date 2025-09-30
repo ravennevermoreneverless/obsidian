@@ -1,4 +1,5 @@
 ---
+title: Glider
 typeofRelease: EP
 artist: My Bloody Valentine
 dateReleased: 1990-04-23

@@ -1,5 +1,5 @@
 ---
-songTitle: Dreams
+title: Dreams — Passion Pit ★★★
 artist: Passion Pit
 minutes: "4"
 seconds: "18"

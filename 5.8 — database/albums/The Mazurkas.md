@@ -1,4 +1,5 @@
 ---
+title: The Mazurkas
 typeofRelease: LP
 artist: Arthur Rubinstein, Frédéric Chopin
 dateReleased:

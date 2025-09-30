@@ -1,5 +1,5 @@
 ---
-songTitle: What's He Building
+title: What’s He Building — Tom Waits ★★★
 artist: Tom Waits
 minutes: "3"
 seconds: "20"

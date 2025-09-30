@@ -1,4 +1,5 @@
 ---
+title: This Is Your Bloody Valentine
 typeofRelease: EP
 artist: My Bloody Valentine
 dateReleased:

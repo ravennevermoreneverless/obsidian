@@ -1,4 +1,5 @@
 ---
+title: 8 polonaises; 4 impromptus
 typeofRelease: LP
 artist: Arthur Rubinstein, Frédéric Chopin
 dateReleased:

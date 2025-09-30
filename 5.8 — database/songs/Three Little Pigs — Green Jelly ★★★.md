@@ -1,5 +1,5 @@
 ---
-songTitle: Three Little Pigs
+title: Three Little Pigs — Green Jelly ★★★
 artist: Green Jelly
 minutes: "4"
 seconds: "29"

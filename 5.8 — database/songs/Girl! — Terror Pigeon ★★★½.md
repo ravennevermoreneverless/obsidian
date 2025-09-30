@@ -1,5 +1,5 @@
 ---
-songTitle: Girl!
+title: Girl! — Terror Pigeon ★★★½
 artist: Terror Pigeon
 minutes: "5"
 seconds: "18"

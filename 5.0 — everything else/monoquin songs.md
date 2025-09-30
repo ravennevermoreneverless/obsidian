@@ -1357,18 +1357,12 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1324. Cigarette Daydreams — Cage The Elephant : Sep 21, 2025
 1325. The Spangle Maker — Cocteau Twins : Sep 22, 2025
 1326. Wolf — EXO : Sep 23, 2025
-
-1327 ξ Sep 24, 2025
-
-1328 ξ Sep 25, 2025
-
-1329 ξ Sep 26, 2025
-
-1330 ξ Sep 27, 2025
-
-1331 ξ Sep 28, 2025
-
-1332 ξ Sep 29, 2025
+1327. Digital Love — Daft Punk : Sep 24, 2025
+1328. Look At Me Now — Chris Brown, Lil Wayne, Busta Rhymes : Sep 25, 2025
+1329. Lihim — Sleep Alley : Sep 26, 2025
+1330. Don't Lose Your Mind — Alejandro Aranda : Sep 27, 2025
+1331. Perfectly Out of Place — Dreams We've Had : Sep 28, 2025
+1332. The Queen of Hearts — Duster : Sep 29, 2025
 
 1333 ξ Sep 30, 2025
 

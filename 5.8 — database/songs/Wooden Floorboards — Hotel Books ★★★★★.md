@@ -1,5 +1,5 @@
 ---
-songTitle: Wooden Floorboards
+title: Wooden Floorboards — Hotel Books ★★★★★
 artist: Hotel Books
 minutes: "3"
 seconds: "58"

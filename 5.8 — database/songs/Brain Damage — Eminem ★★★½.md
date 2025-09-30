@@ -1,5 +1,5 @@
 ---
-songTitle: Brain Damage
+title: Brain Damage — Eminem ★★★½
 artist: Eminem
 minutes: "3"
 seconds: "48"

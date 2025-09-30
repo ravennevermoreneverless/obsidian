@@ -1,5 +1,5 @@
 ---
-songTitle: Unrequited Love
+title: Unrequited Love — Thundercat ★★★★
 artist: Thundercat
 minutes: "3"
 seconds: "14"

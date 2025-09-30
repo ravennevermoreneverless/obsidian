@@ -1,5 +1,5 @@
 ---
-songTitle: Children's Story
+title: Children’s Story — Slick Rick ★★★
 artist: Slick Rick
 minutes: "3"
 seconds: "59"

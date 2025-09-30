@@ -1,5 +1,5 @@
 ---
-songTitle: Guitar Song - Live
+title: Guitar Song - Live — Frou Frou ★★★
 artist: Frou Frou
 minutes: "4"
 seconds: "8"

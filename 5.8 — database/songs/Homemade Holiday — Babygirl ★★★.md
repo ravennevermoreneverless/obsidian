@@ -1,5 +1,5 @@
 ---
-songTitle: Homemade Holiday
+title: Homemade Holiday — Babygirl ★★★
 artist: Babygirl
 minutes: "4"
 seconds: "28"

@@ -1,5 +1,5 @@
 ---
-songTitle: Crazy
+title: Crazy — Au Revoir Simone ★★★
 artist: Au Revoir Simone
 minutes: "2"
 seconds: "57"

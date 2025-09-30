@@ -1,5 +1,5 @@
 ---
-songTitle: The Mariner’s Revenge Song
+title: The Mariner’s Revenge Song — The Decemberists ★★★
 artist: The Decemberists
 minutes: "8"
 seconds: "45"

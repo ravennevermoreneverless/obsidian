@@ -1,5 +1,5 @@
 ---
-songTitle: Freckles
+title: Freckles — Kevin Atwater ★★★
 artist: Kevin Atwater
 minutes: "3"
 seconds: "53"

@@ -3,9 +3,9 @@ views:
     name: japanese database
     filters:
       and:
-        - tagLinks.contains(link("japanese"))
+        - tagLinks.containsAny(link("japanese"))
     sort:
-      - property: dateCreated
+      - property: file.ctime
         direction: ASC
   - type: table
     name: japanese journal entries
@@ -28,12 +28,14 @@ views:
       note.entryTitle: 280
       note.timeCreated: 54
   - type: table
-    name: japanese artworks
+    name: japanese art
     filters:
       and:
         - tagLinks.containsAll(link("japanese"), link("art"))
+        - '!tagLinks.contains(link("kanji"))'
     order:
-      - artworkTitle
+      - title
+      - artist
       - artDescription
       - dateCreated
       - artType
@@ -46,5 +48,63 @@ views:
       - property: dateCreated
         direction: ASC
     columnSize:
-      note.artworkTitle: 237
+      note.title: 325
+      note.artist: 224
+    image: note.image
+  - type: table
+    name: japanese studies
+    filters:
+      and:
+        - tagLinks.containsAll(link("japanese"), link("study"))
+    order:
+      - chapterTitle
+      - source
+      - tagLinks
+      - growth
+      - file.name
+      - translation
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      note.chapterTitle: 296
+      note.source: 171
+    image: note.image
+  - type: table
+    name: japanese immersion
+    filters:
+      and:
+        - tagLinks.containsAll(link("japanese"), link("immersion"))
+    order:
+      - title
+      - artist
+      - rating
+      - immersionDifficulty
+      - tagLinks
+      - file.name
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      note.title: 274
+      note.artist: 245
+      note.immersionDifficulty: 135
+    image: note.image
+  - type: table
+    name: japanese grammar
+    filters:
+      and:
+        - tagLinks.containsAll(link("japanese"))
+        - tagLinks.containsAll(link("japanese"), link("grammar"))
+    order:
+      - file.name
+      - translation
+      - source
+      - difficulty
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      note.translation: 193
+      note.source: 241
     image: note.image

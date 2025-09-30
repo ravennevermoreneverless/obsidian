@@ -1,4 +1,5 @@
 ---
+title: Loveless
 typeofRelease: LP
 artist: My Bloody Valentine
 dateReleased: 1991-11-11

@@ -1,4 +1,5 @@
 ---
+title: "The Taste of TG. A Beginner's Guide to the Music of Throbbing Gristle"
 typeofRelease: Compilation
 artist: Throbbing Gristle
 dateReleased: 2004-05-03

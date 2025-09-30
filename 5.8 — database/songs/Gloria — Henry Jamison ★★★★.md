@@ -1,5 +1,5 @@
 ---
-songTitle: Gloria
+title: Gloria — Henry Jamison ★★★★
 artist: Henry Jamison
 minutes: "3"
 seconds: "48"

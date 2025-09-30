@@ -1,4 +1,5 @@
 ---
+title: Caprisongs
 typeofRelease: Mixtape
 artist: FKA twigs
 dateReleased: 2022-01-14

@@ -1,4 +1,5 @@
 ---
+title: A Promise
 typeofRelease: LP
 artist: Xiu Xiu
 dateReleased: 2003-02-18

@@ -1,5 +1,5 @@
 ---
-songTitle: I’ve Loved You For So Long
+title: I’ve Loved You For So Long — The Aces ★★★½
 artist: The Aces
 minutes: "2"
 seconds: "56"

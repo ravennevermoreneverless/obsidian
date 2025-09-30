@@ -1,75 +1,75 @@
-### ==GOAL==
+ ### ==GOAL==
 #### N1 JLPT, 2500 kanji, 12,050 vocabulary
 
-### ==HOW?== 
-#### September & October & November :
-- [ ] Genki I
-	- [x] chapter 7
-	- [x] chapter 8
-	- [x] chapter 9
-	- [ ] chapter 10
-	- [ ] chapter 11
-	- [ ] chapter 12
-- [ ] Genki II
-	- [ ] chapter 13
-	- [ ] chapter 14
-	- [ ] chapter 15
-	- [ ] chapter 16
-	- [ ] chapter 17
-	- [ ] chapter 18
-	- [ ] chapter 19
-	- [ ] chapter 20
-	- [ ] chapter 21
-	- [ ] chapter 22
-	- [ ] chapter 23
-- [ ] An Integrated Approach to Intermediate Japanese
-	- [ ] chapter 1
-	- [ ] chapter 2
-	- [ ] chapter 3
-	- [ ] chapter 4
-	- [ ] chapter 5
-	- [ ] chapter 6
-	- [ ] chapter 7
-	- [ ] chapter 8
-	- [ ] chapter 9
-	- [ ] chapter 10
-	- [ ] chapter 11
-	- [ ] chapter 12
-	- [ ] chapter 13
-	- [ ] chapter 14
-	- [ ] chapter 15
-- [ ] 1,050 kanji
-- [ ] 5,990 words
-- [x] Level 0
-- [x] Level 0(II)
-- [ ] Level 1
-- [ ] Level 2
-- [ ] Level 3
-- [ ] JLPT N5 mock exams
-- [ ] JLPT N4 mock exams
+ ### ==HOW?== 
+ #### September & October & November :
+- ==Genki I==
+	- ==chapter 7==
+	- ==chapter 8==
+	- ==chapter 9==
+	- ==chapter 10==
+	- ==chapter 11==
+	- ==chapter 12==
+- Genki II
+	- chapter 13
+	- chapter 14
+	- chapter 15
+	- chapter 16
+	- chapter 17
+	- chapter 18
+	- chapter 19
+	- chapter 20
+	- chapter 21
+	- chapter 22
+	- chapter 23
+- An Integrated Approach to Intermediate Japanese
+	- chapter 1
+	- chapter 2
+	- chapter 3
+	- chapter 4
+	- chapter 5
+	- chapter 6
+	- chapter 7
+	- chapter 8
+	- chapter 9
+	- chapter 10
+	- chapter 11
+	- chapter 12
+	- chapter 13
+	- chapter 14
+	- chapter 15
+- 1,050 kanji
+- 5,990 words
+- ==Level 0==
+- ==Level 0(II)==
+- Level 1
+- Level 2
+- Level 3
+- JLPT N5 mock exams
+- JLPT N4 mock exams
 #### December, January, February, March, April, May, June :
-- [ ] Tobira: Gateway to Advanced Japanese
-	- [ ] chapter 1
-	- [ ] chapter 2
-	- [ ] chapter 3
-	- [ ] chapter 4
-	- [ ] chapter 5
-	- [ ] chapter 6
-	- [ ] chapter 7
-	- [ ] chapter 8
-	- [ ] chapter 9
-	- [ ] chapter 10
-	- [ ] chapter 11
-	- [ ] chapter 12
-	- [ ] chapter 13
-	- [ ] chapter 14
-	- [ ] chapter 15
-- [ ] Kanzen Master Grammar N2
-	- [ ] 120 grammar points
-- [ ] 1,000 kanji
-- [ ] 4,000 words
-- [ ] Kanzen Master Grammar N1
-- [ ] Level 4
-- [ ] Level 5
-- [ ] JLPT N3 mock exam
-- [ ] JLPT N2 mock exam
+- Tobira: Gateway to Advanced Japanese
+	- chapter 1
+	- chapter 2
+	- chapter 3
+	- chapter 4
+	- chapter 5
+	- chapter 6
+	- chapter 7
+	- chapter 8
+	- chapter 9
+	- chapter 10
+	- chapter 11
+	- chapter 12
+	- chapter 13
+	- chapter 14
+	- chapter 15
+- Kanzen Master Grammar N2
+	- 120 grammar points
+- 1,000 kanji
+- 4,000 words
+- Kanzen Master Grammar N1
+- Level 4
+- Level 5
+- JLPT N3 mock exam
+- JLPT N2 mock exam

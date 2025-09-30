@@ -1,5 +1,5 @@
 ---
-songTitle: Coat of Many Colors
+title: Coat of Many Colors — Dolly Parton ★★★
 artist: Dolly Parton
 minutes: "3"
 seconds: "2"

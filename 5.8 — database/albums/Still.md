@@ -1,4 +1,5 @@
 ---
+title: Still
 typeofRelease: LP
 artist: Nine Inch Nails
 dateReleased: 2002-01-22

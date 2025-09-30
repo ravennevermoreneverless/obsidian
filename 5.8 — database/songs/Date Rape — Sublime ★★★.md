@@ -1,5 +1,5 @@
 ---
-songTitle: Date Rape
+title: Date Rape — Sublime ★★★
 artist: Sublime
 minutes: "4"
 seconds: "38"

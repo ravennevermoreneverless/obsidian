@@ -1,5 +1,5 @@
 ---
-songTitle: Papi Pacify
+title: Papi Pacify — FKA Twigs ★★★★
 artist: FKA twigs
 minutes: "4"
 seconds: "53"

@@ -1,5 +1,5 @@
 ---
-songTitle: It’s Only Sex
+title: It’s Only Sex — Car Seat Headrest ★★★★
 artist: Car Seat Headrest
 minutes: "4"
 seconds: "43"

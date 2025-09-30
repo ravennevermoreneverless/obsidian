@@ -1,4 +1,5 @@
 ---
+title: Whirlpool
 typeofRelease: LP
 artist: Chapterhouse
 dateReleased: 1991-04-29

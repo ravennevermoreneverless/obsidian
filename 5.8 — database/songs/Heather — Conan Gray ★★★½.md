@@ -1,5 +1,5 @@
 ---
-songTitle: Heather
+title: Heather — Conan Gray ★★★½
 artist: Conan Gray
 minutes: "3"
 seconds: "18"

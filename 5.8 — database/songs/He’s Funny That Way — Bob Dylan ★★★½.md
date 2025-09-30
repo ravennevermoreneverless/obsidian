@@ -1,5 +1,5 @@
 ---
-songTitle: He’s Funny That Way
+title: He’s Funny That Way — Bob Dylan ★★★½
 artist: Bob Dylan
 minutes: "3"
 seconds: "30"

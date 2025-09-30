@@ -1,4 +1,5 @@
 ---
+title: m b v
 typeofRelease: LP
 artist: My Bloody Valentine
 dateReleased: 2013-02-03

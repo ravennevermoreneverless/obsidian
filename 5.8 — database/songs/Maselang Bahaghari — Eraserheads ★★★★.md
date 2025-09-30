@@ -1,5 +1,5 @@
 ---
-songTitle: Maselang Bahaghari
+title: Maselang Bahaghari — Eraserheads ★★★★
 artist: Eraserheads
 minutes: "3"
 seconds: "31"

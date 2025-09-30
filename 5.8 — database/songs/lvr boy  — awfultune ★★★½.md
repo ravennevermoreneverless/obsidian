@@ -1,5 +1,5 @@
 ---
-songTitle: lvr boy
+title: lvr boy  — awfultune ★★★½
 artist: awfultune
 minutes: "4"
 seconds: "55"

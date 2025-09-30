@@ -1,5 +1,5 @@
 ---
-songTitle: Andrew in Drag
+title: Andrew in Drag — The Magnetic Fields ★★★
 artist: The Magnetic Fields
 minutes: "2"
 seconds: "12"

@@ -1,5 +1,5 @@
 ---
-songTitle: Pretty Face
+title: Pretty Face — PUBLIC ★★★★½
 artist: PUBLIC
 minutes: "3"
 seconds: "50"

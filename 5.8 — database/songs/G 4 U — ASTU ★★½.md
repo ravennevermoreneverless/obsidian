@@ -1,5 +1,5 @@
 ---
-songTitle: G 4 U
+title: G 4 U — ASTU ★★½
 artist: ASTU
 minutes: "4"
 seconds: "36"

@@ -1,4 +1,5 @@
 ---
+title: INVU
 typeofRelease: LP
 artist: TAEYEON
 dateReleased: 2022-02-14

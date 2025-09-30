@@ -11,6 +11,7 @@ views:
       - kunYomi
       - kanjiMeaning
       - image
+      - tagLinks
     sort:
       - property: file.ctime
         direction: DESC

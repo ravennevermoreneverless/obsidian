@@ -1,4 +1,5 @@
 ---
+title: Beach House
 typeofRelease: LP
 artist: Beach House
 dateReleased: 2006-10-03

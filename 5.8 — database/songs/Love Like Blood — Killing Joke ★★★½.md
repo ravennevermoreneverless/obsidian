@@ -1,5 +1,5 @@
 ---
-songTitle: Love Like Blood
+title: Love Like Blood — Killing Joke ★★★½
 artist: Killing Joke
 minutes: "4"
 seconds: "25"

@@ -1,4 +1,5 @@
 ---
+title: People That Can Eat People Are the Luckiest People in the World
 typeofRelease: LP
 artist: Andrew Jackson Jihad
 dateReleased: 2007-08-21

@@ -1,5 +1,5 @@
 ---
-songTitle: Black Sheep (Brie Larson Vocal Version)
+title: Black Sheep (Brie Larson Vocal Version) — Metric, Brie Larson ★★★★★
 artist: Metric, Brie Larson
 minutes: "4"
 seconds: "54"

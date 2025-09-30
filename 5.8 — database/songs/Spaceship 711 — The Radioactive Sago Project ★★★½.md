@@ -1,5 +1,5 @@
 ---
-songTitle: Spaceship 711
+title: Spaceship 711 — The Radioactive Sago Project ★★★½
 artist: The Radioactive Sago Project
 minutes: "6"
 seconds: "59"

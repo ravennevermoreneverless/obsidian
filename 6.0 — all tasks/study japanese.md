@@ -8,7 +8,7 @@ contexts:
 timeEstimate: 10000
 recurrence: DTSTART:20250820;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-08-03T18:33:18.832+08:00
-dateModified: 2025-09-22T22:54:57.172+08:00
+dateModified: 2025-09-27T18:26:56.166+08:00
 tags:
   - course
   - japanese
@@ -47,12 +47,13 @@ complete_instances:
   - 2025-09-20
   - 2025-09-21
   - 2025-09-22
+  - 2025-09-27
 timeEntries:
   - startTime: 2025-08-07T16:17:32.375+08:00
     description: Work session
     endTime: 2025-08-07T17:47:25.456+08:00
 due: 2026-07-28
-scheduled: 2025-09-23
+scheduled: 2025-09-28
 projects: []
 ---
 

@@ -1,5 +1,5 @@
 ---
-songTitle: Christine
+title: Christine — Lucy Dacus ★★★
 artist: Lucy Dacus
 minutes: "2"
 seconds: "34"

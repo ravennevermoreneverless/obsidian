@@ -1,5 +1,5 @@
 ---
-songTitle: Nice Boys
+title: Nice Boys — TEMPOREX ★★★
 artist: TEMPOREX
 minutes: "3"
 seconds: "1"

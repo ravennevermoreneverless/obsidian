@@ -1,5 +1,5 @@
 ---
-songTitle: Bad Religion
+title: Bad Religion — Frank Ocean ★★★★½
 artist: Frank Ocean
 minutes: "2"
 seconds: "56"

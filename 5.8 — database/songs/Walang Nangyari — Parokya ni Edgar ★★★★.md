@@ -1,5 +1,5 @@
 ---
-songTitle: Walang Nangyari
+title: Walang Nangyari — Parokya ni Edgar ★★★★
 artist: Parokya ni Edgar
 minutes: "3"
 seconds: "49"

@@ -1,5 +1,5 @@
 ---
-songTitle: Cherry
+title: Cherry — Rina Sawayama ★★★½
 artist: Rina Sawayama
 minutes: "3"
 seconds: "25"

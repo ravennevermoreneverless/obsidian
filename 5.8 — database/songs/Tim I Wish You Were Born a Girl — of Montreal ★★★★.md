@@ -1,5 +1,5 @@
 ---
-songTitle: Tim I Wish You Were Born a Girl
+title: Tim I Wish You Were Born a Girl — of Montreal ★★★★
 artist: of Montreal
 minutes: "1"
 seconds: "46"

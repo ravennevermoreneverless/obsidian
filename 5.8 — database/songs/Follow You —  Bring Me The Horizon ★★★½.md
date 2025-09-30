@@ -1,5 +1,5 @@
 ---
-songTitle: Follow You
+title: Follow You —  Bring Me The Horizon ★★★½
 artist: Bring Me The Horizon
 minutes: "3"
 seconds: "51"

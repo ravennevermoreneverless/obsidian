@@ -1,5 +1,5 @@
 ---
-songTitle: Moonlight Boy
+title: Moonlight Boy — Kevin Atwater ★★★½
 artist: Kevin Atwater
 minutes: "2"
 seconds: "46"

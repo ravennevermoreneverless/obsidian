@@ -1,5 +1,5 @@
 ---
-songTitle: Countdown
+title: Countdown — Phoenix ★★★½
 artist: Phoenix
 minutes: "3"
 seconds: "57"

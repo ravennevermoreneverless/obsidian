@@ -1,5 +1,5 @@
 ---
-songTitle: Red
+title: Red — 12 RODS ★★★★
 artist: 12 RODS
 minutes: "6"
 seconds: "34"

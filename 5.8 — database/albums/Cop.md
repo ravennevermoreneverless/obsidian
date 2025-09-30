@@ -1,4 +1,5 @@
 ---
+title: Cop
 typeofRelease: LP
 artist: Swans
 dateReleased:

@@ -1,5 +1,5 @@
 ---
-songTitle: Never Relaxed
+title: Never Relaxed — Daniel Johnston ★★★½
 artist: Daniel Johnston
 minutes: "3"
 seconds: "25"

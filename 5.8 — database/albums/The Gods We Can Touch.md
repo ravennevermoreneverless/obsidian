@@ -1,4 +1,5 @@
 ---
+title: The Gods We Can Touch
 typeofRelease: LP
 artist: AURORA
 dateReleased: 2022-01-21

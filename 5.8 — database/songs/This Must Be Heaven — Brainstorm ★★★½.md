@@ -1,5 +1,5 @@
 ---
-songTitle: This Must Be Heaven
+title: This Must Be Heaven — Brainstorm ★★★½
 artist: Brainstorm
 minutes: "6"
 seconds: "35"

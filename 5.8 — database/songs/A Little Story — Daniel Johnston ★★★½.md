@@ -1,5 +1,5 @@
 ---
-songTitle: A Little Story
+title: A Little Story — Daniel Johnston ★★★½
 artist: Daniel Johnston
 minutes: "3"
 seconds: "28"

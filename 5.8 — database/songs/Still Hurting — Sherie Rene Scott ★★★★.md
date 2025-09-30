@@ -1,5 +1,5 @@
 ---
-songTitle: Still Hurting
+title: Still Hurting — Sherie Rene Scott ★★★★
 artist: Sherie Rene Scott
 minutes: "5"
 seconds:

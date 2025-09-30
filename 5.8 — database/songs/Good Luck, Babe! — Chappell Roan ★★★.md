@@ -1,5 +1,5 @@
 ---
-songTitle: Good Luck, Babe!
+title: Good Luck, Babe! — Chappell Roan ★★★
 artist: Chappell Roan
 minutes: "3"
 seconds: "38"

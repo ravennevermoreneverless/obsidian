@@ -1,4 +1,5 @@
 ---
+title: Knife Man
 typeofRelease: LP
 artist: Andrew Jackson Jihad
 dateReleased: 2011-09-20

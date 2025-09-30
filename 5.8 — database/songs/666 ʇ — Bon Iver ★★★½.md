@@ -1,5 +1,5 @@
 ---
-songTitle: 666 ʇ
+title: 666 ʇ — Bon Iver ★★★½
 artist: Bon Iver
 minutes: "4"
 seconds: "12"

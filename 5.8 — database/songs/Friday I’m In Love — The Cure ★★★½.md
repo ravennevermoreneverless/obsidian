@@ -1,5 +1,5 @@
 ---
-songTitle: Friday I'm In Love
+title: Friday I’m In Love — The Cure ★★★½
 artist: The Cure
 minutes: "3"
 seconds: "38"

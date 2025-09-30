@@ -1,5 +1,5 @@
 ---
-songTitle: Can Ghosts Be Gay?
+title: Can Ghosts Be Gay — carpetgarden ★★★
 artist: carpetgarden
 minutes: "3"
 seconds: "21"

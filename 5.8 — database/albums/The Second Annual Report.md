@@ -1,4 +1,5 @@
 ---
+title: The Second Annual Report
 typeofRelease: LP
 artist: Throbbing Gristle
 dateReleased: 1977-11-04

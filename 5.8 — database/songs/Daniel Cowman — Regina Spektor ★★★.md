@@ -1,5 +1,5 @@
 ---
-songTitle: Daniel Cowman
+title: Daniel Cowman — Regina Spektor ★★★
 artist: Regina Spektor
 minutes: "4"
 seconds: "50"

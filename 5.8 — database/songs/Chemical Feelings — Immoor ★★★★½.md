@@ -1,5 +1,5 @@
 ---
-songTitle: Chemical Feelings
+title: Chemical Feelings — Immoor ★★★★½
 artist: Immoor
 minutes: "4"
 seconds: "49"

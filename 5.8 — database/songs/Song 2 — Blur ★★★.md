@@ -1,5 +1,5 @@
 ---
-songTitle: Song 2
+title: Song 2 — Blur ★★★
 artist: Blur
 minutes: "2"
 seconds: "3"

@@ -1,4 +1,5 @@
 ---
+title: The Downward Spiral
 typeofRelease: LP
 artist: Nine Inch Nails
 dateReleased:

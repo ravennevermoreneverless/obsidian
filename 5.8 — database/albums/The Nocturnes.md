@@ -1,4 +1,5 @@
 ---
+title: The Nocturnes
 typeofRelease: LP
 artist: Arthur Rubinstein, Frédéric Chopin
 dateReleased:

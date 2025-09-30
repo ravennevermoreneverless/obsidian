@@ -1,5 +1,5 @@
 ---
-songTitle: Catch The Rainbow
+title: Catch The Rainbow — Rainbow ★★★
 artist: Rainbow
 minutes: "6"
 seconds: "40"

@@ -1,5 +1,5 @@
 ---
-songTitle: Trigger
+title: Trigger — Yuuki Ozaki ★★★½
 artist: Yuuki Ozaki
 minutes: "5"
 seconds: "7"

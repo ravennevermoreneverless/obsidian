@@ -1,5 +1,5 @@
 ---
-songTitle: Bloom
+title: Bloom — Troye Sivan ★★★
 artist: Troye Sivan
 minutes: "3"
 seconds: "41"

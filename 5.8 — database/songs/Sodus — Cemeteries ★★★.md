@@ -1,5 +1,5 @@
 ---
-songTitle: Sodus
+title: Sodus — Cemeteries ★★★
 artist: Cemeteries
 minutes: "6"
 seconds: "38"

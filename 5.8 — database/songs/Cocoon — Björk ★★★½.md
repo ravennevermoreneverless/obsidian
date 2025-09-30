@@ -1,5 +1,5 @@
 ---
-songTitle: Cocoon
+title: Cocoon — Björk ★★★½
 artist: Björk
 minutes: "4"
 seconds: "31"

@@ -1,5 +1,5 @@
 ---
-songTitle: Love It If We Made It
+title: Love It If We Made It — The 1975 ★★★★★
 artist: The 1975
 minutes: "4"
 seconds: "12"

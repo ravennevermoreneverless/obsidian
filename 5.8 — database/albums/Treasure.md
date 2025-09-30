@@ -1,4 +1,5 @@
 ---
+title: Treasure
 typeofRelease: LP
 artist: Cocteau Twins
 dateReleased: 1984-11-12

@@ -1,5 +1,28 @@
-status: #child 
-tags: [[personal work]] [[songwriting]] [[filipino]]
+---
+growth: "[[child]]"
+title: aking mahal na nanay
+artist: ravenowsky
+dateCreated: "2018"
+artDescription:
+tagLinks:
+  - "[[personal work]]"
+  - "[[songwriting]]"
+  - "[[filipino]]"
+  - "[[art]]"
+  - "[[society]]"
+  - "[[family]]"
+  - "[[2018]]"
+artType:
+  - "[[songwriting]]"
+artStyle:
+  - "[[narrative]]"
+  - "[[rap]]"
+  - "[[spoken word]]"
+  - "[[lyric]]"
+mediumUsed: "[[physical]]"
+image:
+---
+# aking mahal na nanay
 
 (CHORUS)
 

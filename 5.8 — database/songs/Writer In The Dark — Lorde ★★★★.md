@@ -1,5 +1,5 @@
 ---
-songTitle: Writer In The Dark
+title: Writer In The Dark — Lorde ★★★★
 artist: Lorde
 minutes: "3"
 seconds: "36"

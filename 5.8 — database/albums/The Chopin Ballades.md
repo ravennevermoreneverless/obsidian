@@ -1,4 +1,5 @@
 ---
+title: The Chopin Ballades
 typeofRelease: LP
 artist: Arthur Rubinstein, Frédéric Chopin
 dateReleased:

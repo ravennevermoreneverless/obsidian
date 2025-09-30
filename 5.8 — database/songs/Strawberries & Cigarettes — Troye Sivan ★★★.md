@@ -1,5 +1,5 @@
 ---
-songTitle: Strawberries & Cigarettes
+title: Strawberries & Cigarettes — Troye Sivan ★★★
 artist: Troye Sivan
 minutes: "3"
 seconds: "21"

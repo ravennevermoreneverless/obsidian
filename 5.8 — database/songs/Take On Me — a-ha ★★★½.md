@@ -1,5 +1,5 @@
 ---
-songTitle: Take On Me
+title: Take On Me — a-ha ★★★½
 artist: a-ha
 minutes: "3"
 seconds: "45"

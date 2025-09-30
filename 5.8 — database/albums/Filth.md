@@ -1,4 +1,5 @@
 ---
+title: Filth
 typeofRelease: LP
 artist: Swans
 dateReleased:

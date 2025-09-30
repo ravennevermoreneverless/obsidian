@@ -1,5 +1,5 @@
 ---
-songTitle: Nandemonaiya - movie ver.
+title: Nandemonaiya - movie ver. — RADWIMPS ★★★★½
 artist: RADWIMPS
 minutes: "5"
 seconds: "44"

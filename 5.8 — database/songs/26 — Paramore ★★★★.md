@@ -1,5 +1,5 @@
 ---
-songTitle: "26"
+title: 26 — Paramore ★★★★
 artist: Paramore
 minutes: "3"
 seconds: "42"

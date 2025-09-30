@@ -1,0 +1,41 @@
+---
+growth: "[[adult]]"
+title: connection postponed until further notice
+artist: ravenowsky
+dateCreated: 2021-08-06
+artDescription:
+tagLinks:
+  - "[[art]]"
+  - "[[personal work]]"
+  - "[[angst]]"
+  - "[[detachment]]"
+  - "[[attachment]]"
+  - "[[melancholy]]"
+  - "[[introspection]]"
+  - "[[psychological]]"
+  - "[[2021]]"
+artType:
+  - "[[literary fiction]]"
+artStyle:
+  - "[[romantic]]"
+  - "[[lyric]]"
+mediumUsed: "[[digital]]"
+image:
+---
+# connection postponed until further notice
+
+*This is fine.* 
+
+These are the words you would hear amongst the murmurs of the AC and the sound of vehicles passing by the bustling streets outside. They weren't said out loud but two minds have been so fixated on those three words that it's almost grasping its way out into the real world, desperately trying to be heard. A cold glaring LED light coming from the window blended in with the darkness that engulfed the apartment room. It was coming from a Coca-Cola billboard sign which says: "*Together like never before.*" 
+
+Two bodies remained sprawled on top of unkempt white sheets, limbs on top of limbs. A head laid upon another's chest as the other stared straight at the ceiling. Two hearts steadily beating out-of-sync from each other; astray, overlapping, subtly disagreeing and cannot seem to find a common rhythm. Not one dared to say a word for god knows how long. There were certainly words, and leaking desires and raging fears and roaring emotions, but all were masked by the wall of incredible silence that's yet to be given permission to move. 
+
+Inside of one tired mind were whispers of meek affection and a type of patient longing. Yearnings that ache so unbearably torrid that it leaves a trail of muted marks. A weak mind that knows not to dare control what has been offered; small fragments of vulnerability and a quick glimpse of what seems to be an extended hand. A mind that's utterly familiar with uncertainty, confusion and a struggle to believe the words: "*maybe not everything needs answers*" as a way of comforting oneself.
+
+In the premises of the other weary mind were fogs of indecisions held by ravaging fears. Fears that eat up actions, words and tiny inklings of intimacy. A shaky mind that knows not to deal with this affinity, terrified of its potential and the baring of one's true self—as it has only ever known chaos and painful endings. A mind that's utterly familiar with running away, living inside a perfect fantasy with trepidation as its foundation and basking in the warmth of brief sparks as a way of consoling oneself.
+
+Both minds know how destructive it is to feed the ever growing baseless attachment, to wait for the unknown and grapple on imaginary ropes but what could they do? How could they let go of the deep fondness that grew from the sickly feeble roots of shared loneliness? A connection so superficial and sorely subcutaneous that you could barely see it—yet it's still there. Like a buried bone waiting to be found, a painful itch waiting to be scratched, an ample patch of skin waiting to be touched. 
+
+The scene still drowned in muffled attempts of deliverance; slow heaps of breath against numbing skin, elusive eyes that refuse to look directly into the other's, the weight of bodies sinking heavily into the softness of the mattress. The tranquil buzz of being near the person of your dreams but still not quite having them is a display of tragic irony by the forces of a mocking universe. Two hearts waiting for time to either go back to the beginning or forward to the fading end—never in the agonizing moment. All they really have to do is speak but are words even enough? The very idea of talking feels like treading on thin wire; one small misstep may lead to a terrifying ruination of what's always been there. What else could they do? 
+
+*This is fine*.

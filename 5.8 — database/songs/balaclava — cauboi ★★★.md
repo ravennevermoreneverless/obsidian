@@ -1,5 +1,5 @@
 ---
-songTitle: balaclava
+title: balaclava — cauboi ★★★
 artist: cauboi
 minutes: "3"
 seconds: "56"

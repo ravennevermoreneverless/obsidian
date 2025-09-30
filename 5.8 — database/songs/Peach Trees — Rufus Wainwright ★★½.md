@@ -1,5 +1,5 @@
 ---
-songTitle: Peach Trees
+title: Peach Trees — Rufus Wainwright ★★½
 artist: Rufus Wainwright
 minutes: "5"
 seconds: "59"

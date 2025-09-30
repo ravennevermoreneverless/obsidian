@@ -1,5 +1,5 @@
 ---
-songTitle: My Boy (Twin Fantasy)
+title: My Boy (Twin Fantasy) — Car Seat Headrest ★★★½
 artist: Car Seat Headrest
 minutes: "2"
 seconds: "49"

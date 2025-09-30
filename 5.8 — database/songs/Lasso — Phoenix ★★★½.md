@@ -1,5 +1,5 @@
 ---
-songTitle: Lasso
+title: Lasso — Phoenix ★★★½
 artist: Phoenix
 minutes: "2"
 seconds: "47"

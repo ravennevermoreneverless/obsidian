@@ -1,5 +1,15 @@
-status: #adult 
-tags: [[3.0 — tags/japanese]] [[course]] [[study]] [[culture]]
+---
+chapterTitle: あいさつ
+tagLinks:
+  - "[[2025]]"
+  - "[[japanese]]"
+  - "[[course]]"
+  - "[[study]]"
+  - "[[culture]]"
+source: "Genki I: An Integrated Approach to Elementary Japanese"
+growth: "[[adult]]"
+translation: Greetings
+---
 ##### 表現ノート
 - ***おはよう/ありがとう*** — these short versions are used informally while adding ございます at the end is for less intimate acquaintances. おはよう is a greeting before noon, but some people use it in casual settings in the afternoon or at night when they see their acquaintances fo the first time that day. 
 - ***さようなら*** — this indicates that the person saying goodbye does not expect to see the person spoken to before "she turns a page in her life", not until a new day arrives or until fate brings the two together again. (Its daily use is largely restricted to school children taking leave of their teachers). 

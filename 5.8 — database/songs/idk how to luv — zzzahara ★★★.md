@@ -1,5 +1,5 @@
 ---
-songTitle: idk how to luv
+title: idk how to luv — zzzahara ★★★
 artist: zzzahara
 minutes: "2"
 seconds: "30"

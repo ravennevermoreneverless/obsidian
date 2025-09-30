@@ -1,5 +1,5 @@
 ---
-songTitle: World Behind My Wall
+title: World Behind My Wall — Tokio Hotel ★★★
 artist: Tokio Hotel
 minutes: "4"
 seconds: "15"

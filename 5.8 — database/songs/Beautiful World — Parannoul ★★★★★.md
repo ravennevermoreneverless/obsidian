@@ -1,5 +1,5 @@
 ---
-songTitle: Beautiful World
+title: Beautiful World — Parannoul ★★★★★
 artist: Parannoul
 minutes: "5"
 seconds: "20"

@@ -1,5 +1,5 @@
 ---
-songTitle: Disorder
+title: Disorder — Joy Division ★★★★
 artist: Joy Division
 minutes: "3"
 seconds: "36"

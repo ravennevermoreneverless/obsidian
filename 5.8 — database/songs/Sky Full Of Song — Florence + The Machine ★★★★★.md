@@ -1,5 +1,5 @@
 ---
-songTitle: Sky Full Of Song
+title: Sky Full Of Song — Florence + The Machine ★★★★★
 artist: Florence + The Machine
 minutes: "3"
 seconds: "46"

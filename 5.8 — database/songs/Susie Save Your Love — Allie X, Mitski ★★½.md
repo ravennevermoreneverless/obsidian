@@ -1,5 +1,5 @@
 ---
-songTitle: Susie Save Your Love
+title: Susie Save Your Love — Allie X, Mitski ★★½
 artist: Allie X, Mitski
 minutes: "3"
 seconds: "58"

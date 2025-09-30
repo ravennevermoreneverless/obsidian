@@ -1,5 +1,5 @@
 ---
-songTitle: Ceremony - Version 1
+title: Ceremony - Version 1 — New Order ★★★★★
 artist: New Order
 minutes: "4"
 seconds: "39"

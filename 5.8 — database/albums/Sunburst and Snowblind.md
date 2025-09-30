@@ -1,4 +1,5 @@
 ---
+title: Sunburst and Snowblind
 typeofRelease: EP
 artist: Cocteau Twins
 dateReleased: 1983-11-07

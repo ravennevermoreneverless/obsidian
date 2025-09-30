@@ -1,5 +1,5 @@
 ---
-songTitle: Everlong
+title: Everlong — Foo Fighters ★★★★
 artist: Foo Fighters
 minutes: "4"
 seconds: "11"

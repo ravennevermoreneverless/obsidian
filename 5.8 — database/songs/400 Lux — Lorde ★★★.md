@@ -1,5 +1,5 @@
 ---
-songTitle: 400 Lux
+title: 400 Lux — Lorde ★★★
 artist: Lorde
 minutes: "3"
 seconds: "54"

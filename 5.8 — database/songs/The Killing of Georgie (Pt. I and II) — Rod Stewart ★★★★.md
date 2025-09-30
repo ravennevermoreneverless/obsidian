@@ -1,5 +1,5 @@
 ---
-songTitle: The Killing of Georgie (Pt. I and II)
+title: The Killing of Georgie (Pt. I and II) — Rod Stewart ★★★★
 artist: Rod Stewart
 minutes: "6"
 seconds: "18"

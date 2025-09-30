@@ -1,5 +1,5 @@
 ---
-songTitle: Country Death Song
+title: Country Death Song — Violent Femmes ★★★
 artist: Violent Femmes
 minutes: "5"
 seconds: "2"

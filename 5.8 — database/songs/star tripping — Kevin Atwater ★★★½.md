@@ -1,5 +1,5 @@
 ---
-songTitle: star tripping
+title: star tripping — Kevin Atwater ★★★½
 artist: Kevin Atwater
 minutes: "2"
 seconds: "34"

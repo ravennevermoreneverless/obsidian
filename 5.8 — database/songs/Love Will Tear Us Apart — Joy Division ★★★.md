@@ -1,5 +1,5 @@
 ---
-songTitle: Love Will Tear Us Apart
+title: Love Will Tear Us Apart — Joy Division ★★★
 artist: Joy Division
 minutes: "3"
 seconds: "26"

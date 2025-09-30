@@ -1,5 +1,5 @@
 ---
-songTitle: Fallout
+title: Fallout — Catfish and the Bottlemen ★★★½
 artist: Catfish and the Bottlemen
 minutes: "3"
 seconds: "33"

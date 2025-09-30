@@ -1,5 +1,5 @@
 ---
-songTitle: Pearly-Dewdrops’ Drops - 7” Version
+title: Pearly-Dewdrops’ Drops - 7” Version — Cocteau Twins ★★★★½
 artist: Cocteau Twins
 minutes: "4"
 seconds: "10"

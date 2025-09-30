@@ -1,4 +1,5 @@
 ---
+title: The Devil and God Are Raging Inside Me
 typeofRelease: LP
 artist: Brand New
 dateReleased: 2006-11-21

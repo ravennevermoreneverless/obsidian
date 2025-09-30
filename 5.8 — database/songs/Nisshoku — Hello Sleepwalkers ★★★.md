@@ -1,5 +1,5 @@
 ---
-songTitle: Nisshoku
+title: Nisshoku — Hello Sleepwalkers ★★★
 artist: Hello Sleepwalkers
 minutes: "5"
 seconds: "38"

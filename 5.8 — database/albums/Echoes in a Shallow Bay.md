@@ -1,4 +1,5 @@
 ---
+title: Echoes in a Shallow Bay
 typeofRelease: EP
 artist: Cocteau Twins
 dateReleased: 1985-11-29

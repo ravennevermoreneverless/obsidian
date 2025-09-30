@@ -1,5 +1,5 @@
 ---
-songTitle: Mia
+title: Mia — Snail Mail ★★½
 artist: Snail Mail
 minutes: "3"
 seconds: "27"

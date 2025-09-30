@@ -1,4 +1,5 @@
 ---
+title: Depression Cherry
 typeofRelease: LP
 artist: Beach House
 dateReleased: 2015-08-28

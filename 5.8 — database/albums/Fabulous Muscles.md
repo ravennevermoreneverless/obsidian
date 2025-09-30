@@ -1,4 +1,5 @@
 ---
+title: Fabulous Muscles
 typeofRelease: LP
 artist: Xiu Xiu
 dateReleased: 2004-02-17

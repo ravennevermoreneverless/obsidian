@@ -1,5 +1,5 @@
 ---
-songTitle: Say Yes
+title: Say Yes — Elliott Smith ★★★★
 artist: Elliott Smith
 minutes: "2"
 seconds: "20"

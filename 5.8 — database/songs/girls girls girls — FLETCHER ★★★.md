@@ -1,5 +1,5 @@
 ---
-songTitle: girls girls girls
+title: girls girls girls — FLETCHER ★★★
 artist: FLETCHER
 minutes: "2"
 seconds: "41"

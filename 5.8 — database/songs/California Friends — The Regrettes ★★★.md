@@ -1,5 +1,5 @@
 ---
-songTitle: California Friends
+title: California Friends — The Regrettes ★★★
 artist: The Regrettes
 minutes: "3"
 seconds: "34"

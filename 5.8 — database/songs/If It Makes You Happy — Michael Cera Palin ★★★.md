@@ -1,5 +1,5 @@
 ---
-songTitle: If It Makes You Happy
+title: If It Makes You Happy — Michael Cera Palin ★★★
 artist: Michael Cera Palin
 minutes: "4"
 seconds: "8"

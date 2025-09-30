@@ -1,4 +1,5 @@
 ---
+title: Bloom
 typeofRelease: LP
 artist: Beach House
 dateReleased: 2012-05-15

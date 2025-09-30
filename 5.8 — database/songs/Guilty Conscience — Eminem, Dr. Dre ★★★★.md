@@ -1,5 +1,5 @@
 ---
-songTitle: Guilty Conscience
+title: Guilty Conscience — Eminem, Dr. Dre ★★★★
 artist: Eminem, Dr. Dre
 minutes: "3"
 seconds: "21"

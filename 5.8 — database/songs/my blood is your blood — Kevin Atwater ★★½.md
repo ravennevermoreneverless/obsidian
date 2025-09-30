@@ -1,5 +1,5 @@
 ---
-songTitle: my blood is your blood
+title: my blood is your blood — Kevin Atwater ★★½
 artist: Kevin Atwater
 minutes: "3"
 seconds: "1"

@@ -1,5 +1,5 @@
 ---
-songTitle: SLOW DANCING IN THE DARK
+title: SLOW DANCING IN THE DARK — Joji ★★★★½
 artist: Joji
 minutes: "3"
 seconds: "29"

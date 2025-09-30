@@ -1,5 +1,5 @@
 ---
-songTitle: Billy Brown
+title: Billy Brown — MIKA ★★½
 artist: MIKA
 minutes: "3"
 seconds: "14"

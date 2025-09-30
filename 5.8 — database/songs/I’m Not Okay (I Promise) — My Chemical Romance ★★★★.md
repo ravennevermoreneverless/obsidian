@@ -1,5 +1,5 @@
 ---
-songTitle: I’m Not Okay (I Promise)
+title: I’m Not Okay (I Promise) — My Chemical Romance ★★★★
 artist: My Chemical Romance
 minutes: "3"
 seconds: "6"

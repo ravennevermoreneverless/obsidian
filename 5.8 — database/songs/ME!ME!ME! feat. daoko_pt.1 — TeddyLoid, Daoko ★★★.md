@@ -1,5 +1,5 @@
 ---
-songTitle: ME!ME!ME! feat. daoko_pt.1
+title: ME!ME!ME! feat. daoko_pt.1 — TeddyLoid, Daoko ★★★
 artist: TeddyLoid, Daoko
 minutes: "1"
 seconds: "36"

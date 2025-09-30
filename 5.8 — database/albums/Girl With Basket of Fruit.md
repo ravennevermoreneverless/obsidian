@@ -1,4 +1,5 @@
 ---
+title: Girl With Basket of Fruit
 typeofRelease: LP
 artist: Xiu Xiu
 dateReleased: 2019-02-08

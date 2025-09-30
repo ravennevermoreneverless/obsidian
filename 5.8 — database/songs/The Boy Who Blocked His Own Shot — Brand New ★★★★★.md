@@ -1,5 +1,5 @@
 ---
-songTitle: The Boy Who Blocked His Own Shot
+title: The Boy Who Blocked His Own Shot — Brand New ★★★★★
 artist: Brand New
 minutes: "4"
 seconds: "39"

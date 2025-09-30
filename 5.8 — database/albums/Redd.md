@@ -1,4 +1,5 @@
 ---
+title: Redd
 typeofRelease: EP
 artist: 휘인/Whee In
 dateReleased: 2021-04-13

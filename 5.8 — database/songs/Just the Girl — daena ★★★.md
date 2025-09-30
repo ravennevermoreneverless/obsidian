@@ -1,5 +1,5 @@
 ---
-songTitle: Just the Girl
+title: Just the Girl — daena ★★★
 artist: daena
 minutes: "4"
 seconds: "24"

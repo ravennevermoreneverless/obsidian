@@ -1,5 +1,5 @@
 ---
-songTitle: Kissing Lessons
+title: Kissing Lessons — Lucy Dacus ★★½
 artist: Lucy Dacus
 minutes: "1"
 seconds: "54"

@@ -1,5 +1,5 @@
 ---
-songTitle: Milan
+title: Milan — High Highs ★★★½
 artist: High Highs
 minutes: "3"
 seconds: "34"

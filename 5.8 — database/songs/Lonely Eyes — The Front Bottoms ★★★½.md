@@ -1,5 +1,5 @@
 ---
-songTitle: Lonely Eyes
+title: Lonely Eyes — The Front Bottoms ★★★½
 artist: The Front Bottoms
 minutes: "3"
 seconds: "1"

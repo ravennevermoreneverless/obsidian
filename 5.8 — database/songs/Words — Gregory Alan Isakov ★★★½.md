@@ -1,5 +1,5 @@
 ---
-songTitle: Words
+title: Words — Gregory Alan Isakov ★★★½
 artist: Gregory Alan Isakov
 minutes: "4"
 seconds: "1"

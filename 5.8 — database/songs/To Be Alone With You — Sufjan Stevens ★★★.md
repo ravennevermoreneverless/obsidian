@@ -1,5 +1,5 @@
 ---
-songTitle: To Be Alone With You
+title: To Be Alone With You — Sufjan Stevens ★★★
 artist: Sufjan Stevens
 minutes: "2"
 seconds: "48"

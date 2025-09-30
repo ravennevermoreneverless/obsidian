@@ -1,4 +1,5 @@
 ---
+title: The Moon and the Melodies
 typeofRelease: LP
 artist: Harold Budd, Elizabeth Fraser, Robin Guthrie, Simon Raymonde
 dateReleased: 1986-11-10

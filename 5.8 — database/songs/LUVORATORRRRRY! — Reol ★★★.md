@@ -1,5 +1,5 @@
 ---
-songTitle: LUVORATORRRRRY!
+title: LUVORATORRRRRY! — Reol ★★★
 artist: Reol
 minutes: "3"
 seconds: "24"

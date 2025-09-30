@@ -1,4 +1,5 @@
 ---
+title: The Air Force
 typeofRelease: LP
 artist: Xiu Xiu
 dateReleased: 2006-09-11

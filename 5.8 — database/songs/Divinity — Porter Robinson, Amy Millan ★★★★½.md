@@ -1,5 +1,5 @@
 ---
-songTitle: Divinity
+title: Divinity — Porter Robinson, Amy Millan ★★★★½
 artist: Porter Robinson, Amy Millan
 minutes: "6"
 seconds: "8"

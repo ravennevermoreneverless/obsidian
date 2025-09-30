@@ -1,5 +1,5 @@
 ---
-songTitle: Wait
+title: Wait — M83 ★★★★
 artist: M83
 minutes: "5"
 seconds: "43"

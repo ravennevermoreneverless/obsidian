@@ -1,4 +1,5 @@
 ---
+title: Because the Internet
 typeofRelease: LP
 artist: Childish Gambino
 dateReleased: 2013-12-10

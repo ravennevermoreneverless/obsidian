@@ -1,4 +1,5 @@
 ---
+title: Marigold
 typeofRelease: LP
 artist: Pinegrove
 dateReleased: 2020-01-17

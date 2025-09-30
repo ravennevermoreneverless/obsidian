@@ -1,4 +1,5 @@
 ---
+title: Thirty-Second Annual Report
 typeofRelease: LP
 artist: Throbbing Gristle
 dateReleased: 2008-11-04

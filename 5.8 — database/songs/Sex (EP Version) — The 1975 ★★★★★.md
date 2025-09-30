@@ -1,5 +1,5 @@
 ---
-songTitle: Sex (EP Version)
+title: Sex (EP Version) — The 1975 ★★★★★
 artist: The 1975
 minutes: "3"
 seconds: "25"

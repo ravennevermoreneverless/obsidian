@@ -1,5 +1,5 @@
 ---
-songTitle: Combien
+title: Combien — Karkwa ★★★★★
 artist: Karkwa
 minutes: "4"
 seconds: "5"

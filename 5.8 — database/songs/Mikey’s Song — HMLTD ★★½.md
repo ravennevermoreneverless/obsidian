@@ -1,5 +1,5 @@
 ---
-songTitle: Mikey's Song
+title: Mikey’s Song — HMLTD ★★½
 artist: HMLTD
 minutes: "3"
 seconds: "37"

@@ -1,5 +1,5 @@
 ---
-songTitle: Rebel Girl
+title: Rebel Girl — Bikini Kill ★★★
 artist: Bikini Kill
 minutes: "2"
 seconds: "37"

@@ -1,5 +1,5 @@
 ---
-songTitle: Strawberry Blonde
+title: Strawberry Blonde — chloe moriondo ★★★½
 artist: chloe moriondo
 minutes: "3"
 seconds: "47"
