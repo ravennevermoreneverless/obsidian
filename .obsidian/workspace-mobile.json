@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "calendar-clock",
-              "title": "Agenda"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-agenda-view"
             }
           },
           {
@@ -85,12 +85,12 @@
             }
           },
           {
-            "id": "daf7c561266287f3",
+            "id": "09c2a023d99360f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.5 — japanese/study notes/genki I/第5回.沖縄旅行 A Trip to Okinawa (げんきI).md",
+                "file": "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -105,24 +105,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "第5回.沖縄旅行 A Trip to Okinawa (げんきI)"
+              "title": "ここは痛みのない世界だと思ってた"
             }
           },
           {
-            "id": "724a7ee04b590b99",
+            "id": "17b251845f9c4b0c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "5.9 — bases/japanese content.base",
-                "viewName": "japanese grammar"
+                "file": "0.1 — flash notes/Potential Verbs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "japanese content"
+              "icon": "lucide-file",
+              "title": "Potential Verbs"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -12385,7 +12396,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "1.5 — japanese/study notes/genki I/第5回.沖縄旅行 A Trip to Okinawa (げんきI).md"
+            "file": "1.0 — immediate notes/flashcards/japanese flashcards.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -13147,6 +13158,286 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c9dc75e38bd0b82d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "52bd136fa60cc1ac",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9025158206f57a47",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "23ec4f985be26957",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8d145ddb18ae1562",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b0b39e2efd460d2f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6eb99871d6973991",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "28edbea3549207fd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e4d493e2fa192722",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "e9ab84365f206555",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "06f2b2e20b9412ab",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0e91a4320c4cebcd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "56fe687159e2e426",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "46e3f04124a47c93",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cdca2fdfdec403c0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "310c5334c10a967e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "542ea89813918dce",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "82c7af59ac228c75",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "55a4b1acf7ec094b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "beb74fd3ab5bcefe",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9eea40394a302270",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6f600277162ab9c0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2f40ca216fb5eee7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "efc9152b0556004f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "34260f44328f2400",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "2c86a97af3cb181c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0e105ac996439adb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "252823e38f06ac71",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -13179,38 +13470,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "daf7c561266287f3",
+  "active": "17b251845f9c4b0c",
   "lastOpenFiles": [
-    "5.9 — bases/japanese content.base",
-    "1.5 — japanese/study notes/genki I/第5回.沖縄旅行 A Trip to Okinawa (げんきI).md",
-    "0.1 — flash notes/level 1 book.md",
-    "6.0 — all tasks/move houses.md",
-    "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/dailies/2025-09-27.md",
-    "0.1 — flash notes/october plans(maybe).md",
-    "0.1 — flash notes/japanese goals.md",
-    "0.1 — flash notes/all tasks.base",
-    "5.0 — everything else/monoquin songs.md",
-    "5.1 — images stockpile/art/2014/2014 - natau dragneel (3).jpeg",
-    "1.5 — japanese/study notes/genki I/第4回.初めてのデート The First Date (げんきI).md",
-    "1.5 — japanese/study notes/grammar points/と (N5).md",
-    "1.5 — japanese/study notes/grammar points/Expressions of Quantity (たくさん) (N5).md",
-    "1.5 — japanese/study notes/grammar points/～時間じかん.md",
-    "1.5 — japanese/study notes/grammar points/も (N5).md",
-    "1.5 — japanese/study notes/grammar points/Past Tense of Verbs (～ました・～ませんでした) (N5).md",
-    "1.5 — japanese/study notes/grammar points/Past Tense of です (でした・じゃなかったです) (N5).md",
-    "1.5 — japanese/study notes/grammar points/Describing Where Things Are (N5).md",
-    "1.5 — japanese/study notes/grammar points/Xがあります／います (N5).md",
-    "1.5 — japanese/study notes/genki I/第3回.デートの約束 Making a Date (げんきI).md",
-    "1.5 — japanese/study notes/grammar points/Question Sentences (~か) (N5).md",
-    "1.5 — japanese/study notes/grammar points/The Topic Particle は (N5).md",
-    "1.5 — japanese/study notes/grammar points/Frequency Adverbs (N5).md",
-    "1.5 — japanese/study notes/grammar points/～ませんか (N5).md",
-    "1.5 — japanese/study notes/grammar points/Verb Types and the \"Present Tense\" (N5).md",
-    "1.5 — japanese/study notes/grammar points/Time References (に) (N5).md",
-    "1.5 — japanese/study notes/grammar points/Particles (を, で, に, and へ) (N5).md",
-    "Untitled",
+    "0.1 — flash notes/Potential Verbs.md",
+    "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
     "5.9 — bases/personal artworks.base",
+    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
+    "1.0 — immediate notes/templates/songs the complete list RYM list format.md",
+    "0.1 — flash notes/october plans(maybe).md",
+    "5.9 — bases/japanese content.base",
+    "1.5 — japanese/study notes/grammar points/～でしょう(か) (N5).md",
+    "1.5 — japanese/study notes/grammar points/～なければいけません or ～なきゃいけません (N4).md",
+    "1.5 — japanese/study notes/grammar points/～ので (N5).md",
+    "1.5 — japanese/study notes/grammar points/～ほうがいいです (N5).md",
+    "1.5 — japanese/study notes/grammar points/～すぎる (N5).md",
+    "1.5 — japanese/study notes/grammar points/～んです (N5).md",
+    "1.5 — japanese/study notes/grammar points/Noun AやNoun B (N5).md",
+    "1.5 — japanese/study notes/grammar points/～ことがある (N4).md",
+    "1.5 — japanese/study notes/grammar points/～たり～たりする (N5).md",
+    "1.5 — japanese/study notes/grammar points/～たい (N5).md",
+    "1.5 — japanese/study notes/grammar points/で (N5).md",
+    "1.5 — japanese/study notes/grammar points/どこかに-どこにも (N4).md",
+    "1.5 — japanese/study notes/grammar points/Adjective+なる (N5).md",
+    "1.5 — japanese/study notes/grammar points/～つもりだ (N5).md",
+    "1.5 — japanese/study notes/grammar points/Adjective or Noun+の (N5).md",
+    "1.5 — japanese/study notes/grammar points/Comparison among Three or More Items (～の中なかで) (N5).md",
+    "1.5 — japanese/study notes/grammar points/Comparison between Two Items (AのほうがBより) (N5).md",
+    "1.5 — japanese/study notes/grammar points/Explanationから、Situation (N5).md",
+    "1.5 — japanese/study notes/grammar points/もう～ました and まだ～ていません (N5).md",
+    "1.5 — japanese/study notes/grammar points/Qualifying Nouns with Verbs and Adjectives (N5).md",
+    "1.5 — japanese/study notes/grammar points/Past Tense Short Forms in Quoted Speech (～と言いっていました) (N4).md",
+    "0.1 — flash notes/all tasks.base",
+    "5.1 — images stockpile/art/2014/2014 - natau dragneel (3).jpeg",
+    "Untitled",
     "1.5 — japanese/study notes/grammar points",
     "5.1 — images stockpile/art/2012/2012 — vocaloid fanart - meiko, luka, rin, miku, len, kaito.jpeg",
     "5.1 — images stockpile/art/2012/2012 - hatsune mikuo & hatsune miku.jpeg",

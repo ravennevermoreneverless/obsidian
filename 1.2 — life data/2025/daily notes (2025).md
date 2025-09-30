@@ -508,3 +508,7 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==27 (Sat) — 01:29== I woke up around 1 PM, I was very sleepy. So, I studied Japanese later until 7:30 PM. I fucked up by forgetting to place the rice in the fridge the night before, but good thing it's not spoiled yet. Chai and I showered, to my contempt. We watched ***The Wailing*** and had a discussion about it until 1 AM.
 
 ==27 (Sat) — 22:56== I was so sleepy in the morning but I managed to get to Chapter 5 of the grammar points in 元気 I. Until I had to do chores and stuff because we're moving houses tomorrow. Chai and I went to the other house by 7:30 PM, we cleaned the walls of each room, then went home. Chai and I showered, the last shower. 
+
+==29 (Mon) — 01:37== We finally moved houses today. It was very very very exhausting but we managed to clean our room and be able to sleep on it by 12 midnight. Chai got angry and disappointed at me because I didn't want to shower with her because she's scared and I'm having anxiety inside the bathroom. Aside from the fact that it's cramped and dirty, it feels like it's going to swallow me up whole. But I don't think I'll be able to sleep tonight becuase of guilt.
+
+==30 (Tue) — 00:11== Yesterday was a good day, because dad isn't home yet. We woke up and ate breakfast and started cleaning again. We ate lunch and spent the afternoon cleaning once more. I arranged my desk. During dinner, we all ate together and had many laughs. It's a good day. I even got to spend my PayPal balance to buy load for myself. 

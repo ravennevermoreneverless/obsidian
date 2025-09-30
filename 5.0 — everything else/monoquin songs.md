@@ -1361,10 +1361,8 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1328. Look At Me Now — Chris Brown, Lil Wayne, Busta Rhymes : Sep 25, 2025
 1329. Lihim — Sleep Alley : Sep 26, 2025
 1330. Don't Lose Your Mind — Alejandro Aranda : Sep 27, 2025
-
-1331 ξ Sep 28, 2025
-
-1332 ξ Sep 29, 2025
+1331. Perfectly Out of Place — Dreams We've Had : Sep 28, 2025
+1332. The Queen of Hearts — Duster : Sep 29, 2025
 
 1333 ξ Sep 30, 2025
 

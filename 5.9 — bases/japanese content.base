@@ -102,8 +102,8 @@ views:
       - source
       - difficulty
     sort:
-      - property: difficulty
-        direction: ASC
+      - property: file.ctime
+        direction: DESC
     columnSize:
       note.translation: 193
       note.source: 241

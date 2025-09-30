@@ -13,9 +13,8 @@
 - consistent ***EVERYDAY*** japanese (genki textbook II + workbook II)
 	anki vocabulary (30 mins every start of session)
 	stick to textbooks (for now)
-		chapter note-taking 
 		add grammar point note 
-		vocabulary database
+		vocabulary to flashcards
 	workbook exercises (take your time as time goes by)
 	kanji learn
 		practice (10 a day)
