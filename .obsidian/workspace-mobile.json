@@ -112,10 +112,24 @@
             "id": "1328b9b8cdb535ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1.5 — japanese/study notes/grammar points/Verb Types and the Present Tense (N5).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Verb Types and the Present Tense (N5)"
             }
           }
         ],
@@ -13438,6 +13452,16 @@
       },
       {
         "id": "f88853bec76bb46f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "18129870bdf0ab8b",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
