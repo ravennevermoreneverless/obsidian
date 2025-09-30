@@ -109,27 +109,13 @@
             }
           },
           {
-            "id": "17b251845f9c4b0c",
+            "id": "1328b9b8cdb535ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1 — flash notes/Potential Verbs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Potential Verbs"
+              "title": "New tab"
             }
           }
         ],
@@ -12395,9 +12381,7 @@
         "type": "leaf",
         "state": {
           "type": "file-properties",
-          "state": {
-            "file": "1.0 — immediate notes/flashcards/japanese flashcards.md"
-          },
+          "state": {},
           "icon": "lucide-info",
           "title": "File properties"
         }
@@ -13438,6 +13422,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b983d66fa568090f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "f88853bec76bb46f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -13470,10 +13474,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "17b251845f9c4b0c",
+  "active": "1328b9b8cdb535ac",
   "lastOpenFiles": [
-    "0.1 — flash notes/Potential Verbs.md",
     "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
+    "1.5 — japanese/study notes/grammar points/～く or ～に (Using Adjectives as Adverbs) (N4).md",
+    "1.5 — japanese/study notes/grammar points/一週間いっしゅうかんに三回さんかい (periodにfrequency) (N4).md",
+    "1.5 — japanese/study notes/grammar points/なら (N4).md",
+    "1.5 — japanese/study notes/grammar points/～てみる (N4).md",
+    "1.5 — japanese/study notes/grammar points/～そうです (It looks like...) (N4).md",
+    "1.5 — japanese/study notes/grammar points/～し (N4).md",
+    "1.5 — japanese/study notes/grammar points/Potential Verbs (N4).md",
+    "1.2 — life data/2025/daily notes (2025).md",
+    "5.8 — database/dailies/2025-09-30.md",
     "5.9 — bases/personal artworks.base",
     "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
     "1.0 — immediate notes/templates/songs the complete list RYM list format.md",
@@ -13492,14 +13504,6 @@
     "1.5 — japanese/study notes/grammar points/で (N5).md",
     "1.5 — japanese/study notes/grammar points/どこかに-どこにも (N4).md",
     "1.5 — japanese/study notes/grammar points/Adjective+なる (N5).md",
-    "1.5 — japanese/study notes/grammar points/～つもりだ (N5).md",
-    "1.5 — japanese/study notes/grammar points/Adjective or Noun+の (N5).md",
-    "1.5 — japanese/study notes/grammar points/Comparison among Three or More Items (～の中なかで) (N5).md",
-    "1.5 — japanese/study notes/grammar points/Comparison between Two Items (AのほうがBより) (N5).md",
-    "1.5 — japanese/study notes/grammar points/Explanationから、Situation (N5).md",
-    "1.5 — japanese/study notes/grammar points/もう～ました and まだ～ていません (N5).md",
-    "1.5 — japanese/study notes/grammar points/Qualifying Nouns with Verbs and Adjectives (N5).md",
-    "1.5 — japanese/study notes/grammar points/Past Tense Short Forms in Quoted Speech (～と言いっていました) (N4).md",
     "0.1 — flash notes/all tasks.base",
     "5.1 — images stockpile/art/2014/2014 - natau dragneel (3).jpeg",
     "Untitled",
