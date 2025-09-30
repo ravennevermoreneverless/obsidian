@@ -15,8 +15,33 @@ views:
       - rating
       - playlists
     sort:
-      - property: favoritesTrackNumber
-        direction: ASC
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      note.favoritesTrackNumber: 29
+      note.title: 360
+      note.artist: 283
+      note.primaryMusicGenre: 349
+      note.minutes: 80
+      note.rating: 82
+  - type: table
+    name: newest
+    filters:
+      and:
+        - file.folder == "5.8 — database/songs"
+    order:
+      - favoritesTrackNumber
+      - title
+      - artist
+      - primaryMusicGenre
+      - secondaryMusicGenre
+      - minutes
+      - seconds
+      - rating
+      - playlists
+    sort:
+      - property: file.ctime
+        direction: DESC
     columnSize:
       note.favoritesTrackNumber: 29
       note.title: 360

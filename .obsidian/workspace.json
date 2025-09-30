@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4955c053a003aad6",
+        "id": "6159d84c1082dcfa",
         "type": "tabs",
         "children": [
           {
-            "id": "0767bfff1fcd1b3a",
+            "id": "a8d2a217aae1a633",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "5.9 — bases/albums i listened to.base",
-                "viewName": "all albums"
+                "file": "5.9 — bases/songs the complete list.base",
+                "viewName": "newest"
               },
-              "icon": "lucide-layout-grid",
-              "title": "albums i listened to"
+              "icon": "lucide-table",
+              "title": "songs the complete list"
             }
           },
           {
-            "id": "eb05e4e0b457aafc",
+            "id": "60d143e03809f19d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2 — life data/2025/media/albums i listened to (2025).md",
+                "file": "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,31 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "albums i listened to (2025)"
-            }
-          },
-          {
-            "id": "dfeaa2db5855db8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 — immediate notes/copy paste.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "copy paste"
+              "title": "ここは痛みのない世界だと思ってた"
             }
           }
         ],
@@ -142,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,50 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "6a781db25b665488",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "28da02d7a4b15716",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "bce05604525daf53",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Backlinks for ここは痛みのない世界だと思ってた"
             }
           },
           {
@@ -212,53 +146,13 @@
             }
           },
           {
-            "id": "43abd8c9e6e1d2a0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
             "id": "0f9770fc70b16164",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "d807937fed39b92f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "caebc1a7ba132ed7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "513ae987969cbd72",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -267,8 +161,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -277,8 +171,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -287,8 +181,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -297,8 +191,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -307,8 +201,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -322,11 +216,11 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -354,38 +248,41 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "eb05e4e0b457aafc",
+  "active": "60d143e03809f19d",
   "lastOpenFiles": [
-    "5.8 — database/albums/Virgin (2025) — Lorde ★★★.md",
-    "1.0 — immediate notes/copy paste.md",
+    "5.8 — database/songs/Say So - Japanese Version — Rainych ★★★★.md",
+    "3.0 — tags/japanese hip hop.md",
+    "3.0 — tags/disco rap.md",
+    "3.0 — tags/pop rap.md",
+    "3.0 — tags/nu-disco.md",
+    "3.0 — tags/dance-pop.md",
+    "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
+    "5.8 — database/songs/summertime — cinnamons, evening cinema ★★★.md",
+    "3.0 — tags/shibuya-kei.md",
+    "3.0 — tags/funktronica.md",
+    "3.0 — tags/alternative dance.md",
+    "3.0 — tags/pop.md",
+    "3.0 — tags/j-pop.md",
+    "5.8 — database/songs/unravel (acoustic version) — TK from Ling tosite sigure ★★★½.md",
+    "3.0 — tags/classical crossover.md",
+    "3.0 — tags/adult contemporary.md",
+    "5.9 — bases/songs the complete list.base",
+    "5.8 — database/songs/unravel — TK from Ling tosite sigure ★★★★.md",
+    "5.8 — database/songs/ME!ME!ME! feat. daoko_pt.1 — TeddyLoid, Daoko ★★★.md",
+    "3.0 — tags/suffocation.md",
+    "3.0 — tags/insanity.md",
+    "5.8 — database/songs/Hated by life itself (Inochi ni Kirawarete iru) — Raon ★★★½.md",
+    "3.0 — tags/swancore.md",
+    "3.0 — tags/symphonic rock.md",
+    "3.0 — tags/television music.md",
+    "3.0 — tags/emo.md",
+    "3.0 — tags/art rock.md",
+    "5.9 — bases/all my playlists.base",
     "5.9 — bases/albums i listened to.base",
-    "5.8 — database/albums/Farewell Superstar (2025) — Alejandro Aranda ★★★½.md",
-    "1.2 — life data/2025/media/albums i listened to (2025).md",
-    "3.0 — tags/future garage.md",
-    "3.0 — tags/indietronica.md",
-    "3.0 — tags/singer-songwriter.md",
-    "3.0 — tags/electropop.md",
-    "3.0 — tags/electronic.md",
-    "3.0 — tags/alt-pop.md",
-    "5.8 — database/albums/The Papas & The Mamas (1968) — The Mamas & The Papas ★★½.md",
-    "5.8 — database/albums/Crosby, Stills & Nash (1969) - Crosby, Stills & Nash ★★.md",
-    "5.8 — database/albums/Vanisher, Horizon Scraper (2025) — Quadeca ★★½.md",
-    "0.1 — flash notes/autism symptoms.md",
     "5.1 — images stockpile/album covers/virgin (2025) - lorde.jpg",
-    "3.0 — tags/pop rock.md",
-    "3.0 — tags/folk pop.md",
-    "3.0 — tags/psychedelic rock.md",
-    "3.0 — tags/vocal group.md",
-    "3.0 — tags/sunshine pop.md",
     "5.1 — images stockpile/album covers/the papas & the mamas (1968) - the mamas & the papas.jpg",
     "5.1 — images stockpile/album covers/crosby, stills & nash (1969) - crosby, stills & nash.jpg",
-    "3.0 — tags/psychedelic folk.md",
-    "3.0 — tags/contemporary folk.md",
-    "3.0 — tags/folk rock.md",
-    "0.1 — flash notes/vanisher, horizon scraper (2025) — quadeca.jpg.md",
     "5.9 — bases/all tasks.base",
-    "0.1 — flash notes/post art on socmed.md",
-    "0.1 — flash notes/hapy holleeew to all spoky (films).md",
     "2.2 — creative projects/raven's brain/writing",
     "5.8 — database/films",
     "5.1 — images stockpile/others/the wailing (2016) dir. 나홍진 na hong-jin.jpg",
@@ -398,8 +295,6 @@
     "2.2 — creative projects/raven's brain/visual",
     "1.5 — japanese/study notes/grammar points",
     "tracked_files.json",
-    "5.9 — bases/journal entries.base",
-    "5.9 — bases/japanese content.base",
-    "5.1 — images stockpile/journals/4th journal (2023)"
+    "5.9 — bases/journal entries.base"
   ]
 }
