@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "1c5ef49f5888d1ec",
+        "id": "4955c053a003aad6",
         "type": "tabs",
         "children": [
           {
-            "id": "c1910ec96a1a720e",
+            "id": "0767bfff1fcd1b3a",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "5.9 — bases/albums i listened to.base",
+                "viewName": "all albums"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "albums i listened to"
+            }
+          },
+          {
+            "id": "eb05e4e0b457aafc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.5 — japanese/personal works/poems/木の拒否.md",
+                "file": "1.2 — life data/2025/media/albums i listened to (2025).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +41,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "木の拒否"
+              "title": "albums i listened to (2025)"
+            }
+          },
+          {
+            "id": "dfeaa2db5855db8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 — immediate notes/copy paste.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "copy paste"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +88,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -88,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.5
   },
   "right": {
     "id": "601d173034254749",
@@ -269,12 +307,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "417b2dd2f04f47f1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -306,34 +354,38 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c1910ec96a1a720e",
+  "active": "eb05e4e0b457aafc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "1.5 — japanese/personal works/poems/木の拒否.md",
-    "2.2 — creative projects/raven's brain/writing/what matters most.md",
-    "2.2 — creative projects/raven's brain/writing/we used to..md",
-    "2.2 — creative projects/raven's brain/writing/untitled(2).md",
-    "2.2 — creative projects/raven's brain/writing/the thing.md",
-    "2.2 — creative projects/raven's brain/writing/starry night sky.md",
-    "2.2 — creative projects/raven's brain/writing/song on the beach.md",
-    "2.2 — creative projects/raven's brain/writing/random sucky roses are red violets are blue poem.md",
-    "2.2 — creative projects/raven's brain/writing/POEM for HER that I never had the chance to show.md",
-    "2.2 — creative projects/raven's brain/writing/People are fascinating.md",
-    "2.2 — creative projects/raven's brain/writing/it's always been you.md",
-    "2.2 — creative projects/raven's brain/writing/in a perfect world.md",
-    "2.2 — creative projects/raven's brain/writing/I like you so much better when you're throwing up.md",
-    "2.2 — creative projects/raven's brain/writing/i heard you were looking like the moon.md",
-    "2.2 — creative projects/raven's brain/writing/her pt.5.md",
-    "2.2 — creative projects/raven's brain/writing/her pt. 3 (original version) (and more).md",
-    "2.2 — creative projects/raven's brain/writing/her pt. 3 (limerence version).md",
-    "2.2 — creative projects/raven's brain/writing/heaven-sent, unwanted 0.00 (test).md",
-    "2.2 — creative projects/raven's brain/writing/free.1.md",
-    "2.2 — creative projects/raven's brain/writing/drip drop.md",
-    "2.2 — creative projects/raven's brain/writing/dear mom and dad.md",
-    "2.2 — creative projects/raven's brain/writing/crappy poem about depression.md",
-    "2.2 — creative projects/raven's brain/writing/connection postponed until further notice.md",
-    "2.2 — creative projects/raven's brain/writing/childhood life.md",
-    "2.2 — creative projects/raven's brain/writing/being bored.md",
+    "5.8 — database/albums/Virgin (2025) — Lorde ★★★.md",
+    "1.0 — immediate notes/copy paste.md",
+    "5.9 — bases/albums i listened to.base",
+    "5.8 — database/albums/Farewell Superstar (2025) — Alejandro Aranda ★★★½.md",
+    "1.2 — life data/2025/media/albums i listened to (2025).md",
+    "3.0 — tags/future garage.md",
+    "3.0 — tags/indietronica.md",
+    "3.0 — tags/singer-songwriter.md",
+    "3.0 — tags/electropop.md",
+    "3.0 — tags/electronic.md",
+    "3.0 — tags/alt-pop.md",
+    "5.8 — database/albums/The Papas & The Mamas (1968) — The Mamas & The Papas ★★½.md",
+    "5.8 — database/albums/Crosby, Stills & Nash (1969) - Crosby, Stills & Nash ★★.md",
+    "5.8 — database/albums/Vanisher, Horizon Scraper (2025) — Quadeca ★★½.md",
+    "0.1 — flash notes/autism symptoms.md",
+    "5.1 — images stockpile/album covers/virgin (2025) - lorde.jpg",
+    "3.0 — tags/pop rock.md",
+    "3.0 — tags/folk pop.md",
+    "3.0 — tags/psychedelic rock.md",
+    "3.0 — tags/vocal group.md",
+    "3.0 — tags/sunshine pop.md",
+    "5.1 — images stockpile/album covers/the papas & the mamas (1968) - the mamas & the papas.jpg",
+    "5.1 — images stockpile/album covers/crosby, stills & nash (1969) - crosby, stills & nash.jpg",
+    "3.0 — tags/psychedelic folk.md",
+    "3.0 — tags/contemporary folk.md",
+    "3.0 — tags/folk rock.md",
+    "0.1 — flash notes/vanisher, horizon scraper (2025) — quadeca.jpg.md",
+    "5.9 — bases/all tasks.base",
+    "0.1 — flash notes/post art on socmed.md",
+    "0.1 — flash notes/hapy holleeew to all spoky (films).md",
     "2.2 — creative projects/raven's brain/writing",
     "5.8 — database/films",
     "5.1 — images stockpile/others/the wailing (2016) dir. 나홍진 na hong-jin.jpg",
@@ -343,16 +395,11 @@
     "5.1 — images stockpile/kanji/首.jpg",
     "5.1 — images stockpile/kanji/飲.jpg",
     "5.1 — images stockpile/kanji/飯.jpg",
-    "5.1 — images stockpile/kanji/薬.jpg",
-    "5.1 — images stockpile/kanji/落.jpg",
-    "5.1 — images stockpile/kanji/菜.jpg",
     "2.2 — creative projects/raven's brain/visual",
     "1.5 — japanese/study notes/grammar points",
-    "0.1 — flash notes/all tasks.base",
     "tracked_files.json",
     "5.9 — bases/journal entries.base",
     "5.9 — bases/japanese content.base",
-    "5.1 — images stockpile/journals/4th journal (2023)",
-    "5.1 — images stockpile/journals/3rd journal (2019, 2020, 2021, 2022)"
+    "5.1 — images stockpile/journals/4th journal (2023)"
   ]
 }

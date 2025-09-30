@@ -1,0 +1,108 @@
+views:
+  - type: tasknotesTaskList
+    name: all tasks
+    filters:
+      and:
+        - file.hasTag("task")
+    order:
+      - file.name
+      - scheduled
+      - due
+      - priority
+      - recurrence
+      - status
+      - timeEntries
+      - timeEstimate
+    sort:
+      - property: priority
+        direction: ASC
+  - type: tasknotesTaskList
+    name: recurring
+    filters:
+      and:
+        - file.hasTag("task")
+        - file.hasProperty("recurrence")
+    order:
+      - file.name
+      - scheduled
+      - due
+      - priority
+      - recurrence
+      - status
+      - timeEntries
+      - timeEstimate
+    sort:
+      - property: priority
+        direction: ASC
+  - type: tasknotesTaskList
+    name: high priority
+    filters:
+      and:
+        - file.hasTag("task")
+        - priority == "high"
+    order:
+      - file.name
+      - scheduled
+      - due
+      - priority
+      - recurrence
+      - status
+      - timeEntries
+      - timeEstimate
+    sort:
+      - property: priority
+        direction: ASC
+  - type: tasknotesTaskList
+    name: normal priority
+    filters:
+      and:
+        - file.hasTag("task")
+        - priority == "normal"
+    order:
+      - file.name
+      - scheduled
+      - due
+      - priority
+      - recurrence
+      - status
+      - timeEntries
+      - timeEstimate
+    sort:
+      - property: priority
+        direction: ASC
+  - type: tasknotesTaskList
+    name: low priority
+    filters:
+      and:
+        - file.hasTag("task")
+        - priority == "low"
+    order:
+      - file.name
+      - scheduled
+      - due
+      - priority
+      - recurrence
+      - status
+      - timeEntries
+      - timeEstimate
+    sort:
+      - property: priority
+        direction: ASC
+  - type: tasknotesTaskList
+    name: no priority
+    filters:
+      and:
+        - file.hasTag("task")
+        - priority == "none"
+    order:
+      - file.name
+      - scheduled
+      - due
+      - priority
+      - recurrence
+      - status
+      - timeEntries
+      - timeEstimate
+    sort:
+      - property: priority
+        direction: ASC
