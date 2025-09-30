@@ -259,12 +259,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "7afe782eb0151b06",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -296,7 +306,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c1910ec96a1a720e",
+  "active": "7afe782eb0151b06",
   "lastOpenFiles": [
     "3.0 — tags/poetry.md",
     "1.5 — japanese/personal works/poems/木の拒否.md",
