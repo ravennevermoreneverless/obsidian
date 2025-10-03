@@ -31,6 +31,7 @@ rating: 10
 growth: "[[child]]"
 title: 新世紀エヴァンゲリオン
 artist: 庵野 秀明/Hideaki Anno
+dateCreated: "1995"
 ---
 ## PLOT
 

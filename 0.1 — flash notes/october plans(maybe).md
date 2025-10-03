@@ -3,9 +3,7 @@
 - workout daily (15-min)
 - start arting again
 - organize all notes to bases
-- "***Guitar Song***" — *Frou Frou* song cover
 - album listening a day (3-5 albums per day)
-- transcribe journal pages (consistent and in bulk)
 - be consistent with transactions (try adding formulas if it's possible)
 - better promotion techniques on socmed + more engagement
 - GET LAPTOP FIXED!!!!!
@@ -21,7 +19,15 @@
 	IMMERSION!!!!!! (meaningfully please)
 	recording every 10th 
 	art....(?)
-	JLPT every 20th
+	JLPT every 10th
 - level 1 book
 - 310 kanji <3
 - start journaling habit!!!!! (for memory retention)
+---
+- refer to japanese plans
+- transcribe journal pages
+	- ==week 1 of may==
+	- week 2 of may
+	- week 3 of may
+	- week 4 of may
+- "***Guitar Song***" — *Frou Frou* song cover

@@ -23,4 +23,14 @@ tagLinks:
   - "[[art]]"
   - "[[japanese]]"
   - "[[summer]]"
+  - "[[2017]]"
+growth: "[[child]]"
+dateCreated: 2017-08-07
+artType:
+  - "[[song]]"
+  - "[[music]]"
+mediumUsed:
+  - "[[digital]]"
+artStyle:
+  - "[[modern]]"
 ---

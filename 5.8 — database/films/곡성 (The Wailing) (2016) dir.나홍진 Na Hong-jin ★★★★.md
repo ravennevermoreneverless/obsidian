@@ -1,5 +1,5 @@
 ---
-title: The Wailing
+title: 곡성
 yearReleased: "2016"
 artist: 나홍진/Na Hong-jin
 dateWatched: 2023-06-09
@@ -15,6 +15,7 @@ tagLinks:
   - "[[art]]"
   - "[[2016]]"
   - "[[korean]]"
+  - "[[personal work]]"
 cast: 황정민/Hwang Jeong-min, 곽도원/Kwak Do-won, 國村隼/Jun Kunimura, 천우희/Chun Woo-hee, 김환희/Kim Hwan-hee
 filmList:
   - "[[hapy holleeew to all spoky (films)]]"
@@ -24,6 +25,20 @@ image: "[[the wailing (2016) dir. 나홍진 na hong-jin.jpg]]"
 complete_instances:
   - 2023-06-09
   - 2025-09-26
+language:
+  - korean
+  - japanese
+growth: "[[child]]"
+dateCreated: "2016"
+artType:
+  - "[[film]]"
+artStyle:
+  - "[[realism]]"
+  - "[[neo-noir]]"
+mediumUsed:
+  - "[[digital]]"
+  - "[[live action]]"
+translation: The Wailing
 ---
 ## PLOT
 

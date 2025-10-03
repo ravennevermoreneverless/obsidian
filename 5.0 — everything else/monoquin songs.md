@@ -1363,14 +1363,10 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1330. Don't Lose Your Mind — Alejandro Aranda : Sep 27, 2025
 1331. Perfectly Out of Place — Dreams We've Had : Sep 28, 2025
 1332. The Queen of Hearts — Duster : Sep 29, 2025
-
-1333 ξ Sep 30, 2025
-
-1334 ξ Oct 1, 2025
-
-1335 ξ Oct 2, 2025
-
-1336 ξ Oct 3, 2025
+1333. Find Me — Marshmello : Sep 30, 2025
+1334. Words — Gregory Alan Isakov : Oct 1, 2025
+1335. BETTER — TWICE : Oct 2, 2025
+1336. Simple — BBHF : Oct 3, 2025
 
 1337 ξ Oct 4, 2025
 

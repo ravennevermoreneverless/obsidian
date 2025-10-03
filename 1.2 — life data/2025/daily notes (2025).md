@@ -514,3 +514,11 @@ respond but I did eventually. But I played ROBLOX mostly with Chai in the daylig
 ==30 (Tue) — 00:11== Yesterday was a good day, because dad isn't home yet. We woke up and ate breakfast and started cleaning again. We ate lunch and spent the afternoon cleaning once more. I arranged my desk. During dinner, we all ate together and had many laughs. It's a good day. I even got to spend my PayPal balance to buy load for myself. 
 
 ==30 (Tue) — 22:30== Today was very tiring. I woke up and cooked breakfast. We all ate breakfast, took out the trash, then washed the dishes. Then I cooked rice, we went to the other house to bring dad food and we also got our own food. Went back home, ate lunch, washed the dishes, then went to the other house to clean and then bring back home lots of stuff. I ate first because ai was so hungry before showering. Chai seemed pissed off by this. I thought about all the films and animes saved in my laptop and flash drive that I might watch because we don't have Wi-Fi yet. 
+
+## October
+
+==1 (Wed) — 22:35== I used the laptop late midnight and did stuff on Obsidian. I prepared breakfast in the morning, studied Japanese when I woke up, ran a lot of errands and did chores, fucked Chai, watched ***Pridyider*** with Chai, did more errands and chores. 
+
+==2 (Thu) — 21:38== My brother woke me up early so I woke up early (and I slept early yesterday). I made breakfast, did my yesterday's pendings, then in the afternoon after studying a bit, Chai and I slept cuddling next to each other until 5 PM. We ate dinner, delivered dinner to dad, and I washed the dishes.
+
+==3 (Fri) — 21:41== Today was a very long day. I woke up at 6 AM. Chai and I worked out in our room early in the morning. Then I did lots of chores. I delivered food to my father. I went back home and studied Japanese. I thought I'd be finishing early but dad came to the house and told me to go buy faucets, it is raining. I got back home, TRIED to study, but did more errands, and then by 6 PM, I went out to buy food at Jollibee AND deliver food to dad AGAIN. All the while being overwhelmed and overstimulated and wanting to cry and break down due to frustration. We all ate dinner, had a few laughs, chatted the ***yuri ftw*** GC on Messenger then it's night time again. 

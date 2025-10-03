@@ -18,7 +18,7 @@
     "multilineReversedCardSeparator": "??",
     "multilineCardEndMarker": "",
     "editLaterTag": "#edit-later",
-    "enableNoteReviewPaneOnStartup": true,
+    "enableNoteReviewPaneOnStartup": false,
     "tagsToReview": [
       "#review"
     ],
@@ -27,7 +27,7 @@
     ],
     "openRandomNote": false,
     "autoNextNote": false,
-    "disableFileMenuReviewOptions": false,
+    "disableFileMenuReviewOptions": true,
     "maxNDaysNotesReviewQueue": 365,
     "showRibbonIcon": true,
     "showStatusBar": true,
@@ -40,7 +40,7 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
-    "openViewInNewTab": true,
+    "openViewInNewTab": false,
     "algorithm": "SM-2-OSR",
     "baseEase": 250,
     "lapsesIntervalChange": 0.25,

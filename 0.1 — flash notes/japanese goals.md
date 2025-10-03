@@ -11,7 +11,7 @@
 	- ==chapter 11==
 	- ==chapter 12==
 - Genki II
-	- chapter 13
+	- ==chapter 13==
 	- chapter 14
 	- chapter 15
 	- chapter 16
@@ -38,15 +38,21 @@
 	- chapter 13
 	- chapter 14
 	- chapter 15
-- 1,050 kanji
-- 5,990 words
 - ==Level 0==
 - ==Level 0(II)==
 - Level 1
 - Level 2
 - Level 3
 - JLPT N5 mock exams
+	- day 20
+	- day 30
+	- day 40
+	- day 50
 - JLPT N4 mock exams
+	- day 60
+	- day 70
+	- day 80
+	- day 90
 #### December, January, February, March, April, May, June :
 - Tobira: Gateway to Advanced Japanese
 	- chapter 1
@@ -66,8 +72,6 @@
 	- chapter 15
 - Kanzen Master Grammar N2
 	- 120 grammar points
-- 1,000 kanji
-- 4,000 words
 - Kanzen Master Grammar N1
 - Level 4
 - Level 5

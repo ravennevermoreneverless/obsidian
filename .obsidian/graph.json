@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "file:family",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.227448121300753,
+  "scale": 0.36968058532912695,
   "close": true
 }

@@ -2706,6 +2706,49 @@
 }
 
 
+/* ================================================
+   CODEMIRROR WIDGET UTILITIES
+   ================================================ */
+
+/**
+ * Widget Cursor Fix
+ *
+ * Minimal fix for CodeMirror widget artifacts.
+ * Only prevents editing inside widgets and hides visual artifacts.
+ * Does NOT hide the editor cursor to preserve normal editing experience.
+ *
+ * Fixes:
+ * - Prevents text selection inside widgets
+ * - Prevents contenteditable behavior
+ * - Hides widget buffer image artifacts
+ *
+ * Trade-offs:
+ * - Cursor may appear next to widgets (acceptable for normal editing UX)
+ * - Widget buffer artifacts are hidden
+ *
+ * Usage: Add .cm-widget-cursor-fix to your widget container element
+ */
+.cm-widget-cursor-fix {
+    /* Prevent text selection and editing inside widget */
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+
+    /* Prevent contenteditable behavior */
+    -webkit-user-modify: read-only;
+    -moz-user-modify: read-only;
+
+    /* Ensure no text cursor appears inside widget elements */
+    caret-color: transparent;
+}
+
+/* Hide CodeMirror widgetBuffer image artifacts only */
+.cm-content > .cm-line:has(.cm-widget-cursor-fix) img.cm-widgetBuffer {
+    display: none !important;
+}
+
+
 /* ===== BASE.CSS ===== */
 /* Reduced motion support - scope to TaskNotes components only */
 @media (prefers-reduced-motion: reduce) {
@@ -2874,6 +2917,14 @@
     word-break: break-word;
     white-space: normal;
     transition: color 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: var(--tn-spacing-sm);
+}
+
+.tasknotes-plugin .task-card__title-text {
+    flex: 1;
+    min-width: 0;
 }
 
 .tasknotes-plugin .task-card__metadata {
@@ -2894,6 +2945,33 @@
     align-items: center;
     gap: var(--tn-spacing-xs);
     white-space: nowrap;
+}
+
+.tasknotes-plugin .task-card__metadata-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--tn-spacing-xs);
+    padding: 2px var(--tn-spacing-sm);
+    border-radius: var(--tn-radius-lg);
+    font-size: var(--tn-font-size-sm);
+    line-height: 1.2;
+    font-weight: 500;
+    background: var(--tn-bg-secondary);
+    color: var(--tn-text-muted);
+    border: 1px solid var(--tn-border-subtle);
+}
+
+.tasknotes-plugin .task-card__metadata-pill--blocked {
+    background: color-mix(in srgb, var(--tn-color-error) 75%, var(--tn-bg-primary));
+    color: var(--tn-bg-primary);
+    border-color: color-mix(in srgb, var(--tn-color-error) 85%, var(--tn-bg-primary));
+    padding-inline: var(--tn-spacing-md);
+}
+
+.tasknotes-plugin .task-card__metadata-pill--blocking {
+    background: transparent;
+    color: var(--tn-color-error);
+    border-color: color-mix(in srgb, var(--tn-color-error) 70%, transparent);
 }
 
 .tasknotes-plugin .task-card__metadata-separator {
@@ -3015,7 +3093,7 @@
 .tasknotes-plugin .task-card__recurring-indicator {
     position: absolute;
     top: 8px;
-    right: 26px;
+    right: 20px;
     width: 16px;
     height: 16px;
     color: var(--tn-text-muted);
@@ -3050,7 +3128,7 @@
     position: absolute;
     top: 8px;
     width: 16px;
-    right: 44px;
+    right: 40px;
     height: 16px;
     color: var(--tn-text-muted);
     opacity: 0.8;
@@ -3080,7 +3158,7 @@
 .tasknotes-plugin .task-card__project-indicator {
     position: absolute;
     top: 8px;
-    right: 62px;
+    right: 60px;
     width: 16px;
     height: 16px;
     color: var(--tn-text-muted);
@@ -3109,7 +3187,7 @@
 .tasknotes-plugin .task-card__chevron {
     position: absolute;
     top: 8px;
-    right: 80px; /* Position after project indicator */
+    right: 100px; /* Position after blocking toggle */
     width: 16px;
     height: 16px;
     color: var(--tn-text-muted);
@@ -3154,6 +3232,43 @@
     transform: rotate(90deg);
 }
 
+.tasknotes-plugin .task-card__blocking-toggle {
+    position: absolute;
+    top: 8px;
+    right: 80px;
+    width: 16px;
+    height: 16px;
+    color: var(--tn-text-muted);
+    opacity: 0.8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: color var(--tn-transition-fast), background var(--tn-transition-fast), opacity var(--tn-transition-fast);
+    border-radius: var(--radius-s);
+    padding: 2px;
+}
+
+.tasknotes-plugin .task-card__blocking-toggle:hover {
+    opacity: 1;
+    color: var(--interactive-accent);
+    background: var(--background-modifier-hover);
+}
+
+.tasknotes-plugin .task-card__blocking-toggle svg {
+    width: 16px;
+    height: 16px;
+}
+
+.tasknotes-plugin .task-card__blocking-toggle--expanded {
+    color: var(--interactive-accent);
+    opacity: 1;
+}
+
+.tasknotes-plugin .task-card__blocking-toggle.is-hidden {
+    display: none;
+}
+
 /* Left-position variant for subtask chevron */
 .tasknotes-plugin .task-card.task-card--chevron-left {
     /* Reserve gutter for a 24x24 chevron plus spacing */
@@ -3184,6 +3299,28 @@
 .tasknotes-plugin .task-card--subtask {
     background: color-mix(in srgb, var(--tn-bg-secondary) 30%, transparent);
     border-radius: var(--tn-radius-xs);
+}
+
+.tasknotes-plugin .task-card__blocking {
+    margin-left: 20px;
+    margin-top: 6px;
+    border-left: 2px dashed var(--tn-border-color);
+    padding-left: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.tasknotes-plugin .task-card--dependency {
+    background: color-mix(in srgb, var(--tn-bg-secondary) 20%, transparent);
+    border-radius: var(--tn-radius-xs);
+}
+
+.tasknotes-plugin .task-card__blocking-loading,
+.tasknotes-plugin .task-card__blocking-empty {
+    font-size: var(--tn-font-size-sm);
+    color: var(--tn-text-muted);
+    font-style: italic;
 }
 
 .tasknotes-plugin .task-card--subtask:hover {
@@ -3660,8 +3797,6 @@
     0% { background-position: 0 0; }
     100% { background-position: 8px 8px; }
 }
-
-
 
 
 /* ===== TASK-INLINE-WIDGET.CSS ===== */
@@ -7227,6 +7362,7 @@
     color: var(--text-muted);
 }
 
+
 /* =====================================================================
    ADDITIONAL FIELDS - SETTINGS STYLE
    ===================================================================== */
@@ -7705,6 +7841,15 @@
     font-size: var(--font-ui-small);
 }
 
+.tasknotes-plugin .task-project-item--unresolved {
+    border: 1px solid var(--color-orange);
+    background: color-mix(in srgb, var(--color-orange) 12%, var(--background-secondary));
+}
+
+.tasknotes-plugin .task-project-item--unresolved .task-project-name {
+    color: var(--color-orange);
+}
+
 /* Make clickable project names in edit modal look and behave like links */
 .tasknotes-plugin .clickable-project .internal-link {
     color: var(--link-color);
@@ -7728,6 +7873,24 @@
     content: '+';
     color: var(--text-muted);
     margin-right: 2px;
+}
+
+/* Style dependency items the same way when rendered as internal links */
+.tasknotes-plugin .clickable-dependency .task-dependency-link {
+    color: var(--link-color);
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: var(--font-weight-medium);
+    font-size: var(--font-ui-small);
+    border-radius: var(--radius-xs);
+    padding: 1px 2px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.tasknotes-plugin .clickable-dependency .task-dependency-link:hover {
+    background-color: var(--background-modifier-hover);
+    color: var(--link-color-hover);
+    text-decoration: underline;
 }
 
 .tasknotes-plugin .task-project-path {
@@ -9447,86 +9610,10 @@
     border: 1px dashed var(--background-modifier-border-hover);
     border-radius: var(--radius-s);
     clear: both;
-    position: relative;
     z-index: 10; /* Higher z-index to allow dropdowns to appear above other content */
-    
+
     /* Allow filter dropdowns to extend beyond widget boundaries */
     overflow: visible !important;
-    
-    /* Prevent cursor and editing issues */
-    pointer-events: auto;
-    user-select: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    cursor: default;
-    
-    /* Prevent contenteditable behavior */
-    -webkit-user-modify: read-only;
-    -moz-user-modify: read-only;
-    
-    /* Ensure no text cursor appears */
-    caret-color: transparent;
-    outline: none;
-}
-
-/* Hide CodeMirror widgetBuffer img when it's adjacent to our widget and our widget is on top of note (not last-child) */
-.cm-content > .cm-line:not(:last-child):has(.project-note-subtasks) img.cm-widgetBuffer {
-    display: none !important;
-}
-
-/* Hide CodeMirror cursor when it's adjacent to our widget */
-.cm-line:has(.project-note-subtasks) .cm-cursor,
-.cm-line:has(.project-note-subtasks) + .cm-line .cm-cursor {
-    display: none !important;
-}
-
-/* Alternative approach - hide cursor specifically around widget */
-.project-note-subtasks + .cm-cursor,
-.project-note-subtasks ~ .cm-cursor {
-    display: none !important;
-}
-
-/* Hide cursor when widget is in focus context */
-.cm-focused .cm-line:has(.project-note-subtasks) .cm-cursor {
-    display: none !important;
-}
-
-/* More specific cursor hiding using new class and data attribute */
-.cm-line:has(.project-subtasks-widget) .cm-cursor,
-.cm-line:has([data-widget-type="project-subtasks"]) .cm-cursor {
-    display: none !important;
-}
-
-/* Hide any cursor that appears after our widget */
-.project-subtasks-widget ~ .cm-cursor,
-[data-widget-type="project-subtasks"] ~ .cm-cursor {
-    display: none !important;
-}
-
-/* Ensure widget creates proper isolation from editor cursor */
-.project-subtasks-widget {
-    isolation: isolate;
-    z-index: 10;
-    position: relative;
-}
-
-/* Hide cursor in the entire editor when widget is present and focused */
-.cm-editor:has(.project-subtasks-widget) .cm-cursor {
-    opacity: 0 !important;
-    visibility: hidden !important;
-}
-
-/* Comprehensive cursor hiding - use as fallback */
-.cm-content:has(.project-subtasks-widget) .cm-cursor,
-.cm-scroller:has(.project-subtasks-widget) .cm-cursor {
-    display: none !important;
-}
-
-/* Target cursor by position relative to widget */
-.project-subtasks-widget + * .cm-cursor,
-.project-subtasks-widget ~ * .cm-cursor {
-    display: none !important;
 }
 
 .tasknotes-plugin .project-note-subtasks__header {
@@ -9825,6 +9912,22 @@
 }
 
 
+/* ===== TASK-CARD-NOTE-WIDGET.CSS ===== */
+/* Task Card Note Widget - minimal widget for inline task cards in notes */
+
+.task-card-note-widget {
+    display: block;
+    border-radius: var(--radius-s);
+    border: 1px solid var(--background-modifier-border);
+    margin: var(--cs-spacing-md) 0;
+    padding: var(--cs-spacing-sm);
+}
+
+.task-card-note-widget__card {
+    /* Reset margins for the inner task card */
+    margin: 0 !important;
+}
+
 /* ===== TASK-LIST-VIEW.CSS ===== */
 /* ================================================
    TASK LIST VIEW - BEM STRUCTURE
@@ -9960,6 +10063,14 @@
     margin-right: 0;
 }
 
+
+/* Right side of group header: count + subgroup actions */
+.tasknotes-plugin .task-list-view__group-header { display:flex; align-items:center; }
+.tasknotes-plugin .task-group-right { margin-left:auto; display:flex; align-items:center; gap: var(--tn-spacing-xs); }
+
+/* Override count margin when inside right-side container */
+.tasknotes-plugin .task-group-right .agenda-view__item-count { margin-left: 0; margin-right: 0; }
+
 /* Chevron/toggle styles (match preview-all) */
 .tasknotes-plugin .task-group-header { cursor: pointer; }
 .task-group-header { display: flex; align-items: center; justify-content: flex-start; gap: var(--tn-spacing-xs); }
@@ -9972,6 +10083,25 @@
 .tasknotes-plugin .task-group .task-group-toggle .chevron,
 .tasknotes-plugin .task-group .task-group-toggle svg { transform: rotate(90deg); }
 .tasknotes-plugin .task-group.is-collapsed .task-cards { display: none; }
+
+/* Subgroup styles and chevron behavior */
+.tasknotes-plugin .task-subgroups-container { margin-left: var(--tn-spacing-lg); }
+.tasknotes-plugin .task-subgroup-header { display:flex; align-items:center; gap: var(--tn-spacing-xs); cursor: pointer; padding: 2px 0; font-size: var(--tn-font-size-lg); font-weight: var(--tn-font-weight-medium); }
+.tasknotes-plugin .task-subgroup-header .agenda-view__item-count { margin-left: auto; }
+.tasknotes-plugin .task-subgroup-toggle { display: contents; align-items:center; justify-content:center; width:16px; height:16px; border:none; background:transparent; color: var(--tn-text-normal); font-size: 12px; line-height: 1; }
+.tasknotes-plugin .task-subgroup-toggle .chevron { transition: transform var(--tn-transition-fast); }
+.tasknotes-plugin .task-subgroup .task-subgroup-toggle .chevron,
+.tasknotes-plugin .task-subgroup .task-subgroup-toggle svg { transform: rotate(90deg); }
+.tasknotes-plugin .task-subgroup.is-collapsed .task-subgroup-toggle .chevron,
+.tasknotes-plugin .task-subgroup.is-collapsed .task-subgroup-toggle svg { transform: rotate(0deg); }
+.tasknotes-plugin .task-subgroup.is-collapsed .task-cards { display: none; }
+.tasknotes-plugin .task-group.is-collapsed .task-subgroups-container { display: none; }
+
+/* Per-group subgroup actions */
+.tasknotes-plugin .task-subgroup-actions { display:flex; align-items:center; gap: 4px; margin-left: 0; }
+.tasknotes-plugin .task-subgroup-action { border:none; background:transparent; color: var(--tn-text-muted); cursor:pointer; padding: 0; }
+.tasknotes-plugin .task-subgroup-action:hover { color: var(--tn-text-normal); }
+
 
 .tasknotes-plugin .task-list-view__project-link {
     color: var(--tn-text-normal);
@@ -10081,15 +10211,15 @@
 }
 
 @keyframes task-update {
-    0% { 
+    0% {
         background-color: var(--tn-bg-primary);
         transform: scale(1);
     }
-    20% { 
+    20% {
         background-color: var(--tn-interactive-accent-hover);
         transform: scale(1.02);
     }
-    100% { 
+    100% {
         background-color: var(--tn-bg-primary);
         transform: scale(1);
     }
@@ -10102,17 +10232,17 @@
         padding: var(--tn-spacing-xs);
         gap: var(--tn-spacing-xs);
     }
-    
+
     .tasknotes-plugin .task-list-view__header {
         flex-direction: column;
         align-items: stretch;
         gap: var(--tn-spacing-sm);
     }
-    
+
     .tasknotes-plugin .task-list-view__actions {
         justify-content: center;
     }
-    
+
     .tasknotes-plugin .task-list-view__add-button {
         width: 100%;
         max-width: 200px;
@@ -10124,15 +10254,15 @@
         font-size: var(--tn-font-size-md);
         padding: var(--tn-spacing-sm) 0 var(--tn-spacing-xs);
     }
-    
+
     .tasknotes-plugin .task-list-view__empty {
         padding: var(--tn-spacing-lg);
     }
-    
+
     .tasknotes-plugin .task-list-view__empty-title {
         font-size: var(--tn-font-size-md);
     }
-    
+
     .tasknotes-plugin .task-list-view__empty-description {
         font-size: var(--tn-font-size-sm);
     }

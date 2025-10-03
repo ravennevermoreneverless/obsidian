@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7acdb4fc68e599e4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "tasknotes-agenda-view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "tasknotes-agenda-view"
-            }
-          },
-          {
             "id": "0fb03ea5fd2f9e7d",
             "type": "leaf",
             "pinned": true,
@@ -72,25 +60,24 @@
             }
           },
           {
-            "id": "6c0690121a05ed62",
+            "id": "f80a8eb5f2541807",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "5.9 — bases/personal artworks.base",
-                "viewName": "2012"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "personal artworks"
+              "type": "tasknotes-agenda-view",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-clock",
+              "title": "Agenda"
             }
           },
           {
-            "id": "09c2a023d99360f6",
+            "id": "d061ba7f97d1db32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
+                "file": "1.2 — life data/journaling/2025/3rd of October, 2025 — 21.49 (Fri) ★ exhaustion at jollibee.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -105,35 +92,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ここは痛みのない世界だと思ってた"
-            }
-          },
-          {
-            "id": "1328b9b8cdb535ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.5 — japanese/study notes/grammar points/Verb Types and the Present Tense (N5).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Verb Types and the Present Tense (N5)"
+              "title": "3rd of October, 2025 — 21.49 (Fri) ★ exhaustion at jollibee"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,7 +206,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "5.0 — everything else/(500) Days of Summer (2009) dir. Marc Webb.md",
+            "file": "0.1 — flash notes/japanese goals.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -257,9 +220,9 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "5.0 — everything else/(500) Days of Summer (2009) dir. Marc Webb.md",
+            "file": "1.2 — life data/journaling/2025/3rd of October, 2025 — 21.49 (Fri) ★ exhaustion at jollibee.md",
             "followCursor": false,
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": ""
           },
           "icon": "lucide-list",
@@ -12395,7 +12358,9 @@
         "type": "leaf",
         "state": {
           "type": "file-properties",
-          "state": {},
+          "state": {
+            "file": "0.1 — flash notes/japanese goals.md"
+          },
           "icon": "lucide-info",
           "title": "File properties"
         }
@@ -13466,12 +13431,292 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "dc5dab8de83b55cf",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "3aa097cb40fa51f9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ffe60c636eba0af8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6f76c230518e773b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "fed9d6cb8dd5db9b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d40bbfb319cb5f31",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d39ce035dd1d534e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5c8824729208e59d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c3905f9ebdad09f2",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "675077c90c2a363b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7f8a535bd3448770",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d2db4b265c1249bd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5d668bc148552f4b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ad1bc4d4601d7b20",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "47e4aa97703f4b02",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "4314d6d92f3bdaeb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d2e9511ff8e2f0f5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "313df757c38ed052",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8024a8246014ac77",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c9281440b5fee4e8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d23ad5d5a6c96a98",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c80cb200c379716a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "536b9df0d1284808",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6f40d3b95490889d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "19f4368ccd1157d1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b6747b213b50d279",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d1d4f2c86b918069",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "8d339c8fc43f4d06",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       }
     ],
-    "currentTab": 1200
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -13498,53 +13743,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1328b9b8cdb535ac",
+  "active": "f80a8eb5f2541807",
   "lastOpenFiles": [
-    "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
-    "1.5 — japanese/study notes/grammar points/～く or ～に (Using Adjectives as Adverbs) (N4).md",
-    "1.5 — japanese/study notes/grammar points/一週間いっしゅうかんに三回さんかい (periodにfrequency) (N4).md",
-    "1.5 — japanese/study notes/grammar points/なら (N4).md",
-    "1.5 — japanese/study notes/grammar points/～てみる (N4).md",
-    "1.5 — japanese/study notes/grammar points/～そうです (It looks like...) (N4).md",
-    "1.5 — japanese/study notes/grammar points/～し (N4).md",
-    "1.5 — japanese/study notes/grammar points/Potential Verbs (N4).md",
+    "5.0 — everything else/monoquin songs.md",
+    "5.8 — database/dailies/2025-10-03.md",
+    "1.2 — life data/journaling/2025/3rd of October, 2025 — 21.49 (Fri) ★ exhaustion at jollibee.md",
     "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/dailies/2025-09-30.md",
-    "5.9 — bases/personal artworks.base",
-    "1.0 — immediate notes/templates/the ultimate playlist of my life RYM list format.md",
-    "1.0 — immediate notes/templates/songs the complete list RYM list format.md",
-    "0.1 — flash notes/october plans(maybe).md",
+    "5.8 — database/albums/Below the Salt (1972) — Steeleye Span ★★★.md",
+    "3.0 — tags/folk.md",
+    "3.0 — tags/folklore.md",
+    "3.0 — tags/1972.md",
+    "3.0 — tags/progressive folk.md",
+    "3.0 — tags/irish folk music.md",
+    "3.0 — tags/english folk music.md",
+    "3.0 — tags/british folk rock.md",
+    "5.1 — images stockpile/album covers/below the salt (1972) — steeeye span.jpg",
+    "5.9 — bases/all the kanji.base",
+    "5.8 — database/kanji/引.md",
+    "5.8 — database/kanji/押.md",
+    "5.8 — database/kanji/閉.md",
+    "5.8 — database/kanji/開.md",
+    "5.8 — database/kanji/遅.md",
+    "5.8 — database/kanji/速.md",
+    "5.8 — database/kanji/重.md",
+    "5.8 — database/kanji/軽.md",
+    "5.8 — database/kanji/弱.md",
+    "5.8 — database/kanji/強.md",
+    "5.8 — database/kanji/短.md",
+    "5.8 — database/kanji/便 1.md",
+    "5.1 — images stockpile/kanji/引.jpg",
+    "1.0 — immediate notes/file cooker.md",
+    "5.1 — images stockpile/kanji/押.jpg",
+    "5.1 — images stockpile/kanji/閉.jpg",
+    "5.1 — images stockpile/kanji/開.jpg",
+    "5.1 — images stockpile/kanji/遅.jpg",
+    "5.1 — images stockpile/kanji/速.jpg",
+    "5.1 — images stockpile/kanji/軽.jpg",
+    "5.1 — images stockpile/kanji/重.jpg",
+    "5.1 — images stockpile/kanji/弱.jpg",
+    "1.5 — japanese/study notes/grammar points/Number+もNumber+しか+Negative (N4).md",
     "5.9 — bases/japanese content.base",
-    "1.5 — japanese/study notes/grammar points/～でしょう(か) (N5).md",
-    "1.5 — japanese/study notes/grammar points/～なければいけません or ～なきゃいけません (N4).md",
-    "1.5 — japanese/study notes/grammar points/～ので (N5).md",
-    "1.5 — japanese/study notes/grammar points/～ほうがいいです (N5).md",
-    "1.5 — japanese/study notes/grammar points/～すぎる (N5).md",
-    "1.5 — japanese/study notes/grammar points/～んです (N5).md",
-    "1.5 — japanese/study notes/grammar points/Noun AやNoun B (N5).md",
-    "1.5 — japanese/study notes/grammar points/～ことがある (N4).md",
-    "1.5 — japanese/study notes/grammar points/～たり～たりする (N5).md",
-    "1.5 — japanese/study notes/grammar points/～たい (N5).md",
-    "1.5 — japanese/study notes/grammar points/で (N5).md",
-    "1.5 — japanese/study notes/grammar points/どこかに-どこにも (N4).md",
-    "1.5 — japanese/study notes/grammar points/Adjective+なる (N5).md",
+    "5.9 — bases/personal artworks.base",
+    "5.9 — bases/all tasks.base",
+    "5.9 — bases/all the films i watched.base",
+    "5.9 — bases/albums i listened to.base",
     "0.1 — flash notes/all tasks.base",
-    "5.1 — images stockpile/art/2014/2014 - natau dragneel (3).jpeg",
     "Untitled",
     "1.5 — japanese/study notes/grammar points",
-    "5.1 — images stockpile/art/2012/2012 — vocaloid fanart - meiko, luka, rin, miku, len, kaito.jpeg",
-    "5.1 — images stockpile/art/2012/2012 - hatsune mikuo & hatsune miku.jpeg",
-    "5.9 — bases/albums i listened to.base",
-    "5.1 — images stockpile/album covers/farewell superstar (2025) — alejandro aranda.jpg",
-    "5.9 — bases/all the films i watched.base",
-    "5.1 — images stockpile/others/the wailing (2016) dir. 나홍진 na hong-jin.jpg",
-    "5.9 — bases/all the kanji.base",
-    "5.1 — images stockpile/kanji/物.jpg",
-    "5.1 — images stockpile/kanji/荷.jpg",
-    "5.1 — images stockpile/kanji/品.jpg",
-    "5.1 — images stockpile/kanji/電.jpg",
-    "5.1 — images stockpile/kanji/具.jpg",
-    "genkk",
-    "5.9 — bases/every transaction.base"
+    "genkk"
   ]
 }

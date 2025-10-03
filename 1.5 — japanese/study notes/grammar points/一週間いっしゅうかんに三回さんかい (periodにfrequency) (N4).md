@@ -5,7 +5,7 @@ tagLinks:
   - "[[study]]"
   - "[[grammar]]"
   - "[[japanese]]"
-source: "Genki I: An Integrated Approach to Elementary Japanese"
+source: "Genki II: An Integrated Course in Elementary Japanese"
 translation: per; a
 ---
 ### 英訳えいやく	
@@ -16,10 +16,10 @@ per; a
 periodにfrequency
 ### 例文れいぶん
 
-A: *一週間いっしゅうかんに何回なんかい髪かみを洗あらいますか* How many times a week do you shampoo?
-B: *私わたしは一週間いっしゅうかんに三回さんかい髪かみを洗あらいます* I shampoo three times a week.
+A: *一週間何回髪を洗いますか* How many times a week do you shampoo?
+B: *私わたしは一週間に三回髪を洗います* I shampoo three times a week.
 
-*一日いちにちに三時間さんじかんぐらいゲームをします* I play games for about three hours a day.
-*一ヶ月いっかげつに三日みっかか四日よっか、アルバイトをします* I work part-time three or four days a month.
+*一日に三時間ぐらいゲームをします* I play games for about three hours a day.
+*一ヶ月に三日か四日、アルバイトをします* I work part-time three or four days a month.
 ### ノート
 

@@ -26,7 +26,7 @@ complete_instances:
   - 2024-05-25
   - 2025-09-25
 difficulty: 1
-dateCreated: "2016"
+dateCreated: 2016-10-14
 artType:
   - "[[film]]"
 mediumUsed:
@@ -35,6 +35,8 @@ artStyle:
   - "[[computer animation]]"
   - "[[anime]]"
 growth: "[[child]]"
+language:
+  - japanese
 ---
 ## PLOT
 

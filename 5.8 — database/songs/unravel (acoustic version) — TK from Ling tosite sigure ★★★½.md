@@ -23,4 +23,15 @@ tagLinks:
   - "[[suffocation]]"
   - "[[confusion]]"
   - "[[insanity]]"
+  - "[[2015]]"
+growth: "[[child]]"
+dateCreated: 2015-05-20
+artType:
+  - "[[song]]"
+  - "[[music]]"
+mediumUsed:
+  - "[[digital]]"
+artStyle:
+  - "[[modern]]"
+  - "[[melodic]]"
 ---

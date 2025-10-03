@@ -5,7 +5,7 @@ tagLinks:
   - "[[study]]"
   - "[[grammar]]"
   - "[[japanese]]"
-source: "Genki I: An Integrated Approach to Elementary Japanese"
+source: "Genki II: An Integrated Course in Elementary Japanese"
 translation: can do/cannot do
 ---
 ### 英訳えいやく	

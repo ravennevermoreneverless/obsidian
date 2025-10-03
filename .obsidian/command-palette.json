@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "insert-template",
+    "file-explorer:move-file",
+    "app:delete-file",
+    "obsidian-spaced-repetition:srs-review-flashcards-in-note",
+    "obsidian-file-cooker:move-links-to"
+  ]
+}
