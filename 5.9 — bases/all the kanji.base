@@ -39,3 +39,91 @@ views:
       note.onYomi: 144
       note.kunYomi: 211
     rowHeight: tall
+  - type: cards
+    name: N5
+    filters:
+      and:
+        - file.folder == "5.8 — database/kanji"
+        - level == "N5"
+    order:
+      - file.name
+      - level
+      - onYomi
+      - kunYomi
+      - kanjiMeaning
+      - image
+      - tagLinks
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 150
+    image: note.image
+    imageAspectRatio: 1
+    columnSize:
+      file.name: 21
+  - type: cards
+    name: N4
+    filters:
+      and:
+        - file.folder == "5.8 — database/kanji"
+        - level == "N4"
+    order:
+      - file.name
+      - level
+      - onYomi
+      - kunYomi
+      - kanjiMeaning
+      - image
+      - tagLinks
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 150
+    image: note.image
+    imageAspectRatio: 1
+    columnSize:
+      file.name: 21
+  - type: cards
+    name: N3
+    filters:
+      and:
+        - file.folder == "5.8 — database/kanji"
+        - level == "N3"
+    order:
+      - file.name
+      - level
+      - onYomi
+      - kunYomi
+      - kanjiMeaning
+      - image
+      - tagLinks
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 150
+    image: note.image
+    imageAspectRatio: 1
+    columnSize:
+      file.name: 21
+  - type: cards
+    name: N2
+    filters:
+      and:
+        - file.folder == "5.8 — database/kanji"
+        - level == "N2"
+    order:
+      - file.name
+      - level
+      - onYomi
+      - kunYomi
+      - kanjiMeaning
+      - image
+      - tagLinks
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 150
+    image: note.image
+    imageAspectRatio: 1
+    columnSize:
+      file.name: 21

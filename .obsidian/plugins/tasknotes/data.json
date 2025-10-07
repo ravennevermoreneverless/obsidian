@@ -204,7 +204,7 @@
     "isRunning": false,
     "timeRemaining": 1500
   },
-  "lastPomodoroDate": "2025-10-01",
+  "lastPomodoroDate": "2025-10-05",
   "pomodoroHistory": [
     {
       "id": "1753856584085",
@@ -265,5 +265,7 @@
   },
   "enableBases": true,
   "uiLanguage": "system",
-  "showTaskCardInNote": true
+  "showTaskCardInNote": true,
+  "useFrontmatterMarkdownLinks": false,
+  "lastSeenVersion": "3.25.0"
 }

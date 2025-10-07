@@ -11,7 +11,6 @@ tagLinks:
   - "[[art]]"
   - "[[philippines]]"
   - "[[2012]]"
-  - "[[personal work]]"
 cast: Joel Torre, JM De Guzman, Andi Eigenmann
 filmList:
 fuckedUpMeter: 29

@@ -106,3 +106,20 @@ views:
     sort:
       - property: priority
         direction: ASC
+  - type: tasknotesTaskList
+    name: all tasks (calendar)
+    filters:
+      and:
+        - file.hasTag("task")
+    order:
+      - file.name
+      - scheduled
+      - due
+      - priority
+      - recurrence
+      - status
+      - timeEntries
+      - timeEstimate
+    sort:
+      - property: priority
+        direction: ASC

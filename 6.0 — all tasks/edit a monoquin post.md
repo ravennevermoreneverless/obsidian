@@ -6,9 +6,9 @@ contexts:
   - monoquin
   - personal
 timeEstimate: 60
-recurrence: DTSTART:20250820;FREQ=DAILY;INTERVAL=1
+recurrence: FREQ=WEEKLY;BYDAY=SA,SU
 dateCreated: 2025-07-23T00:22:15.891+08:00
-dateModified: 2025-09-22T22:55:37.766+08:00
+dateModified: 2025-10-05T01:23:01.211+08:00
 tags:
   - task
 timeEntries:
@@ -49,7 +49,8 @@ complete_instances:
   - 2025-09-20
   - 2025-09-21
   - 2025-09-22
+  - 2025-10-05
 projects: []
-scheduled: 2025-09-23
+scheduled: 2025-10-06
 ---
 

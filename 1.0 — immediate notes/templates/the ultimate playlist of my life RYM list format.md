@@ -6,4 +6,4 @@
 
 [Youtube BTLsV40FqE0]
 
-moving houses, trying to record a japanese speaking video but is too shy, cleaning the walls, dirty bathroom and claustrophobia, which one goes first?, out of water, something outside like a rain tapping, weird noises, ₱200 load from recharge dot come using paypal 
+moving houses, trying to record a japanese speaking video but is too shy, cleaning the walls, dirty bathroom and claustrophobia, which one goes first?, out of water, something outside like a rain tapping, weird noises, ₱200 load from recharge dot come using paypal, asperger's syndrome validation from my mother and entire family, revisiting marvel (again), weekends off, installed the internet with 800mbps for 24 months, shimagurashi japanese penpal, why do i feel like everything i do is wrong?, 

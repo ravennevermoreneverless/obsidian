@@ -7,5 +7,6 @@
   "cssTheme": "Red-Shadow",
   "enabledCssSnippets": [
     "fonts"
-  ]
+  ],
+  "baseFontSizeAction": true
 }

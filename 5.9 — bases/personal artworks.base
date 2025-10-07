@@ -16,8 +16,8 @@ views:
       - growth
       - image
     sort:
-      - property: dateCreated
-        direction: ASC
+      - property: file.ctime
+        direction: DESC
     columnSize:
       note.title: 339
       note.artist: 106
@@ -50,6 +50,20 @@ views:
     filters:
       and:
         - tagLinks.containsAll(link("2012"), link("personal work"), link("art"))
+    order:
+      - title
+    sort:
+      - property: file.ctime
+        direction: DESC
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 220
+  - type: cards
+    name: "2013"
+    filters:
+      and:
+        - tagLinks.containsAll(link("personal work"), link("art"), link("2013"))
     order:
       - title
     sort:

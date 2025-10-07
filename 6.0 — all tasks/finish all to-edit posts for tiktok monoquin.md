@@ -4,9 +4,9 @@ priority: normal
 contexts:
   - monoquin
   - personal
-recurrence: DTSTART:20250804T235629Z;FREQ=DAILY;INTERVAL=1
+recurrence: DTSTART:20251004;FREQ=WEEKLY;BYDAY=SA,SU
 dateCreated: 2025-08-04T23:56:29.212+08:00
-dateModified: 2025-09-22T22:55:25.983+08:00
+dateModified: 2025-10-05T14:20:07.025+08:00
 tags:
   - task
 complete_instances:
@@ -31,7 +31,8 @@ complete_instances:
   - 2025-09-20
   - 2025-09-21
   - 2025-09-22
+  - 2025-10-05
 projects: []
-scheduled: 2025-09-23
+scheduled: 2025-10-11
 ---
 

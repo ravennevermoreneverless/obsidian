@@ -13,7 +13,6 @@ tagLinks:
   - "[[album]]"
   - "[[music]]"
   - "[[art]]"
-  - "[[personal work]]"
 dateListened: 2025-10-01
 language:
   - english

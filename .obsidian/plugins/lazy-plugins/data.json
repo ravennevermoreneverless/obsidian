@@ -2,10 +2,10 @@
   "dualConfigs": false,
   "showConsoleLog": false,
   "desktop": {
-    "shortDelaySeconds": 3,
+    "shortDelaySeconds": 5,
     "longDelaySeconds": 15,
     "delayBetweenPlugins": 40,
-    "defaultStartupType": null,
+    "defaultStartupType": "short",
     "showDescriptions": true,
     "enableDependencies": false,
     "plugins": {
@@ -79,7 +79,22 @@
         "startupType": "disabled"
       },
       "obsidian-linter": {
+        "startupType": "long"
+      },
+      "editing-toolbar": {
         "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "instant"
+      },
+      "obsidian-scroll-to-top-plugin": {
+        "startupType": "short"
+      },
+      "automatic-table-of-contents": {
+        "startupType": "long"
+      },
+      "file-explorer-note-count": {
+        "startupType": "short"
       }
     }
   }

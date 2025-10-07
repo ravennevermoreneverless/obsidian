@@ -1,8 +1,8 @@
-- [x] clean artwork
-- [x] add signature
-- [x] instagram 
-- [x] tiktok
-- [x] twitter
+- [ ] clean artwork
+- [ ] add signature
+- [ ] instagram 
+- [ ] tiktok
+- [ ] twitter
 - [ ] youtube post
 - [ ] pinterest
 - [ ] reddit

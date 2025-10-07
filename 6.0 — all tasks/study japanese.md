@@ -6,9 +6,9 @@ contexts:
   - obsidian
   - study
 timeEstimate: 10000
-recurrence: DTSTART:20250820;FREQ=DAILY;INTERVAL=1
+recurrence: DTSTART:20251006;FREQ=WEEKLY;BYDAY=MO,WE,TU,TH,FR
 dateCreated: 2025-08-03T18:33:18.832+08:00
-dateModified: 2025-10-03T21:30:41.155+08:00
+dateModified: 2025-10-05T01:23:48.137+08:00
 tags:
   - course
   - japanese
@@ -51,12 +51,13 @@ complete_instances:
   - 2025-10-01
   - 2025-10-02
   - 2025-10-03
+  - 2025-10-04
 timeEntries:
   - startTime: 2025-08-07T16:17:32.375+08:00
     description: Work session
     endTime: 2025-08-07T17:47:25.456+08:00
-due: 2026-07-29
-scheduled: 2025-10-04
+due: 2026-07-31
+scheduled: 2025-10-06
 projects: []
 ---
 

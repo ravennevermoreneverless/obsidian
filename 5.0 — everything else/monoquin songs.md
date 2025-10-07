@@ -1367,12 +1367,9 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1334. Words — Gregory Alan Isakov : Oct 1, 2025
 1335. BETTER — TWICE : Oct 2, 2025
 1336. Simple — BBHF : Oct 3, 2025
-
-1337 ξ Oct 4, 2025
-
-1338 ξ Oct 5, 2025
-
-1339 ξ Oct 6, 2025
+1337. Who Would Leave Their Son out in the Sun? — Have A Nice Life : Oct 4, 2025
+1338. Sanctuary — Joji : Oct 5, 2025
+1339. Self Esteem — AJJ : Oct 6, 2025
 
 1340 ξ Oct 7, 2025
 

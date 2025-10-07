@@ -7,7 +7,7 @@ contexts:
 timeEstimate: 100000
 recurrence: DTSTART:20251003;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-22T00:37:30.917+08:00
-dateModified: 2025-10-03T21:31:08.213+08:00
+dateModified: 2025-10-05T00:44:16.592+08:00
 tags:
   - albums
   - music
@@ -56,8 +56,9 @@ complete_instances:
   - 2025-10-01
   - 2025-10-02
   - 2025-10-03
+  - 2025-10-05
 projects: []
-scheduled: 2025-10-04
+scheduled: 2025-10-06
 ---
 
 wiki / deep dive

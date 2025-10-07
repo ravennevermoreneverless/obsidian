@@ -1,5 +1,6 @@
 {
   "pinned": [
+    "omnisearch:show-modal",
     "insert-template",
     "file-explorer:move-file",
     "app:delete-file",

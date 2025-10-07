@@ -6,7 +6,7 @@ contexts:
 timeEstimate: 30
 recurrence: DTSTART:20250820;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-23T00:24:52.562+08:00
-dateModified: 2025-10-03T09:28:37.482+08:00
+dateModified: 2025-10-05T11:50:43.282+08:00
 tags:
   - english
   - japanese
@@ -44,7 +44,9 @@ complete_instances:
   - 2025-10-01
   - 2025-10-02
   - 2025-10-03
-scheduled: 2025-10-04
+  - 2025-10-04
+  - 2025-10-05
+scheduled: 2025-10-06
 projects: []
 ---
 

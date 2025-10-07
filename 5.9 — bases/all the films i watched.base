@@ -4,6 +4,10 @@ views:
     filters:
       and:
         - "!dateWatched.isEmpty()"
+    order:
+      - file.name
+      - title
+      - artist
     sort:
       - property: file.ctime
         direction: DESC
