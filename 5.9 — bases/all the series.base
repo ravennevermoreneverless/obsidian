@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: general
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/series")

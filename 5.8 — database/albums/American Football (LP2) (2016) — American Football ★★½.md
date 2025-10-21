@@ -13,7 +13,7 @@ rating: 5
 typeofRelease: LP
 complete_instances:
   - 2022-01-01
-image: "[[american football (LP2) - american football.jpg]]"
+image: "[[american football (LP2) (2016) — american football.jpg]]"
 tagLinks:
   - "[[album]]"
   - "[[music]]"
@@ -22,16 +22,25 @@ tagLinks:
   - "[[loneliness]]"
   - "[[atmospheric]]"
   - "[[yearning]]"
+  - "[[2022]]"
 growth: "[[adult]]"
 artDescription:
 artType:
   - "[[album]]"
+  - "[[music]]"
 artStyle:
   - "[[uncommon time signatures]]"
   - "[[suburban]]"
 mediumUsed:
   - "[[physical]]"
+  - "[[CD]]"
+  - "[[vinyl]]"
+  - "[[digital]]"
+  - "[[band performance]]"
 ---
-![[american football (LP2) - american football.jpg]]
+![[american football (LP2) (2016) — american football.jpg]]
+## FAV TRACKS
+
+- I've Been So Lost For So Long ★★★
 ## REVIEW
 

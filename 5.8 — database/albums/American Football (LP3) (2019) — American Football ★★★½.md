@@ -15,7 +15,7 @@ typeofRelease: LP
 rating: 7
 complete_instances:
   - 2022-01-01
-image: "[[american football (LP3) - american football.jpg]]"
+image: "[[american football (LP3) (2019) — american football.jpg]]"
 tagLinks:
   - "[[album]]"
   - "[[music]]"
@@ -27,17 +27,24 @@ tagLinks:
   - "[[loneliness]]"
   - "[[alienation]]"
   - "[[nostalgia]]"
-growth: "[[adult]]"
+  - "[[2022]]"
+growth: "[[synths]]"
 artDescription:
 artType:
   - "[[album]]"
+  - "[[music]]"
 artStyle:
   - "[[uncommon time signatures]]"
   - "[[rhythmic]]"
   - "[[suburban]]"
 mediumUsed:
   - "[[physical]]"
+  - "[[vinyl]]"
+  - "[[band performance]]"
 ---
-![[american football (LP3) - american football.jpg]]
+![[american football (LP3) (2019) — american football.jpg]]
+## FAV TRACKS
+
+- Uncomfortably Numb ★★★½
 ## REVIEW
 

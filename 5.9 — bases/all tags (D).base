@@ -1,0 +1,117 @@
+views:
+  - type: table
+    name: general
+    filters:
+      and:
+        - file.inFolder("3.0 — tags")
+        - file.name.startsWith("d")
+  - type: table
+    name: dadaism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/dadaism")
+  - type: table
+    name: dance-pop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/dance-pop")
+  - type: table
+    name: daydream
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/daydream")
+  - type: table
+    name: death
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/death")
+  - type: table
+    name: departure
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/departure")
+  - type: table
+    name: depression
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/depression")
+  - type: table
+    name: desire
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/desire")
+  - type: table
+    name: destiny
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/destiny")
+  - type: table
+    name: destruction
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/destruction")
+  - type: table
+    name: detachment
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/detachment")
+  - type: table
+    name: devil
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/devil")
+  - type: table
+    name: digital
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/digital")
+  - type: table
+    name: digital minimalism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/digital minimalism")
+  - type: table
+    name: disaster
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/disaster")
+  - type: table
+    name: disco rap
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/disco rap")
+  - type: table
+    name: dissociation
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/dissociation")
+  - type: table
+    name: downtempo
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/downtempo")
+  - type: table
+    name: drawing
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/drawing")
+  - type: table
+    name: dream
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/dream")
+  - type: table
+    name: dream pop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/dream pop")
+  - type: table
+    name: dystopian
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/dystopian")
+  - type: table
+    name: drama
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/drama")

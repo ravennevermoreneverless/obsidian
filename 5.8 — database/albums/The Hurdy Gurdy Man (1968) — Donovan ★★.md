@@ -13,6 +13,8 @@ tagLinks:
   - "[[album]]"
   - "[[music]]"
   - "[[art]]"
+  - "[[rock]]"
+  - "[[deep dive]]"
 dateListened: 2025-10-01
 language:
   - english

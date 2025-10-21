@@ -1,0 +1,14 @@
+filters:
+  or:
+    - file.hasLink("3.0 — tags/adult")
+    - file.hasLink("3.0 — tags/child")
+    - file.hasLink("3.0 — tags/baby")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - |
+          file.hasProperty("dateCreated")
+
+          if(date(file.hasProperty("dateCreated")).month == "{{DATE:10}}", if(date(file.hasProperty("dateCreated")).day == "{{DATE:10}}", if(date(file.hasProperty("dateCreated")).year != "{{DATE:2000}}", "True", "False"), "False"), "False")

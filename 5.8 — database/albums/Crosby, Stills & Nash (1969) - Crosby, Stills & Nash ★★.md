@@ -12,6 +12,8 @@ tagLinks:
   - "[[album]]"
   - "[[music]]"
   - "[[art]]"
+  - "[[deep dive]]"
+  - "[[rock]]"
 dateListened: 2025-09-19
 language:
   - english
@@ -34,3 +36,4 @@ mediumUsed:
 
 ## REVIEW
 
+i was studying when this song came on

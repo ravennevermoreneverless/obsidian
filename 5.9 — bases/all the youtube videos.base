@@ -1,0 +1,196 @@
+views:
+  - type: cards
+    name: general
+    filters:
+      and:
+        - file.inFolder("5.8 — database/youtube")
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: built brick by brick, frame by frame, blood for blood
+    filters:
+      and:
+        - playlists.contains(link("built brick by brick, frame by frame, blood for blood"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: chaos academia (with a dash of autism, i think, so not really)
+    filters:
+      and:
+        - playlists.contains(link("chaos academia (with a dash of autism, i think, so not really)"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: gordon ramsay would be so proud of all the gourmet shit on this playlist
+    filters:
+      and:
+        - playlists.contains(link("gordon ramsay would be so proud of all the gourmet shit on this playlist"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: i thought these are just music videos, man!!
+    filters:
+      and:
+        - playlists.contains(link("i thought these are just music videos, man!!"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: if you put this and this together, we form god in music
+    filters:
+      and:
+        - playlists.contains(link("if you put this and this together, we form god in music"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: in the end by linkin park cover by donald trump
+    filters:
+      and:
+        - playlists.contains(link("in the end by linkin park cover by donald trump"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: is the earth still worth saving? music is the answer
+    filters:
+      and:
+        - playlists.contains(link("is the earth still worth saving? music is the answer"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: morbid curiosity
+    filters:
+      and:
+        - playlists.contains(link("morbid curiosity"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: people that talk and actually says something valuable
+    filters:
+      and:
+        - playlists.contains(link("people that talk and actually says something valuable"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: put me in a band and you'll see me at my highest
+    filters:
+      and:
+        - playlists.contains(link("put me in a band and you'll see me at my highest"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: that one dude playing instrumental covers on music shops
+    filters:
+      and:
+        - playlists.contains(link("that one dude playing instrumental covers on music shops"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: youtube-fueled maximum brain power (EDUCATION IS FREE!!!!)
+    filters:
+      and:
+        - playlists.contains(link("youtube-fueled maximum brain power (EDUCATION IS FREE!!!!)"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: ここは痛みのない世界だと思ってた。多分もう終わった、永遠までに。
+    filters:
+      and:
+        - playlists.contains(link("ここは痛みのない世界だと思ってた。多分もう終わった、永遠までに。"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5
+  - type: cards
+    name: ravencore
+    filters:
+      and:
+        - playlists.contains(link("ravencore (youtube)"))
+    order:
+      - title
+      - uploader
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 0.5

@@ -1,0 +1,117 @@
+views:
+  - type: table
+    name: general
+    filters:
+      and:
+        - file.inFolder("3.0 — tags")
+        - file.name.startsWith("e")
+  - type: table
+    name: electricity
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/electricity")
+  - type: table
+    name: electronic
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/electronic")
+  - type: table
+    name: electropop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/electropop")
+  - type: table
+    name: emo
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/emo")
+  - type: table
+    name: emptiness
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/emptiness")
+  - type: table
+    name: energy
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/energy")
+  - type: table
+    name: english folk music
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/english folk music")
+  - type: table
+    name: enlightenment
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/enlightenment")
+  - type: table
+    name: enneagram
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/enneagram")
+  - type: table
+    name: epistolary fiction
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/epistolary fiction")
+  - type: table
+    name: equality
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/equality")
+  - type: table
+    name: escapism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/escapism")
+  - type: table
+    name: esoteric
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/esoteric")
+  - type: table
+    name: essay
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/essay")
+  - type: table
+    name: ethereal
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/ethereal")
+  - type: table
+    name: ethereal wave
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/ethereal wave")
+  - type: table
+    name: evil
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/evil")
+  - type: table
+    name: excerpt
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/excerpt")
+  - type: table
+    name: exhaustion
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/exhaustion")
+  - type: table
+    name: existential
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/existential")
+  - type: table
+    name: experimental
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/experimental")
+  - type: table
+    name: experimental hip hop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/experimental hip hop")

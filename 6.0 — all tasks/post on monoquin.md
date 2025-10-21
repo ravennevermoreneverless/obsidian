@@ -7,7 +7,7 @@ contexts:
 timeEstimate: 30
 recurrence: DTSTART:20250821;FREQ=DAILY;INTERVAL=1
 dateCreated: 2025-07-23T00:19:06.275+08:00
-dateModified: 2025-10-06T22:58:14.481+08:00
+dateModified: 2025-10-13T14:10:29.003+08:00
 tags:
   - task
 timeEntries:
@@ -79,7 +79,10 @@ complete_instances:
   - 2025-10-04
   - 2025-10-05
   - 2025-10-06
+  - 2025-10-10
+  - 2025-10-12
+  - 2025-10-13
 projects: []
-scheduled: 2025-10-07
+scheduled: 2025-10-14
 ---
 

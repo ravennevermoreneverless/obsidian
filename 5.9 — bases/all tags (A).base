@@ -1,0 +1,427 @@
+views:
+  - type: table
+    name: A (general)
+    filters:
+      and:
+        - file.inFolder("3.0 — tags")
+        - |
+          file.name.startsWith("a")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: A.I.
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/A.I.")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: abstract
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/abstract")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: absurdism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/absurdism")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: acceptance
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/acceptance")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: accounting
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/accounting")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: action
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/action")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: adaptation
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/adaptation")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: adult contemporary
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/adult contemporary")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: adulthood
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/adulthood")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: adventure time
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/adventure time")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: aesthetic
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/aesthetic")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: agnosticism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/agnosticism")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: agoraphobia
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/agoraphobia")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: album
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/album")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: alien
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/alien")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: allegory
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/allegory")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: alt-pop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/alt-pop")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: alternate universe
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/alternate universe")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: alternative dance
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/alternative dance")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: alternative metal
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/alternative metal")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: ambient
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/ambient")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: ambient techno
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/ambient techno")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: ambiguity
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/ambiguity")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: analog
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/analog")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: analysis
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/analysis")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: anatomy
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/anatomy")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: angel
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/angel")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: anger
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/anger")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: angst
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/angst")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: anime
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/anime")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: anxiety
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/anxiety")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: apocalypse
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/apocalypse")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: aquatic
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/aquatic")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: art
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/art")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: art pop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/art pop")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: art rock
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/art rock")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: article
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/article")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: artist
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/artist")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: asexual
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/asexual")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: astrology
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/astrology")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: astronomy
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/astronomy")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: atheism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/atheism")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: atmospheric
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/atmospheric")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: attachment
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/attachment")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: authenticity
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/authenticity")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: autism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/autism")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: avant-garde
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/avant-garde")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: ambient pop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/ambient pop")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: acid rock
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/acid rock")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: abandonment
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/abandonment")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: alternative rock
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/alternative rock")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: adventure
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/adventure")
+    sort:
+      - property: file.name
+        direction: ASC

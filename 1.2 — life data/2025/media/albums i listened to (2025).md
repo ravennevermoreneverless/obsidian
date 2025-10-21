@@ -88,9 +88,4 @@ tags: [[raven]] [[spreadsheet]] [[albums]]
 85. ***Canned Heat*** (1967) — *Canned Heat* : Blues Rock, Electric Blues • 8/29/2025 
 86. ***Jefferson Airplane Takes Off*** (1966) — *Jefferson Airplane* : Psychedelic Rock, Folk Rock • 8/31/2025
 87. ***Big Brother & The Holding Company*** (1967) — *Big Brother & The Holding Company, Janis Joplin* : Blues Rock, Psychedelic Rock • 8/31/2025
-88. ***White Hot Blues*** (1969) — *Johnny Winter* : Blues, Blues Rock • 9/10/2025
-89. ***Electric Ladyland*** (1968) — *The Jimi Hendrix Experience* : Blues Rock, Psychedelic Rock, Acid Rock • 9/10/2025
-90. ***Here They Come!*** (1965) — *Paul Revere & The Raiders* : Garage Rock, Pop Rock, Frat Rock • 9/18/2025
-91. ***Surfin' Bird*** (1964) — *The Trashmen* : Surf Rock, Garage Rock, Frat Rock • 9/18/2025
-92. ***Let's Have a Party*** (1964) — *The Rivieras* : Surf Rock, Frat Rock • 9/18/2025
-93. ***Here Are the Sonics*** (1965) — *The Sonics* : Garage Rock, Proto-Punk • 9/18/2025
+88. ***Electric Ladyland*** (1968) — *The Jimi Hendrix Experience* : Blues Rock, Psychedelic Rock, Acid Rock • 9/10/2025

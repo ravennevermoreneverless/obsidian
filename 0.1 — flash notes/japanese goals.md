@@ -13,38 +13,38 @@
 - Genki II
 	- ==chapter 13==
 	- ==chapter 14==
-	- chapter 15
-	- chapter 16
-	- chapter 17
-	- chapter 18
-	- chapter 19
-	- chapter 20
-	- chapter 21
-	- chapter 22
-	- chapter 23
+	- ==chapter 15==
+	- chapter 16 (15)
+	- chapter 17 (16) 
+	- chapter 18 (17) 
+	- chapter 19 (21)
+	- chapter 20 (22)
+	- chapter 21 (23)
+	- chapter 22 (24)
+	- chapter 23 (27)
 - An Integrated Approach to Intermediate Japanese
-	- chapter 1
-	- chapter 2
-	- chapter 3
-	- chapter 4
-	- chapter 5
-	- chapter 6
-	- chapter 7
-	- chapter 8
-	- chapter 9
-	- chapter 10
-	- chapter 11
-	- chapter 12
-	- chapter 13
-	- chapter 14
-	- chapter 15
+	- chapter 1 (28)
+	- chapter 2 (29)
+	- chapter 3 (31)
+	- chapter 4 (3)
+	- chapter 5 (4)
+	- chapter 6 (5)
+	- chapter 7 (6)
+	- chapter 8 (7) 
+	- chapter 9 (11)
+	- chapter 10 (12)
+	- chapter 11 (13)
+	- chapter 12 (14)
+	- chapter 13 (17)
+	- chapter 14 (18)
+	- chapter 15 (19)
 - ==Level 0==
 - ==Level 0(II)==
-- Level 1
+- ==Level 1==
 - Level 2
 - Level 3
 - JLPT N5 mock exams
-	- day 20
+	- ==day 20==
 	- day 30
 	- day 40
 	- day 50
@@ -77,3 +77,4 @@
 - Level 5
 - JLPT N3 mock exam
 - JLPT N2 mock exam
+- JLPT N1 mock exam

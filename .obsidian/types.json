@@ -26,9 +26,9 @@
     "minutes": "text",
     "seconds": "text",
     "yearReleased": "text",
-    "dateReleased": "text",
+    "dateReleased": "date",
     "musicGenre": "multitext",
-    "dateListened": "text",
+    "dateListened": "date",
     "rating": "number",
     "secondaryMusicGenre": "multitext",
     "language": "multitext",
@@ -38,7 +38,7 @@
     "playlists": "multitext",
     "image": "text",
     "tagLinks": "multitext",
-    "dateCreated": "text",
+    "dateCreated": "date",
     "filmList": "multitext",
     "themes": "multitext",
     "completedDate": "text",
@@ -50,6 +50,8 @@
     "author": "text",
     "artStyle": "multitext",
     "mediumUsed": "multitext",
-    "immersionDifficulty": "number"
+    "immersionDifficulty": "number",
+    "hshahshhs": "better-properties:color",
+    "dateUploaded": "date"
   }
 }

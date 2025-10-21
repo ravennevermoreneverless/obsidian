@@ -1,0 +1,154 @@
+views:
+  - type: table
+    name: general
+    filters:
+      and:
+        - file.inFolder("3.0 — tags")
+        - file.name.startsWith("b")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: band performance
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/band performance")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: baroque pop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/baroque pop")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: beat
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/beat")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: bedroom pop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/bedroom pop")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: beverage
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/beverage")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: bipolar
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/bipolar")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: birthday
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/birthday")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: black comedy
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/black comedy")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: blues
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/blues")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: blues rock
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/blues rock")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: body horror
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/body horror")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: bond
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/bond")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: book
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/book")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: boredom
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/boredom")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: brain
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/brain")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: breakcore
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/breakcore")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: british folk rock
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/british folk rock")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: buddhism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/buddhism")
+    sort:
+      - property: file.name
+        direction: ASC

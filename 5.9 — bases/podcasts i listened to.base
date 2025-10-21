@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("5.8 — database/podcasts")
+    order:
+      - title
+      - uploader
+      - dateReleased
+      - dateListened
+    columnSize:
+      note.title: 251
+      note.uploader: 241

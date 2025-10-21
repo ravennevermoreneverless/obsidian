@@ -1,0 +1,25 @@
+views:
+  - type: table
+    name: adult
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/adult")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: child
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/child")
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: baby
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/baby")
+    sort:
+      - property: file.name
+        direction: ASC

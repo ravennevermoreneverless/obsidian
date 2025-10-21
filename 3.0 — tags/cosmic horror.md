@@ -1,0 +1,1 @@
+![[all tags (C).base#cosmic horror]]

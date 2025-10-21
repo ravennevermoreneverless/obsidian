@@ -15,6 +15,8 @@ tagLinks:
   - "[[album]]"
   - "[[music]]"
   - "[[art]]"
+  - "[[deep dive]]"
+  - "[[rock]]"
 dateListened: 2025-09-19
 language:
   - english
@@ -36,6 +38,7 @@ mediumUsed:
 ![[the papas & the mamas (1968) - the mamas & the papas.jpg]]
 ## FAV TRACKS
 
-
+- Dream a Little Dream Of Me ★★★½
 ## REVIEW
 
+ this reminds me so much of chungking express

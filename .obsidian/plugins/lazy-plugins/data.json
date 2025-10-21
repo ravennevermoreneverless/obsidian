@@ -95,6 +95,12 @@
       },
       "file-explorer-note-count": {
         "startupType": "short"
+      },
+      "better-properties": {
+        "startupType": "short"
+      },
+      "heatmap-tracker": {
+        "startupType": "short"
       }
     }
   }

@@ -13,7 +13,6 @@ genre:
   - sci-fi
 tagLinks:
   - "[[series]]"
-  - "[[overview]]"
   - "[[anime]]"
   - "[[japanese]]"
   - "[[art]]"
@@ -21,6 +20,8 @@ tagLinks:
   - "[[psychological]]"
   - "[[ravencore]]"
   - "[[review]]"
+  - "[[overview]]"
+  - "[[1995]]"
 complete_instances:
   - 2020-09-16
 translation: Shin Seiki Evangelion [Neon Genesis Evangelion]

@@ -1,0 +1,1 @@
+![[all the youtube videos.base#gordon ramsay would be so proud of all the gourmet shit on this playlist]]

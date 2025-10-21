@@ -1,0 +1,21 @@
+---
+title: Why we need to talk about suicide | Mark Henick | TEDxToronto
+uploader: TEDx Talks
+dateUploaded: 2013-10-01
+playlists:
+  - "[[people that talk and actually says something valuable]]"
+tagLinks:
+  - "[[youtube]]"
+  - "[[2013]]"
+  - "[[suicide]]"
+  - "[[mental illness]]"
+  - "[[depression]]"
+  - "[[talk]]"
+caption: 'NOTE FROM TED: Some viewers may find elements of this talk to be distressing. TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are described in more detail here: http://storage.ted.com/tedx/manuals/tedx_content_guidelines.pdf The fifth annual TEDxToronto conference took place on September 26, 2013 at The Royal Conservatory of Music. For our 2013 TEDxToronto Conference, all talks, performances and demos were rooted in our selected theme, "The Choices We Make." About the Speaker: Mark Henick is a mental health advocate. Informed by his direct experience with this aspect of the health care system, Mark has authored commentaries on issues relating to mental health for major newspapers across Canada and the U.S. His undergraduate degree is in Psychology and Philosophy, with a graduate degree in Child Development. At 22, he served as the youngest President of a provincial Canadian Mental Health Association division in history. He is the youngest member of the board of directors for the Mental Health Commission of Canada. For more information visit www.tedxtoronto.com In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)'
+link: https://youtu.be/D1QoyTmeAYw?si=Qc5AxdA--VDCXd6u
+length: 15 minutes 26 seconds
+image: "[[why we need to talk about suicide . mark henick . tedx toronto.jpg]]"
+---
+![](https://m.youtube.com/watch?v=D1QoyTmeAYw)
+
+The first time I watched this, I sobbed like a little bitch. I was at the bottom of the deep well I was in. Years later, I watched it again, and it's the same agonizing feeling I've felt before. I don't think anyone who hasn't experienced suicidal tendencies could understand the emotional and mental depth this Ted talk dived into. Suicide is... the only choice when you have no other choice. He's right. At that moment, nothing matters except the warped and collapsed perception fo yourself and the world around you. If I knew then what I know now, that I would be this happy and content in the future, it wouldn't've made much of a difference. Mark is very brave for talking about his suicide attempts in the hopes to remove the stigma around mental illness and suicide, as well as to potentially relate to other suicidal people who're equally struggling like he did. And one of those people is me. I am not actively suicidal, by an inch, I'm doing okay. But this touched a wound so deep that it took me back to my almost suicide attempts multiple times. How many suicide notes I've written I cannot tell. The feelings are still fresh but my brain actively blocks out those memories. So many times I've flirted with death and brushed past the afterlife. Mark is also right when he said people don't "commit" suicide. Aside from it being criminalized back before 1970's, the word "commit" is when you are consciously aware of your decision, with your whole heart, you decide that you want to do that something. But no. Suicide, is just a decision being FORCED upon you due to your mental illness. Suicidal people don't want to kill themselves, they don't want to commit to killing themselves. They just simply want to stop existing, to escape the life they're living. And that makes a much bigger difference. Having watched this for the nth time, I still get choked up. 

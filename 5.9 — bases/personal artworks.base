@@ -73,3 +73,17 @@ views:
     imageFit: contain
     imageAspectRatio: 1.5
     cardSize: 220
+  - type: cards
+    name: "2014"
+    filters:
+      and:
+        - tagLinks.containsAll(link("personal work"), link("art"), link("2014"))
+    order:
+      - title
+    sort:
+      - property: file.ctime
+        direction: DESC
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 220

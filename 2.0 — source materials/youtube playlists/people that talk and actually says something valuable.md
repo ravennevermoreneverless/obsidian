@@ -1,0 +1,1 @@
+![[all the youtube videos.base#people that talk and actually says something valuable]]

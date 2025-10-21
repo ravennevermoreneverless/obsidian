@@ -1370,32 +1370,19 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1337. Who Would Leave Their Son out in the Sun? — Have A Nice Life : Oct 4, 2025
 1338. Sanctuary — Joji : Oct 5, 2025
 1339. Self Esteem — AJJ : Oct 6, 2025
-
-1340 ξ Oct 7, 2025
-
-1341 ξ Oct 8, 2025
-
-1342 ξ Oct 9, 2025
-
-1343 ξ Oct 10, 2025
-
-1344 ξ Oct 11, 2025
-
-1345 ξ Oct 12, 2025
-
-1346 ξ Oct 13, 2025
-
-1347 ξ Oct 14, 2025
-
-1348 ξ Oct 15, 2025
-
-1349 ξ Oct 16, 2025
-
-1350 ξ Oct 17, 2025
-
-1351 ξ Oct 18, 2025
-
-1352 ξ Oct 19, 2025
+1340. I Hate That You're Happy — Tiny Little Houses : Oct 7, 2025
+1341. Something I Can Never Have — Nine Inch Nails : Oct 8, 2025
+1342. Passenger Seat — Death Cab for Cutie : Oct 9, 2025
+1343. Scene Three - Stomach Tied in Knots — Sleeping With Sirens : Oct 10, 2025
+1344. One More Time — Daft Punk : Oct 11, 2025
+1345. The City — The 1975 : Oct 12, 2025
+1346. Ghost — Neutral Milk Hotel : Oct 13, 2025
+1347. Girls — The 1975 : Oct 14, 2025
+1348. Therapy — All Time Low : Oct 15, 2025
+1349. Metropolis — Owl City : Oct 16, 2025
+1350. Eiji — BANANA FISH : Oct 17, 2025
+1351. Crawling — Linkin Park : Oct 18, 2025
+1352. 유로파 Europa — Girls' Generation : Oct 19, 2025
 
 1353 ξ Oct 20, 2025
 

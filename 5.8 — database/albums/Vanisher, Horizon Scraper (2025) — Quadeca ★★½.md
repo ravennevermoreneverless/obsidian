@@ -27,7 +27,7 @@ tagLinks:
 dateListened: 2025-09-24
 language:
   - english
-rating: 2.5
+rating: 5
 complete_instances:
   - 2025-09-24
 image: "[[vanisher, horizon scraper (2025) — quadeca.jpg]]"

@@ -9,7 +9,6 @@ genre:
   - "[[superhero]]"
   - "[[sci-fi]]"
   - "[[psychological drama]]"
-  - "[[alien invasion]]"
 tagLinks:
   - "[[film]]"
   - "[[art]]"

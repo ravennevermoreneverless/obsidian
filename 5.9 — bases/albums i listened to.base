@@ -30,8 +30,8 @@ views:
       - complete_instances
       - typeofRelease
     sort:
-      - property: file.ctime
-        direction: DESC
+      - property: dateListened
+        direction: ASC
     columnSize:
       note.typeofRelease: 102
       note.title: 298

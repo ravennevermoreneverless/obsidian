@@ -6,7 +6,7 @@ contexts:
   - personal
 timeEstimate: 30
 dateCreated: 2025-07-23T00:23:19.435+08:00
-dateModified: 2025-10-03T21:30:49.381+08:00
+dateModified: 2025-10-13T14:10:44.989+08:00
 tags:
   - art
   - task
@@ -16,6 +16,7 @@ complete_instances:
   - 2025-07-31
   - 2025-09-19
   - 2025-10-03
-scheduled: 2025-10-04
+  - 2025-10-13
+scheduled: 2025-10-14
 ---
 

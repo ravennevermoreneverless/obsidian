@@ -1,0 +1,212 @@
+views:
+  - type: table
+    name: general
+    filters:
+      and:
+        - file.inFolder("3.0 — tags")
+        - file.name.startsWith("c")
+  - type: table
+    name: calisthenics
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/calisthenics")
+  - type: table
+    name: camp
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/camp")
+  - type: table
+    name: cartoon
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/cartoon")
+  - type: table
+    name: casette
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/casette")
+  - type: table
+    name: cats
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/cats")
+  - type: table
+    name: CD
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/CD")
+  - type: table
+    name: chai
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/chai")
+  - type: table
+    name: challenge
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/challenge")
+  - type: table
+    name: chamber folk
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/chamber folk")
+  - type: table
+    name: chamber pop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/chamber pop")
+  - type: table
+    name: character
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/character")
+  - type: table
+    name: chemistry
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/chemistry")
+  - type: table
+    name: chibi
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/chibi")
+  - type: table
+    name: childhood
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/childhood")
+  - type: table
+    name: chords
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/chords")
+  - type: table
+    name: classical crossover
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/classical crossover")
+  - type: table
+    name: comedy
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/comedy")
+  - type: table
+    name: comic
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/comic")
+  - type: table
+    name: coming-of-age
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/coming-of-age")
+  - type: table
+    name: communication
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/communication")
+  - type: table
+    name: complex
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/complex")
+  - type: table
+    name: compliment
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/compliment")
+  - type: table
+    name: computer animation
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/computer animation")
+  - type: table
+    name: confessional
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/confessional")
+  - type: table
+    name: confidence
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/confidence")
+  - type: table
+    name: conflict
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/conflict")
+  - type: table
+    name: confusion
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/confusion")
+  - type: table
+    name: consumption
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/consumption")
+  - type: table
+    name: contemporary
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/contemporary")
+  - type: table
+    name: contemporary folk
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/contemporary folk")
+  - type: table
+    name: contemporary r&b
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/contemporary r&b")
+  - type: table
+    name: contentment
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/contentment")
+  - type: table
+    name: cosmic horror
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/cosmic horror")
+  - type: table
+    name: country
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/country")
+  - type: table
+    name: course
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/course")
+  - type: table
+    name: creation
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/creation")
+  - type: table
+    name: creativity
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/creativity")
+  - type: table
+    name: creepypasta
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/creepypasta")
+  - type: table
+    name: culture
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/culture")
+  - type: table
+    name: cover
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/cover")
+  - type: table
+    name: consumerism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/consumerism")

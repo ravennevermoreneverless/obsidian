@@ -16,6 +16,8 @@ tagLinks:
   - "[[art]]"
   - "[[1972]]"
   - "[[folklore]]"
+  - "[[rock]]"
+  - "[[deep dive]]"
 dateListened: 2025-10-03
 language:
   - english

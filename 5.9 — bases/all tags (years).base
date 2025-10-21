@@ -1,0 +1,191 @@
+views:
+  - type: table
+    name: "2011"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2011")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2012"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2012")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2013"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2013")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2014"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2014")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2015"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2015")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2016"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2016")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2017"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2017")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2018"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2018")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2019"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2019")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2020"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2020")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2021"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2021")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2022"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2022")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2023"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2023")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2024"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2024")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2025"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2025")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "1995"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/1995")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2007"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2007")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "1997"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/1997")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "2001"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/2001")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC

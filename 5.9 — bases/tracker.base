@@ -1,0 +1,58 @@
+views:
+  - type: table
+    name: general
+    filters:
+      and:
+        - file.inFolder("5.8 — database/dailies")
+    order:
+      - file.name
+      - timeEntries
+      - moods
+      - symptoms
+      - fluoxetine
+      - aripiprazole
+      - studyJapanese
+      - songDaily
+      - postArt
+      - monoquinPost
+      - monoquinEdit
+      - journaling
+      - doArt
+      - calisthenics
+      - bookReading
+      - ankiDeck
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      note.symptoms: 290
+    rowHeight: medium
+  - type: table
+    name: "2025"
+    filters:
+      and:
+        - file.name.startsWith("2025")
+        - file.inFolder("5.8 — database/dailies")
+    order:
+      - file.name
+      - timeEntries
+      - moods
+      - symptoms
+      - fluoxetine
+      - aripiprazole
+      - studyJapanese
+      - songDaily
+      - postArt
+      - monoquinPost
+      - monoquinEdit
+      - journaling
+      - doArt
+      - calisthenics
+      - bookReading
+      - ankiDeck
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      note.symptoms: 290
+    rowHeight: medium

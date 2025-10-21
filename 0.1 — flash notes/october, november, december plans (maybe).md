@@ -1,0 +1,26 @@
+- ***refer to japanese plans***
+- transcribe journal pages
+	- ==week 1 of may==
+	- ==week 2 of may==
+	- week 3 of may
+	- week 4 of may
+- "***Guitar Song***" — *Frou Frou* song cover
+- rock albums edit first (convert to bases) 
+	- before can listen to rock albums consistently
+	- update rock music wiki after rock albums listen per genre
+- songs : the complete list (convert to bases, edit properties)
+	- before can listen and analyze new songs
+- the ultimate playlist of my life (convert to bases)
+- the bipolar disorder survival guide
+- complete all edits of monoquin posts for tiktok
+	- before can proceed to monoquin post edits general
+- convert tags to bases (each)
+- edit albums already added 
+	- before can add new media 2025 (convert to bases)
+- make art for 10 minutes everyday (any form)
+- allot at least 1 hour of social media presence
+- wait for the next psychiatric appointment to mention the autism suspicions after being consistent with meds
+- consisten workout (15-mins a day)
+- better source of income than surveys (find commissions!!!!!!!)
+	- GET LAPTOP FIXED!!!!! 
+- journal entries for significant events
