@@ -7,7 +7,7 @@
 - "***Guitar Song***" — *Frou Frou* song cover
 - convert tags to bases (each)
 - allot at least 1 hour of social media presence
-- post on ravenowsky thrice a day!!!!!!
+- post on ravenowsky at least twice a day!!!!!!
 - edit albums already added 
 	- before can add new media 2025 (convert to bases)
 - rock albums edit first (convert to bases) 
@@ -21,7 +21,7 @@
 	- before can proceed to monoquin post edits general
 - make art for 10 minutes everyday (any form)
 - wait for the next psychiatric appointment to mention the autism suspicions after being consistent with meds
-- consisten workout (15-mins a day)
-- better source of income than surveys (find commissions!!!!!!!)
+- consistent workout (15-mins a day)
+- better source of income than surveys (find commissions!!!!!!! or part time!!!!!!!!!)
 	- GET LAPTOP FIXED!!!!! 
 - journal entries for significant events

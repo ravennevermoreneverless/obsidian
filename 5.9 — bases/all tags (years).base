@@ -199,3 +199,23 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "1982"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/1982")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "1983"
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/1983")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC

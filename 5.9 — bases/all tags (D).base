@@ -120,3 +120,13 @@ views:
     filters:
       and:
         - file.hasLink("3.0 — tags/disco")
+  - type: table
+    name: dense
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/dense")
+  - type: table
+    name: dark romanticism
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/dark romanticism")
