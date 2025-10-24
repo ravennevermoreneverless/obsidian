@@ -15,8 +15,8 @@
               "type": "tasknotes-agenda-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "tasknotes-agenda-view"
+              "icon": "calendar-clock",
+              "title": "Agenda"
             }
           },
           {
@@ -42,57 +42,8 @@
               "icon": "lucide-file",
               "title": "october, november, december plans (maybe)"
             }
-          },
-          {
-            "id": "fbde1f21d292eeb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.0 — source materials/youtube playlists/is the earth still worth saving music is the answer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "is the earth still worth saving music is the answer"
-            }
-          },
-          {
-            "id": "e2fbdd09c9ff9f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.8 — database/youtube/What Song Are You Listening To TOKYO, JAPAN (2022) — JESSEOGN ★★★½.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What Song Are You Listening To TOKYO, JAPAN (2022) — JESSEOGN ★★★½"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,10 +227,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e2fbdd09c9ff9f4a",
+  "active": "f80a8eb5f2541807",
   "lastOpenFiles": [
-    "2.0 — source materials/youtube playlists/is the earth still worth saving music is the answer.md",
     "0.1 — flash notes/october, november, december plans (maybe).md",
+    "5.8 — database/dailies/2025-10-23.md",
+    "2.0 — source materials/youtube playlists/is the earth still worth saving music is the answer.md",
+    "5.8 — database/youtube/What Song Are You Listening To TOKYO, JAPAN (2022) — JESSEOGN ★★★½.md",
     "5.8 — database/playlists/ここは痛みのない世界だと思ってた.md",
     "5.8 — database/songs/恋愛サーキュレーション (Renai Circulation) — 花澤香菜 Kana Hanazawa ★★★½.md",
     "3.0 — tags/otaku.md",
@@ -300,7 +253,6 @@
     "5.1 — images stockpile/others/umibe no etranger.jpg",
     "2.0 — source materials/anime/魔法少女まどか☆マギカ Puella Magi Madoka Magica (2011) — Shaft, Gen Urobuchi.md",
     "1.2 — life data/2025/daily notes (2025).md",
-    "5.8 — database/dailies/2025-10-23.md",
     "5.9 — bases/personal artworks.base",
     "0.1 — flash notes/japanese goals.md",
     "5.9 — bases/all the youtube videos.base",
@@ -317,7 +269,6 @@
     "2.2 — creative projects/raven's brain/visual/2014 — sketch 2 . anime facial features (2).md",
     "5.1 — images stockpile/art/2014/2014 - anime facial features (2).jpeg",
     "5.1 — images stockpile/art/2014/2014 - anime facial features (1).jpeg",
-    "5.8 — database/dailies/2025-10-21.md",
     "5.1 — images stockpile/others/what song are you listening to tokyo,japan (part 2).jpg",
     "5.1 — images stockpile/art/2014/2014 - random anime guy part 3.jpeg",
     "5.9 — bases/tracker.base",
