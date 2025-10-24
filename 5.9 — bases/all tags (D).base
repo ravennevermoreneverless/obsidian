@@ -115,3 +115,8 @@ views:
     filters:
       and:
         - file.hasLink("3.0 — tags/drama")
+  - type: table
+    name: disco
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/disco")

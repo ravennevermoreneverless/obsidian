@@ -5,6 +5,11 @@
 	- week 3 of may
 	- week 4 of may
 - "***Guitar Song***" — *Frou Frou* song cover
+- convert tags to bases (each)
+- allot at least 1 hour of social media presence
+- post on ravenowsky thrice a day!!!!!!
+- edit albums already added 
+	- before can add new media 2025 (convert to bases)
 - rock albums edit first (convert to bases) 
 	- before can listen to rock albums consistently
 	- update rock music wiki after rock albums listen per genre
@@ -14,11 +19,7 @@
 - the bipolar disorder survival guide
 - complete all edits of monoquin posts for tiktok
 	- before can proceed to monoquin post edits general
-- convert tags to bases (each)
-- edit albums already added 
-	- before can add new media 2025 (convert to bases)
 - make art for 10 minutes everyday (any form)
-- allot at least 1 hour of social media presence
 - wait for the next psychiatric appointment to mention the autism suspicions after being consistent with meds
 - consisten workout (15-mins a day)
 - better source of income than surveys (find commissions!!!!!!!)

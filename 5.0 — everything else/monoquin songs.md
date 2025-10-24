@@ -1380,19 +1380,14 @@ tags: [[songs]] [[music]] [[spreadsheet]] [[tracker]]
 1347. Girls — The 1975 : Oct 14, 2025
 1348. Therapy — All Time Low : Oct 15, 2025
 1349. Metropolis — Owl City : Oct 16, 2025
-1350. Eiji — BANANA FISH : Oct 17, 2025
+1350. PIXELATED KISSES — Joji : Oct 17, 2025
 1351. Crawling — Linkin Park : Oct 18, 2025
 1352. 유로파 Europa — Girls' Generation : Oct 19, 2025
-
-1353 ξ Oct 20, 2025
-
-1354 ξ Oct 21, 2025
-
-1355 ξ Oct 22, 2025
-
-1356 ξ Oct 23, 2025
-
-1357 ξ Oct 24, 2025
+1353. Right Here — Ashes Remain : Oct 20, 2025
+1354. Farewell — Boris : Oct 21, 2025
+1355. Baby, I'm Yours — Barbara Lewis : Oct 22, 2025
+1356. re:set — 439^hz : Oct 23, 2025
+1357. Dark Entries — Bauhaus : Oct 24, 2025
 
 1358 ξ Oct 25, 2025
 

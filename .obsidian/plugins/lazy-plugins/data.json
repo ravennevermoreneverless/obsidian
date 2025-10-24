@@ -101,6 +101,9 @@
       },
       "heatmap-tracker": {
         "startupType": "short"
+      },
+      "notebook-navigator": {
+        "startupType": "instant"
       }
     }
   }

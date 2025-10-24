@@ -425,3 +425,11 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: akishibu-kei
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/akishibu-kei")
+    sort:
+      - property: file.name
+        direction: ASC
