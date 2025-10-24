@@ -66,5 +66,7 @@
   "userIgnoreFilters": [
     "1.0 — immediate notes/actual templates/"
   ],
-  "mobilePullAction": "command-palette:open"
+  "mobilePullAction": "command-palette:open",
+  "tabSize": 5,
+  "readableLineLength": true
 }

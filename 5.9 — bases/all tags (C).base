@@ -210,3 +210,18 @@ views:
     filters:
       and:
         - file.hasLink("3.0 — tags/consumerism")
+  - type: table
+    name: chillwave
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/chillwave")
+  - type: table
+    name: cinematic
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/cinematic")
+  - type: table
+    name: claustrophobic
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/claustrophobic")

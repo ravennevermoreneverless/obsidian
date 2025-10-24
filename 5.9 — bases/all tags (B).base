@@ -152,3 +152,11 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: bitpop
+    filters:
+      and:
+        - file.hasLink("3.0 — tags/bitpop")
+    sort:
+      - property: file.name
+        direction: ASC
