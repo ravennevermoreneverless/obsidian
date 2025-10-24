@@ -3,7 +3,7 @@ title: Learn to Fly - Foo Fighters Rockin'1000 Official Video
 uploader: Rockin'1000
 dateUploaded: 2015-07-30
 playlists:
-  - "[[is the earth still worth saving? music is the answer]]"
+  - "[[is the earth still worth saving music is the answer]]"
 tagLinks:
   - "[[youtube]]"
   - "[[2015]]"
